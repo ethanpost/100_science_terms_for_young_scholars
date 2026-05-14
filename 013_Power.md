@@ -12,8 +12,6 @@ The faster boy did the same work in less time. That means he transferred energy 
 
 **Power is the rate at which work is done or energy is transferred.**
 
-![Power cartoon: two students lift identical boxes up stairs, but the faster student has more power because the same work happens in less time.](013_Power_01.svg)
-
 Power is not just strength. It is not just effort. It is about speed of energy transfer. A powerful machine, athlete, engine, or electrical device can move, lift, heat, shine, or run quickly because it transfers energy quickly.
 
 ## Power Begins with Work and Energy
