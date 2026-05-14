@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Power means doing the same work in less time</title>
+  <desc id="desc">A crude hand-drawn explainer cartoon: two stick-figure kids carry identical boxes up the same stairs. The slow kid takes sixty seconds, the fast kid takes fifteen seconds. Labels and arrows explain that the same work done in less time means greater power.</desc>
+  <metadata>
+    Prompt style: crude, funny, hand-drawn explainer cartoon with simple stick-figure characters, rough black outlines, mostly white background, selective flat accent colors, labels, arrows, exaggerated facial expressions, and simple visual metaphors.
+  </metadata>
+  <defs>
+    <filter id="wobble" x="-3%" y="-3%" width="106%" height="106%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="2" seed="13" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M1,1 L11,6 L1,11 Z" fill="#111"/>
+    </marker>
+    <marker id="redArrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M1,1 L11,6 L1,11 Z" fill="#d94b3d"/>
+    </marker>
+    <style>
+      .rough { filter:url(#wobble); stroke:#111; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; fill:none; }
+      .thin { filter:url(#wobble); stroke:#111; stroke-width:3; stroke-linecap:round; stroke-linejoin:round; fill:none; }
+      .label { font-family:"Comic Sans MS", "Trebuchet MS", Arial, sans-serif; font-weight:700; fill:#111; }
+      .small { font-size:29px; }
+      .medium { font-size:39px; }
+      .big { font-size:52px; }
+      .tiny { font-size:23px; }
+      .red { fill:#d94b3d; }
+      .blue { fill:#4575b4; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="760" fill="#fffdf8"/>
+
+  <!-- title card -->
+  <g filter="url(#wobble)">
+    <path d="M44 42 C173 20 333 24 486 39 C506 75 503 128 480 162 C314 177 158 176 43 157 C22 119 21 77 44 42 Z" fill="#e9f3ff" stroke="#111" stroke-width="5"/>
+    <text x="72" y="92" class="label big">POWER</text>
+    <text x="74" y="136" class="label small">same work ÷ less time</text>
+  </g>
+
+  <!-- formula -->
+  <g filter="url(#wobble)">
+    <rect x="678" y="42" width="450" height="117" rx="20" fill="#fff4b8" stroke="#111" stroke-width="5"/>
+    <text x="713" y="91" class="label medium">Power = Work ÷ Time</text>
+    <text x="747" y="134" class="label small">P = W ÷ t</text>
+  </g>
+
+  <!-- stairs -->
+  <g filter="url(#wobble)">
+    <path d="M130 615 L130 555 L248 555 L248 496 L366 496 L366 438 L484 438 L484 380 L602 380 L602 321 L720 321 L720 262 L838 262 L838 204 L956 204 L956 615 Z" fill="#eeeeee" stroke="#111" stroke-width="6"/>
+    <path d="M130 615 L956 615" stroke="#111" stroke-width="7"/>
+    <text x="682" y="246" class="label tiny">same staircase height</text>
+    <path d="M660 251 C574 277 505 306 450 363" class="thin" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- identical boxes -->
+  <g filter="url(#wobble)">
+    <rect x="286" y="389" width="104" height="72" rx="4" fill="#c79a61" stroke="#111" stroke-width="5"/>
+    <path d="M286 413 L390 413 M336 389 L336 461" stroke="#111" stroke-width="3"/>
+    <text x="303" y="435" class="label tiny">BOX</text>
+    <rect x="725" y="156" width="104" height="72" rx="4" fill="#c79a61" stroke="#111" stroke-width="5"/>
+    <path d="M725 180 L829 180 M775 156 L775 228" stroke="#111" stroke-width="3"/>
+    <text x="742" y="202" class="label tiny">BOX</text>
+    <text x="470" y="690" class="label small">identical boxes = same work lifted</text>
+    <path d="M564 665 C495 605 420 514 355 453" class="thin" marker-end="url(#arrow)"/>
+    <path d="M730 656 C737 523 766 358 779 232" class="thin" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- slow kid -->
+  <g filter="url(#wobble)">
+    <circle cx="252" cy="358" r="31" fill="#fff" stroke="#111" stroke-width="5"/>
+    <circle cx="242" cy="353" r="4" fill="#111"/>
+    <circle cx="262" cy="353" r="4" fill="#111"/>
+    <path d="M239 371 C251 362 260 362 271 371" class="thin"/>
+    <path d="M252 390 L253 484" class="rough"/>
+    <path d="M252 415 L295 392" class="rough"/>
+    <path d="M252 418 L216 447" class="rough"/>
+    <path d="M253 484 L224 542" class="rough"/>
+    <path d="M253 484 L290 538" class="rough"/>
+    <path d="M200 330 C178 331 163 341 157 360" class="thin"/>
+    <text x="151" y="314" class="label tiny">puff...</text>
+    <text x="180" y="590" class="label medium blue">SLOW</text>
+    <text x="165" y="627" class="label small">60 seconds</text>
+  </g>
+
+  <!-- fast kid -->
+  <g filter="url(#wobble)">
+    <circle cx="867" cy="126" r="31" fill="#fff" stroke="#111" stroke-width="5"/>
+    <circle cx="856" cy="119" r="4" fill="#111"/>
+    <circle cx="878" cy="119" r="4" fill="#111"/>
+    <path d="M853 139 C863 151 876 151 887 138" class="thin"/>
+    <path d="M867 158 L866 251" class="rough"/>
+    <path d="M866 183 L829 157" class="rough"/>
+    <path d="M866 185 L907 154" class="rough"/>
+    <path d="M866 251 L826 291" class="rough"/>
+    <path d="M866 251 L921 278" class="rough"/>
+    <path d="M704 135 C658 127 620 127 580 137" stroke="#d94b3d" stroke-width="6" stroke-linecap="round"/>
+    <path d="M721 177 C662 178 613 188 567 205" stroke="#d94b3d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M741 222 C690 239 648 260 608 287" stroke="#d94b3d" stroke-width="4" stroke-linecap="round"/>
+    <text x="888" y="333" class="label medium red">FAST!</text>
+    <text x="884" y="371" class="label small">15 seconds</text>
+  </g>
+
+  <!-- more power callout -->
+  <g filter="url(#wobble)">
+    <path d="M943 430 L1006 397 L1028 463 L1096 454 L1059 511 L1118 551 L1047 559 L1053 629 L1000 581 L949 630 L957 559 L886 548 L945 508 L908 449 Z" fill="#ffe066" stroke="#111" stroke-width="5"/>
+    <text x="955" y="493" class="label medium">LESS</text>
+    <text x="944" y="535" class="label medium">TIME</text>
+    <text x="946" y="580" class="label small">MORE POWER</text>
+    <path d="M945 456 C881 392 833 309 798 229" stroke="#d94b3d" stroke-width="5" fill="none" marker-end="url(#redArrow)"/>
+  </g>
+
+  <!-- mini energy transfer metaphor -->
+  <g filter="url(#wobble)">
+    <rect x="58" y="219" width="286" height="89" rx="17" fill="#eaf7e8" stroke="#111" stroke-width="4"/>
+    <text x="83" y="256" class="label tiny">work = energy moved</text>
+    <text x="83" y="287" class="label tiny">up to the top</text>
+    <path d="M363 263 C438 259 520 252 604 225" class="thin" marker-end="url(#arrow)"/>
+    <path d="M574 193 L589 221 L619 214 L595 236 L609 266 L579 247 L554 270 L564 238 L537 222 L569 221 Z" fill="#ffdf40" stroke="#111" stroke-width="4"/>
+  </g>
+
+  <!-- bottom moral -->
+  <g filter="url(#wobble)">
+    <path d="M92 694 C301 713 761 715 1096 692" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+    <text x="111" y="737" class="label small">Big idea: power tells how fast the energy transfer happens.</text>
+  </g>
+</svg>
