@@ -9,7 +9,7 @@ For each concept listed in the @Science_Concepts_6th_Grade/001_100_Core_Concepts
 
 ----
 
-Generate a chapter from a textbook used at one of the finest prep schools in modern times on the topic of the file. The chapter should written with an 11 year old boy in mind, engaging him in the topic and teaching him everything he needs to know to understand the concept. The chapter should end with a list of study questions that the student should be able to answer after reading the chapter. Then update the teachers guide file with the answers to the study questions and the activity suggestions. There should be at least 3-8 activity suggestions. Format the guide clearly and concisely so it is useful for teachers looking to support student learning.
+Generate a chapter from a textbook used at one of the finest prep schools in modern times on the topic of the file. The chapter should written with an 11 year old boy in mind, engaging him in the topic and teaching him everything he needs to know to understand the concept. The chapter should end with a list of study questions that the student should be able to answer after reading the chapter. Then update the teachers guide file with the answers to the study questions and the activity suggestions. There should be at least 3-8 activity suggestions. Format the guide clearly and concisely so it is useful for teachers looking to support student learning. The teachers guide should be named like the file you are working on but end with _Teachers_Guide.md.
 
 ----
 

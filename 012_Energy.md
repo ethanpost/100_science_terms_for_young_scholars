@@ -16,6 +16,8 @@ At the top of the hill, the sled and rider had stored energy because they were h
 
 Energy is one of the grand ideas in science. It helps explain a falling apple, a running boy, a glowing lamp, a roaring fire, a flying baseball, a winding clock, and the Sun itself.
 
+![Energy](012_Energy_01.png)
+
 ## What Is Energy?
 
 Energy is the ability to cause change or do work.
