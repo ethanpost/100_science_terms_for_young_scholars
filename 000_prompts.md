@@ -15,34 +15,33 @@ Generate a chapter from a textbook used at one of the finest prep schools in mod
 
 Create an illustration in the style of: a crude, funny, hand-drawn explainer cartoon with simple stick-figure characters, rough black outlines, a mostly white background, and selective flat accent colors. Use labels, arrows, exaggerated facial expressions, and simple visual metaphors to explain the concept clearly. The drawing should feel like an informal illustrated essay sketch: minimalist, humorous, concept-first, intentionally rough, and easy to understand at a glance. Use color sparingly but meaningfully, such as red for danger, green for money or growth, blue for systems or institutions, yellow for warnings, and gray for bureaucracy or dull machinery.
 
-# Power
+# Wheel And Axle
 
-Imagine two boys are carrying identical boxes of sports equipment up the same staircase.
+Imagine trying to drag a heavy wooden box across a rough floor. It scrapes, catches, and fights you every inch of the way. Now imagine placing that box on a cart with wheels. Suddenly the same load rolls forward with far less effort.
 
-One boy walks slowly and carefully. Step by step, he reaches the top in one minute. The other boy bounds up the stairs in fifteen seconds, sets down his box, and grins as if he has just won a race.
+The box did not become lighter. The wheels changed the way the load moved against the ground.
 
-Here is the interesting part: both boys did about the same amount of scientific work on their boxes. Each lifted the same weight to the same height.
+That is the power of the wheel and axle.
 
-But they did not use the same power.
+**A wheel and axle is a simple machine made of a larger wheel attached to a smaller axle so that both turn together.**
 
-The faster boy did the same work in less time. That means he transferred energy more quickly. In science, that is what power means.
+The wheel and axle is one of the six classical simple machines. It helps carts roll, doors open, clocks turn, cars move, water wells work, bicycles travel, and machines transfer motion. It can reduce friction, multiply force, increase speed, or make turning easier.
 
-**Power is the rate at which work is done or energy is transferred.**
+The wheel may seem ordinary because you see it everywhere. But that is exactly why it matters. Few inventions have changed human life more.
 
-Power is not just strength. It is not just effort. It is about speed of energy transfer. A powerful machine, athlete, engine, or electrical device can move, lift, heat, shine, or run quickly because it transfers energy quickly.
+## The Two Main Parts
 
-## Power Begins with Work and Energy
+A wheel and axle has two main parts:
 
-To understand power, you must remember two important ideas.
+- **Wheel**
+- **Axle**
 
-**Work** is done when a force moves an object through a distance in the direction of the force. When you lift a backpack from the floor to a table, you do work on the backpack.
+The **wheel** is the larger round part.
 
-**Energy** is the ability to cause change or do work. Energy can appear as motion, height, heat, light, sound, electricity, chemical energy in food, and many other forms.
+The **axle** is the smaller rod or shaft attached to the wheel.
 
-Power connects these ideas to time.
+When the wheel turns, the axle turns with it. When the axle turns, the wheel turns with it. The two parts act as one machine.
 
-If work tells how much energy was transferred, power tells how quickly that transfer happened.
+On a wagon, the wheels are the large round parts, and the axle is the rod passing through or between them. On a doorknob, the knob is the wheel, and the metal shaft inside the door is the axle. On a screwdriver, the handle acts like the wheel, and the metal shaft acts like the axle.
 
-A slow elevator and a fast elevator may lift the same passenger to the same floor. If the passenger's weight and height lifted are the same, the work is the same. But the fast elevator has greater power because it does the work in less time.
-
-----
+Once you understand that wheel and axle turn together, you can recognize this machine in many places.
