@@ -28,6 +28,8 @@ If work tells how much energy was transferred, power tells how quickly that tran
 
 A slow elevator and a fast elevator may lift the same passenger to the same floor. If the passenger's weight and height lifted are the same, the work is the same. But the fast elevator has greater power because it does the work in less time.
 
+![Power](013_Power_01.png)
+
 ## The Formula for Power
 
 The basic formula for power is:

@@ -15,21 +15,34 @@ Generate a chapter from a textbook used at one of the finest prep schools in mod
 
 Create an illustration in the style of: a crude, funny, hand-drawn explainer cartoon with simple stick-figure characters, rough black outlines, a mostly white background, and selective flat accent colors. Use labels, arrows, exaggerated facial expressions, and simple visual metaphors to explain the concept clearly. The drawing should feel like an informal illustrated essay sketch: minimalist, humorous, concept-first, intentionally rough, and easy to understand at a glance. Use color sparingly but meaningfully, such as red for danger, green for money or growth, blue for systems or institutions, yellow for warnings, and gray for bureaucracy or dull machinery.
 
-# Pressure
+# Power
 
-Imagine that you and a friend are walking across a field after a fresh snowfall.
+Imagine two boys are carrying identical boxes of sports equipment up the same staircase.
 
-You step forward in ordinary sneakers and sink nearly to your ankles. Your friend straps on snowshoes and walks across the same snow with much less trouble. He is not lighter than you. He may even be heavier. So why does he stay higher on the snow?
+One boy walks slowly and carefully. Step by step, he reaches the top in one minute. The other boy bounds up the stairs in fifteen seconds, sets down his box, and grins as if he has just won a race.
 
-The answer is pressure.
+Here is the interesting part: both boys did about the same amount of scientific work on their boxes. Each lifted the same weight to the same height.
 
-Your sneakers press your weight onto a small area of snow. Snowshoes spread the same force over a much larger area. The force is more spread out, so each little patch of snow feels less pressure.
+But they did not use the same power.
 
-**Pressure is the amount of force pressing on each unit of area.**
+The faster boy did the same work in less time. That means he transferred energy more quickly. In science, that is what power means.
 
-Pressure explains why a thumbtack can pierce cork, why a knife cuts better than a spoon, why bicycle tires must be pumped up, why submarines need strong walls, why your ears may pop on an airplane, and why weather reports talk about rising and falling air pressure.
+**Power is the rate at which work is done or energy is transferred.**
 
-It is one of those science ideas that is simple enough to see in daily life but powerful enough to guide engineers, doctors, pilots, athletes, and meteorologists.
+Power is not just strength. It is not just effort. It is about speed of energy transfer. A powerful machine, athlete, engine, or electrical device can move, lift, heat, shine, or run quickly because it transfers energy quickly.
 
+## Power Begins with Work and Energy
+
+To understand power, you must remember two important ideas.
+
+**Work** is done when a force moves an object through a distance in the direction of the force. When you lift a backpack from the floor to a table, you do work on the backpack.
+
+**Energy** is the ability to cause change or do work. Energy can appear as motion, height, heat, light, sound, electricity, chemical energy in food, and many other forms.
+
+Power connects these ideas to time.
+
+If work tells how much energy was transferred, power tells how quickly that transfer happened.
+
+A slow elevator and a fast elevator may lift the same passenger to the same floor. If the passenger's weight and height lifted are the same, the work is the same. But the fast elevator has greater power because it does the work in less time.
 
 ----
