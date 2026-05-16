@@ -22,6 +22,8 @@ Condensation happens when water vapor changes back into liquid water.
 
 This usually occurs when moist air cools or when water vapor touches a cool surface.
 
+![Condensation](035_Condensation_01.png)
+
 ## Particles Losing Energy
 
 Matter is made of tiny particles.

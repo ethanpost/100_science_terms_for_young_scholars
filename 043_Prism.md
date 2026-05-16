@@ -20,6 +20,8 @@ That bending is called **refraction**.
 
 A prism uses refraction in a controlled way.
 
+![Prism](043_Prism_01.png)
+
 ## Refraction in a Prism
 
 Light bends when it passes from one material into another because its speed changes.

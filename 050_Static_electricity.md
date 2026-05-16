@@ -33,6 +33,8 @@ A positive charge and a negative charge attract each other.
 
 This rule is at the heart of static electricity.
 
+![Static Electricity](050_Static_electricity_01.png)
+
 ## Atoms and Charge
 
 Everything around you is made of atoms.

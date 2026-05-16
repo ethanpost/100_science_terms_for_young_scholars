@@ -22,6 +22,8 @@ A lens is not magic. It is controlled refraction.
 
 By shaping transparent material carefully, people can make light rays come together, spread apart, or form images.
 
+![Lenses](042_Lens_01.png)
+
 ## The Shape of a Lens
 
 A lens is usually made of glass or clear plastic.

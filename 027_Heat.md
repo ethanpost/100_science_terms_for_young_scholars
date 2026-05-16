@@ -36,6 +36,8 @@ Temperature is related to the average motion of the particles. Thermal energy de
 
 A bathtub of warm water may contain more thermal energy than a cup of boiling water because the bathtub has much more matter, even though its temperature is lower.
 
+![Heat](027_Heat_01.png)
+
 ## Heat Flows from Hot to Cold
 
 Heat naturally flows from warmer matter to cooler matter.

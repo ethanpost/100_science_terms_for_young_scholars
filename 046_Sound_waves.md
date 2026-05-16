@@ -22,6 +22,8 @@ The air particles then push and pull on neighboring particles, and the disturban
 
 The vibrating object does not usually travel all the way to your ear. The energy of the vibration travels through the medium.
 
+![Sound Waves](046_Sound_waves_01.png)
+
 ## Sound Needs a Medium
 
 Sound needs matter to travel through.

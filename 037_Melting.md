@@ -24,6 +24,8 @@ When a solid melts, its particles gain enough energy to break out of their fixed
 
 The substance becomes liquid.
 
+![Melting](037_Melting_01.png)
+
 ## Adding Thermal Energy
 
 Melting happens when thermal energy is added to a solid.

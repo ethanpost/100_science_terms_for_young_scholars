@@ -24,6 +24,8 @@ A sound with a low frequency usually has a low pitch.
 
 If a string vibrates 440 times per second, it produces a sound with a frequency of 440 Hz.
 
+![Pitch](048_Pitch_01.png)
+
 ## High Pitch and Low Pitch
 
 A high-pitched sound comes from fast vibrations.

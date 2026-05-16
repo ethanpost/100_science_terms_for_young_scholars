@@ -1,53 +1,36 @@
 Create an illustration in the style of: a crude, funny, hand-drawn explainer cartoon with simple stick-figure characters, rough black outlines, a mostly white background, and selective flat accent colors. Use labels, arrows, exaggerated facial expressions, and simple visual metaphors to explain the concept clearly. The drawing should feel like an informal illustrated essay sketch: minimalist, humorous, concept-first, intentionally rough, and easy to understand at a glance. Use color sparingly but meaningfully, such as red for danger, green for money or growth, blue for systems or institutions, yellow for warnings, and gray for bureaucracy or dull machinery.
 
-# Elasticity
+# Static electricity
 
-Imagine pulling back a rubber band between your fingers. It stretches longer and longer. When you let go, it snaps back toward its original shape. Now imagine bending a paper clip back and forth. At first it bends a little, but soon it stays bent or breaks.
+Walk across a carpet on a dry winter day, then touch a metal doorknob. Snap! A tiny spark jumps to your finger. Pull a wool hat off your head, and your hair may stand up like it is trying to escape. Rub a balloon on your shirt, and it may stick to a wall.
 
-The rubber band and the paper clip do not respond to force in the same way.
+These are not magic tricks. They are examples of static electricity.
 
-That difference is part of elasticity.
+**Static electricity is the buildup of electric charge on an object.**
 
-**Elasticity is the ability of a material or object to return to its original shape after being stretched, squeezed, bent, or twisted.**
+Static electricity can be surprising, funny, useful, annoying, and sometimes dangerous. It helps explain sparks, clinging clothes, dust sticking to screens, lightning, photocopiers, paint sprayers, and the tiny forces between atoms.
 
-Elasticity helps explain rubber bands, springs, trampolines, bows and arrows, diving boards, balls, mattresses, bridges, bones, muscles, car suspensions, and even the way buildings move slightly in strong winds or earthquakes.
+To understand static electricity, we must begin with electric charge.
 
-Elasticity is not only about things that feel rubbery. Metals, wood, plastic, glass, bone, and stone can all be elastic in small amounts.
+## Electric Charge
 
-## Force and Deformation
+**Electric charge** is a property of matter that can cause electric forces.
 
-A **force** is a push or pull.
+There are two main kinds of electric charge:
 
-When a force changes the shape of an object, that shape change is called **deformation**.
+- Positive charge
+- Negative charge
 
-Deformation can happen in several ways:
+Objects with electric charge can push or pull on other charged objects.
 
-- **Stretching**
-- **Compression**
-- **Bending**
-- **Twisting**
-- **Shearing**
+The rule is simple:
 
-Stretching pulls an object longer, like a rubber band.
+**Like charges repel, and opposite charges attract.**
 
-Compression squeezes an object shorter, like a spring pressed down.
+Two positive charges repel each other.
 
-Bending curves an object, like a diving board under a jumper.
+Two negative charges repel each other.
 
-Twisting turns one part of an object compared with another, like wringing a towel.
+A positive charge and a negative charge attract each other.
 
-Shearing pushes layers sideways past each other, like sliding the top of a deck of cards.
-
-Elasticity describes what happens after the force is removed.
-
-## Elastic and Inelastic Behavior
-
-An object behaves **elastically** if it returns to its original shape after the force is removed.
-
-A spring that is gently stretched and released usually returns to its starting length. A rubber ball squashes when it hits the floor and then springs back.
-
-An object behaves **inelastically** if it does not fully return to its original shape.
-
-Clay is mostly inelastic. If you press your thumb into clay, the dent remains. A paper clip bent too far may stay bent. A crushed soda can does not pop back to its original shape.
-
-Most real materials are not perfectly elastic or perfectly inelastic. They may behave elastically for small forces and inelastically for larger forces.
+This rule is at the heart of static electricity.

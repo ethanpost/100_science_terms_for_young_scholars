@@ -22,6 +22,8 @@ Light is part of the larger family of electromagnetic radiation, which also incl
 
 Visible light is the small part of that family that human eyes can see.
 
+![Light](039_Light_01.png)
+
 ## The Electromagnetic Spectrum
 
 The **electromagnetic spectrum** is the full range of electromagnetic waves.

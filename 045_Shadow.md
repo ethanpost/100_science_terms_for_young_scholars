@@ -22,6 +22,8 @@ That darker region is the shadow.
 
 If light did not travel mostly in straight lines, shadows would not have clear shapes.
 
+![Shadow](045_Shadow_01.png)
+
 ## Blocking Light
 
 A shadow forms because light is blocked.

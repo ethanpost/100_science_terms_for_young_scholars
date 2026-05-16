@@ -24,6 +24,8 @@ This is why the Sun can warm Earth even though space between the Sun and Earth i
 
 Energy travels from the Sun as electromagnetic radiation.
 
+![Radiation](033_Radiation_01.png)
+
 ## Electromagnetic Waves
 
 **Electromagnetic waves** are waves of electric and magnetic fields that can carry energy through space.

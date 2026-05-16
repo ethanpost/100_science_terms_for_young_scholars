@@ -26,6 +26,8 @@ For water, the gas form is called **water vapor**.
 
 Water vapor is invisible. The white mist you may see above hot water is usually tiny liquid droplets, not the vapor itself.
 
+![Evaporation](034_Evaporation_01.png)
+
 ## Surface Particles Escape
 
 Evaporation happens at the surface of a liquid.

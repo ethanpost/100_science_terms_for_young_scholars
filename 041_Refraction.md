@@ -24,6 +24,8 @@ If light enters the new material at an angle, this change in speed can make the 
 
 That change in direction is refraction.
 
+![Refraction](041_Refraction_01.png)
+
 ## The Normal Line
 
 To describe refraction, scientists use an imaginary line called the **normal**.

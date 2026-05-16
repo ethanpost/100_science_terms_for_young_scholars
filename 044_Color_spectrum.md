@@ -10,6 +10,8 @@ The color spectrum helps explain rainbows, prisms, sunsets, the blue sky, colore
 
 Color is not merely decoration. It is information carried by light.
 
+![Color Spectrum](044_Color_spectrum_01.png)
+
 ## Visible Light
 
 Light is electromagnetic radiation that human eyes can detect.

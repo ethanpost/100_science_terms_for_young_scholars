@@ -24,6 +24,8 @@ In convection, the moving fluid is the messenger.
 
 When warm air rises from a heater or warm water rises from the bottom of a pot, thermal energy is being transported by motion.
 
+![Convection](032_Convection_01.png)
+
 ## Heating Changes Density
 
 Convection often begins with a change in density.

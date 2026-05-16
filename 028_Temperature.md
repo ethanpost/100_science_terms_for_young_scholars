@@ -40,6 +40,8 @@ For example, a cup of boiling water has a higher temperature than a bathtub of w
 
 Temperature is about average particle energy. Thermal energy also depends on how much matter there is.
 
+![Temperature](028_Temperature_01.png)
+
 ## Thermal Equilibrium
 
 When two objects at different temperatures touch, thermal energy moves from the warmer object to the cooler object.

@@ -24,6 +24,8 @@ The gas forms bubbles inside the liquid. These bubbles rise and escape at the su
 
 For water, the gas form is called **water vapor**.
 
+![Boiling](038_Boiling_01.png)
+
 ## Boiling and Evaporation
 
 Boiling and evaporation both change liquid into gas, but they are not the same.

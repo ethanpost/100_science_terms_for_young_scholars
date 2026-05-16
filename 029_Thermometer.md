@@ -38,6 +38,8 @@ A thermometer is better because it responds in a predictable way and uses a scal
 
 Science depends on measurements that can be repeated and compared.
 
+![Thermometer](029_Thermometer_01.png)
+
 ## Liquid Thermometers
 
 A **liquid thermometer** uses a liquid sealed inside a narrow glass tube.

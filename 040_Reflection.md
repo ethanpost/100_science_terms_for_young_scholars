@@ -34,6 +34,8 @@ An imaginary line drawn perpendicular to the surface at the point where the ray 
 
 These three ideas, incident ray, reflected ray, and normal, help describe reflection clearly.
 
+![Reflection](040_Reflection_01.png)
+
 ## The Law of Reflection
 
 Reflection follows a simple rule:

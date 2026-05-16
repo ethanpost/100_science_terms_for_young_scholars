@@ -26,6 +26,8 @@ The resting position is often called the **equilibrium position**.
 
 During vibration, the object keeps moving around that equilibrium position.
 
+![Vibration](049_Vibration_01.png)
+
 ## Oscillation
 
 Another word closely related to vibration is **oscillation**.

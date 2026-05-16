@@ -24,6 +24,8 @@ That is thermal expansion.
 
 When matter cools, particle motion usually decreases, and the material often contracts.
 
+![Expansion by heat](030_Expansion_by_heat_01.png)
+
 ## Thermal Expansion
 
 The scientific name for expansion by heat is **thermal expansion**.
