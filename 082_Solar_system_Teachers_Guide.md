@@ -1,6 +1,6 @@
 # Teacher's Guide
 
-## 082. Solar system
+## 082. Solar System
 
 ### Learning Goals
 

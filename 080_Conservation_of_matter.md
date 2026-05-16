@@ -1,4 +1,4 @@
-﻿# Conservation of matter
+﻿# Conservation of Matter
 
 Imagine lighting a candle. The wax slowly disappears. A careless observer might say, "The wax is gone."
 

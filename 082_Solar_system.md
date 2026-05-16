@@ -1,4 +1,4 @@
-﻿# Solar system
+﻿# Solar System
 
 Step outside on a clear night and look up.
 

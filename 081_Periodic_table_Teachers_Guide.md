@@ -1,6 +1,6 @@
 # Teacher's Guide
 
-## 081. Periodic table
+## 081. Periodic Table
 
 ### Learning Goals
 

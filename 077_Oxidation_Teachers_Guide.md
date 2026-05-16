@@ -79,6 +79,7 @@ Students should be able to:
 - Keep the central idea visible: **oxidation means electron loss; many everyday examples involve oxygen**.
 - Present oxygen-combining examples first, then broaden to electron transfer.
 - Pair oxidation with reduction so students do not see oxidation as isolated.
+- Treat formal redox vocabulary as a bridge, not the whole lesson. For students who are not ready for electron bookkeeping, emphasize rust, combustion, batteries, and the simple loss/gain model.
 - Connect combustion as fast oxidation and rusting as slow oxidation.
 - Emphasize that oxidation can be beneficial, harmful, or necessary.
 - Treat bleach and strong oxidizers as teacher-controlled hazards.

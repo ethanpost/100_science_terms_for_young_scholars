@@ -10,6 +10,21 @@ Chemical reactions cook food, digest meals, power batteries, burn fuels, form ru
 
 To understand reactions, we must begin with atoms.
 
+## How to Read This Chapter
+
+This chapter is a broad map of chemical reactions. Some parts are the main road; others are side roads you can explore after the big idea is clear.
+
+The main road is this:
+
+- Reactants become products.
+- Atoms rearrange.
+- New substances form.
+- Matter is conserved.
+- Evidence of a reaction must be interpreted carefully.
+- Safety matters whenever substances are mixed, heated, or allowed to produce gas.
+
+The later sections on reaction types, catalysts, enzymes, and reversible reactions are useful extensions. Do not worry if every reaction name does not stick the first time. A strong student should first understand what makes a reaction chemical and why atoms must still be accounted for.
+
 ## Atoms Rearrange
 
 Matter is made of atoms.

@@ -1,8 +1,8 @@
 ﻿# Salt
 
-When most people hear the word salt, they think of the white crystals sprinkled on food. That familiar table salt is important, but in chemistry the word salt has a much broader meaning.
+Shake a few grains of table salt onto black paper and look closely. The tiny white crystals may seem ordinary, but each one is built from charged particles locked together in a neat pattern. Taste a potato chip, smell the ocean, or watch salt melt ice on a winter sidewalk, and you are seeing one familiar member of a much larger chemical family.
 
-Table salt is only one member of a large family.
+When most people hear the word salt, they think of the white crystals sprinkled on food. That familiar table salt is important, but in chemistry the word salt has a much broader meaning. Table salt is only one member of a large family.
 
 **A salt is an ionic compound often formed when an acid reacts with a base.**
 

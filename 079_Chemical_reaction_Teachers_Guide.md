@@ -81,6 +81,7 @@ Students should be able to:
 - Conservation of matter is the anchor idea for equations and balancing.
 - Teach coefficients and subscripts carefully; changing subscripts changes substances.
 - Use familiar examples: rust, combustion, baking, digestion, vinegar and baking soda, batteries, and photosynthesis.
-- Avoid turning reaction types into memorization only; connect each type to a concrete example.
+- Consider splitting the chapter into two lessons: first chemical vs. physical change, evidence, reactants/products, equations, and conservation; then reaction types, energy, rate, catalysts, enzymes, and reversible reactions.
+- Avoid turning reaction types into memorization only; connect each type to a concrete example and treat advanced names as extensions after the core idea is secure.
 - Prioritize safety whenever gases, heat, pressure, or unknown substances are involved.
 - Link this chapter forward to conservation of matter and periodic table topics.

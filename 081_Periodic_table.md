@@ -1,4 +1,4 @@
-﻿# Periodic table
+﻿# Periodic Table
 
 Imagine walking into a huge library where every book has been thrown onto the floor.
 

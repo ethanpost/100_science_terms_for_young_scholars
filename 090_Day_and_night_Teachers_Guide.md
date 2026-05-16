@@ -1,6 +1,6 @@
 # Teacher's Guide
 
-## 090. Day and night
+## 090. Day and Night
 
 ### Learning Goals
 

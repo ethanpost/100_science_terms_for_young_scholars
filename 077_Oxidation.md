@@ -46,6 +46,20 @@ For this chapter, remember both ideas:
 
 **Oxidation can mean gaining oxygen in many everyday examples, and in modern chemistry it means losing electrons.**
 
+## A Simple Way to Picture Electron Loss
+
+Electrons are too small to watch with your eyes, so it helps to use a model.
+
+Imagine two students trading small game tokens. If one student gives away tokens, he has fewer than before. In a chemical reaction, if an atom, ion, or molecule gives away electrons, it has lost something important too. That loss is oxidation.
+
+The other student receives the tokens. In chemistry, the substance that receives electrons is reduced.
+
+This model is not perfect because electrons are not toys and atoms do not think or choose. But it helps with the main idea:
+
+**Oxidation is the side that loses electrons; reduction is the side that gains them.**
+
+Many younger students first learn oxidation through oxygen examples such as rust and burning. That is a good starting point. The electron definition is the next step because it explains oxygen examples and reactions that do not involve oxygen at all.
+
 ## Oxidation and Reduction
 
 Oxidation is usually paired with **reduction**.
