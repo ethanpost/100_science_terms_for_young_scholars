@@ -34,6 +34,18 @@ Rainfall patterns still vary dramatically with geography, mountains, and ocean w
 
 It means "special geometry of sunlight and day length."
 
+## A Belt of Many Worlds
+
+The equator crosses land and sea in several regions of the world.
+
+You can find steamy rainforests, high volcanic peaks, dry deserts, and busy port cities along or near the equatorial belt.
+
+That variety is a useful warning against stereotypes.
+
+**Equator** names a latitude line, not one shared weather uniform.
+
+Rainfall and temperature still depend on mountains, ocean winds, elevation, and local geography.
+
 ## The Celestial Equator
 
 Astronomers also talk about the **celestial equator**, which is Earth's equator projected outward onto the sky.
@@ -96,3 +108,6 @@ If you remember only one sentence, remember this:
 6. What is the celestial equator in simple terms?
 7. What is the difference between the equator and the prime meridian?
 8. Name one misconception about the equator and correct it.
+9. Why can two cities on or near the equator have very different yearly rainfall?
+10. In one sentence, why is the equator the longest east-west circle on Earth's surface?
+11. If you crossed from the Northern Hemisphere to the Southern Hemisphere on a ship, which line would you be crossing?

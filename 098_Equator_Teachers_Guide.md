@@ -12,6 +12,7 @@ Students should be able to:
 - Introduce **celestial equator** as the sky projection of Earth's equator.
 - Distinguish equator (latitude reference) from **prime meridian** (longitude reference).
 - Reject common myths (e.g., reliable sink spiral direction) with careful reasoning.
+- Explain that equatorial regions can still differ strongly in **rainfall** and **ecology** due to geography and winds.
 
 ### Answers to Study Questions
 
@@ -23,6 +24,9 @@ Students should be able to:
 6. The **celestial equator** is Earth's equator projected outward onto the **sky**, useful for describing star paths.
 7. The equator is **latitude 0** (north-south reference). The prime meridian is **longitude 0** (east-west reference).
 8. Accept reasonable answers, e.g., "Equator always hottest spot on Earth at every instant" is not reliably true due to **weather** and geography.
+9. Rainfall depends on **mountains**, **ocean winds**, **elevation**, and local **geography**, not latitude alone, so equatorial cities can range from rainy to dry.
+10. The equator is a **great circle** (its plane passes through Earth's center), so it is the **largest** possible east-west circle on the surface; higher-latitude parallels are smaller.
+11. You would be crossing the **equator**, the boundary between the **Northern** and **Southern Hemispheres** (0° latitude).
 
 ### Activity Suggestions
 

@@ -67,6 +67,10 @@ Hikers, pilots, and ships often convert between:
 
 Failure to correct declination can send you confidently into the wrong valley.
 
+Some large maps also refer to **grid north**, the direction of the map's north-south grid lines, which can differ slightly from both true north and magnetic north depending on map projection.
+
+For serious navigation, you learn which "north" your map is using and correct in the right order.
+
 Modern smartphones can show direction using magnetometers, but they still depend on Earth's field and can be miscalibrated or distorted indoors.
 
 ## Common Mistakes About Magnetic North
@@ -117,3 +121,4 @@ If you remember only one sentence, remember this:
 7. Why is declination important for map and compass navigation?
 8. Name one thing that can make a phone compass unreliable.
 9. Name one misconception about magnetic north and correct it.
+10. What is grid north, and why might it matter on some maps?

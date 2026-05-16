@@ -14,6 +14,9 @@ Students should be able to:
 - Explain why eclipses are not monthly events (Moon's orbit **tilt** vs ecliptic; nodes).
 - State **eye-safety** rules for solar viewing and why ordinary sunglasses are inadequate.
 - Connect lunar eclipse geometry to **full moon** alignment (Sun-Earth-Moon).
+- Compare **total**, **partial**, and **penumbral** lunar eclipses at a basic level.
+- Connect solar eclipse geometry to **new moon** alignment (Moon between Earth and Sun).
+- Explain why **totality** is visible only along a **narrow path** on Earth during total solar eclipses.
 
 ### Answers to Study Questions
 
@@ -31,6 +34,11 @@ Students should be able to:
 12. **Yes**, lunar eclipses are generally safe to view unaided; use comfort and equipment care as usual for night sky observing.
 13. Accept reasonable answers, e.g., "Earth's shadow on Earth causes a solar eclipse" is wrong; solar eclipses involve the **Moon's shadow** on Earth.
 14. Solar eclipse: **Moon's shadow falls on Earth**. Lunar eclipse: **Earth's shadow falls on the Moon**.
+15. **Solar eclipses** occur near **new moon** (Moon roughly between Earth and Sun). **Lunar eclipses** occur near **full moon** (Earth roughly between Sun and Moon).
+16. In a **total** lunar eclipse, the entire Moon enters Earth's **umbra**. In a **partial** lunar eclipse, only part of the Moon enters the umbra while the rest stays outside it (or only partly in shadow, depending on geometry described).
+17. A **penumbral** lunar eclipse occurs when the Moon passes through Earth's outer **penumbra**, causing a subtle dimming without the Moon fully entering the deep umbra.
+18. The Moon's **umbra** on Earth during a total solar eclipse is **small** and **moves** across the planet, so only observers along that narrow **path of totality** see a total eclipse; nearby regions may see a partial eclipse.
+19. Accept reasonable answers: studying the Sun's **corona** during totality, learning about Earth's **atmosphere** from the colors refracted onto the Moon during lunar eclipses, testing predictions of celestial mechanics, or calibrating instruments—focus on **science uses**, not spectacle alone.
 
 ### Activity Suggestions
 

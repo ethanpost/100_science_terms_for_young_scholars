@@ -62,6 +62,18 @@ Sinking air can warm and clear the sky.
 
 So weather is physics and geography happening fast enough to notice.
 
+## Air Masses and Fronts (The Big Movers)
+
+Much of your weekly weather is shaped by huge blobs of air called **air masses**, each with its own temperature and moisture habits.
+
+Where two air masses meet, forecasters draw a **front** on a map.
+
+A **cold front** is the leading edge of a colder air mass pushing under warmer air, often lifting it rapidly and producing sharp clouds and thunderstorms.
+
+A **warm front** is the leading edge of a warmer air mass sliding up over cooler air, often bringing layered clouds and steady rain or snow.
+
+Fronts are not the whole atmosphere, but they are a useful story for why one day feels stable and the next turns dramatic.
+
 ## Forecasting: Evidence, Models, Uncertainty
 
 Meteorologists use **observations** from ground stations, radar, satellites, and weather balloons.
@@ -144,3 +156,5 @@ If you remember only one sentence, remember this:
 8. Why are long-range forecasts less certain than short-range forecasts?
 9. What is the difference between weather and climate in one sentence?
 10. Name one severe weather hazard and one safety habit linked to it.
+11. In simple words, what is a cold front?
+12. Why do meteorologists draw fronts on weather maps?

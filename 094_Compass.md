@@ -68,6 +68,18 @@ Declination changes slowly over years as Earth's magnetic field shifts.
 
 Maps for navigation often include declination notes so travelers can correct compass readings.
 
+## Bearings and the Compass Rose
+
+A **bearing** is a direction measured in **degrees** clockwise from north.
+
+North is often treated as **0°** (or **360°**), east is **90°**, south is **180°**, and west is **270°**.
+
+Many maps show a **compass rose**, a decorated arrow set that reminds you which way north is drawn on the page.
+
+On a **baseplate compass**, you can line up the compass edge with a map direction, twist the rotating housing until the needle matches the declination correction you need, then read a bearing off the dial.
+
+With practice, a compass becomes a bridge between the map in your hands and the terrain in front of you.
+
 ## Using a Compass Responsibly
 
 A compass can be disturbed by nearby iron, steel, magnets, electrical currents, or some phones and speakers.
@@ -125,3 +137,6 @@ If you remember only one sentence, remember this:
 8. Name two things that can disturb a compass reading.
 9. Why might a map user need declination information?
 10. Name one misconception about compasses and correct it.
+11. In the degree system, what bearing number is usually used for east?
+12. What is a compass rose on a map?
+13. In one sentence, what is a bearing?

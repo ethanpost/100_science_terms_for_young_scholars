@@ -50,6 +50,40 @@ Those are called **neap tides**.
 
 So tides change over a month, not just over a day.
 
+## High Tide, Low Tide, and Tidal Range
+
+When the ocean surface is higher than its average level for a cycle, that is **high tide**.
+
+When it is lower, that is **low tide**.
+
+The difference between a typical high and low in a place is called the **tidal range**.
+
+Some coasts have gentle tides.
+
+Others, especially where geography funnels water, can have enormous ranges that reshape harbors twice a day.
+
+## Tides Versus Wind Waves and Storm Surge
+
+**Wind waves** are the chop you see on a windy afternoon: energy moving through the water, often arriving quickly and breaking on the beach.
+
+**Tides** are the slow breathing of sea level tied to astronomy and Earth's rotation.
+
+A **storm surge** is a pile-up of water driven by storms and low pressure; it can add danger on top of an already high tide.
+
+Keeping those ideas separate helps you read warnings clearly.
+
+## Life in the Tidal Rhythm
+
+Many coastal animals time their lives to tides.
+
+Some fish spawn on certain tides.
+
+Crabs and shorebirds follow the exposed flats.
+
+Even human economies depend on predictable water depth for shipping, fishing, and bridge clearance.
+
+When you learn tides, you are learning a clock that has governed harbors long before mechanical clocks existed.
+
 ## Why There Are Often Two High Tides a Day
 
 Earth rotates about every 24 hours.
@@ -121,3 +155,7 @@ If you remember only one sentence, remember this:
 8. Why might two nearby beaches experience high tide at different clock times?
 9. Name one misconception about tides and correct it.
 10. Besides oceans, name another part of Earth that can experience tidal effects (even if small).
+11. What is the difference between high tide and low tide?
+12. In simple words, what is tidal range?
+13. How is a wind wave different from a tide?
+14. Why can a storm at sea be especially dangerous if it arrives at high tide?

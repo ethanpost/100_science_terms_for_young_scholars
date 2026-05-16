@@ -12,6 +12,8 @@ Students should be able to:
 - Describe **polar day** and **polar night** as extreme seasonal daylight phenomena tied to **tilt**.
 - Give simple reasons polar regions are cold (solar geometry, **albedo**, geography).
 - Contrast **Arctic** (ocean-centered) vs **Antarctica** (continent-centered ice sheet) at a basic level.
+- Describe **ice cores** as layered polar ice used as evidence about past climate and atmosphere.
+- Give examples of how polar regions connect to **sea level**, **currents**, and **global weather** patterns at a basic level.
 
 ### Answers to Study Questions
 
@@ -23,6 +25,8 @@ Students should be able to:
 6. Accept two of: lower average **solar elevation**, long periods of darkness seasonally, high **albedo** from ice/snow, remoteness from heat transport, etc.
 7. Accept one clear difference: Arctic is largely an **ice-covered ocean** surrounded by continents; Antarctica is a **continental landmass** mostly covered by a thick **ice sheet**; ecosystems differ (polar bears vs penguins is culturally common but emphasize geography carefully).
 8. Accept reasonable answers, e.g., "The pole is the same as magnetic north" is false.
+9. An **ice core** is a long cylinder of ice drilled from an ice sheet; its layers and trapped bubbles provide evidence about past **temperature**, **atmosphere**, and **climate** over long time spans.
+10. Accept reasonable answers: polar **ice** affects **sea level**; polar oceans influence **global currents**; polar **temperature** changes can shift **weather patterns**; **sea ice** affects **Earth's reflectivity**; polar research informs **navigation** and environmental policy.
 
 ### Activity Suggestions
 

@@ -14,6 +14,7 @@ Students should be able to:
 - Describe **solstices** and **equinoxes** in basic astronomical terms.
 - Refute the common misconception that seasons are mainly caused by Earth's distance from the Sun.
 - Separate seasonal astronomy from daily **weather** and long-term **climate**.
+- Locate the **Tropic of Cancer** and **Tropic of Capricorn** near **23.5°** north and south, and describe the **Arctic** and **Antarctic Circles** near **66.5°** as regions where extreme daylight patterns can occur.
 
 ### Answers to Study Questions
 
@@ -32,6 +33,8 @@ Students should be able to:
 13. **Weather** is short-term atmospheric conditions; **climate** is the long-term average pattern of weather.
 14. Accept reasonable answers, e.g., "Summer is because Earth is closer" is wrong; seasons are mainly from **tilt + revolution** changing sunlight angle and day length.
 15. **Revolution** is Earth's orbital motion around the Sun; Earth takes about **365.25 days** for one revolution (one year).
+16. The **Tropic of Cancer** is near **23.5° N** and the **Tropic of Capricorn** is near **23.5° S**; between them lies the **tropical zone**, where the Sun can be directly overhead at noon at some time during the year.
+17. Inside the **Arctic** or **Antarctic Circle**, depending on date and tilt, a location can experience very long periods of continuous daylight or continuous darkness around solstices (**polar day**/**polar night**), unlike typical mid-latitude day-night alternation each 24 hours.
 
 ### Activity Suggestions
 

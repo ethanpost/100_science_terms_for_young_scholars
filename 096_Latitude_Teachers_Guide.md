@@ -12,6 +12,9 @@ Students should be able to:
 - Explain that parallels shrink from equator toward poles.
 - Contrast latitude with **longitude** at a basic level.
 - Connect latitude to broad patterns of **sun height** and **seasonality** (qualitative).
+- Identify the **Tropic of Cancer** and **Tropic of Capricorn** near **23.5° N/S** and the **Arctic** and **Antarctic Circles** near **66.5° N/S** as tilt-related reference parallels.
+- Define **Northern** vs **Southern Hemisphere** relative to the equator.
+- Explain how two places can share latitude but differ greatly in position by changing **longitude**.
 
 ### Answers to Study Questions
 
@@ -25,6 +28,11 @@ Students should be able to:
 8. Higher latitudes generally have lower maximum Sun altitude and stronger seasonal day-length swings than low latitudes (broad generalization).
 9. Latitude measures **north-south** position from the equator; longitude measures **east-west** position from a chosen prime meridian.
 10. Example: **12° S** means 12 degrees south of the equator in the **Southern Hemisphere**.
+11. **Tropic of Cancer** near **23.5° N**; **Tropic of Capricorn** near **23.5° S** (tropical zone between them).
+12. **Arctic Circle** near **66.5° N** and **Antarctic Circle** near **66.5° S**; inside these circles, extreme seasonal daylight patterns like polar day/night become possible (depending on date and geometry).
+13. The **Northern Hemisphere** is north of the **equator**; the **Southern Hemisphere** is south of it.
+14. Earth's axis tilt is about **23.5°**, which sets the **tropic** latitudes; **66.5°** equals **90° − 23.5°**, pairing the geometry of overhead Sun opportunities with polar-circle extremes on a tilted Earth.
+15. **Yes**—two places can share the same **latitude** (same parallel) but have different **longitudes**, so they can be far apart **east-west** around Earth.
 
 ### Activity Suggestions
 
@@ -58,3 +66,4 @@ Students should be able to:
 - Avoid claiming latitude alone determines today's weather.
 - Pair immediately with **longitude** lessons so confusion does not harden.
 - Connect to equator and poles chapters for coherent Earth geometry.
+- Cross-link to **seasons** and **tilt** lessons: **23.5°** and **66.5°** parallels are geography labels for the same tilt story.

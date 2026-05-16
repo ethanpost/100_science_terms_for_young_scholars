@@ -54,6 +54,20 @@ where rainforests grow,
 
 where winters bite.
 
+## How Scientists Measure Climate
+
+Climate science depends on patient measurement.
+
+Weather stations on land and buoys at sea record temperature, rainfall, wind, and pressure over years.
+
+Ships, aircraft, and **satellites** fill gaps across oceans and deserts.
+
+For times before modern instruments, scientists use **proxies**: tree rings, lake sediments, ice cores, and coral chemistry that respond to past temperature and chemistry.
+
+None of these tools is perfect alone.
+
+Together they build a picture that is far more reliable than memory or a single season.
+
 ## Climate Change
 
 Earth's climate has changed naturally across geologic time through volcanic gases, slow shifts in geography, and variations in Earth's orbit.
@@ -124,3 +138,5 @@ If you remember only one sentence, remember this:
 8. What is one human activity commonly linked to recent rapid climate change?
 9. Why is one cold winter not a simple disproof of long-term warming trends?
 10. Name one misconception about climate and correct it.
+11. Name two kinds of evidence scientists use to study modern climate.
+12. What is a climate proxy, and why are proxies important?

@@ -12,6 +12,7 @@ Students should be able to:
 - Explain why **averages alone** can mislead without **variability/extremes** context.
 - State at a basic level that climate changes from **natural** drivers and, recently, strong **human** influences (per mainstream science).
 - Avoid anecdotal "one-day proof" reasoning.
+- List major tools used to measure modern climate (**stations**, **buoys**, **ships**, **aircraft**, **satellites**) and define **proxies** as indirect long-term evidence (e.g., ice cores, tree rings).
 
 ### Answers to Study Questions
 
@@ -25,6 +26,8 @@ Students should be able to:
 8. **Burning fossil fuels** increasing greenhouse gases is the standard answer; also **deforestation** and other land-use changes.
 9. A single season mixes **weather** and natural variability; long-term trends require **long records**, **statistics**, and **multiple independent** indicators.
 10. Accept reasonable answers, e.g., "Climate equals today's temperature" is false; climate is **long-term** behavior.
+11. Accept two of: **weather stations**, **rain gauges**, **ocean buoys**, **ships**, **aircraft reports**, **radar**, **satellites**, etc.
+12. A **proxy** is an indirect natural archive (like **tree rings**, **ice cores**, **corals**, or **sediments**) that preserves clues about past climate; proxies extend knowledge before modern instruments existed.
 
 ### Activity Suggestions
 

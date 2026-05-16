@@ -124,6 +124,26 @@ The September equinox begins astronomical autumn there.
 
 Names can vary by culture and climate, but the astronomy is the same: tilt plus revolution creates repeating sunlight patterns.
 
+## Tropics, Polar Circles, and the Geometry of Seasons
+
+Because Earth's axis is tilted about **23.5°**, mapmakers mark special latitude circles that help describe sunlight extremes.
+
+The **Tropic of Cancer** lies near **23.5° north** latitude.
+
+The **Tropic of Capricorn** lies near **23.5° south** latitude.
+
+Between them lies the **tropical zone**, where the Sun can pass directly overhead at local noon at some time during the year.
+
+Farther toward the poles, the **Arctic Circle** and **Antarctic Circle** lie near **66.5°** latitude.
+
+Inside those circles, depending on the date, you can experience long runs of daylight or darkness tied to solstice geometry.
+
+You do not need every name memorized on day one.
+
+You need the idea:
+
+**Tilt prints its signature on the map as latitude circles where sunlight behavior becomes extreme.**
+
 ## Seasons and Climate Are Related but Not the Same
 
 **Weather** is what happens outside today or this week: rain, wind, heat waves.
@@ -197,3 +217,5 @@ If you remember only one sentence, remember this:
 13. How is weather different from climate in simple terms?
 14. Name one common misconception about seasons and correct it.
 15. What is revolution, and how long does Earth take to revolve around the Sun once?
+16. What are the Tropic of Cancer and the Tropic of Capricorn, and about what latitude are they found?
+17. What is special about the region inside the Arctic Circle or Antarctic Circle compared with mid-latitude towns?

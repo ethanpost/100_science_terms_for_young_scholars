@@ -68,7 +68,29 @@ Some sunlight bends through Earth's atmosphere, often scattering shorter colors 
 
 That is why a totally eclipsed Moon can look **red** or **rust-colored**, sometimes called a "blood moon" in popular language.
 
+If only part of the Moon enters the umbra, you see a **partial lunar eclipse**.
+
+If the Moon passes only through Earth's outer penumbra, the dimming is subtle; that is called a **penumbral lunar eclipse**.
+
 A lunar eclipse is generally safe to watch with your eyes, binoculars, or a small telescope, though comfort and glare still matter.
+
+## Moon Phases Are Clues, Not Extras
+
+A **solar eclipse** can happen only near **new moon**, when the Moon is roughly between Earth and the Sun.
+
+A **lunar eclipse** can happen only near **full moon**, when Earth is roughly between the Sun and the Moon.
+
+So eclipses are tied to the lunar month, even though they do not happen every month.
+
+## The Narrow Path of Totality
+
+During a **total** solar eclipse, the Moon's dark inner shadow, the umbra, traces a narrow path across Earth's surface.
+
+Only people inside that moving path see a total eclipse.
+
+Outside the path, observers may still see a partial eclipse if the geometry lines up.
+
+That is why total solar eclipses can be rare experiences for any one town: the shadow ribbon is thin, and Earth is large.
 
 ## Why Eclipses Do Not Happen Every Month
 
@@ -95,6 +117,16 @@ Many cultures recorded eclipses and searched for patterns.
 Today, astronomers predict eclipses by applying Newton's and Einstein's ideas to precise measurements of motions and distances.
 
 If someone claims eclipses are random surprises to science, that is false.
+
+Ships, aircraft, and phone apps use the same underlying astronomy to publish eclipse maps years in advance.
+
+## Eclipses in History (Without the Superstition)
+
+Ancient records of eclipses were sometimes frightening because the sky behaved unexpectedly.
+
+Modern science treats them as opportunities: a total solar eclipse is one of the few times people on the ground can study the Sun's faint outer atmosphere, the corona, without special instruments blocking the bright disk.
+
+Lunar eclipses have helped scientists think about Earth's atmosphere, because the colors on the Moon are shaped by the air along Earth's limb.
 
 ## Common Mistakes About Eclipses
 
@@ -149,3 +181,8 @@ If you remember only one sentence, remember this:
 12. Is a lunar eclipse generally safe to view with the unaided eye?
 13. Name one common misconception about eclipses and correct it.
 14. In one sentence, how are solar and lunar eclipses different in terms of shadows?
+15. Near which moon phase can a solar eclipse occur, and near which phase can a lunar eclipse occur?
+16. What is the difference between a total lunar eclipse and a partial lunar eclipse?
+17. What is a penumbral lunar eclipse?
+18. Why can a total solar eclipse be visible from only a narrow region on Earth?
+19. Name one way eclipses are useful to scientists today, beyond looking impressive.

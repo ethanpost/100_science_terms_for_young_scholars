@@ -12,6 +12,7 @@ Students should be able to:
 - Give a simple reason Earth's field direction is not fixed forever (core dynamo changes).
 - Connect declination to practical **map/compass** conversion needs.
 - Recognize interference and calibration issues with electronic magnetometers.
+- Explain **grid north** as map-grid direction and why it can differ from true and magnetic north on some maps.
 
 ### Answers to Study Questions
 
@@ -24,6 +25,7 @@ Students should be able to:
 7. Without correction, compass-measured bearings will not match **true/map** bearings, causing systematic navigation errors.
 8. Accept reasonable answers: **indoor steel**, **magnets**, **calibration** errors, **nearby currents**, etc.
 9. Accept reasonable answers, e.g., "Magnetic north equals the geographic North Pole" is false; they are different references.
+10. **Grid north** is the direction of **north** on a map's **projected grid**; on some maps it differs slightly from **true north** and **magnetic north**, so careful navigators check which reference the map uses.
 
 ### Activity Suggestions
 

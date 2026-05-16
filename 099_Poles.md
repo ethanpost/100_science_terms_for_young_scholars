@@ -58,9 +58,23 @@ Polar ice affects sea level.
 
 Polar oceans drive important currents.
 
+Polar oceans drive important currents.
+
 Polar regions are sensitive indicators of change.
 
 They feel far away, but they are connected to weather patterns, sea routes, and ecosystems worldwide.
+
+## Science at the Ends of the Earth
+
+Polar science camps and research stations study ice, ocean water, weather, and space weather.
+
+**Ice cores** drilled in Greenland and Antarctica preserve layered clues about past atmospheres and temperatures, helping scientists understand how climate has changed over thousands of years.
+
+Satellites pass over the poles on nearly every orbit, making the polar regions unusually rich in remote sensing data.
+
+The poles are not empty.
+
+They are busy laboratories where Earth's past and present meet.
 
 ## Common Mistakes About the Poles
 
@@ -104,3 +118,5 @@ If you remember only one sentence, remember this:
 6. Why are polar regions generally cold, in two simple reasons?
 7. Name one difference between the Arctic and Antarctica beyond "both are cold."
 8. Name one misconception about the poles and correct it.
+9. What is an ice core in simple words, and why do polar ice cores matter to science?
+10. Give one example of how polar regions can affect people who live far away from them.

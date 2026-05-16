@@ -12,6 +12,8 @@ Students should be able to:
 - Recognize that **coastline** and **bathymetry** alter local tide timing and range.
 - Distinguish tides from ordinary **wind waves** at a basic level.
 - Name **semidiurnal**, **diurnal**, and **mixed** patterns as common categories.
+- Define **high tide**, **low tide**, and **tidal range** in plain language.
+- Distinguish astronomical **tides** from **wind waves** and **storm surge** at a basic level.
 
 ### Answers to Study Questions
 
@@ -25,6 +27,10 @@ Students should be able to:
 8. **Geography** (basin shape, depth, channels), **Coriolis** and wave dynamics, and **resonance** can shift timing and amplitude from the simple two-bulge picture.
 9. Accept reasonable answers, e.g., tides are not "only wind," or not "only the Sun," or not identical timing everywhere.
 10. The **solid Earth** (Earth tides) and the **atmosphere** (atmospheric tides), in addition to oceans.
+11. **High tide** is when local sea level is near a **maximum** in the tidal cycle; **low tide** is when it is near a **minimum**.
+12. **Tidal range** is the typical **difference in height** between high and low tide in a place (not a single universal number).
+13. **Wind waves** are shorter, wind-driven disturbances on the water surface; **tides** are the slower, large-scale rise and fall of sea level tied mainly to lunar/solar gravity and Earth's rotation.
+14. **Storm surge** stacks extra water height on top of normal sea level; if it coincides with **high tide**, flooding and waves can reach farther inland and be more destructive.
 
 ### Activity Suggestions
 

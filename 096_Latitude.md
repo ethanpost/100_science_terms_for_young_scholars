@@ -62,6 +62,42 @@ Mid-latitudes often experience stronger seasonal swings.
 
 Latitude is not destiny, but it is a powerful hint.
 
+## Special Parallels: Tropics and Polar Circles
+
+Earth's axis is tilted about **23.5 degrees**.
+
+That tilt stamps two famous latitude lines into geography:
+
+the **Tropic of Cancer** near **23.5° north**
+
+and the **Tropic of Capricorn** near **23.5° south**.
+
+Between them lies the **tropical zone**, where the Sun can pass directly overhead at local noon at some point in the year.
+
+Farther toward the poles lie the **Arctic Circle** near **66.5° north** and the **Antarctic Circle** near **66.5° south**.
+
+Inside those circles, depending on the date, you can have the extreme daylight and darkness patterns sometimes called polar day and polar night.
+
+Notice a pattern:
+
+**23.5° and 66.5° add to 90°**, linking tilt geometry to the map.
+
+You will see these lines on globes and atlas maps.
+
+They are not magical borders, but they are excellent labels for how sunlight behaves on a tilted planet.
+
+## Northern Hemisphere and Southern Hemisphere
+
+The equator splits Earth into two **hemispheres** by latitude.
+
+The **Northern Hemisphere** is everything north of the equator.
+
+The **Southern Hemisphere** is everything south of it.
+
+Hemisphere labels describe where you are relative to the equator, not your longitude.
+
+Australia and Argentina are both Southern Hemisphere countries, but they are on opposite sides of the planet in longitude.
+
 ## Latitude Without Leaving Home
 
 You can think in latitude by noticing:
@@ -97,6 +133,8 @@ Ask:
 - Is this place near the equator or near a pole?
 - Is the latitude low or high in number?
 - If I move due north, does latitude increase or decrease in the Northern Hemisphere?
+- Is this location inside the tropics, in mid-latitudes, or in polar latitudes?
+- Does another place share this parallel but sit halfway around the world in longitude?
 
 Latitude is the steady coordinate that tells you where you sit between the warm belt of the equator and the cold crowns of the poles.
 
@@ -122,3 +160,8 @@ If you remember only one sentence, remember this:
 8. How does latitude relate broadly to sunlight and seasons?
 9. What is the difference between latitude and longitude in one sentence?
 10. Give one example of a latitude written with a N or S label and explain what the letter means.
+11. Name the Tropic of Cancer and the Tropic of Capricorn. About what latitude is each one found?
+12. What are the Arctic Circle and the Antarctic Circle, and about what latitude is each one found?
+13. What is the difference between the Northern Hemisphere and the Southern Hemisphere?
+14. Why do maps often pair **23.5°** with **66.5°** when they teach Earth's tilted axis?
+15. Can two towns share the same latitude but still be far apart on Earth? Explain.

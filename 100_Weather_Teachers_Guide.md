@@ -12,6 +12,7 @@ Students should be able to:
 - Describe forecasting as **observations + models**, with **uncertainty** increasing in time.
 - Distinguish **weather** from **climate** cleanly.
 - Connect severe weather awareness to **safety** practices.
+- Describe **air masses** and basic **cold** vs **warm fronts** as boundaries where different air properties meet.
 
 ### Answers to Study Questions
 
@@ -25,6 +26,8 @@ Students should be able to:
 8. The atmosphere is **chaotic**; small errors grow; long leads have more **uncertainty** without perfect observations and models.
 9. **Weather** is short-term conditions; **climate** is long-term average patterns (and variability) of weather.
 10. Example: **lightning** during thunderstorms—go **indoors** and avoid exposed heights and conductive paths; many acceptable pairs.
+11. A **cold front** is the boundary where a colder, denser air mass advances and wedges under warmer air, often lifting it quickly and producing sharp clouds and storms.
+12. **Fronts** mark boundaries between air masses with different temperature/moisture; they help meteorologists explain and predict where clouds, storms, and wind shifts are likely.
 
 ### Activity Suggestions
 

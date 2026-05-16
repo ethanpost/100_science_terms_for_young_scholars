@@ -11,7 +11,9 @@ Students should be able to:
 - Name **cardinal** directions and understand clockwise ordering.
 - Distinguish **true north** (geographic axis) from **magnetic north** (field direction at a location).
 - Define **magnetic declination** as the angle between true and magnetic north.
+- Define **magnetic declination** as the angle between true and magnetic north.
 - Identify common **interference** sources (metal, magnets, current) and basic responsible use with maps.
+- Read a **bearing** in degrees and recognize a **compass rose** on a map.
 
 ### Answers to Study Questions
 
@@ -25,6 +27,9 @@ Students should be able to:
 8. Accept any two reasonable examples: **steel/iron**, **magnets**, **electrical wires/devices**, **some speakers**, **vehicles**, etc.
 9. To **convert** between map directions (often true) and compass directions (magnetic), navigators apply the declination correction consistently.
 10. Accept reasonable answers, e.g., "Compass always points exactly to the geographic North Pole" is false due to **declination** and field complexity.
+11. **90°** is commonly used for **east** in the degree bearing system (measured clockwise from north).
+12. A **compass rose** is a map symbol showing how **north** (and often other cardinal directions) is oriented on that map.
+13. A **bearing** is a **direction stated as an angle**, usually measured **clockwise from north** in degrees.
 
 ### Activity Suggestions
 

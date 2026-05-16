@@ -64,6 +64,40 @@ Longitude is the geography.
 
 Time zones are the human scheduling compromise.
 
+## Solar Time and Clock Time
+
+**Solar time** is tied to the Sun: local noon is roughly when the Sun is highest for that longitude.
+
+**Standard clock time** uses **time zones**, so many towns on different longitudes share the same minute on the clock for convenience.
+
+That is why your phone can say 3:15 while shadows suggest the Sun is not exactly at the astronomy-class "noon" position for your location.
+
+Longitude is still underneath the system: time zones are a human layer on top of Earth's rotation.
+
+## UTC and the Global Clock
+
+When pilots, astronomers, and computer systems need one shared clock that does not depend on summer clock changes in any one country, they often use **UTC**.
+
+The letters stand for **Coordinated Universal Time**.
+
+UTC is a modern global time standard used like a worldwide "reference clock" for science, navigation, and international schedules.
+
+It grows from the same prime-meridian tradition as old **Greenwich Mean Time**, but it is defined with atomic clocks and careful leap adjustments so the whole planet can agree on a moment in time.
+
+For a student, the useful idea is simple:
+
+**UTC helps the world compare times without every city inventing its own private noon.**
+
+## Why One Prime Meridian Mattered
+
+For centuries, different nations drew **0° longitude** through their own national observatories.
+
+That made international sea charts confusing and sometimes dangerous.
+
+In the late 1800s, a conference helped settle a common reference, and **Greenwich** became the conventional prime meridian for most of the world.
+
+Modern satellite navigation uses a precise Earth model called **WGS84**, which keeps **0° longitude** aligned with the Greenwich meridian tradition for practical map work.
+
 ## Longitude With Latitude: A Full Address
 
 Together, latitude and longitude pinpoint a location on Earth's surface (plus elevation for the full truth).
@@ -99,6 +133,7 @@ Ask:
 - Am I east or west of Greenwich?
 - If Earth rotates, how does my longitude relate to when noon happens?
 - Does this map use degrees east or west, or negative numbers?
+- When someone says UTC, are they talking about my classroom wall clock or a shared global reference?
 
 Longitude is the world's way of answering:
 
@@ -108,7 +143,7 @@ Longitude is the world's way of answering:
 
 Longitude measures how far east or west a place is from the prime meridian (0° at Greenwich), in degrees up to 180° east or west.
 
-Meridians run pole to pole, and longitude is closely connected to Earth's rotation and therefore to time and time zones.
+Meridians run pole to pole, and longitude is closely connected to Earth's rotation and therefore to time, time zones, and coordinated global standards like **UTC**.
 
 If you remember only one sentence, remember this:
 
@@ -126,3 +161,8 @@ If you remember only one sentence, remember this:
 8. What is the International Date Line in simple terms?
 9. What two coordinates together usually pinpoint a surface location on Earth?
 10. Name one misconception about longitude and correct it.
+11. What is UTC in simple words, and why do scientists and pilots use it?
+12. Why was it a problem when different countries used different prime meridians on their charts?
+13. If Earth rotates about 360° in about 24 hours, about how many degrees of longitude correspond to one hour of rotation?
+14. In simple language, what is the difference between solar time and standard clock time?
+15. By modern international convention, which famous observatory site is most closely associated with 0° longitude?
