@@ -15,33 +15,50 @@ Generate a chapter from a textbook used at one of the finest prep schools in mod
 
 Create an illustration in the style of: a crude, funny, hand-drawn explainer cartoon with simple stick-figure characters, rough black outlines, a mostly white background, and selective flat accent colors. Use labels, arrows, exaggerated facial expressions, and simple visual metaphors to explain the concept clearly. The drawing should feel like an informal illustrated essay sketch: minimalist, humorous, concept-first, intentionally rough, and easy to understand at a glance. Use color sparingly but meaningfully, such as red for danger, green for money or growth, blue for systems or institutions, yellow for warnings, and gray for bureaucracy or dull machinery.
 
-# Wheel And Axle
+# Screw
 
-Imagine trying to drag a heavy wooden box across a rough floor. It scrapes, catches, and fights you every inch of the way. Now imagine placing that box on a cart with wheels. Suddenly the same load rolls forward with far less effort.
+Imagine trying to fasten two boards together by pushing a smooth metal peg straight into the wood. Unless the wood is very soft, the peg will not go far. Now take a screw, place its point on the wood, and turn it with a screwdriver. With each turn, the screw pulls itself deeper and deeper.
 
-The box did not become lighter. The wheels changed the way the load moved against the ground.
+The screw did not remove the hardness of the wood. It changed a turning force into a forward force.
 
-That is the power of the wheel and axle.
+That is the power of a screw.
 
-**A wheel and axle is a simple machine made of a larger wheel attached to a smaller axle so that both turn together.**
+**A screw is a simple machine made from an inclined plane wrapped around a cylinder or cone.**
 
-The wheel and axle is one of the six classical simple machines. It helps carts roll, doors open, clocks turn, cars move, water wells work, bicycles travel, and machines transfer motion. It can reduce friction, multiply force, increase speed, or make turning easier.
+The spiral ridge around a screw is called the thread. That thread acts like a tiny ramp winding around the shaft. As the screw turns, the thread moves forward into wood, metal, plastic, or another material.
 
-The wheel may seem ordinary because you see it everywhere. But that is exactly why it matters. Few inventions have changed human life more.
+Screws are one of the six classical simple machines. They fasten furniture, lift cars, seal jars, clamp objects, move water, adjust machines, and hold buildings together. They are small enough to fit in a pocket, but strong enough to help build bridges, ships, engines, and homes.
 
-## The Two Main Parts
+## The Main Parts of a Screw
 
-A wheel and axle has two main parts:
+A common screw has several important parts:
 
-- **Wheel**
-- **Axle**
+- **Head**
+- **Drive**
+- **Shaft**
+- **Thread**
+- **Tip**
 
-The **wheel** is the larger round part.
+The **head** is the top part of the screw. It may be flat, rounded, or shaped for a special job.
 
-The **axle** is the smaller rod or shaft attached to the wheel.
+The **drive** is the slot or shaped opening in the head where a screwdriver, drill bit, wrench, or other tool fits.
 
-When the wheel turns, the axle turns with it. When the axle turns, the wheel turns with it. The two parts act as one machine.
+The **shaft** is the main body of the screw.
 
-On a wagon, the wheels are the large round parts, and the axle is the rod passing through or between them. On a doorknob, the knob is the wheel, and the metal shaft inside the door is the axle. On a screwdriver, the handle acts like the wheel, and the metal shaft acts like the axle.
+The **thread** is the spiral ridge wrapped around the shaft.
 
-Once you understand that wheel and axle turn together, you can recognize this machine in many places.
+The **tip** is the end that begins entering the material.
+
+Some screws have sharp pointed tips for wood. Others have flatter ends for machine parts. Some are designed to cut their own path, while others fit into already-made threads.
+
+## The Inclined Plane Hidden in a Screw
+
+The easiest way to understand a screw is to imagine a ramp wrapped around a cylinder.
+
+If you could unwrap the thread of a screw and lay it flat, it would look like an inclined plane. Instead of going straight up a hill, the ramp winds around and around the shaft.
+
+Each turn moves the screw a small distance forward.
+
+This is why screws are powerful. A long twisting motion around the outside becomes a short forward motion into the material. The screw trades distance for force.
+
+The screwdriver handle travels in a large circle, but the screw moves forward only a little with each turn. That small forward motion can create a large force.

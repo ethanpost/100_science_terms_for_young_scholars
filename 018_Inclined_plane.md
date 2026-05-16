@@ -24,6 +24,8 @@ The ramp does not destroy the work. It rearranges the work.
 
 This is why a long, gentle ramp feels easier than a short, steep ramp. The longer ramp gives you more distance over which to apply your force, so the force needed at any moment is smaller.
 
+![Inclined Plane](018_Inclined_Plane_01.png)
+
 ## Inclined Planes and Work
 
 In science, **work** is done when a force moves an object through a distance in the direction of the force.
