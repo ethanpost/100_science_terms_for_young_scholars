@@ -46,6 +46,8 @@ This is why screws are powerful. A long twisting motion around the outside becom
 
 The screwdriver handle travels in a large circle, but the screw moves forward only a little with each turn. That small forward motion can create a large force.
 
+![Screw](019_Screw_01.png)
+
 ## Screws and Work
 
 In science, **work** is done when a force moves an object through a distance in the direction of the force.

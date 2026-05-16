@@ -36,6 +36,8 @@ The **length** is how far the wedge stretches from its tip to its back.
 
 A long, thin wedge has a gentle slope. A short, thick wedge has a steep slope.
 
+![Wedge](020_Wedge_01.png)
+
 ## The Moving Inclined Plane
 
 A wedge is often described as a moving inclined plane.

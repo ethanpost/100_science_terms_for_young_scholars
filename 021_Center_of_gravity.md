@@ -32,6 +32,8 @@ Near Earth's surface, where gravity is nearly the same from one side of an ordin
 
 The distinction matters more in advanced physics, astronomy, and very large objects where gravity may not be the same everywhere.
 
+![Center of Gravity](021_Center_of_gravity_01.png)
+
 ## Balance
 
 An object balances when its center of gravity is supported.
