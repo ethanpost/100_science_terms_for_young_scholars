@@ -45,6 +45,8 @@ If an object has little mass spread through a large volume, it has low density.
 
 This is why a small rock may feel heavier than a much larger sponge.
 
+![Density](025_Density_01.png)
+
 ## Units of Density
 
 Density can be measured in different units.

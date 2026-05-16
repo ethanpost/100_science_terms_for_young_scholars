@@ -36,6 +36,8 @@ The same idea applies everywhere. A soccer ball sitting on grass has balanced fo
 
 Balance and motion are closely connected.
 
+![Balance](022_Balance_01.png)
+
 ## Balance and Gravity
 
 Gravity is always part of balance near Earth.

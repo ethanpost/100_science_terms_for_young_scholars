@@ -26,6 +26,8 @@ This is why a nail point can enter wood but the flat head of the nail does not. 
 
 This is also why lying on a bed of many nails can be safer than stepping on one nail. Many nails spread the force over many points. One nail concentrates the force on a tiny area.
 
+![Pressure](023_Pressure_01.png)
+
 ## The Pressure Formula
 
 The basic formula for pressure is:

@@ -50,6 +50,8 @@ Clay is mostly inelastic. If you press your thumb into clay, the dent remains. A
 
 Most real materials are not perfectly elastic or perfectly inelastic. They may behave elastically for small forces and inelastically for larger forces.
 
+![Elasticity](026_Elasticity_01.png)
+
 ## The Elastic Limit
 
 The **elastic limit** is the point beyond which a material will not return completely to its original shape.

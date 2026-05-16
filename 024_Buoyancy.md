@@ -24,6 +24,8 @@ The result is a net upward force.
 
 That net upward force is the buoyant force.
 
+![Buoyancy](024_Buoyancy_01.png)
+
 ## Buoyant Force
 
 The **buoyant force** is the upward force from a fluid on an object.

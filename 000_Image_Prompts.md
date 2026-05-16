@@ -1,35 +1,53 @@
 Create an illustration in the style of: a crude, funny, hand-drawn explainer cartoon with simple stick-figure characters, rough black outlines, a mostly white background, and selective flat accent colors. Use labels, arrows, exaggerated facial expressions, and simple visual metaphors to explain the concept clearly. The drawing should feel like an informal illustrated essay sketch: minimalist, humorous, concept-first, intentionally rough, and easy to understand at a glance. Use color sparingly but meaningfully, such as red for danger, green for money or growth, blue for systems or institutions, yellow for warnings, and gray for bureaucracy or dull machinery.
 
-# Center of gravity
+# Elasticity
 
-Imagine balancing a ruler on one finger. If your finger is too far to the left, the ruler tips right. If your finger is too far to the right, the ruler tips left. But there is one spot where the ruler rests evenly, almost as if all its weight is gathered above your finger.
+Imagine pulling back a rubber band between your fingers. It stretches longer and longer. When you let go, it snaps back toward its original shape. Now imagine bending a paper clip back and forth. At first it bends a little, but soon it stays bent or breaks.
 
-That balancing spot helps reveal the ruler's center of gravity.
+The rubber band and the paper clip do not respond to force in the same way.
 
-**The center of gravity is the point where an object's weight can be thought of as acting.**
+That difference is part of elasticity.
 
-For a simple, even object, the center of gravity is often near the middle. For a strangely shaped object, or an object with more weight on one side, the center of gravity may be far from the middle.
+**Elasticity is the ability of a material or object to return to its original shape after being stretched, squeezed, bent, or twisted.**
 
-Center of gravity helps explain why things balance, tip, fall, spin, roll, and stand. It matters in sports, buildings, vehicles, animals, tools, ships, rockets, and your own body every time you walk across a room.
+Elasticity helps explain rubber bands, springs, trampolines, bows and arrows, diving boards, balls, mattresses, bridges, bones, muscles, car suspensions, and even the way buildings move slightly in strong winds or earthquakes.
 
-## Gravity Pulls on Every Part
+Elasticity is not only about things that feel rubbery. Metals, wood, plastic, glass, bone, and stone can all be elastic in small amounts.
 
-Gravity pulls downward on every part of an object.
+## Force and Deformation
 
-If you hold a book, gravity pulls on the cover, pages, spine, and corners. It does not pull only on one tiny dot. But for many problems, scientists and engineers can treat all those tiny pulls as if they acted at one point.
+A **force** is a push or pull.
 
-That point is the center of gravity.
+When a force changes the shape of an object, that shape change is called **deformation**.
 
-This idea makes complicated objects easier to understand. Instead of tracking gravity on every grain of wood in a baseball bat or every bolt in a bicycle, we can ask: where is the object's weight effectively centered?
+Deformation can happen in several ways:
 
-## Center of Gravity and Center of Mass
+- **Stretching**
+- **Compression**
+- **Bending**
+- **Twisting**
+- **Shearing**
 
-You may also hear the term **center of mass**.
+Stretching pulls an object longer, like a rubber band.
 
-The **center of mass** is the point where an object's mass is balanced.
+Compression squeezes an object shorter, like a spring pressed down.
 
-The **center of gravity** is the point where gravity's pull on the object can be treated as acting.
+Bending curves an object, like a diving board under a jumper.
 
-Near Earth's surface, where gravity is nearly the same from one side of an ordinary object to the other, the center of mass and center of gravity are usually in the same place. For most classroom examples, you can treat them as the same point.
+Twisting turns one part of an object compared with another, like wringing a towel.
 
-The distinction matters more in advanced physics, astronomy, and very large objects where gravity may not be the same everywhere.
+Shearing pushes layers sideways past each other, like sliding the top of a deck of cards.
+
+Elasticity describes what happens after the force is removed.
+
+## Elastic and Inelastic Behavior
+
+An object behaves **elastically** if it returns to its original shape after the force is removed.
+
+A spring that is gently stretched and released usually returns to its starting length. A rubber ball squashes when it hits the floor and then springs back.
+
+An object behaves **inelastically** if it does not fully return to its original shape.
+
+Clay is mostly inelastic. If you press your thumb into clay, the dent remains. A paper clip bent too far may stay bent. A crushed soda can does not pop back to its original shape.
+
+Most real materials are not perfectly elastic or perfectly inelastic. They may behave elastically for small forces and inelastically for larger forces.
