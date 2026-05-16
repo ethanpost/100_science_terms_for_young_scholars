@@ -44,6 +44,10 @@ Students should be able to:
 24. Melting changes a solid into its own liquid form. Dissolving mixes a substance into another substance to make a solution.
 25. Answers may include not touching melted wax, sugar, plastic, or metal; using supervision; wearing heat-safe gloves and eye protection; using approved containers; keeping flammables away; not melting unknown materials; watching for refreezing; and remembering melted materials can stay hot.
 26. Answers may vary. A strong answer should state that the material remains present but changes state from solid to liquid.
+27. Water's melting point is important because Earth temperatures often move above and below it, allowing water to cycle between ice and liquid water for ecosystems, rivers, glaciers, snowpack, and life.
+28. **Melting point depression** is the lowering of a substance's melting point by impurities or added substances, such as salt lowering the melting/freezing point of an ice-water mixture.
+29. Different substances have different melting points because their particles and the forces holding those particles in solid arrangements are different.
+30. Unknown materials should not be melted because they may burn, release harmful fumes, catch fire, splash, damage containers, or stay dangerously hot.
 
 ### Activity Suggestions
 

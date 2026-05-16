@@ -273,3 +273,7 @@ If you remember only one sentence, remember this:
 24. Why is melting different from dissolving?
 25. What are three safety rules related to melting?
 26. In your own words, explain why melting does not mean a substance disappeared.
+27. Why is water's melting point important for life on Earth?
+28. What is melting point depression?
+29. Why do different substances have different melting points?
+30. Why should unknown materials not be melted in a classroom or kitchen?
