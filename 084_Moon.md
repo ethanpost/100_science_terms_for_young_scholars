@@ -1,603 +1,149 @@
 ﻿# Moon
 
-On some nights the Moon looks like a silver coin.
+You are walking home after a late practice. The sky is dark. Streetlights glow below, but above you something else catches your eye — a bright disk hanging over the rooftrees, sharp enough to cast a shadow on the sidewalk.
 
-On other nights it is a thin curved blade.
+Last week that same object was only a thin curve, like someone had taken a bite out of it.
 
-Sometimes it rises while the sky is still blue.
+It did not shrink. It did not grow wings. It changed because of where it is in space and how sunlight hits it.
 
-Sometimes it seems to vanish for a night or two.
-
-The Moon is familiar, but it is not simple.
-
-It is a world with mountains, plains, craters, dust, rocks, ice, history, and motion.
-
-It is also Earth's closest natural neighbor in space.
+The Moon is familiar, but it is not simple. It is a rocky world with craters, ancient lava plains, dust, ice in shadowed craters, and a history written in impacts. It is also Earth's closest neighbor in space — close enough that twelve humans have walked on it.
 
 **The Moon is Earth's natural satellite, a rocky world that orbits Earth and reflects sunlight.**
 
-It does not make its own light.
+It does not make its own light. It shines because sunlight bounces off its surface and travels to your eyes.
 
-It shines because sunlight bounces off its surface.
+![Moon](084_Moon_01.png)
 
-## A Natural Satellite
+## Earth's Companion in Space
 
 A **satellite** is an object that orbits another object in space.
 
-Some satellites are artificial, such as weather satellites and communication satellites built by people.
+Weather satellites and GPS satellites are **artificial** — built by people. The Moon is **natural**. It travels around Earth again and again, held by gravity. Earth's gravity pulls on the Moon; the Moon's gravity pulls on Earth too. That pull helps create ocean **tides**, shapes calendars, makes eclipses possible, and has kept humans looking up for thousands of years.
 
-Some satellites are natural.
+The Moon is not a planet. It orbits Earth, not the Sun as its main path. (It does go around the Sun — but only because it is carried along with Earth.) It is not a star either. It is a **moon**: a natural satellite. Mars has two small moons; Jupiter and Saturn have dozens. Earth has one large Moon, and for our planet it matters more than most.
 
-The Moon is Earth's natural satellite.
+## A Pale Mirror, Not a Lamp
 
-It travels around Earth again and again, held by gravity.
+The Moon shines by **reflected sunlight**. Light leaves the Sun, hits the Moon's rocky surface, and bounces toward Earth. That is why you can see it at night — and sometimes in the daytime too, depending on where it is in its orbit.
 
-Earth's gravity pulls on the Moon.
+The Moon is not glowing like a light bulb. Its surface is actually quite dark compared with fresh snow. It looks bright because the sky around it is black and the Sun is extremely bright. Think of it as a dusty rocky mirror in space.
 
-The Moon's gravity pulls on Earth too.
+## Orbit, Rotation, and the Same Face
 
-That partnership affects tides, calendars, eclipses, and the way people have watched the sky for thousands of years.
+An **orbit** is the path one object follows around another in space. The Moon orbits Earth. One trip around Earth takes about **27.3 days** compared with the background stars.
 
-## The Moon Is Not a Planet
+But the cycle of Moon **phases** — new to full and back — takes about **29.5 days**. Why the difference? Because Earth is also moving around the Sun while the Moon orbits Earth. The Moon must travel a little farther to line up with the Sun in the same way again. That 29.5-day cycle is a **lunar month**.
 
-The Moon is not a planet because it orbits Earth rather than orbiting the Sun directly as its main path.
+The Moon both **rotates** (spins on its axis) and **revolves** (travels around Earth). It rotates once in about the same time it takes to orbit once. Because of this **synchronous rotation**, the same side of the Moon always faces Earth. The Moon is still spinning — it spins exactly once per orbit.
 
-It does travel around the Sun, but it does so along with Earth.
+The side that usually faces us is the **near side**. The side that faces away is the **far side**. People sometimes call the far side the "dark side," but that is misleading. The far side gets sunlight too. During a new moon, the far side is mostly lit while the near side is mostly dark. No human saw the far side directly until spacecraft photographed it in **1959**.
 
-The Moon is also not a star.
+## Phases: Reading the Moon Like a Clock
 
-It does not produce its own light.
+The Moon seems to change shape during the month. Those shapes are **phases**. The Moon itself is not changing shape. The Sun always lights half of it. We see different portions of that sunlit half as the Moon moves around Earth.
 
-It is a moon: a natural satellite.
+**Waxing** means the lit part we see is growing. **Waning** means it is shrinking.
 
-Many planets have moons.
+The main phases, in order:
 
-Mars has two small moons.
+- **New moon** — Moon between Earth and Sun; the side facing Earth is mostly dark and hard to see.
+- **Waxing crescent** — a thin curved slice growing larger.
+- **First quarter** — half the near side lit. Called "quarter" because the Moon is one quarter of the way through the phase cycle, not because only a quarter is lit.
+- **Waxing gibbous** — more than half lit, growing toward full.
+- **Full moon** — Earth between Sun and Moon; the near side is fully lit. Bright enough to cast shadows. Rises around sunset, sets around sunrise.
+- **Waning gibbous** — more than half lit, shrinking.
+- **Third quarter** — half lit again; three quarters through the cycle.
+- **Waning crescent** — thin slice shrinking toward new moon.
 
-Jupiter and Saturn have many moons.
+Then the cycle starts again. Crescent moons often hang low near sunrise or sunset. A full moon can turn a football field silver. Learning waxing and waning lets you predict what comes next without checking an app.
 
-Earth has one large Moon, and it is unusually important to our planet.
+## Eclipses: When the Lineup Is Perfect
 
-## The Moon Reflects Sunlight
+Phases are **not** caused by Earth's shadow. Earth's shadow causes **lunar eclipses**, not ordinary phases.
 
-The Moon shines by reflected sunlight.
+If the Moon orbits every month, why not an eclipse every month? Because the Moon's orbit is **tilted** compared with Earth's path around the Sun. Most months the Moon passes slightly above or below the perfect line. Eclipses happen only when Sun, Earth, and Moon line up closely enough.
 
-Sunlight travels from the Sun to the Moon.
+A **solar eclipse** happens at **new moon** when the Moon passes between Earth and the Sun and blocks part or all of the Sun's disk. In a total solar eclipse, the sky can darken and the Sun's corona may appear — but only along a narrow path on Earth. **Never look directly at the Sun during a solar eclipse without proper certified eye protection.** Ordinary sunglasses are not safe. Binoculars and telescopes aimed at the Sun can cause serious eye injury almost instantly.
 
-Some of that light bounces off the Moon's surface and travels to your eyes.
+A **lunar eclipse** happens at **full moon** when Earth passes between the Sun and the Moon and Earth's shadow falls on the Moon. During a total lunar eclipse the Moon can turn coppery red — some sunlight bends through Earth's atmosphere and reaches it while blue light is scattered away. Lunar eclipses are safe to watch with your eyes.
 
-That is why the Moon can be visible at night.
+## The Moon's Surface: Not a Smooth Ball
 
-It can also be visible during the day, depending on where it is in its orbit.
+Through binoculars or a small telescope, the Moon stops looking like a silver coin and starts looking like a battered world.
 
-The Moon is not glowing like a lamp.
+**Regolith** is the layer of dust and broken rock on the surface, built up over billions of years of impacts. Because the Moon has almost no atmosphere, small space rocks can hit the surface without burning up the way many meteors do in Earth's sky.
 
-It is more like a pale rocky mirror, though its surface is actually quite dark compared with fresh snow or polished metal.
+A **crater** is a bowl-shaped hollow, usually from an impact. A fast strike blasts out rock and leaves a circular depression. Some craters have raised rims, central peaks, or bright **rays** streaking outward. Craters last a long time on the Moon — there is almost no rain, wind, or plate tectonics to erase them. The surface is a history book of ancient collisions.
 
-The Moon looks bright because space around it is dark and because the Sun is very bright.
+The dark patches are **maria** (Latin for "seas"). Early astronomers thought they might be water. They are not. They are broad plains of ancient hardened **lava** that filled low basins long ago. The lighter areas are **highlands** — older, rougher, more heavily cratered rock. On a full moon, bright highlands and dark maria are what people sometimes imagine as a "face" on the Moon.
 
-## The Moon's Orbit
+The Moon has mountains, valleys, cliffs, and plains. It is rugged, dusty, and dry.
 
-An **orbit** is the path one object follows around another object in space.
+## Almost No Air, Wild Temperatures
 
-The Moon orbits Earth.
+Earth has a thick atmosphere. The Moon has only an extremely thin **exosphere** — so thin it does not behave like the air you breathe. No wind like Earth's. No clouds. No ordinary weather. No air for sound to travel through the way it does in a gym or on a field. Astronauts needed spacesuits for oxygen, pressure, and temperature protection.
 
-One trip around Earth takes about 27.3 days compared with the stars.
+Without air to spread heat around, temperatures swing hard. Sunlit ground can become very hot; shadowed ground can become extremely cold. Deep craters near the **poles** can stay in shadow for ages — and **water ice** can survive there. The Moon is dry compared with Earth, but ice near the poles matters for future exploration: water could mean drinking water, oxygen, or even rocket fuel if humans return to stay.
 
-But the cycle of Moon phases takes about 29.5 days.
+## Gravity: One-Sixth of Earth
 
-Why are those numbers different?
+The Moon has gravity, but weaker than Earth's — about **one sixth**. If you weighed 90 pounds on Earth, you would weigh about 15 pounds on the Moon. Your **mass** (how much matter is in you) would not change; **weight** depends on gravity. Apollo astronauts could hop in ways impossible on Earth. Things still fall on the Moon. There is no "zero gravity" on the surface — just less pull.
 
-Because Earth is also moving around the Sun while the Moon orbits Earth.
+That weaker gravity still reaches Earth. The Moon's pull on our planet helps create **tides**: the regular rise and fall of sea level. The Sun affects tides too, but the Moon matters more because it is much closer. As Earth rotates, coastlines move through bulges of water — high tide and low tide. Fishermen, sailors, surfers, and beach planners all live with the Moon's schedule.
 
-The Moon must travel a little farther to line up with the Sun in the same way again.
+When Sun, Earth, and Moon line up near new or full moon, tides are especially strong — **spring tides** (the name has nothing to do with the season; water "springs" higher and lower). Near first or third quarter, when Sun and Moon pull at right angles, **neap tides** are milder.
 
-This 29.5-day phase cycle is called a lunar month.
+## Why the Moon Matters to Earth
 
-## Rotation and Revolution
+The Moon does not cause seasons — Earth's **tilted axis** does that as we orbit the Sun. But the Moon may help **stabilize** Earth's tilt over long time scales, which could make climate less chaotic. It preserves impact history from the early solar system. It lights the night. It gave humanity one of its oldest clocks — the word **month** comes from the Moon.
 
-The Moon rotates and revolves.
+Scientists think the Moon formed about **4.5 billion years ago**, possibly when a Mars-sized object struck the young Earth and blasted material into orbit that later clumped together — the **giant impact hypothesis**. Moon rocks brought back by astronauts helped test that idea.
 
-**Rotation** means spinning around an axis.
+## Humans on the Moon
 
-**Revolution** means traveling around another object.
+The Moon is the only world beyond Earth where people have walked.
 
-The Moon rotates once in about the same time it takes to orbit Earth once.
+In **1969**, Apollo 11 landed Neil Armstrong and Buzz Aldrin on the lunar surface while Michael Collins orbited above. Armstrong's first step was a milestone in exploration — boot prints, sample bags, and experiments in one-sixth gravity. Later Apollo missions brought back rocks that revealed the Moon's age, volcanic past, and connection to Earth. Robotic spacecraft have mapped it, hunted for ice, and photographed every crater on the far side.
 
-Because of this, the same side of the Moon always faces Earth.
+The Moon is still a target for return missions and possible bases. It is close, harsh, and honest: no atmosphere to hide behind, no weather to smooth over mistakes. Training there is training for harder destinations.
 
-This is called **synchronous rotation**.
+## Observing the Moon Safely
 
-It does not mean the Moon is not spinning.
+The Moon is one of the best objects in the sky for your own eyes, binoculars, or a small telescope. Unlike the Sun, the Moon is safe to look at directly.
 
-It means the Moon spins exactly once for each orbit around Earth.
+The best surface detail often appears along the **terminator** — the line between lunar day and night — where long shadows make craters and mountains stand out. A full moon is beautiful but can look flatter because shadows are short.
 
-## The Near Side and Far Side
+**Never point binoculars or a telescope near the Sun** while observing the Moon in daytime. Accidental alignment can blind you in seconds.
 
-The side of the Moon that usually faces Earth is called the **near side**.
-
-The side that faces away from Earth is called the **far side**.
-
-The far side is sometimes incorrectly called the dark side of the Moon.
-
-That phrase can be misleading.
-
-The far side gets sunlight too.
-
-During a new moon, the far side is mostly lit by the Sun while the near side is mostly dark.
-
-The far side was first photographed by spacecraft in 1959.
-
-Before spacecraft, no human had ever seen it directly.
-
-## Phases of the Moon
-
-The Moon seems to change shape during the month.
-
-These changing shapes are called **phases**.
-
-The Moon itself is not changing shape.
-
-The Sun always lights half of the Moon.
-
-We see different portions of that sunlit half as the Moon moves around Earth.
-
-The main phases are:
-
-- New moon
-- Waxing crescent
-- First quarter
-- Waxing gibbous
-- Full moon
-- Waning gibbous
-- Third quarter
-- Waning crescent
-
-Then the cycle begins again.
-
-## New Moon
-
-A **new moon** happens when the Moon is between Earth and the Sun.
-
-The side facing Earth is mostly unlit.
-
-That makes the Moon hard or impossible to see from Earth.
-
-During a new moon, the far side of the Moon is mostly lit.
-
-Solar eclipses can happen only near new moon, but they do not happen every new moon because the Moon's orbit is tilted.
-
-The new moon is the beginning of the phase cycle.
-
-## Crescent Moons
-
-A **crescent** moon looks like a thin curved slice.
-
-After new moon, the visible lit part grows.
-
-This is called a **waxing crescent**.
-
-Waxing means growing.
-
-Before the next new moon, the visible lit part shrinks.
-
-This is called a **waning crescent**.
-
-Waning means shrinking.
-
-Crescent moons are often seen near sunrise or sunset, depending on whether they are waxing or waning.
-
-## Quarter Moons
-
-A **quarter moon** happens when we see half of the Moon's near side lit.
-
-This can sound confusing.
-
-If half of the visible disk is lit, why is it called a quarter moon?
-
-It is called a quarter because the Moon is one quarter or three quarters of the way through its phase cycle.
-
-At **first quarter**, the Moon is about one quarter of the way from new moon to new moon.
-
-At **third quarter**, it is about three quarters of the way through the cycle.
-
-## Gibbous Moons
-
-A **gibbous** moon is more than half lit but not full.
-
-After first quarter, the Moon becomes a **waxing gibbous**.
-
-The lit part grows larger until full moon.
-
-After full moon, it becomes a **waning gibbous**.
-
-The lit part shrinks.
-
-Learning the words waxing and waning helps you read the Moon like a clock in the sky.
-
-Waxing means the lit part is increasing.
-
-Waning means the lit part is decreasing.
-
-## Full Moon
-
-A **full moon** happens when Earth is between the Sun and the Moon.
-
-The side of the Moon facing Earth is fully lit.
-
-The Moon rises around sunset and sets around sunrise.
-
-During a full moon, the Moon can be bright enough to cast shadows.
-
-Lunar eclipses can happen only near full moon, but they do not happen every full moon because the Moon's orbit is tilted.
-
-The full moon has inspired stories, calendars, poems, navigation, and careful scientific observation.
-
-## Why Eclipses Do Not Happen Every Month
-
-If the Moon orbits Earth every month, why do we not get a solar eclipse every new moon and a lunar eclipse every full moon?
-
-The reason is that the Moon's orbit is tilted compared with Earth's orbit around the Sun.
-
-Most months, the Moon passes a little above or below the exact line between Earth and the Sun.
-
-An eclipse happens only when the Sun, Earth, and Moon line up closely enough.
-
-The tilt of the Moon's orbit makes eclipses special events rather than monthly events.
-
-## Solar Eclipses
-
-A **solar eclipse** happens when the Moon passes between Earth and the Sun and blocks part or all of the Sun from view.
-
-Solar eclipses happen at new moon.
-
-In a total solar eclipse, the Moon completely covers the bright disk of the Sun for viewers in a narrow path on Earth.
-
-The Sun's corona may become visible.
-
-Never look directly at the Sun during a solar eclipse without proper certified eye protection.
-
-Ordinary sunglasses are not safe.
-
-Solar eclipses are beautiful, but they require serious safety rules.
-
-## Lunar Eclipses
-
-A **lunar eclipse** happens when Earth passes between the Sun and the Moon and Earth's shadow falls on the Moon.
-
-Lunar eclipses happen at full moon.
-
-During a total lunar eclipse, the Moon can turn coppery red.
-
-This happens because some sunlight bends through Earth's atmosphere and reaches the Moon.
-
-Earth's atmosphere scatters blue light more strongly, allowing reddish light to pass through and color the Moon.
-
-Unlike solar eclipses, lunar eclipses are safe to watch with your eyes.
-
-## The Moon's Surface
-
-The Moon's surface is rocky, dusty, dry, and covered with craters.
-
-The dust and broken rock on the surface are called **regolith**.
-
-Regolith was made by billions of years of impacts from meteoroids, asteroids, and comets.
-
-Because the Moon has almost no atmosphere, small space rocks can strike the surface without burning up the way many meteors do in Earth's atmosphere.
-
-The Moon has mountains, valleys, plains, cliffs, and ancient lava flows.
-
-It is not a smooth silver ball.
-
-It is a rugged world.
-
-## Craters
-
-A **crater** is a bowl-shaped hollow made by an impact or volcanic activity.
-
-Most Moon craters were made by impacts.
-
-When a fast-moving object crashes into the Moon, it blasts out material and leaves a circular depression.
-
-Some craters have raised rims.
-
-Some have central peaks.
-
-Some are surrounded by bright streaks called rays.
-
-The Moon keeps its craters for a very long time because it has little weather, no flowing rain, and no plate tectonics like Earth.
-
-The Moon's surface preserves a record of ancient impacts.
-
-## Maria
-
-The dark patches on the Moon are called **maria**.
-
-Maria is Latin for seas.
-
-Early observers thought these dark areas might be seas of water.
-
-They are not.
-
-They are broad plains of ancient hardened lava.
-
-Long ago, lava flowed across parts of the Moon and filled low basins.
-
-The lava cooled and formed dark basalt rock.
-
-The maria are easier to see on the near side of the Moon than on the far side.
-
-They help make the familiar "face" or patterns people imagine on the Moon.
-
-## Highlands
-
-The lighter areas of the Moon are called **highlands**.
-
-They are older, brighter, rougher, and more heavily cratered than the maria.
-
-The highlands are made of different kinds of rock than the dark maria.
-
-When you look at the full Moon, the bright areas are mostly highlands, and the dark patches are mostly maria.
-
-The contrast between highlands and maria tells part of the Moon's geological history.
-
-## The Moon Has Almost No Atmosphere
-
-Earth has a thick atmosphere compared with the Moon.
-
-The Moon has only an extremely thin collection of atoms and molecules around it, called an **exosphere**.
-
-It is so thin that it does not work like the air on Earth.
-
-There is no wind like Earth's wind.
-
-There are no clouds.
-
-There is no ordinary weather.
-
-There is no air to breathe.
-
-Sound cannot travel through empty space or the Moon's near-vacuum surface environment the way it travels through air.
-
-Astronauts on the Moon needed spacesuits for oxygen, pressure, temperature protection, and safety.
-
-## Temperatures on the Moon
-
-The Moon has extreme temperatures.
-
-In sunlight, the surface can become very hot.
-
-In darkness, it can become extremely cold.
-
-This happens partly because the Moon has almost no atmosphere to spread heat around or trap warmth.
-
-On Earth, air and oceans help moderate temperature.
-
-On the Moon, a spot in sunlight and a spot in shadow can have very different temperatures.
-
-Some deep craters near the Moon's poles may stay in shadow for a very long time.
-
-Ice can survive in some of these permanently shadowed places.
-
-## Water Ice on the Moon
-
-The Moon is dry compared with Earth, but it is not completely without water.
-
-Scientists have found evidence of water ice, especially near the lunar poles in cold shadowed craters.
-
-This ice is important for future exploration.
-
-Water could help provide drinking water, oxygen, and even rocket fuel if it can be collected and used safely.
-
-Finding water on the Moon does not mean there are lakes or oceans there.
-
-It means water exists in frozen or chemically bound forms in certain places.
-
-## Gravity on the Moon
-
-The Moon has gravity, but it is weaker than Earth's gravity.
-
-The Moon's surface gravity is about one sixth of Earth's.
-
-If you weighed 60 pounds on Earth, you would weigh about 10 pounds on the Moon.
-
-Your mass would not change.
-
-Mass is the amount of matter in you.
-
-Weight depends on gravity.
-
-Astronauts on the Moon could hop and carry equipment in ways that would be harder on Earth.
-
-But the Moon's gravity is not zero.
-
-Things still fall there.
-
-## Tides
-
-The Moon's gravity pulls on Earth.
-
-This pull helps create ocean tides.
-
-**Tides** are the regular rise and fall of sea level.
-
-The Sun also affects tides, but the Moon has the stronger effect because it is much closer to Earth.
-
-As Earth rotates, places on the coast move through tidal bulges, causing high and low tides.
-
-Tides affect beaches, harbors, sea life, fishing, navigation, and coastal ecosystems.
-
-The Moon is far away, but its gravity reaches into daily life on Earth.
-
-## Spring Tides and Neap Tides
-
-When the Sun, Earth, and Moon line up near new moon or full moon, tides are especially strong.
-
-These are called **spring tides**.
-
-The name does not mean they happen only in spring.
-
-It means the water "springs" higher and lower than usual.
-
-When the Sun and Moon pull at right angles near first quarter or third quarter, the difference between high and low tide is smaller.
-
-These are called **neap tides**.
-
-Tides show how the Sun, Earth, and Moon work as a system.
-
-## The Moon and Earth's Tilt
-
-The Moon helps stabilize Earth's tilt.
-
-Earth's tilted axis gives us seasons.
-
-Without the Moon, Earth's tilt might wobble more dramatically over long periods of time.
-
-That could make climate patterns less stable.
-
-The Moon does not cause the seasons.
-
-The seasons are caused mostly by Earth's tilt as Earth orbits the Sun.
-
-But the Moon helps keep that tilt from changing too wildly.
-
-This is one reason the Moon is important for Earth's long-term environment.
-
-## How the Moon Formed
-
-Scientists think the Moon formed about 4.5 billion years ago.
-
-The leading idea is called the **giant impact hypothesis**.
-
-According to this idea, a Mars-sized object struck the young Earth.
-
-Material from the impact blasted into orbit around Earth.
-
-That material eventually came together to form the Moon.
-
-This idea helps explain why Moon rocks are similar to Earth's rocks in some ways, but different in others.
-
-Science builds explanations by comparing evidence, not by guessing wildly.
-
-## The Moon and Time
-
-People have used the Moon to track time for thousands of years.
-
-The word month is connected to the Moon.
-
-Many calendars are based partly or fully on lunar cycles.
-
-The Moon's phases are easy to see without instruments.
-
-Hunters, farmers, sailors, travelers, and astronomers all watched the Moon.
-
-The Moon is one of humanity's oldest clocks.
-
-Even today, its phases help people connect sky watching with regular patterns in nature.
-
-## The Moon in Exploration
-
-The Moon is the only world beyond Earth where humans have walked.
-
-In 1969, Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on the Moon while Michael Collins orbited above.
-
-Armstrong became the first person to step onto the lunar surface.
-
-Several Apollo missions brought back Moon rocks.
-
-Those rocks taught scientists about the Moon's age, surface, volcanic history, and formation.
-
-Robotic spacecraft have also mapped the Moon, studied its gravity, searched for water ice, and photographed its far side.
-
-The Moon remains a major target for future exploration.
-
-## Why the Moon Matters
-
-The Moon matters for many reasons.
-
-It creates tides with its gravity.
-
-It helps stabilize Earth's tilt.
-
-It preserves ancient impact history.
-
-It gives scientists clues about Earth and the early solar system.
-
-It provides a nearby place to practice space exploration.
-
-It lights the night sky.
-
-It has shaped calendars, stories, navigation, art, and science.
-
-The Moon is not just a pretty object overhead.
-
-It is part of Earth's story.
-
-## Observing the Moon
-
-The Moon is one of the safest and easiest objects to observe in the sky.
-
-You can watch its phases with your eyes.
-
-Binoculars can reveal craters and maria.
-
-A small telescope can show mountains, crater rims, and shadows.
-
-The best time to see surface detail is often near the line between lunar day and night, called the **terminator**.
-
-Shadows are long there, so craters and mountains stand out.
-
-A full moon is bright and beautiful, but it is not always the best time for seeing surface detail because shadows are shorter.
-
-Unlike the Sun, the Moon is safe to look at directly.
-
-But never point binoculars or a telescope near the Sun while observing the Moon in daytime.
+Watch the phases for a month. Sketch what you see. Compare your notes to the waxing and waning pattern. You are doing what hunters, farmers, and astronomers did for centuries — only with better sneakers.
 
 ## Common Misconceptions
 
-One mistake is thinking the Moon makes its own light.
-
-It reflects sunlight.
-
-Another mistake is thinking Earth's shadow causes the Moon's phases.
-
-Earth's shadow causes lunar eclipses, not ordinary phases.
-
-A third mistake is thinking the far side of the Moon is always dark.
-
-The far side receives sunlight too.
-
-A fourth mistake is thinking there is no gravity on the Moon.
-
-The Moon has gravity, but it is weaker than Earth's.
-
-A fifth mistake is thinking the Moon is smooth.
-
-It has mountains, craters, plains, dust, rocks, and cliffs.
+- **The Moon makes its own light.** No — it reflects sunlight.
+- **Earth's shadow causes the phases.** No — phases come from how much of the sunlit half we see. Earth's shadow causes lunar eclipses.
+- **The far side is always dark.** No — it gets sunlight; we just do not see it from Earth.
+- **There is no gravity on the Moon.** There is gravity — about one sixth of Earth's.
+- **The Moon is smooth.** It has craters, mountains, maria, cliffs, and dust.
 
 ## How to Think Like a Lunar Scientist
 
 When you study the Moon, ask:
 
 - Where is the Moon compared with Earth and the Sun?
-- Which half of the Moon is lit by the Sun?
-- How much of the lit half can we see from Earth?
+- Which half is lit by the Sun, and how much of that half can we see?
 - Is this about phases, eclipses, tides, surface features, or exploration?
-- What evidence do Moon rocks, craters, and spacecraft provide?
-- How does the Moon affect Earth?
-- What safety rules matter during Moon or eclipse observations?
+- What evidence do craters, rocks, and spacecraft give us?
+- What safety rules apply for the Sun versus the Moon?
 
-The Moon is close enough to watch with your own eyes, yet deep enough to study for a lifetime.
+The Moon is close enough to watch with your own eyes and deep enough to study for a lifetime.
 
 ## The Big Idea
 
-The Moon is Earth's natural satellite.
-
-It is a rocky world that orbits Earth and reflects sunlight. Its changing phases happen because we see different amounts of its sunlit half as it moves around Earth. The Moon's gravity helps create tides, its synchronous rotation keeps the same side facing Earth, and its surface preserves craters, maria, highlands, dust, rocks, and clues about the early solar system. The Moon has almost no atmosphere, weaker gravity than Earth, and a long history of human observation and exploration.
+The Moon is Earth's rocky natural satellite. It orbits Earth, reflects sunlight, and shows phases because we see different amounts of its sunlit half as it moves. The same side faces us because of synchronous rotation. Its gravity drives tides; its surface preserves craters and ancient lava plains; its ice and weak gravity make it a proving ground for exploration.
 
 If you remember only one sentence, remember this:
 
-**The Moon is Earth's rocky natural satellite, a reflected-light world whose orbit, gravity, phases, and surface connect the sky above us to life on Earth.**
+**The Moon is Earth's rocky natural satellite — a reflected-light world whose orbit, phases, gravity, and battered surface connect the night sky above you to life on Earth.**
 
 ## Study Questions
 
@@ -605,29 +151,21 @@ If you remember only one sentence, remember this:
 2. What is a natural satellite?
 3. Why is the Moon not a planet?
 4. Why does the Moon shine?
-5. What is an orbit?
-6. How long does the Moon's phase cycle take?
-7. What is the difference between rotation and revolution?
-8. What is synchronous rotation?
-9. Why do we usually see the same side of the Moon from Earth?
-10. What is wrong with calling the far side of the Moon the dark side?
-11. What are Moon phases?
-12. What causes the Moon's phases?
-13. What is a new moon?
-14. What is a full moon?
-15. What do waxing and waning mean?
-16. Why is a quarter moon called a quarter moon?
-17. Why do eclipses not happen every month?
-18. What is a solar eclipse?
-19. What is a lunar eclipse?
-20. What is regolith?
-21. What are craters, and how did most Moon craters form?
-22. What are maria?
-23. What are lunar highlands?
-24. Why does the Moon have almost no weather?
-25. Why are temperatures on the Moon so extreme?
-26. Is there water on the Moon?
-27. How strong is gravity on the Moon compared with Earth?
-28. How does the Moon help create tides?
-29. What is the giant impact hypothesis?
-30. What are three safety rules or good habits for observing the Moon, the Sun, or eclipses?
+5. What is an orbit, and how long is the Moon's phase cycle?
+6. What is the difference between rotation and revolution?
+7. What is synchronous rotation, and why do we usually see the same side of the Moon?
+8. Why is "dark side of the Moon" a misleading phrase?
+9. What causes the Moon's phases?
+10. What do waxing and waning mean?
+11. Why is a quarter moon called a quarter moon?
+12. Why do solar and lunar eclipses not happen every month?
+13. What is a solar eclipse, and what safety rule must you follow?
+14. What is a lunar eclipse, and why does the Moon sometimes look red?
+15. What is regolith, and why does the Moon keep craters for a long time?
+16. What are maria and highlands?
+17. Why does the Moon have almost no weather?
+18. How strong is gravity on the Moon compared with Earth?
+19. How does the Moon help create tides? What are spring tides and neap tides?
+20. What is the giant impact hypothesis?
+21. Who were the first two astronauts to walk on the Moon, and in what year?
+22. What is the terminator, and when is it a good time to see lunar surface detail?

@@ -6,82 +6,79 @@
 
 Students should be able to:
 
-- Define Earth's revolution as Earth's motion around the Sun.
-- Explain that Earth takes about 365 1/4 days to revolve around the Sun once.
-- Distinguish revolution from rotation.
+- Define Earth's revolution as Earth's motion around the Sun (~365 1/4 days) and explain that revolution helps create the year.
+- Distinguish revolution from rotation and connect rotation to day and night.
 - Explain that Earth's orbit is a nearly circular ellipse shaped by gravity and forward motion.
-- Describe Earth's 23.5-degree axial tilt and its importance for seasons.
-- Explain that seasons are caused mainly by Earth's tilt and revolution, not by changing distance from the Sun.
-- Describe direct and slanted sunlight, changing day length, solstices, equinoxes, perihelion, and aphelion.
-- Connect Earth's revolution to leap years, calendars, seasonal constellations, the ecliptic, tropics, and polar circles.
-- Correct common misconceptions about seasons, distance from the Sun, and Earth's yearly motion.
+- Describe Earth's 23.5-degree axial tilt and explain that seasons are caused mainly by tilt and revolution, not by changing distance from the Sun.
+- Describe direct vs. slanted sunlight, changing day length, solstices, and equinoxes.
+- Define perihelion and aphelion and use opposite hemisphere seasons to refute the "closer Sun = summer" misconception.
+- Connect revolution to leap years, the ecliptic, seasonal constellations, tropics, and polar circles.
+- Compare Earth's orbital speed to familiar speeds and explain why steady motion is not felt.
+- Correct common misconceptions about revolution, seasons, distance, and apparent motion of the Sun among the stars.
 
 ### Answers to Study Questions
 
 1. **Earth's revolution** is Earth's motion around the Sun.
 2. An **orbit** is the path one object follows around another object in space.
-3. Earth's orbit is an ellipse, though it is nearly circular.
-4. An **ellipse** is a slightly stretched circle or oval-like shape.
-5. **Rotation** is spinning around an axis. **Revolution** is traveling around another object.
-6. Earth's rotation causes day and night.
-7. Earth's revolution helps cause the year and, together with Earth's tilted axis, the seasons.
-8. Earth takes about 365 1/4 days to revolve around the Sun once.
-9. We need leap years because Earth's year is not exactly 365 days. The extra quarter days add up, and leap years keep the calendar aligned with Earth's orbit and the seasons.
-10. Earth's **axis** is the imaginary line through the North Pole and South Pole around which Earth rotates.
-11. Earth's axis is tilted about 23.5 degrees.
-12. The main cause of Earth's seasons is Earth's tilted axis as Earth revolves around the Sun.
-13. When the Northern Hemisphere is tilted toward the Sun, it receives more direct sunlight and longer days, producing summer there.
-14. When the Northern Hemisphere has summer, the Southern Hemisphere is tilted away from the Sun and has winter.
-15. Direct sunlight warms more strongly because the same solar energy is concentrated into a smaller area. Slanted sunlight spreads energy over a larger area.
-16. Longer days give the ground, water, and air more time to warm; shorter days give them less time to warm.
-17. A **solstice** is one of two times each year when one hemisphere has its longest day and the other has its shortest day.
-18. At the June solstice, the Northern Hemisphere has the start of astronomical summer and the longest daylight of the year.
-19. An **equinox** is one of two times each year when day and night are nearly equal in length around the world.
-20. Day and night are nearly equal around an equinox because neither hemisphere is tilted strongly toward or away from the Sun.
-21. Distance from the Sun is not the main cause of seasons because Earth is closest to the Sun in early January, and the Northern and Southern Hemispheres have opposite seasons at the same time.
-22. **Perihelion** is when Earth is closest to the Sun. **Aphelion** is when Earth is farthest from the Sun.
-23. The **ecliptic** is the Sun's apparent yearly path across the sky against the background stars.
-24. Different constellations are visible in different seasons because Earth's revolution changes which direction the nighttime side of Earth faces in space.
-25. In summer, the Sun rises earlier, sets later, and climbs higher in the sky. In winter, it rises later, sets earlier, and stays lower.
-26. The **Tropic of Cancer** and **Tropic of Capricorn** are lines of latitude about 23.5 degrees north and south of the equator that mark the farthest places where the Sun can appear directly overhead at noon.
-27. Inside the Arctic and Antarctic Circles, there can be at least one day each year when the Sun does not set and at least one day when the Sun does not rise.
-28. Calendars are connected to astronomy because the day is based on Earth's rotation, the year is based on Earth's revolution, and months are historically connected to the Moon's phases.
-29. Earth moves around the Sun at an average speed of about 30 kilometers per second, or about 108,000 kilometers per hour.
-30. If Earth had no axial tilt, seasons would be much weaker. Day length and the Sun's noon height would change much less during the year.
+3. Earth's orbit is an **ellipse** (a slightly stretched oval), though it is nearly circular compared with many orbits.
+4. **Rotation** is spinning around an axis. **Revolution** is traveling around another object.
+5. Earth's **rotation** causes day and night. Earth's **revolution** helps cause the year and, together with axial tilt, the seasons.
+6. Earth takes about **365 1/4 days** to revolve around the Sun once.
+7. We need **leap years** because Earth's year is not exactly 365 days. The extra quarter days add up, and leap years keep the calendar aligned with Earth's orbit and the seasons.
+8. Earth's **axis** is the imaginary line through the North Pole and South Pole around which Earth rotates. It is tilted about **23.5 degrees**.
+9. The main cause of seasons is Earth's **tilted axis** as Earth **revolves** around the Sun.
+10. When the Northern Hemisphere has summer, the Southern Hemisphere is tilted away from the Sun and has **winter** (and shorter, slantier daylight there).
+11. **Direct** sunlight concentrates the same solar energy into a smaller area. **Slanted** sunlight spreads it over a larger area, so warming is weaker.
+12. **Longer** days give the ground, water, and air more time to warm; **shorter** days give less warming time.
+13. A **solstice** is one of two times each year when one hemisphere has its longest day and the other its shortest. At the **June solstice**, the Northern Hemisphere has the start of astronomical summer and the **longest daylight** of the year.
+14. An **equinox** is one of two times each year when day and night are nearly **equal** in length worldwide.
+15. Distance is not the main cause because Earth is **closest** to the Sun in early January (**perihelion**) while the Northern Hemisphere has **winter**, and the two hemispheres have **opposite** seasons at the same time.
+16. **Perihelion** is when Earth is closest to the Sun (early January). **Aphelion** is when Earth is farthest (early July).
+17. The **ecliptic** is the Sun's apparent yearly path across the sky against the background stars.
+18. Different constellations appear in different seasons because Earth's **revolution** changes which direction the nighttime side of Earth faces in space.
+19. In **summer**, the Sun rises earlier, sets later, and climbs higher. In **winter**, it rises later, sets earlier, and stays lower.
+20. The **Tropic of Cancer** and **Tropic of Capricorn** are lines of latitude about 23.5° north and south of the equator — the farthest places where the Sun can appear directly overhead at noon.
+21. Inside the Arctic and Antarctic Circles, there can be at least one day per year when the Sun does not set (**midnight sun**) and at least one when it does not rise (**polar night**).
+22. Earth moves around the Sun at an average speed of about **30 km/s** (~108,000 km/h). We do not feel it because Earth, the atmosphere, and everything on the surface move together at a steady rate — we notice changes in motion more than smooth, constant motion.
+23. Without axial tilt, seasons would be **much weaker**. Day length and the Sun's noon height would change little through the year.
 
 ### Activity Suggestions
 
 1. **Lamp and Globe Seasons Model**
-   Use a lamp as the Sun and a tilted globe as Earth. Move the globe around the lamp while keeping the axis pointed in the same direction to show opposite seasons in the hemispheres.
+   Use a bright lamp as the Sun and a tilted globe as Earth. Walk the globe around the lamp while keeping the axis pointed toward the same spot in the room (e.g., a wall poster). Students mark one city and call out summer, winter, longer day, and shorter day for each position.
 
-2. **Rotation vs. Revolution Kinesthetic Model**
-   Have one student rotate in place as Earth while walking around a "Sun." Students identify which motion causes day and which causes the year.
+2. **Rotation vs. Revolution Walk**
+   One student spins slowly in place (rotation) while walking a large circle around a "Sun" chair (revolution). Pause at four points and name which motion causes day/night vs. year/seasons. Repeat until the class can explain both without prompting — pairs well with chapter 088.
 
 3. **Direct vs. Slanted Light Investigation**
-   Shine a flashlight directly onto paper, then at a slant. Students compare the size and brightness of the light patch to model summer and winter sunlight angles.
+   Shine a flashlight straight onto paper, then at a steep slant. Compare the size and brightness of the light patch. Link to summer (higher, more direct Sun) and winter (lower, slanted Sun). Works on a desk or in a gym after practice.
 
-4. **Solstice and Equinox Diagram**
-   Students draw Earth at four positions in its orbit and label the June solstice, September equinox, December solstice, and March equinox.
+4. **Solstice and Equinox Orbit Diagram**
+   Students draw Earth at four positions in its orbit and label June solstice, September equinox, December solstice, and March equinox. Add arrows showing which hemisphere tilts toward the Sun at each position.
 
-5. **Leap Year Calendar Challenge**
-   Students calculate how quarter days add up over four years, then explore why the century rule keeps the calendar more accurate.
+5. **"Closer Sun?" Debate**
+   Present: "Summer happens because Earth is closer to the Sun." Students use perihelion timing, aphelion timing, and opposite hemisphere seasons to build a refutation. Award points for evidence, not volume.
 
-6. **Season Misconception Debate**
-   Present the claim "Summer happens because Earth is closer to the Sun." Students use perihelion, aphelion, and opposite hemisphere seasons to refute it.
+6. **Birthday Orbit Timeline**
+   Students place sticky notes on a classroom circle for key personal dates (birthday, first day of school, championship game, camp). Walk one "Earth" around a central Sun and discuss how everyone shares the same orbit but experiences different seasons depending on hemisphere and latitude.
 
 7. **Seasonal Constellation Wheel**
-   Students make a simple wheel showing which constellations are visible in different seasons and connect the changes to Earth's position in its orbit.
+   Students make a simple wheel: Earth positions around the Sun on one layer, prominent Northern Hemisphere constellations by season on another. Rotate to show why Orion dominates winter evenings and Scorpius summer ones.
 
-8. **Tropics and Polar Circles Map**
-   Students label the Tropic of Cancer, Tropic of Capricorn, Arctic Circle, Antarctic Circle, equator, and poles on a world map, then connect each line to Earth's 23.5-degree tilt.
+8. **Speed Comparison Station**
+   Post Earth's orbital speed (~30 km/s, ~108,000 km/h) next to a jet (~900 km/h) and a car (~100 km/h). Students rank speeds and write one sentence on why they still do not feel orbital motion — connects to the "steady bus ride" idea from rotation.
 
 ### Teaching Notes
 
+- Open with a relatable hook (birthday, sports seasons, camp, school calendar) before defining revolution.
 - Keep the anchor phrase visible: **Earth's revolution is the yearly orbit that, with axial tilt, creates the seasons**.
-- Reinforce the difference between rotation and revolution often; students commonly reverse them.
-- Treat the seasons misconception directly: distance from the Sun is not the main cause.
-- Keep Earth's axis pointing the same direction during models. Rotating the axis around incorrectly creates confusion.
-- Use both sunlight angle and day length to explain seasonal temperature differences.
-- Emphasize that the hemispheres have opposite seasons at the same time.
-- Connect the chapter to constellations by showing that Earth's orbit changes which stars are visible at night.
-- Connect the chapter to calendars by explaining why leap years are needed.
+- Reinforce **rotation vs. revolution** every lesson; link back to chapter 088 so students see rotation and revolution as a pair.
+- Treat the **distance misconception** directly and early. Use perihelion in January and opposite hemispheres as proof.
+- When modeling with a globe, keep the axis pointing the **same direction in space** as Earth moves — do not spin the axis around the orbit incorrectly.
+- Explain seasons with **both** sunlight angle and day length; either alone is incomplete.
+- Use the comparison table in the chapter on the board; boys 11–13 often lock in the distinction faster with a visual chart.
+- Connect constellations to stargazing, apps, or camping — seasonal stars feel like evidence, not trivia.
+- Connect leap years to real calendars ("Why is there a Feb 29?") so astronomy feels practical.
+- Compare orbital speed to jets or bullets for scale without requiring heavy math.
+- The chapter image `089_Revolution_of_the_Earth_01.png` can show Earth on an elliptical orbit, tilted axis, or seasonal sunlight angles in the project's stick-figure cartoon style when available.
+- Optional cross-link: chapter **091 Seasons** goes deeper on seasonal weather and regional differences; avoid repeating the full seasons unit here.

@@ -1,485 +1,310 @@
 ﻿# Carbon dioxide
 
-Blow gently through a straw into a glass of water with a little indicator, and the liquid may change color. Open a fizzy drink, and bubbles rush upward. Watch a candle under a jar go out, and one reason is that oxygen runs low while carbon dioxide builds up.
+You crack open a cold soda after practice. The hiss is loud. Bubbles race up the glass. You take a sip and feel that sharp, tingly bite on your tongue.
 
-Carbon dioxide is invisible, but it is busy.
+You cannot see the gas doing the work. You cannot smell much of it in a normal room. But carbon dioxide is everywhere — in your breath, in plants, in fires, in caves, in oceans, and in the air above your school.
 
 **Carbon dioxide is a compound made of one carbon atom and two oxygen atoms.**
 
-Carbon dioxide is part of breathing, photosynthesis, fire, fizzy drinks, dry ice, oceans, caves, climate, and the carbon cycle. It is necessary for life on Earth, but too much in the wrong place can cause serious problems.
+Its chemical formula is **CO2**. That small molecule connects breathing, photosynthesis, burning fuel, fizzy drinks, dry ice fog, limestone caves, and Earth's climate. Carbon dioxide is necessary for life. It is also powerful and sometimes dangerous when too much builds up in the wrong place.
 
-To understand carbon dioxide, we must begin with its formula.
+![Carbon dioxide](075_Carbon_dioxide_01.png)
 
 ## The Formula CO2
 
-The chemical formula for carbon dioxide is **CO2**.
+Scientists write carbon dioxide as **CO2**.
 
-The C stands for carbon.
+- **C** = carbon (one atom)
+- **O** = oxygen (two atoms — the small **2** means "two of them")
 
-The O stands for oxygen.
+So one molecule of carbon dioxide contains:
 
-The small 2 means there are two oxygen atoms.
+| Part | Count |
+|------|-------|
+| Carbon atoms | 1 |
+| Oxygen atoms | 2 |
 
-So one carbon dioxide molecule contains:
+Carbon dioxide is a **compound** because two different elements are chemically joined in a fixed ratio. It is not a mix you could separate by filtering. The atoms are bonded together.
 
-- 1 carbon atom
-- 2 oxygen atoms
-
-Carbon dioxide is a compound because it contains atoms of two different elements chemically joined in a fixed ratio.
-
-## A Molecule of Carbon Dioxide
+## A Molecule You Cannot See
 
 A **molecule** is a group of atoms held together by chemical bonds.
 
-Carbon dioxide is made of molecules.
+In a CO2 molecule, the carbon atom sits in the middle and the two oxygen atoms are on the ends. The molecule is straight — scientists call that **linear**.
 
-In each carbon dioxide molecule, the carbon atom is in the middle and the oxygen atoms are on the sides.
-
-The molecule is straight, or linear.
-
-The atoms are held together by covalent bonds, which means they share electrons.
-
-This small molecule has a large role in the world.
+The atoms share electrons in **covalent bonds**. You will not draw every electron in this chapter, but remember the big idea: CO2 is a small, stable molecule that plays a huge role in chemistry and biology.
 
 ## Carbon Dioxide Is a Gas
 
-At ordinary room temperature and pressure, carbon dioxide is a gas.
+At ordinary room temperature and pressure, carbon dioxide is a **gas**.
 
-It has no color.
+- No color
+- No strong smell at normal outdoor levels
+- Naturally present in air in small amounts
 
-At low concentrations, it has no strong smell.
+CO2 is **denser than air**, so a large release can sink and collect in low places — basements, ditches, caves, or the bottom of a tank. That matters for safety. Too much carbon dioxide can **crowd out oxygen**, which is what your lungs need.
 
-It is naturally present in air in small amounts.
+Invisible does not mean harmless.
 
-Carbon dioxide is denser than air, so it can collect in low places if a large amount is released.
+## A Small Slice of Air — With a Big Job
 
-This can be dangerous because too much carbon dioxide can crowd out oxygen.
+Dry air is mostly **nitrogen** and **oxygen**. Carbon dioxide is only a **small fraction** of the atmosphere.
 
-## Carbon Dioxide in Air
+Small does not mean unimportant.
 
-Air is a mixture of gases.
+Plants use CO2 in **photosynthesis**. CO2 helps trap heat as a **greenhouse gas**. It moves through the **carbon cycle** between air, water, living things, and rocks.
 
-Most dry air is nitrogen and oxygen.
+Some gases change the world even when they make up only a tiny part of the air.
 
-Carbon dioxide makes up only a small fraction of the atmosphere, but it is very important.
+## Respiration: Your Cells on the Clock
 
-Plants use carbon dioxide in photosynthesis.
-
-Carbon dioxide helps trap heat in the atmosphere.
-
-It moves through the carbon cycle.
-
-Small amounts of some gases can have large effects.
-
-## Carbon Dioxide and Respiration
-
-Animals, plants, fungi, and many microbes produce carbon dioxide during respiration.
+After sprints, stairs, or a tough match, your breathing speeds up. Part of the reason is that your cells need oxygen — and they produce carbon dioxide as a waste product.
 
 **Respiration** is the process cells use to release energy from food.
 
-In many organisms, glucose reacts with oxygen to produce carbon dioxide, water, and usable energy.
+In many organisms, glucose reacts with oxygen to produce carbon dioxide, water, and usable energy. You breathe in oxygen. You breathe out air that contains **more CO2** than you breathed in.
 
-This is why you breathe in oxygen and breathe out more carbon dioxide than you breathed in.
+Carbon dioxide is a waste product for your cells, but plants can use it. Nothing in nature stays "waste" for long if another living thing can recycle it.
 
-Carbon dioxide is a waste product of cell respiration, but it is not useless. Plants can use it.
+## What Actually Leaves Your Lungs
 
-## Breathing Out Carbon Dioxide
+CO2 from your cells enters your **blood**. Your blood carries it to your **lungs**. When you exhale, carbon dioxide leaves your body.
 
-When your cells produce carbon dioxide, it enters your blood.
+You do **not** breathe out pure CO2. Exhaled air is still mostly nitrogen. It still contains oxygen, water vapor, and other gases. But the CO2 level is **much higher** than in fresh air.
 
-Your blood carries carbon dioxide to your lungs.
+That difference is evidence that chemistry is running inside you right now — even while you read this.
 
-When you exhale, carbon dioxide leaves your body.
+## Photosynthesis: Plants Flip the Script
 
-You do not breathe out pure carbon dioxide. Exhaled air is still mostly nitrogen and also contains oxygen, water vapor, and other gases.
+Plants, algae, and some bacteria run the opposite chemistry during **photosynthesis**.
 
-But exhaled air contains much more carbon dioxide than inhaled air.
-
-This is evidence that your cells are constantly doing chemistry.
-
-## Photosynthesis
-
-Plants, algae, and some bacteria use carbon dioxide during **photosynthesis**.
-
-Photosynthesis uses sunlight, carbon dioxide, and water to make sugar and oxygen.
+They use **sunlight**, **carbon dioxide**, and **water** to make **sugar** and **oxygen**.
 
 In simple words:
 
-Carbon dioxide plus water plus light energy can produce sugar and oxygen.
+**Carbon dioxide + water + light → sugar + oxygen**
 
-This process stores energy in carbon compounds such as glucose.
+Photosynthesis stores energy in carbon compounds such as glucose. It pulls CO2 out of the air and feeds the food web. Every apple, every blade of grass, every tree trunk — photosynthesis helped get the carbon there.
 
-Photosynthesis helps remove carbon dioxide from the air and provides food for living things.
+## Combustion: Fire and Engines
 
-## Carbon Dioxide and Combustion
+Burning often makes carbon dioxide.
 
-Burning fuels often produces carbon dioxide.
+**Combustion** is a chemical reaction in which a fuel reacts with oxygen and releases energy as heat and light.
 
-**Combustion** is a chemical reaction in which a fuel reacts with oxygen and releases energy.
+When carbon-containing fuels burn **completely**, carbon in the fuel combines with oxygen to form CO2.
 
-When carbon-containing fuels burn completely, carbon atoms in the fuel combine with oxygen to form carbon dioxide.
+Examples:
 
-Wood, gasoline, natural gas, coal, candles, and paper can all produce carbon dioxide when they burn.
+- Wood in a campfire
+- Gasoline in an engine
+- Natural gas on a stove
+- Coal in a power plant
+- A candle flame
 
-Combustion also produces heat and light.
-
-If there is not enough oxygen, burning may produce carbon monoxide or soot instead of only carbon dioxide.
+If oxygen is limited, burning may produce **carbon monoxide (CO)** or **soot** instead of only CO2. Complete burning with plenty of oxygen favors CO2.
 
 ## Carbon Dioxide and Fire
 
-Carbon dioxide does not support ordinary burning.
+Fire needs **fuel**, **heat**, and **oxygen**.
 
-A flame needs oxygen, fuel, and heat.
+Carbon dioxide does **not** support ordinary burning the way oxygen does. It can help put out some fires by pushing oxygen away from the flame.
 
-Carbon dioxide can help put out some fires by pushing oxygen away from the flame.
+That is why some **fire extinguishers** spray CO2 gas. They are useful for certain **electrical fires** because they do not leave a wet mess.
 
-This is why some fire extinguishers use carbon dioxide.
+But CO2 extinguishers are **not for every fire**, and they must be used correctly. The gas comes out very cold. In a small room, it can reduce breathable oxygen. Only trained people should use extinguishers in real emergencies.
 
-However, carbon dioxide fire extinguishers are not for every kind of fire and must be used correctly.
+## Fizzy Drinks and Pressure
 
-Carbon dioxide can also be dangerous in enclosed spaces because it can displace oxygen.
+Soda, sparkling water, and some sports drinks are **carbonated** — they have CO2 dissolved under pressure.
 
-## Carbon Dioxide Fire Extinguishers
+While the can or bottle is sealed, pressure keeps extra gas dissolved in the liquid. When you open it, pressure drops. CO2 escapes as **bubbles**.
 
-Carbon dioxide fire extinguishers release CO2 gas.
+Warm soda goes flat faster because gases usually dissolve **less well** in warm liquid. Cold soda holds bubbles longer. That is not magic — it is chemistry you can test in your kitchen with adult permission.
 
-The CO2 surrounds the fire and reduces the oxygen available to the flame.
+## Carbonic Acid: The Sharp Taste
 
-The gas also comes out very cold, which can help cool some materials.
+When CO2 dissolves in water, some of it forms **carbonic acid** — a weak acid.
 
-CO2 extinguishers are often used for electrical fires because they do not leave a wet residue.
+That helps explain the tangy bite of fizzy drinks. In the atmosphere and oceans, CO2 and water also interact to form carbonic acid and related ions. That connects rainwater, cave formation, shell chemistry, and ocean health.
 
-But they can cause frostbite if sprayed on skin and can reduce breathable oxygen in a small space.
+Carbon dioxide is not only a gas. It is part of **solution chemistry** too.
 
-Only trained people should use fire extinguishers.
+## Oceans: Giant Carbon Storage
 
-## Carbon Dioxide in Fizzy Drinks
+Oceans absorb CO2 from the atmosphere.
 
-Fizzy drinks contain carbon dioxide dissolved under pressure.
+Some dissolves as gas. Some becomes carbonic acid, **bicarbonate**, and **carbonate** ions. Marine organisms use carbonate to build shells and skeletons.
 
-When the bottle or can is sealed, pressure keeps extra CO2 dissolved in the liquid.
+The ocean stores an enormous amount of carbon. But extra CO2 from human activity can make seawater more acidic — **ocean acidification**. That can make life harder for corals, shellfish, and other organisms that build **calcium carbonate** shells.
 
-When you open it, pressure decreases.
+Divers and snorkelers see beautiful reefs; chemists see carbonate chemistry under stress.
 
-The carbon dioxide escapes as bubbles.
+## Carbonates: Rock, Shells, and Bubbles
 
-This is called carbonation.
+**Carbonates** are compounds containing the **carbonate ion**.
 
-The bubbles in soda are carbon dioxide gas.
+**Calcium carbonate** shows up in:
 
-Warm soda goes flat faster because gases usually dissolve less well in warm liquids.
-
-## Carbonic Acid
-
-When carbon dioxide dissolves in water, some of it forms carbonic acid.
-
-Carbonic acid is a weak acid.
-
-This is one reason fizzy drinks can taste sharp or tangy.
-
-In the atmosphere and oceans, carbon dioxide and water also interact to form carbonic acid.
-
-This matters for rainwater, caves, rocks, shells, and ocean chemistry.
-
-Carbon dioxide is not only a gas. It also takes part in solution chemistry.
-
-## Carbon Dioxide and Oceans
-
-Oceans absorb carbon dioxide from the atmosphere.
-
-Some CO2 dissolves in seawater.
-
-Some becomes carbonic acid, bicarbonate ions, and carbonate ions.
-
-Marine organisms use carbonate to build shells and skeletons.
-
-The ocean stores a huge amount of carbon.
-
-But extra carbon dioxide can make seawater more acidic.
-
-This is called **ocean acidification**.
-
-Ocean acidification can make life harder for corals, shellfish, and other organisms that build calcium carbonate shells.
-
-## Carbonates
-
-**Carbonates** are compounds containing the carbonate ion.
-
-Calcium carbonate is an important carbonate.
-
-It is found in:
-
-- Limestone
-- Marble
+- Limestone and marble
 - Chalk
-- Seashells
-- Coral
+- Seashells and coral
 - Eggshells
 
-Carbonates often react with acids to produce carbon dioxide gas.
-
-This is why vinegar can bubble when placed on chalk or eggshell.
-
-Carbon dioxide, carbonates, and acids are closely connected.
+Many carbonates react with acids to produce **CO2 gas**. That is why vinegar bubbles on chalk or eggshell — you are watching an acid–carbonate reaction release carbon dioxide.
 
 ## Caves and Limestone
 
-Limestone contains calcium carbonate.
+Rainwater picks up CO2 from air and soil, forming weak carbonic acid. Over long periods, that acidic water can slowly dissolve limestone (calcium carbonate) and carve **caves**.
 
-Rainwater absorbs some carbon dioxide from air and soil, forming weak carbonic acid.
+Inside caves, dissolved minerals can later form **stalactites** and **stalagmites**. Carbon dioxide helped shape underground worlds you might only see on a field trip — or in a documentary with a good headlamp.
 
-This slightly acidic water can slowly dissolve limestone.
+Tiny chemistry, enormous time, huge spaces.
 
-Over long periods, this can create caves.
-
-Inside caves, dissolved minerals can later form stalactites and stalagmites.
-
-Carbon dioxide helps shape underground landscapes.
-
-Tiny chemical changes, given enough time, can make enormous spaces.
-
-## Dry Ice
+## Dry Ice and Sublimation
 
 **Dry ice** is solid carbon dioxide.
 
-At ordinary air pressure, dry ice does not melt into liquid.
+At normal air pressure, dry ice does not melt into a puddle. It goes straight from solid to gas. That change is called **sublimation**.
 
-Instead, it changes directly from solid to gas.
+Dry ice is **extremely cold** and can cause frostbite. In a closed room, sublimating dry ice can fill the space with CO2 and reduce oxygen. The spooky white "fog" you sometimes see is **not** CO2 gas itself (the gas is invisible). The fog is mostly tiny **water droplets** cooled by the cold gas.
 
-This process is called **sublimation**.
+Handle dry ice only with **adult supervision**, ventilation, and proper gloves or tongs. Never seal it in a closed container — pressure can build dangerously.
 
-Dry ice is extremely cold.
+## The Greenhouse Effect
 
-It can cause frostbite and can fill a space with carbon dioxide gas if used without ventilation.
+CO2 is a **greenhouse gas**. Greenhouse gases absorb and re-emit heat in Earth's atmosphere.
 
-Dry ice should be handled only with adult supervision and protective equipment.
+They help keep Earth warm enough for liquid water and life. Without them, Earth would be much colder.
 
-## Sublimation
+The problem is **balance**. Adding too much CO2 from burning fossil fuels and other human activities can strengthen the greenhouse effect and contribute to **climate change**.
 
-**Sublimation** is the change of state from solid directly to gas.
+Carbon dioxide is natural and necessary. **The amount** still matters.
 
-Dry ice is the best everyday example.
+## Where Extra CO2 Comes From
 
-When dry ice sublimates, it becomes carbon dioxide gas.
-
-The white fog often seen around dry ice is not carbon dioxide gas itself. It is mostly tiny water droplets formed when cold CO2 cools water vapor in the air.
-
-Carbon dioxide gas is invisible.
-
-The fog is a visible clue that cold gas is present.
-
-## Carbon Dioxide and the Greenhouse Effect
-
-Carbon dioxide is a **greenhouse gas**.
-
-A greenhouse gas absorbs and re-emits heat in Earth's atmosphere.
-
-Greenhouse gases help keep Earth warm enough for life.
-
-Without them, Earth would be much colder.
-
-But adding too much carbon dioxide can strengthen the greenhouse effect.
-
-This can contribute to climate change.
-
-Carbon dioxide is natural and necessary, but its amount matters.
-
-## Human Sources of Carbon Dioxide
-
-Human activities add carbon dioxide to the atmosphere.
+Human activities add CO2 faster than natural systems alone have handled in recent centuries.
 
 Major sources include:
 
-- Burning coal
-- Burning oil
-- Burning natural gas
+- Burning coal, oil, and natural gas
 - Gasoline and diesel engines
 - Cement production
 - Cutting and burning forests
 
-Fossil fuels contain carbon from ancient living things.
+**Fossil fuels** contain carbon from ancient living things. When they burn, that carbon combines with oxygen and becomes CO2 in the air — carbon that was stored underground for millions of years is released in years or decades.
 
-When they burn, that carbon combines with oxygen and becomes carbon dioxide.
+Natural sources — respiration, decomposition, volcanoes, wildfires, ocean exchange — are part of the normal **carbon cycle**. The concern is the **extra** load from human activity.
 
-This moves carbon from underground storage into the atmosphere.
+## Carbon Sinks: Earth's Balancing Act
 
-## Natural Sources of Carbon Dioxide
+A **carbon sink** absorbs more carbon than it releases.
 
-Carbon dioxide also comes from natural sources.
+Examples:
 
-Examples include:
+- Growing forests taking in CO2
+- Oceans dissolving CO2
+- Soils storing organic matter
+- Rocks holding carbonate minerals
 
-- Respiration
-- Decomposition
-- Volcanoes
-- Wildfires
-- Oceans releasing CO2
-- Soil microbes
+Protecting forests, wetlands, and oceans is one way people try to slow the rise of atmospheric CO2. Sinks are not unlimited, but they are part of Earth's balancing systems.
 
-Natural sources are part of the carbon cycle.
+## Measuring What You Cannot See
 
-The concern today is that human activities are adding extra carbon dioxide faster than natural systems can balance it.
+Scientists measure atmospheric CO2 in **parts per million (ppm)** — how many CO2 molecules exist per million molecules of dry air.
 
-Understanding the difference between natural cycling and added imbalance is important.
+Even tiny fractions can have large effects on climate and chemistry. **CO2 sensors** are used in labs, greenhouses, buildings, and climate research.
 
-## Carbon Sinks
+Measuring beats guessing. Your eyes cannot see gas concentration — instruments can.
 
-A **carbon sink** is a place or process that absorbs more carbon than it releases.
+## Classrooms, Gyms, and Stale Air
 
-Forests can be carbon sinks when growing trees take in carbon dioxide.
+People exhale CO2. In a crowded room with poor ventilation, CO2 levels can rise. High CO2 can make air feel stuffy and may cause sleepiness or headaches for some people.
 
-Oceans can be carbon sinks when they absorb carbon dioxide.
+**Ventilation** brings in fresh air. Opening windows, using HVAC systems, and taking breaks outdoors help.
 
-Soils can store carbon in organic matter.
+CO2 is not the only measure of air quality, but it is a useful clue that a space needs more fresh air.
 
-Rocks can store carbon in carbonate minerals.
+## Houseplants Are Helpful — Not Magic
 
-Protecting and restoring carbon sinks can help manage carbon dioxide in the atmosphere.
+Plants use CO2 in photosynthesis, but a few pots on a windowsill will not replace ventilation in a closed bedroom.
 
-Carbon sinks are part of Earth's balancing systems.
+In sunlight, plants take in CO2 and release oxygen. In darkness, they also **respire** — using oxygen and releasing CO2.
 
-## Measuring Carbon Dioxide
-
-Scientists measure carbon dioxide in air.
-
-They often use a unit called parts per million, or ppm.
-
-Parts per million tells how many parts of a substance are present in one million parts of mixture.
-
-Even though carbon dioxide is measured in small numbers compared with nitrogen and oxygen, it has important effects.
-
-CO2 sensors are used in laboratories, classrooms, greenhouses, buildings, and climate research.
-
-Measuring gases helps scientists see changes that eyes cannot.
-
-## Carbon Dioxide in Buildings
-
-People exhale carbon dioxide.
-
-In crowded rooms with poor ventilation, carbon dioxide levels can rise.
-
-High CO2 levels can make air feel stale and may cause sleepiness or headaches for some people.
-
-Ventilation brings in fresh air and removes excess carbon dioxide, moisture, and odors.
-
-CO2 is not the only measure of air quality, but it is a useful clue.
-
-Good ventilation matters in classrooms, homes, offices, and vehicles.
-
-## Carbon Dioxide and Plants Indoors
-
-Plants use carbon dioxide during photosynthesis, but a few houseplants do not replace good ventilation.
-
-In sunlight, plants can take in CO2 and release oxygen.
-
-In darkness, plants also respire, using oxygen and releasing carbon dioxide.
-
-Plants are important, but they are not magic air machines for closed rooms.
-
-A room still needs fresh air exchange.
-
-This is a good example of why simple science slogans need careful thinking.
-
-## Carbon Dioxide and Safety
-
-Carbon dioxide is not poisonous in the same way carbon monoxide is, but too much CO2 can still be dangerous.
-
-High levels of carbon dioxide can crowd out oxygen.
-
-This can cause headache, dizziness, confusion, unconsciousness, or suffocation.
-
-Dangerous CO2 can collect in low spaces, tanks, caves, silos, or poorly ventilated rooms.
-
-Dry ice can create dangerous CO2 buildup as it sublimates.
-
-Because carbon dioxide is invisible, safety depends on ventilation and proper handling.
+Plants matter. They are not air-purifying machines that cancel out a sealed room. You still need fresh air exchange.
 
 ## Carbon Dioxide vs. Carbon Monoxide
 
-Carbon dioxide is CO2.
+These names sound alike. The compounds are **not** the same.
 
-Carbon monoxide is CO.
+| | Carbon dioxide | Carbon monoxide |
+|---|----------------|-----------------|
+| Formula | CO2 | CO |
+| Oxygen atoms | 2 | 1 |
+| Smell at dangerous levels | Not a reliable warning | No color, no smell |
+| Main danger | Displaces oxygen at high levels | Binds to blood; blocks oxygen transport |
+| Common sources | Breath, combustion, soda, dry ice | Incomplete burning, faulty heaters, engines in closed spaces |
 
-They are different compounds.
+**Carbon monoxide** is far more poisonous in small amounts because it binds to hemoglobin and prevents blood from carrying oxygen properly.
 
-Carbon dioxide has one carbon atom and two oxygen atoms.
-
-Carbon monoxide has one carbon atom and one oxygen atom.
-
-Carbon monoxide is much more poisonous because it binds to hemoglobin and prevents blood from carrying oxygen properly.
-
-Both gases can be dangerous, but for different reasons.
-
-Small formula differences can make huge safety differences.
+Both gases can hurt you. For different reasons. Learn the formulas and the risks.
 
 ## Common Misconceptions
 
-One mistake is thinking carbon dioxide is always bad. It is necessary for photosynthesis and part of natural cycles.
+One mistake is thinking CO2 is always bad. It is essential for photosynthesis and part of natural cycles.
 
-Another mistake is thinking carbon dioxide is the same as carbon monoxide. CO2 and CO are different compounds with different dangers.
+Another is confusing **CO2** with **CO** or with breathable **O2**. The oxygen inside a CO2 molecule is bonded to carbon — it is not the same as oxygen gas you breathe.
 
-A third mistake is thinking carbon dioxide is oxygen because it contains oxygen atoms. The oxygen atoms in CO2 are chemically bonded and are not the same as breathable O2 gas.
+Some people think the fog around dry ice **is** CO2 gas. The gas is invisible; the fog is mostly cooled water droplets.
 
-A fourth mistake is thinking dry ice smoke is carbon dioxide gas. The visible fog is mostly tiny water droplets.
+Others think a small amount of gas cannot matter. A trace gas can still change climate and ocean chemistry.
 
-A fifth mistake is thinking small amounts of a gas cannot matter. Small amounts of carbon dioxide can have large effects on climate and air chemistry.
-
-## Carbon Dioxide Safety
-
-Good safety habits include:
+## Safety Rules That Matter
 
 - Do not play with dry ice.
-- Handle dry ice only with adult supervision and insulated gloves or tongs.
-- Use dry ice only in well-ventilated areas.
+- Use dry ice only with adult supervision, ventilation, and insulated gloves or tongs.
 - Never seal dry ice in a closed container.
-- Do not put dry ice in your mouth or touch it to skin.
-- Do not enter tanks, caves, silos, or enclosed spaces where gases may collect.
-- Use ventilation in crowded indoor spaces.
-- Do not confuse carbon dioxide with harmless "smoke."
-- Follow instructions for fire extinguishers and CO2 tanks.
-- Leave an area and tell an adult if a gas release or poor-air situation is suspected.
+- Do not put dry ice in your mouth or touch it to bare skin.
+- Never run engines, grills, or generators indoors or in garages with doors closed.
+- Do not enter tanks, silos, caves, or pits where heavy gas may collect.
+- Ventilate crowded indoor spaces.
+- Follow instructions on fire extinguishers and gas tanks.
+- Leave the area and tell an adult if you suspect a gas leak or air-quality emergency.
 
-Carbon dioxide is familiar, but concentrated gas or dry ice can be dangerous.
+Carbon dioxide is familiar in everyday life. Concentrated CO2 or dry ice in the wrong place is not a game.
 
 ## The Big Idea
 
-Carbon dioxide is a compound made of one carbon atom and two oxygen atoms.
-
-It is a colorless gas at ordinary conditions, written CO2. It is produced by respiration, combustion, decomposition, volcanoes, and many chemical reactions. Plants use it in photosynthesis. It dissolves in water, forms carbonic acid, connects to carbonates, and moves through the carbon cycle. Carbon dioxide is a greenhouse gas, useful in many technologies, and dangerous at high concentrations or when released from dry ice in closed spaces.
+Carbon dioxide is **CO2**: one carbon atom and two oxygen atoms in a small, linear molecule. It is a colorless gas at room conditions, produced by respiration and combustion, used by plants in photosynthesis, dissolved in fizzy drinks, linked to carbonates and caves, stored in oceans, and measured in parts per million. It is a greenhouse gas Earth needs in balance — and a gas that can displace oxygen when too much collects in an enclosed space.
 
 If you remember only one sentence, remember this:
 
-**Carbon dioxide is CO2, a carbon-and-oxygen gas essential to photosynthesis and the carbon cycle but risky in excess.**
+**Carbon dioxide is CO2 — a carbon-and-oxygen gas essential to life and the carbon cycle, powerful in small amounts, and risky when it builds up where you breathe.**
 
 ## Study Questions
 
 1. What is carbon dioxide?
-2. What is the chemical formula for carbon dioxide?
-3. What atoms are in one carbon dioxide molecule?
-4. Why is carbon dioxide a compound?
-5. What is the shape of a carbon dioxide molecule?
-6. What state is carbon dioxide at ordinary room temperature and pressure?
-7. Why can too much carbon dioxide in a closed space be dangerous?
-8. Is carbon dioxide a large or small part of ordinary air?
-9. What is respiration?
-10. Why do humans breathe out more carbon dioxide than they breathe in?
-11. What is photosynthesis?
-12. How do plants use carbon dioxide?
-13. What is combustion?
-14. Why does burning carbon-containing fuel often produce carbon dioxide?
-15. Why can carbon dioxide help put out some fires?
-16. Why must carbon dioxide fire extinguishers be used carefully?
-17. Why do fizzy drinks bubble when opened?
-18. What is carbonic acid?
-19. What is ocean acidification?
-20. What are carbonates?
-21. What gas forms when many carbonates react with acids?
-22. How can carbon dioxide help form caves in limestone?
-23. What is dry ice?
-24. What is sublimation?
-25. What is a greenhouse gas?
-26. Why is carbon dioxide both natural and a climate concern?
-27. What is a carbon sink?
-28. How is carbon dioxide different from carbon monoxide?
-29. Name two common misconceptions about carbon dioxide.
-30. What are three safety rules for carbon dioxide or dry ice?
+2. What does the formula CO2 tell you about the atoms in one molecule?
+3. Why is carbon dioxide called a compound?
+4. What state is carbon dioxide in at ordinary room temperature and pressure?
+5. Why can too much carbon dioxide in a closed, low space be dangerous?
+6. What is respiration, and how does it connect to your breathing?
+7. What is photosynthesis, and how do plants use carbon dioxide?
+8. What is combustion, and why does burning carbon-containing fuel often produce CO2?
+9. Why can carbon dioxide help put out some fires?
+10. Why do fizzy drinks bubble when you open the container?
+11. What is carbonic acid, and where does it come from?
+12. What is ocean acidification?
+13. What are carbonates? Give two examples of calcium carbonate in nature.
+14. What gas forms when many carbonates react with acids?
+15. How can carbon dioxide help form caves in limestone?
+16. What is dry ice, and what is sublimation?
+17. Why is the white fog around dry ice not the same as CO2 gas?
+18. What is a greenhouse gas, and why is CO2 both helpful and a concern?
+19. What is a carbon sink? Give one example.
+20. What does "parts per million" mean when scientists measure CO2 in air?
+21. Why can CO2 levels rise in a crowded, poorly ventilated classroom?
+22. How is carbon dioxide different from carbon monoxide?
+23. Name two common misconceptions about carbon dioxide.
+24. Give three safety rules for dry ice or concentrated CO2.
+25. In your own words, explain why carbon dioxide is "small in the air but big in science."

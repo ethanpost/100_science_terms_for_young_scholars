@@ -1,652 +1,289 @@
 ﻿# Solar System
 
-Step outside on a clear night and look up.
+You are lying on the hood of a car after a late game, looking up. The sky looks calm — a few stars, maybe the Moon, and sometimes a steady point of light that does not twinkle the way stars do. That steady light might be Jupiter, millions of kilometers away, shining because sunlight bounced off it and traveled to your eyes.
 
-You may see the Moon, bright stars, and perhaps a planet shining like a steady point of light. The sky can look quiet, almost frozen.
+The sky looks frozen. It is not.
 
-But it is not still.
+Right now you are moving. Earth is spinning you toward and away from the Sun. Earth is racing around the Sun at about 107,000 kilometers per hour. The Moon is circling Earth. Other worlds are on their own paths. Asteroids, comets, dust, and human-built spacecraft are moving too.
 
-Earth is spinning.
-
-Earth is racing around the Sun.
-
-The Moon is circling Earth.
-
-Other planets are traveling in their own paths.
-
-Asteroids, comets, dust, and spacecraft are moving too.
-
-You are riding on a planet inside an enormous moving system.
+You are not standing on a still platform. You are riding a planet inside an enormous, gravity-held machine.
 
 **The solar system is the Sun and all the objects held by its gravity, including planets, dwarf planets, moons, asteroids, comets, meteoroids, dust, and spacecraft.**
 
-It is our neighborhood in space.
+It is our neighborhood in space — the place where Earth lives.
 
-## The Sun Is the Center
+## The Sun Runs the Neighborhood
 
-The Sun is a star.
+At the center is the **Sun**, a **star**: a huge ball of hot glowing gas that makes its own light and heat.
 
-A **star** is a huge ball of hot glowing gas that produces its own light and heat.
+The Sun holds about **99.8 percent** of the mass in the entire solar system. Because it is so massive, its **gravity** is powerful. That gravity keeps planets, dwarf planets, comets, asteroids, and more in orbit around it.
 
-The Sun contains almost all the mass in the solar system.
+The Sun is not a campfire in space. It shines because of **nuclear fusion** in its core, where hydrogen is changed into helium and enormous energy is released. That energy warms Earth, drives weather, powers plant growth, and makes life possible. Without the Sun, Earth would be dark, frozen, and lifeless.
 
-Because it has so much mass, it has powerful gravity.
+When you study the solar system, start with the Sun. Everything else is arranged around it.
 
-That gravity holds the planets and many smaller objects in orbit.
+## Gravity: The Invisible Rope
 
-The Sun is not a burning campfire in space. It shines because of nuclear fusion in its core, where hydrogen is changed into helium and enormous energy is released.
+**Gravity** is the force of attraction between objects that have mass.
 
-That energy warms Earth, drives weather, supports plant growth, and makes life possible.
+The Sun pulls on Earth. Earth pulls on the Sun too — but the Sun is so much more massive that Earth does the obvious moving.
 
-Without the Sun, Earth would be dark, frozen, and lifeless.
+Gravity does not need a physical rope. It works across empty space. It keeps planets circling the Sun, moons circling planets, and comets on long looping paths.
 
-## Gravity Holds the System Together
+The solar system has no walls holding it together. **Gravity** holds it together.
 
-**Gravity** is the force of attraction between objects with mass.
-
-The Sun pulls on Earth.
-
-Earth pulls on the Sun too, but the Sun is so massive that Earth moves much more noticeably.
-
-Gravity does not need a rope or a chain.
-
-It reaches across space.
-
-Gravity keeps planets moving around the Sun. It keeps moons moving around planets. It also shapes the paths of comets and asteroids.
-
-The solar system is not held together by walls.
-
-It is held together by gravity.
-
-## Orbits
+## Orbits: Falling and Missing the Ground
 
 An **orbit** is the path one object follows around another object in space.
 
-Earth orbits the Sun.
+Earth orbits the Sun. The Moon orbits Earth. The International Space Station and thousands of other satellites orbit Earth.
 
-The Moon orbits Earth.
+Most planetary orbits are slightly stretched circles called **ellipses** — oval-like paths. Earth's orbit is nearly circular, but not perfect.
 
-Many artificial satellites orbit Earth.
+Orbits happen because two things work together:
 
-Most planetary orbits are shaped like slightly stretched circles called ellipses.
+- **Forward motion** — the object is already moving
+- **Gravity** — something massive pulls it inward
 
-An **ellipse** is an oval-like shape.
+If a planet had no forward motion, gravity would yank it into the Sun. If there were no gravity, the planet would fly off in a straight line. Together, motion and gravity bend the path into a curve — an orbit.
 
-Earth's orbit is nearly circular, but not perfectly circular.
-
-Planets stay in orbit because of two things working together:
-
-- Their forward motion
-- The pull of gravity
-
-If a planet had no forward motion, gravity would pull it toward the Sun. If there were no gravity, the planet would fly off in a straight line. Together, motion and gravity make an orbit.
+Picture tossing a baseball. Throw it gently and it falls quickly. Throw it harder and it lands farther away. Throw it hard enough from a tall mountain and, in theory, it could fall toward Earth but keep missing the ground — that is the basic idea behind orbit. Spacecraft and planets are doing that on a much larger scale.
 
 ## Rotation and Revolution
 
-Two words are especially useful in astronomy: **rotation** and **revolution**.
+Two words will follow you through every astronomy unit:
 
-**Rotation** means spinning around an axis.
+**Rotation** means spinning around an axis. Earth rotates once about every 24 hours. That spin gives us day and night.
 
-Earth rotates once about every 24 hours.
+**Revolution** means traveling around another object. Earth revolves around the Sun once about every 365 days. That trip, together with Earth's tilted axis, gives us the year and the seasons.
 
-That rotation gives us day and night.
-
-**Revolution** means traveling around another object.
-
-Earth revolves around the Sun once about every 365 days.
-
-That revolution, along with Earth's tilted axis, gives us the year and the seasons.
-
-A planet can rotate and revolve at the same time.
-
-You are spinning with Earth while Earth travels around the Sun.
+A planet can rotate and revolve at the same time. Right now you are spinning with Earth while Earth carries you around the Sun. You are doing both motions at once without feeling either one.
 
 ## The Eight Planets
 
-The solar system has eight planets.
+The solar system has **eight planets**. In order from the Sun:
 
-In order from the Sun, they are:
-
-1. Mercury
-2. Venus
-3. Earth
-4. Mars
-5. Jupiter
-6. Saturn
-7. Uranus
-8. Neptune
+1. Mercury  
+2. Venus  
+3. Earth  
+4. Mars  
+5. Jupiter  
+6. Saturn  
+7. Uranus  
+8. Neptune  
 
 A **planet** is a large round object that orbits the Sun and has cleared most other objects from its orbital path.
 
-Planets do not make their own light.
+Planets do not make their own light. When Venus or Jupiter looks bright in the night sky, you are seeing **reflected sunlight** — like light bouncing off a mirror, except the mirror is a whole world.
 
-They shine because they reflect sunlight.
+**Memory trick:** *My Very Educated Mother Just Served Us Nachos* — first letter of each word matches a planet name in order.
 
-When Venus or Jupiter looks bright in the sky, you are seeing sunlight bouncing off a planet.
+## Two Kinds of Worlds
 
-## The Inner Planets
+The solar system is not eight copies of Earth. It is split into two main groups.
 
-The four planets closest to the Sun are called the **inner planets**.
+**Inner planets** (Mercury, Venus, Earth, Mars) are the **terrestrial planets** — rocky, relatively small, dense, with solid surfaces. *Terrestrial* comes from a word meaning Earth-like.
 
-They are Mercury, Venus, Earth, and Mars.
+**Outer planets** (Jupiter, Saturn, Uranus, Neptune) are much larger. Jupiter and Saturn are mostly hydrogen and helium and are called **gas giants**. Uranus and Neptune contain more water, ammonia, methane, and other icy materials, so they are often called **ice giants**. None of the outer planets has a solid surface you could stand on like a sidewalk.
 
-They are also called **terrestrial planets** because they are rocky worlds.
+All four outer planets have **rings** and many **moons**. The outer solar system is cold, huge, and full of surprises.
 
-Terrestrial comes from a word meaning Earth-like.
+## Mercury: Scorched and Airless
 
-The inner planets are relatively small, dense, and made mostly of rock and metal.
+Mercury is closest to the Sun — small, rocky, and cratered.
 
-They have solid surfaces.
+It has almost no atmosphere, so it cannot hold heat well. Its dayside can become extremely hot while its nightside can become extremely cold. Being near the Sun does not mean "warm everywhere." **Atmosphere matters.**
 
-You could stand on them, at least in the sense that they have ground beneath you. Whether you could survive there is another question.
+Mercury has the shortest year of any planet but rotates slowly compared with Earth.
 
-Mercury is scorched by the Sun and has almost no atmosphere.
+## Venus: Earth's Evil Twin
 
-Venus has crushing air pressure and extreme heat.
+Venus is about the same size as Earth but a completely different world.
 
-Mars is cold, dry, and has a thin atmosphere.
+Its thick atmosphere is mostly carbon dioxide. Its clouds contain sulfuric acid. Its surface is hotter than Mercury's — even though Mercury is closer to the Sun — because Venus traps heat in an extreme **greenhouse effect**.
 
-Earth is the only planet known to have life.
+Venus is proof that a planet's atmosphere can control its temperature more than its distance from the Sun.
 
-## Mercury
+## Earth: Home Base
 
-Mercury is the closest planet to the Sun.
+Earth is the third planet from the Sun — not the biggest, not the closest, not the flashiest.
 
-It is small, rocky, and covered with craters.
+It has liquid water, a breathable atmosphere for humans, a protective magnetic field, and life. It has one large natural satellite, the **Moon**. From space it looks blue and white because of oceans, clouds, and atmosphere.
 
-Because Mercury has almost no atmosphere, it cannot hold heat well.
+So far, Earth is the only world where scientists know life exists. Every mission, rover, and telescope in the solar system ultimately helps us understand this one world better.
 
-Its daytime side can become extremely hot, while its nighttime side can become extremely cold.
+## Mars: The Red Planet
 
-Mercury moves around the Sun quickly.
+Mars is often called the **Red Planet** because iron-rich dust gives its surface a reddish color.
 
-It has the shortest year of any planet in the solar system.
+It has volcanoes, canyons, polar ice caps, dust storms, and evidence that liquid water flowed there long ago. Today it is cold and dry, with a thin atmosphere mostly of carbon dioxide.
 
-But it rotates slowly compared with Earth.
+Robots have explored Mars for decades — from Sojourner to Curiosity to **Perseverance**, which collects rock samples and searches for signs of ancient life. Mars is the planet humans talk about visiting next. If you want to imagine walking on another world, Mars is the realistic first choice.
 
-Mercury shows that being close to the Sun does not simply mean "always warm everywhere." Atmosphere matters too.
-
-## Venus
-
-Venus is the second planet from the Sun.
-
-It is about the same size as Earth, but it is a very different world.
-
-Venus has a thick atmosphere made mostly of carbon dioxide.
-
-Its clouds contain sulfuric acid.
-
-Its surface is hotter than Mercury's, even though Mercury is closer to the Sun.
-
-This happens because Venus has an extremely strong greenhouse effect.
-
-Heat enters the atmosphere and is trapped.
-
-Venus teaches an important lesson: a planet's atmosphere can strongly control its temperature.
-
-## Earth
-
-Earth is the third planet from the Sun.
-
-It has liquid water on its surface, a breathable atmosphere for humans, a protective magnetic field, and living things.
-
-Earth is not the largest planet.
-
-It is not the closest to the Sun.
-
-It is not the most dramatic-looking planet.
-
-But it is home.
-
-Earth has one large natural satellite, the Moon.
-
-From space, Earth looks blue and white because of its oceans, clouds, and atmosphere.
-
-So far, Earth is the only world where scientists know life exists.
-
-## Mars
-
-Mars is the fourth planet from the Sun.
-
-It is often called the Red Planet because iron-rich dust on its surface gives it a reddish color.
-
-Mars has volcanoes, canyons, polar ice caps, dust storms, and signs that liquid water flowed there long ago.
-
-Today, Mars is cold and dry at the surface.
-
-Its atmosphere is thin and mostly carbon dioxide.
-
-Robots have explored Mars for decades.
-
-Scientists study Mars because it may help answer questions about water, climate, geology, and whether life ever existed beyond Earth.
-
-## The Asteroid Belt
+## The Asteroid Belt: Leftovers, Not a Junkyard
 
 Between Mars and Jupiter is the **asteroid belt**.
 
-An **asteroid** is a rocky or metallic object that orbits the Sun.
+An **asteroid** is a rocky or metallic object orbiting the Sun. Most are much smaller than planets — from boulders to objects many kilometers wide.
 
-Most asteroids are much smaller than planets.
+Movies sometimes show spaceships weaving through crashing rocks. Real life is different. Space is enormous, and asteroids are spread far apart. Spacecraft can cross the belt without dodging rocks every second.
 
-Some are only boulders.
+The largest object there is **Ceres**, classified as a **dwarf planet**. Asteroids are leftovers from the early solar system — time capsules from when the planets were forming.
 
-Some are many kilometers wide.
+## Jupiter: King of the Planets
 
-The asteroid belt is not a crowded field of crashing rocks like in some movies.
+Jupiter is the largest planet. It has more mass than all the other planets combined.
 
-Space is enormous, and the asteroids are spread far apart.
+It is a gas giant of hydrogen and helium with colorful cloud bands and storms. The **Great Red Spot** is a storm larger than Earth that has lasted for centuries.
 
-The largest object in the asteroid belt is Ceres, which is classified as a dwarf planet.
+Jupiter has dozens of moons. Four of the largest — **Io, Europa, Ganymede, and Callisto** — are called the **Galilean moons** because Galileo observed them in 1610. **Europa** is especially exciting: scientists think a salty ocean may hide under its icy crust, making it one of the best places to search for life beyond Earth.
 
-Asteroids are leftovers from the early solar system, and they can teach scientists what the young solar system was like.
+## Saturn: Rings and a Moon with Lakes
 
-## The Outer Planets
+Saturn is famous for its **rings** — countless pieces of ice and rock from tiny grains to house-sized chunks, all orbiting the planet.
 
-Beyond the asteroid belt are the four outer planets: Jupiter, Saturn, Uranus, and Neptune.
+Saturn is less dense than water. In a bathtub big enough, Saturn would float. (No such bathtub exists.)
 
-They are much larger than the inner planets.
+Its largest moon, **Titan**, has a thick atmosphere and lakes and seas of liquid methane and ethane. Saturn reminds you that planets are not alone — moons and rings are worlds and systems of their own.
 
-They do not have solid surfaces like Earth.
+## Uranus: The Planet on Its Side
 
-Jupiter and Saturn are mostly hydrogen and helium and are often called **gas giants**.
+Uranus is an ice giant with a blue-green color from methane in its atmosphere.
 
-Uranus and Neptune contain more water, ammonia, methane, and other icy materials, so they are often called **ice giants**.
+It is unusual because it rotates on its side compared with the other planets — almost as if it rolls around the Sun. Scientists think a massive collision long ago may have knocked it over.
 
-All four outer planets have rings.
+Uranus has faint rings and moons, but nothing as dramatic as Saturn's rings.
 
-All four have many moons.
+## Neptune: Windy and Far Away
 
-The outer solar system is cold, huge, and full of surprises.
+Neptune is dark, cold, windy, and far from the Sun — yet not boring.
 
-## Jupiter
+It has some of the fastest winds measured in the solar system. Its blue color comes largely from methane, along with other atmospheric factors.
 
-Jupiter is the largest planet in the solar system.
+Its largest moon, **Triton**, orbits backward compared with Neptune's rotation, suggesting Neptune may have captured it long ago.
 
-It is so massive that it contains more mass than all the other planets combined.
+## Dwarf Planets: Round but Not Cleared
 
-Jupiter is a gas giant made mostly of hydrogen and helium.
+A **dwarf planet** is a round object that orbits the Sun but has **not** cleared its orbital path of other objects.
 
-It has colorful cloud bands and powerful storms.
+**Pluto** is the most famous. For decades it was called the ninth planet. In 2006 astronomers refined the definition of a planet, and Pluto became a dwarf planet. Pluto did not vanish and did not become boring — it got a more precise label. Other dwarf planets include **Ceres, Eris, Haumea, and Makemake**.
 
-Its Great Red Spot is a giant storm larger than Earth that has lasted for centuries.
+Science updates categories when evidence improves. That is a strength, not a failure.
 
-Jupiter has many moons.
+## Moons, Rings, Comets, and Shooting Stars
 
-Four of its largest moons are Io, Europa, Ganymede, and Callisto. They are called the Galilean moons because Galileo Galilei observed them in 1610.
+The solar system is more than planets.
 
-Europa is especially interesting because scientists think it may have a salty ocean under its icy crust.
+A **moon** is a natural object orbiting a planet or dwarf planet. Earth has one Moon. Mars has two small ones. Jupiter and Saturn have dozens. Some moons are dead, cratered rocks; others are active worlds — **Io** has volcanoes, **Europa** may have an ocean, **Titan** has a thick atmosphere.
 
-## Saturn
+**Rings** are swarms of small particles orbiting a planet. Saturn's are the brightest; Jupiter, Uranus, and Neptune have rings too.
 
-Saturn is famous for its rings.
+A **comet** is an icy object orbiting the Sun — often called a dirty snowball. Near the Sun, ice turns to gas, forming a glowing **coma** and tails pushed by sunlight and the solar wind. Comets are leftovers from the solar system's birth.
 
-The rings are made of countless pieces of ice and rock, ranging from tiny grains to large chunks.
+Three similar words, three different things:
 
-Saturn is also a gas giant, mostly hydrogen and helium.
+- **Meteoroid** — small rocky or metallic object in space  
+- **Meteor** — streak of light when one burns up in Earth's atmosphere (a "shooting star," not a star)  
+- **Meteorite** — piece that survives and lands on the ground  
 
-It is less dense than water, which means that if there were a bathtub big enough, Saturn would float. Of course, no such bathtub exists.
+Meteorites are rare direct samples of space scientists can hold in a lab.
 
-Saturn has many moons.
+## Beyond Neptune: The Cold Storage Zone
 
-Its largest moon, Titan, has a thick atmosphere and lakes and seas of liquid methane and ethane.
+Beyond Neptune lies the **Kuiper Belt** — icy bodies, dwarf planets, and other small objects. Pluto is the best-known member. It is like a distant freezer of leftovers from formation.
 
-Saturn reminds us that planets are not alone. Their moons and rings are systems of their own.
+Farther still, scientists think the **Oort Cloud** may surround the solar system — a huge shell of icy objects, never visited by spacecraft, inferred partly from the paths of long-period comets.
 
-## Uranus
+The solar system does not end neatly at Neptune. It just gets colder, emptier, and harder to reach.
 
-Uranus is the seventh planet from the Sun.
+## Space Is Mostly Empty — and That Is Hard to Picture
 
-It is an ice giant with a blue-green color caused mainly by methane in its atmosphere.
+Textbook diagrams often show planets close together so you can learn their order. Those pictures are useful. They are **not** drawn to scale.
 
-Uranus is unusual because it rotates on its side compared with the other planets.
+In reality, space is mostly empty. Planets are tiny compared with the distances between them.
 
-Its axis is tilted so much that it almost seems to roll around the Sun.
+If the Sun were the size of a basketball, Earth would be a small speck many meters away, and Neptune would be far across a field. Walking a scale model on a football field or long hallway is one of the best ways to feel how huge the solar system really is.
 
-This strange tilt may have been caused by a massive collision long ago.
+## Measuring Distance: AU and Light-Time
 
-Uranus has rings and moons, though its rings are much darker and harder to see than Saturn's.
+Distances in space are so large that everyday kilometers become awkward. Scientists often use the **astronomical unit (AU)** — the average distance from Earth to the Sun, about **150 million kilometers**.
 
-## Neptune
+Earth is **1 AU** from the Sun. Mars is about **1.5 AU**. Jupiter about **5.2 AU**. Neptune about **30 AU**.
 
-Neptune is the eighth planet from the Sun.
+Light is fast, but space is bigger. Sunlight takes about **8 minutes** to reach Earth — so when you see the Sun, you see it as it was about 8 minutes ago. Light from the Moon takes a little over **1 second**. Light from Neptune takes **hours**.
 
-It is another ice giant.
-
-It is dark, cold, windy, and far from the Sun.
-
-Neptune's blue color also comes largely from methane in its atmosphere, though other factors affect the exact shade.
-
-Neptune has some of the fastest winds measured in the solar system.
-
-Its largest moon, Triton, orbits in the opposite direction from Neptune's rotation, suggesting it may have been captured by Neptune's gravity.
-
-Neptune shows that distance from the Sun does not mean a world is boring.
-
-## Dwarf Planets
-
-A **dwarf planet** is a round object that orbits the Sun but has not cleared its orbital path.
-
-Pluto is the most famous dwarf planet.
-
-For many years, Pluto was called the ninth planet. In 2006, astronomers changed its classification to dwarf planet because they refined the definition of a planet.
-
-Pluto did not disappear.
-
-It did not become less interesting.
-
-It became part of a better scientific category.
-
-Other dwarf planets include Ceres, Eris, Haumea, and Makemake.
-
-Science sometimes changes its categories when new evidence and clearer definitions appear.
-
-That is a strength, not a weakness.
-
-## Moons
-
-A **moon** is a natural object that orbits a planet or dwarf planet.
-
-Earth has one Moon.
-
-Mars has two small moons, Phobos and Deimos.
-
-Jupiter and Saturn have many moons.
-
-Some moons are dead, cratered rocks.
-
-Some are geologically active.
-
-Jupiter's moon Io has active volcanoes.
-
-Europa may have an ocean under its ice.
-
-Saturn's moon Titan has a thick atmosphere.
-
-Moons are not just decorations around planets. They are worlds worth studying.
-
-## Rings
-
-Rings are made of many small particles orbiting a planet.
-
-Saturn's rings are the brightest and easiest to see, but Jupiter, Uranus, and Neptune also have rings.
-
-Ring particles can be made of ice, rock, and dust.
-
-They may come from broken moons, collisions, or leftover material.
-
-Rings are thin compared with their width.
-
-From far away, they look smooth.
-
-Up close, they are swarms of countless separate pieces.
-
-## Comets
-
-A **comet** is an icy object that orbits the Sun.
-
-Comets are often described as dirty snowballs or icy dustballs.
-
-When a comet comes close to the Sun, some of its ice turns into gas.
-
-Dust and gas form a glowing cloud called a coma.
-
-The solar wind and sunlight can push material into tails.
-
-A comet's tail points generally away from the Sun, not necessarily behind the comet's direction of travel.
-
-Many comets come from distant regions such as the Kuiper Belt or the Oort Cloud.
-
-Comets are leftovers from the formation of the solar system.
-
-## Meteoroids, Meteors, and Meteorites
-
-These three words sound similar, but they mean different things.
-
-A **meteoroid** is a small rocky or metallic object moving through space.
-
-A **meteor** is the streak of light seen when a meteoroid burns up in Earth's atmosphere.
-
-People often call meteors shooting stars, but they are not stars.
-
-A **meteorite** is a piece that survives the trip through the atmosphere and lands on the ground.
-
-Meteorites are valuable to scientists because they are pieces of space that can be studied directly in a laboratory.
-
-## The Kuiper Belt
-
-Beyond Neptune is a region called the **Kuiper Belt**.
-
-It contains icy bodies, dwarf planets, and other small objects.
-
-Pluto is one of the best-known Kuiper Belt objects.
-
-The Kuiper Belt is like a distant, icy region of leftovers from solar system formation.
-
-It helps scientists understand how the outer solar system formed and changed.
-
-## The Oort Cloud
-
-Far beyond the Kuiper Belt, scientists think there is a huge distant region called the **Oort Cloud**.
-
-It may surround the solar system like a giant shell of icy objects.
-
-No spacecraft has visited it.
-
-Scientists infer its existence partly from the paths of long-period comets.
-
-The Oort Cloud is so far away that distances become difficult to imagine.
-
-It reminds us that the solar system does not end neatly at Neptune.
-
-## Space Is Mostly Empty
-
-Pictures of the solar system often show the planets close together.
-
-Those pictures are useful for learning the order of planets, but they are not drawn to scale.
-
-In reality, space is mostly empty.
-
-The planets are tiny compared with the distances between them.
-
-If the Sun were the size of a basketball, Earth would be a small speck many meters away, and Neptune would be far across a field.
-
-This emptiness is why spacecraft can travel through the asteroid belt without dodging rocks every second.
-
-The scale of the solar system is one of its hardest ideas to feel, because it is so much larger than everyday experience.
-
-## Astronomical Units
-
-Distances in the solar system are so large that kilometers can become awkward.
-
-Scientists often use the **astronomical unit**, or **AU**.
-
-One astronomical unit is the average distance from Earth to the Sun.
-
-That is about 150 million kilometers.
-
-Earth is 1 AU from the Sun.
-
-Mars is about 1.5 AU from the Sun.
-
-Jupiter is about 5.2 AU from the Sun.
-
-Neptune is about 30 AU from the Sun.
-
-The AU helps make solar system distances easier to compare.
-
-## Light-Time
-
-Light is extremely fast, but space is enormous.
-
-Sunlight takes about 8 minutes to reach Earth.
-
-That means when you see the Sun, you see it as it was about 8 minutes ago.
-
-Light from the Moon takes a little over 1 second to reach Earth.
-
-Light from Neptune takes hours to reach Earth.
-
-Spacecraft signals also travel at the speed of light, so communicating with distant spacecraft requires patience.
-
-Astronomy teaches us that looking far away also means looking into the past.
+Looking far away also means looking into the past. Astronomy is part time machine.
 
 ## How the Solar System Formed
 
-Scientists think the solar system formed about 4.6 billion years ago from a huge cloud of gas and dust called a **nebula**.
+About **4.6 billion years ago**, a huge cloud of gas and dust called a **nebula** began to collapse under gravity.
 
-Gravity pulled the cloud inward.
+Most material gathered at the center and became the young Sun. The rest formed a spinning disk. Dust and rock collided and stuck together. Small clumps became big clumps. Some became planets and moons; some stayed as asteroids, comets, and other small bodies.
 
-Most material gathered in the center and became the young Sun.
+Near the young Sun it was **hot** — rock and metal could stay solid, but many gases and ices could not easily collect. That helped build the small rocky inner planets.
 
-The remaining gas and dust formed a spinning disk around it.
+Farther out it was **cold** — ices could survive and giant planets could pull in huge amounts of gas. That helped build the gas and ice giants.
 
-Inside that disk, particles collided and stuck together.
+The pattern — rocky inner worlds, giant outer worlds — is a clue written in the layout of the system today.
 
-Small clumps became larger bodies.
+## Quick Connections: Day, Night, Seasons, and Eclipses
 
-Some became planets.
+**Day and night** come from Earth's **rotation**. The side facing the Sun has day; the side turned away has night. The Sun appears to rise in the east and set in the west because Earth spins west to east — the Sun is not racing around Earth each day.
 
-Some became moons.
+**Seasons** are caused mainly by Earth's **tilted axis** as Earth **revolves** around the Sun — not mainly by Earth getting closer or farther from the Sun. When the Northern Hemisphere tilts toward the Sun, it gets more direct sunlight and longer days: summer there, winter in the Southern Hemisphere. Six months later, the situation flips.
 
-Some remained as asteroids, comets, and other small objects.
+An **eclipse** happens when one object blocks light from reaching another. In a **solar eclipse**, the Moon passes between Earth and the Sun. In a **lunar eclipse**, Earth passes between the Sun and the Moon. They do not happen every month because the Moon's orbit is slightly tilted.
 
-The solar system grew from tiny grains to worlds.
+**Never look directly at the Sun during a solar eclipse without proper certified eye protection.** Ordinary sunglasses are not safe.
 
-## Why the Inner and Outer Planets Differ
+## Humans in the Solar System
 
-Near the young Sun, it was hot.
+People have studied the solar system with eyes, telescopes, math, and spacecraft.
 
-Rock and metal could remain solid, but many ices and gases could not easily collect there.
+Astronauts walked on the Moon in the Apollo program. Robotic missions have visited every planet. Rovers have driven on Mars. Probes have flown past Jupiter, Saturn, Uranus, Neptune, Pluto, comets, and asteroids. The **Voyager** spacecraft, launched in 1977, have left the familiar planets behind and still send data from interstellar space.
 
-That helped form the small rocky inner planets.
-
-Farther from the Sun, it was colder.
-
-Ices could survive, and large planets could gather huge amounts of gas.
-
-That helped form the giant outer planets.
-
-The pattern of rocky inner planets and giant outer planets is a clue to the solar system's history.
-
-## Seasons Are Not Caused by Distance
-
-Many students think summer happens because Earth is closer to the Sun.
-
-That is not the main reason.
-
-Seasons are caused mostly by Earth's tilted axis as Earth revolves around the Sun.
-
-When the Northern Hemisphere is tilted toward the Sun, it gets more direct sunlight and longer days. That is summer in the Northern Hemisphere.
-
-At the same time, the Southern Hemisphere is tilted away from the Sun, so it has winter.
-
-Six months later, the situation reverses.
-
-Earth's distance from the Sun changes a little during the year, but that is not what causes the seasons.
-
-## Day and Night
-
-Day and night are caused by Earth's rotation.
-
-As Earth spins, different parts face the Sun.
-
-The side facing the Sun has day.
-
-The side turned away has night.
-
-The Sun appears to rise in the east and set in the west because Earth rotates from west to east.
-
-The Sun is not actually traveling around Earth each day.
-
-Earth's rotation creates that appearance.
-
-## Eclipses
-
-An **eclipse** happens when one space object moves into another object's shadow or blocks light from reaching it.
-
-A **solar eclipse** happens when the Moon passes between Earth and the Sun, blocking part or all of the Sun from view.
-
-A **lunar eclipse** happens when Earth passes between the Sun and the Moon, and Earth's shadow falls on the Moon.
-
-Eclipses do not happen every month because the Moon's orbit is slightly tilted compared with Earth's orbit around the Sun.
-
-Eclipses show that the solar system is a real arrangement of moving bodies and shadows.
-
-Never look directly at the Sun during a solar eclipse without proper certified eye protection.
-
-## Spacecraft and Exploration
-
-Humans have studied the solar system with eyes, telescopes, mathematical predictions, robotic spacecraft, landers, rovers, orbiters, and sample-return missions.
-
-Spacecraft have visited every planet.
-
-Astronauts have walked on the Moon.
-
-Rovers have driven across Mars.
-
-Probes have flown past comets, asteroids, Jupiter, Saturn, Uranus, Neptune, and Pluto.
-
-Exploration helps scientists test ideas with evidence.
-
-It also gives us pictures and measurements from worlds no human has yet visited.
+Exploration is not just for pictures. Each mission tests ideas with real evidence — temperature, chemistry, magnetic fields, craters, atmospheres. The solar system is a laboratory. Earth is one experiment inside it.
 
 ## Why Study the Solar System?
 
-Studying the solar system helps us understand Earth.
+Studying other worlds helps you understand Earth.
 
-By comparing Earth with Venus and Mars, scientists learn about atmospheres and climate.
+Compare Earth with Venus and Mars to learn about atmospheres and climate. Study craters on the Moon and Mars to learn about impacts. Study asteroids and comets to learn what the young solar system was made of.
 
-By studying craters on the Moon, Mercury, and Mars, scientists learn about impacts.
-
-By studying asteroids and comets, scientists learn about early solar system materials.
-
-By studying other worlds, we better understand our own.
-
-The solar system is both a place to explore and a mirror that helps us see Earth more clearly.
+The solar system is a place to explore and a mirror that helps you see home more clearly.
 
 ## Common Misconceptions
 
-One mistake is thinking the Sun is a planet.
+**The Sun is a planet.** No — the Sun is a **star**.
 
-The Sun is a star.
+**Planets make their own light.** No — they **reflect sunlight**.
 
-Another mistake is thinking planets make their own light.
+**The asteroid belt is packed with crashing rocks.** No — asteroids are spread across huge distances.
 
-Planets shine by reflecting sunlight.
+**Pluto disappeared when it was reclassified.** No — Pluto is still a real world, now called a **dwarf planet**.
 
-A third mistake is thinking the asteroid belt is packed with rocks.
+**Summer happens because Earth is closer to the Sun.** Not mainly — **Earth's tilt** causes seasons.
 
-In reality, the asteroids are spread across huge distances.
-
-A fourth mistake is thinking Pluto vanished or became unimportant when it was reclassified.
-
-Pluto is still a fascinating world; it is classified as a dwarf planet.
-
-A fifth mistake is thinking seasons are caused mainly by Earth being closer to or farther from the Sun.
-
-Seasons are caused mostly by Earth's tilted axis.
+**Space diagrams show true distances.** Usually they do not — they show **order**, not scale.
 
 ## How to Think Like an Astronomer
 
-When you study the solar system, ask:
+When you read about any object in the solar system, ask:
 
-- What object is at the center of this motion?
-- What force keeps the objects in orbit?
-- Is this object a star, planet, dwarf planet, moon, asteroid, comet, or meteoroid?
-- Is it rocky, gaseous, icy, or a mixture?
+- What is at the center of this motion?
+- What force keeps it in orbit?
+- Is it a star, planet, dwarf planet, moon, asteroid, comet, or meteoroid?
+- Is it rocky, gaseous, icy, or mixed?
 - How far is it from the Sun?
-- Does it have an atmosphere?
-- Does it have moons or rings?
+- Does it have an atmosphere, moons, or rings?
 - What evidence do scientists have?
-- How does this world compare with Earth?
+- How does it compare with Earth?
 
-Good astronomy begins with careful observation and patient comparison.
+Good astronomy starts with careful observation and patient comparison — not memorizing names for their own sake.
 
 ## The Big Idea
 
-The solar system is the Sun and all the objects held by its gravity.
-
-The Sun is a star and the center of the system. Eight planets orbit the Sun: four small rocky inner planets and four large outer planets. The solar system also contains dwarf planets, moons, asteroids, comets, meteoroids, rings, dust, and human-made spacecraft. Gravity shapes orbits, distance shapes temperatures and materials, and exploration helps us understand both other worlds and our own.
+The solar system is the Sun and everything held by its gravity: eight planets, dwarf planets, moons, asteroids, comets, rings, dust, and human spacecraft. The Sun's mass and gravity organize the system. Distance and heat shaped which worlds are rocky and which are giant. Exploration — from telescopes in your backyard to rovers on Mars — turns the solar system from a diagram into a real place.
 
 If you remember only one sentence, remember this:
 
@@ -655,32 +292,28 @@ If you remember only one sentence, remember this:
 ## Study Questions
 
 1. What is the solar system?
-2. What is the Sun?
-3. Why is the Sun important to the solar system?
-4. What force holds the solar system together?
-5. What is an orbit?
-6. How do forward motion and gravity work together to make an orbit?
-7. What is the difference between rotation and revolution?
-8. What causes day and night on Earth?
-9. What causes Earth's year?
-10. What are the eight planets in order from the Sun?
-11. What is a planet?
-12. Why do planets shine in the night sky?
-13. What are the inner planets?
-14. Why are the inner planets called terrestrial planets?
-15. What are the outer planets?
-16. What is the difference between gas giants and ice giants?
-17. Why is Venus hotter than Mercury even though Mercury is closer to the Sun?
-18. Why is Mars called the Red Planet?
-19. What is the asteroid belt?
-20. What is a dwarf planet?
-21. Why is Pluto now classified as a dwarf planet?
-22. What is a moon?
-23. What are planetary rings made of?
-24. What is a comet?
-25. What is the difference between a meteoroid, a meteor, and a meteorite?
-26. What is the Kuiper Belt?
-27. What is the Oort Cloud?
-28. What is an astronomical unit?
-29. What causes Earth's seasons?
-30. What are three safety rules or habits connected to studying the Sun, eclipses, or space science?
+2. Why is the Sun called the center of the solar system?
+3. What is gravity, and what role does it play in the solar system?
+4. What is an orbit, and how do forward motion and gravity work together to create one?
+5. What is the difference between rotation and revolution?
+6. Name the eight planets in order from the Sun.
+7. What is a planet?
+8. Why do planets shine in the night sky?
+9. What is the difference between the inner (terrestrial) planets and the outer planets?
+10. Why is Venus hotter than Mercury even though Mercury is closer to the Sun?
+11. Why is Mars called the Red Planet, and why do scientists send rovers there?
+12. What is the asteroid belt, and why is it not like the crowded scenes in some movies?
+13. Name one interesting fact about Jupiter and one about Saturn.
+14. What is a dwarf planet, and why is Pluto classified as one?
+15. What is a moon? Give two examples of moons that are scientifically interesting and why.
+16. What is the difference between a meteoroid, a meteor, and a meteorite?
+17. What are the Kuiper Belt and the Oort Cloud?
+18. What is an astronomical unit (AU)?
+19. About how long does sunlight take to reach Earth, and why does that matter?
+20. What is a nebula, and how do scientists think the solar system formed?
+21. Why are the inner planets rocky and the outer planets mostly giant worlds?
+22. What mainly causes Earth's seasons — and what is a common wrong answer?
+23. What is the difference between a solar eclipse and a lunar eclipse?
+24. Name two ways humans have explored the solar system beyond looking with the naked eye.
+25. What is one common misconception about the solar system, and what is the correct idea?
+26. In your own words, explain why the solar system is a good place to study if you want to understand Earth.

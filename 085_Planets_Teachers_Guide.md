@@ -16,6 +16,7 @@ Students should be able to:
 - Explain why atmospheres, distance from the Sun, moons, rings, and size matter when comparing planets.
 - Explain why Pluto is classified as a dwarf planet.
 - Define exoplanet and understand that planets also orbit other stars.
+- Use comparison questions to organize facts instead of memorizing isolated lists.
 
 ### Answers to Study Questions
 
@@ -39,7 +40,7 @@ Students should be able to:
 18. Earth is different because it is the only planet known to have life, and it has liquid surface water, a protective atmosphere, and conditions suitable for living things.
 19. Mars is called the Red Planet because iron-rich dust and rock on its surface give it a reddish color.
 20. The **asteroid belt** is a region between Mars and Jupiter where many rocky or metallic objects orbit the Sun.
-21. Jupiter is important because it is the largest planet, has powerful gravity, many moons, strong storms, and acts like a small system within the solar system.
+21. Jupiter is important because it is the largest planet, has powerful gravity, many moons, strong storms (including the Great Red Spot), and acts like a small system within the solar system. Accept answers that mention Galileo's moons, Europa's possible ocean, or its role in the solar system's structure.
 22. Saturn is most famous for its bright rings, which are made of many pieces of ice and rock.
 23. Uranus looks blue-green mostly because methane in its atmosphere absorbs red light and allows more blue-green light to scatter back to space.
 24. Uranus is unusual because it rotates on its side, as if it had been tipped over.
@@ -52,37 +53,47 @@ Students should be able to:
 
 ### Activity Suggestions
 
-1. **Planet Order Lineup**
-   Give students planet cards and have them arrange themselves in order from the Sun. Then ask them to regroup as inner planets and outer planets.
+1. **Night Sky or Sky-App Planet Hunt**
+   On a clear evening (or using a free sky app in class with permission), students identify one or two bright objects and determine whether each is likely a planet or a star. Discuss steady light vs. twinkling and reflected sunlight. Connects the chapter opening to real observation.
 
-2. **Rocky or Giant Sort**
-   Provide cards with facts about each planet. Students sort the planets into terrestrial planets, gas giants, and ice giants, then explain the evidence for each choice.
+2. **Planet Order Lineup**
+   Give students planet cards and have them arrange themselves in order from the Sun. Regroup as inner vs. outer planets. Add a speed round: call out a fact ("has rings," "rocky," "hottest surface") and students step forward if their planet fits.
 
 3. **Scale Distance Walk**
-   Use a hallway, gym, or outdoor space to model relative planet distances from the Sun. Discuss why most textbook diagrams cannot show size and distance accurately at the same time.
+   Use a hallway, gym, track, or parking lot to model relative planet distances from the Sun (peppercorn Earth models work well). Discuss why textbook diagrams cannot show size and distance accurately at the same time. This activity fixes one of the most common spatial misconceptions.
 
-4. **Atmosphere Comparison Lab**
-   Have students compare Mercury, Venus, Earth, and Mars using a chart of atmosphere thickness, main gases, and temperature. Emphasize why Venus is hotter than Mercury.
+4. **Rotation vs. Revolution Role-Play**
+   One student is the Sun. Others spin in place (rotation) while walking in a circle (revolution). Call out "freeze at midnight" or "freeze at summer" to link spin and orbit to days and years. Add Venus (slow, backward spin) or Uranus (sideways) as challenge roles.
 
-5. **Rotation and Revolution Role-Play**
-   One student represents the Sun while others rotate and revolve as planets. Use this to distinguish a day from a year and to show why planets can spin at different rates.
+5. **Rocky or Giant Sort**
+   Provide fact cards for each planet. Students sort into terrestrial planets, gas giants, and ice giants, then defend one sort using evidence from the card. Emphasize that "gas giant" does not mean small or light.
 
-6. **Planet Travel Brochure**
-   Students choose one planet and create a science-based travel brochure. Require facts about distance, atmosphere, surface or clouds, moons, rings, hazards, and one mystery scientists study.
+6. **Atmosphere Comparison Lab**
+   Students chart Mercury, Venus, Earth, and Mars for atmosphere thickness, main gases, and surface temperature. Debate: "Which factor matters more for Venus's heat — distance or atmosphere?" Reinforces that closest to the Sun is not always hottest.
 
-7. **Moon and Ring Inventory**
-   Students research or use provided data to compare moons and rings among the planets. They should identify which planets have no moons, one moon, many moons, or ring systems.
+7. **Mars Rover Mission Brief**
+   Teams choose a science question for Mars (water history, volcanoes, dust storms, search for past life). They outline what a rover would need to measure and why Mars is a leading target for human exploration. Use mission names from the chapter (*Curiosity*, *Perseverance*) as examples.
 
 8. **Pluto Classification Debate**
-   Students review the planet and dwarf planet criteria, then explain why Pluto was reclassified. Keep the focus on scientific definitions changing with new evidence.
+   Students argue two sides using only the three planet criteria and the dwarf planet definition. Close by stressing that Pluto was reclassified with better evidence, not "deleted." Good practice in evidence-based reasoning.
+
+9. **Planet Trading Cards**
+   Each student builds a card for one planet: size vs. Earth, day length, year length, atmosphere, moons, rings, one "wow fact," and one comparison to Earth. Trade cards and quiz a partner using the comparison questions from the chapter.
+
+10. **Exoplanet Headlines**
+    Students write a short news headline for a fictional exoplanet discovery (rocky world, two suns, Goldilocks zone). They must state what is known vs. what is guessed. Reinforces that habitable zone does not mean life exists.
 
 ### Teaching Notes
 
 - Keep the anchor phrase visible: **planets are worlds in motion around stars**.
 - Reinforce that planets reflect sunlight; they do not produce their own light like stars.
 - Use comparison charts often. Students learn planets best by seeing patterns, not by memorizing isolated facts.
+- The mnemonic **My Very Educated Mother Just Served Us Nachos** helps order; pair it with grouping inner vs. outer planets.
 - Be clear that "gas giant" does not mean a planet is light or small. Jupiter and Saturn are enormous.
 - Emphasize that the outer planets do not have ordinary solid surfaces like Earth or Mars.
 - Correct the common misconception that Mercury must be the hottest planet; Venus is hotter because of its atmosphere.
-- Present Pluto's classification as an example of science becoming more precise, not as Pluto becoming unimportant.
+- Present Pluto's classification as science becoming more precise, not as Pluto becoming unimportant.
 - Use scale models whenever possible because planet distance is difficult to grasp from ordinary diagrams.
+- Connect to boys' interests when natural: sky apps, rovers, sports-field scale models, storms larger than Earth, Saturn's density — without talking down or relying only on gimmicks.
+- Distinguish **rotation** (spin) and **revolution** (orbit) every time both appear; students confuse these terms often.
+- When discussing exoplanets, stress that liquid water in the habitable zone is a reason to investigate further, not proof of life.

@@ -1,50 +1,34 @@
 ﻿# Combustion
 
-Strike a match, light a candle, watch a campfire, or see a rocket launch. In each case, a fuel is reacting quickly with oxygen and releasing energy.
+You strike a match. The head flares. You touch it to a grill starter, and a blue flame jumps to life. Down the street, a motorcycle engine coughs and roars. On the news, a rocket climbs on a pillar of fire.
 
-That reaction is combustion.
+Same idea in every case: a fuel is reacting fast with oxygen, and energy pours out as heat and light.
+
+That fast reaction is **combustion**.
 
 **Combustion is a chemical reaction in which a fuel reacts with oxygen and releases energy, often as heat and light.**
 
-Combustion cooks food, warms homes, powers many engines, launches rockets, shapes forests, produces smoke, and creates serious dangers when uncontrolled. It is one of the most familiar chemical reactions in daily life.
+Combustion cooks food, warms homes, powers engines, launches rockets, and runs much of modern life. It also starts wildfires, fills rooms with smoke, and creates real danger when it is not controlled. Understanding combustion means understanding both power and risk.
 
-To understand combustion, we must begin with fire.
+![Combustion](076_Combustion_01.png)
 
 ## Fire Is a Chemical Reaction
 
-Fire may look like a thing, but it is really a process.
+Fire looks like a thing you can point at. It is not. Fire is a **process**.
 
-In most ordinary fires, fuel reacts with oxygen from the air.
-
-Chemical bonds in the fuel and oxygen break, and new bonds form in the products.
-
-Energy is released.
-
-Some of that energy appears as heat.
-
-Some appears as light.
-
-The glowing flame is a visible sign of a chemical reaction happening very quickly.
+In most ordinary fires, fuel reacts with oxygen from the air. Chemical bonds in the fuel and oxygen break. New bonds form in the products. Energy is released. Some of that energy becomes **heat**. Some becomes **light**. The glowing flame is your visible proof that chemistry is happening very fast.
 
 ## The Fire Triangle
 
-Most ordinary fires need three things:
+Most ordinary fires need three things at once:
 
-- Fuel
-- Oxygen
-- Heat
+- **Fuel** — the substance that burns
+- **Oxygen** — from the air, usually
+- **Heat** — enough to start and keep the reaction going
 
-These three parts are called the **fire triangle**.
+Together these form the **fire triangle**.
 
-Fuel is the substance that burns.
-
-Oxygen supports burning.
-
-Heat starts the reaction and keeps it going.
-
-Remove one side of the triangle, and the fire goes out.
-
-This simple idea is the basis of much fire safety.
+Remove any one side, and the fire goes out. Smother a campfire with dirt? You cut off oxygen. Soak wood in water? You remove heat. Run out of fuel? The flame dies. Firefighters and engineers think in fire-triangle terms because the idea is simple and powerful.
 
 ## Fuel
 
@@ -52,57 +36,34 @@ A **fuel** is a substance that releases energy when it reacts.
 
 Common fuels include:
 
-- Wood
-- Paper
-- Wax
-- Natural gas
-- Gasoline
-- Propane
-- Coal
-- Oil
-- Charcoal
+- Wood and paper
+- Wax and charcoal
+- Natural gas, propane, and gasoline
+- Coal and oil
 
-Many fuels contain carbon and hydrogen.
-
-When these fuels burn completely, their carbon often becomes carbon dioxide, and their hydrogen often becomes water vapor.
-
-Fuel is not always a liquid or solid. Many fires involve fuel vapors or gases.
+Many fuels contain carbon and hydrogen. When they burn completely, carbon often becomes carbon dioxide and hydrogen often becomes water vapor. Fuel is not always a solid or liquid. Many fires burn **vapor** or **gas** first — that is why gasoline fumes near a spark are so dangerous.
 
 ## Oxygen
 
-Oxygen supports combustion.
+Oxygen does not burn by itself. It **supports** combustion.
 
-Air is about 21 percent oxygen.
+Air is about 21 percent oxygen. A candle flame pulls oxygen from the surrounding air. Cover a candle with a jar, and the oxygen inside runs low — the flame may go out.
 
-A candle flame uses oxygen from the surrounding air.
-
-If a flame is covered with a jar, the oxygen supply becomes limited and the flame may go out.
-
-Oxygen itself is not the fuel. It helps the fuel react.
-
-Pure oxygen can make fires burn much more intensely than ordinary air.
-
-That is why oxygen tanks must be kept away from flames, sparks, grease, and oil.
+Pure oxygen can make fires burn far more intensely than ordinary air. That is why oxygen tanks must stay away from flames, sparks, grease, and oil. A common mistake is calling oxygen the fuel. It is not. The fuel is what actually burns.
 
 ## Heat and Ignition
 
-A fuel usually needs heat before it begins burning.
+Fuel usually needs heat before it starts burning.
 
-**Ignition** is the starting of combustion.
+**Ignition** is the start of combustion.
 
 The **ignition temperature** is the temperature at which a substance begins to burn.
 
-Paper ignites more easily than a thick log because paper is thin, dry, and has lots of surface area.
-
-Gasoline vapors ignite more easily than liquid gasoline itself.
-
-Heat gives particles enough energy for the chemical reaction to begin.
-
-Once combustion starts, the heat released can keep the reaction going.
+Dry paper ignites more easily than a thick log because paper is thin and has lots of surface area exposed to heat and oxygen. Gasoline **vapors** ignite more easily than liquid gasoline sitting in a tank. Heat gives particles enough energy for the reaction to begin. Once combustion starts, the heat released can keep the reaction going on its own.
 
 ## Products of Combustion
 
-Combustion changes substances into new substances.
+Combustion changes substances into new substances. It is a **chemical change** — atoms are rearranged, not destroyed.
 
 When a carbon-containing fuel burns completely, common products include:
 
@@ -111,354 +72,172 @@ When a carbon-containing fuel burns completely, common products include:
 - Heat
 - Light
 
-For example, methane, the main gas in natural gas, can burn in oxygen to form carbon dioxide and water.
+For example, methane (the main part of natural gas) can burn in oxygen to form carbon dioxide and water. The wax on a candle does the same kind of chemistry on a smaller scale. Combustion does not simply make smoke. It makes new chemical products, many of them invisible gases.
 
-Combustion is a chemical change because new substances form.
+## Complete vs. Incomplete Combustion
 
-The atoms are rearranged, not destroyed.
+| | Complete combustion | Incomplete combustion |
+|---|---------------------|----------------------|
+| Oxygen supply | Enough oxygen | Not enough oxygen |
+| Common products | CO₂, water vapor, heat, light | CO, soot, smoke, unburned fuel |
+| Flame clue | Often cleaner, bluer | Often yellow and smoky |
+| Energy | More energy released | Less energy released |
+| Safety note | Still produces CO₂ | Can produce poisonous CO |
 
-## Complete Combustion
+**Complete combustion** happens when fuel burns with enough oxygen. For many carbon-based fuels, the main products are carbon dioxide and water. A clean blue gas flame often signals more complete combustion.
 
-**Complete combustion** happens when a fuel burns with enough oxygen.
+**Incomplete combustion** happens when oxygen is limited. It can produce carbon monoxide, soot, smoke, and unburned fuel particles — and less useful energy than complete combustion.
 
-For many carbon-based fuels, complete combustion produces mostly carbon dioxide and water.
+## Carbon Monoxide: The Invisible Danger
 
-A clean blue gas flame often shows more complete combustion than a smoky yellow flame.
+**Carbon monoxide** (CO) is a poisonous gas with no color and no smell. It can form when fuels burn without enough oxygen.
 
-Complete combustion usually releases a lot of energy and produces less soot than incomplete combustion.
+Carbon monoxide is dangerous because it prevents blood from carrying oxygen properly. Engines, grills, stoves, furnaces, fireplaces, and heaters can produce it if they are not working or venting correctly. That is why homes need **carbon monoxide detectors**.
 
-Even complete combustion of fossil fuels can still produce carbon dioxide, which affects the atmosphere when added in large amounts.
+Never use grills, camp stoves, or fuel-burning engines indoors. Smoke is not the only threat in a fire — carbon monoxide can be deadly even when you cannot see it.
 
-## Incomplete Combustion
+## Carbon Dioxide and Water Vapor
 
-**Incomplete combustion** happens when there is not enough oxygen for the fuel to burn completely.
+**Carbon dioxide** (CO₂) is a compound of one carbon atom and two oxygen atoms. It is a normal product of complete combustion of carbon-containing fuels. It is not poisonous in the same way CO is, but very high concentrations can displace oxygen. CO₂ is also a **greenhouse gas** — burning fossil fuels adds it to the atmosphere and connects combustion to climate science.
 
-Incomplete combustion can produce:
-
-- Carbon monoxide
-- Soot
-- Smoke
-- Unburned fuel particles
-- Less energy than complete combustion
-
-Carbon monoxide is especially dangerous because it is poisonous and has no color or smell.
-
-Soot is made of tiny carbon-rich particles.
-
-Smoky flames are often signs of incomplete combustion.
-
-## Carbon Monoxide
-
-**Carbon monoxide** is a poisonous gas with the formula CO.
-
-It can form when fuels burn without enough oxygen.
-
-Carbon monoxide is dangerous because it prevents blood from carrying oxygen properly.
-
-It has no color and no smell.
-
-Engines, grills, stoves, furnaces, fireplaces, and heaters can produce carbon monoxide if they are not working or venting properly.
-
-This is why homes need carbon monoxide detectors.
-
-Never use grills, camp stoves, or fuel-burning engines indoors.
-
-## Carbon Dioxide
-
-**Carbon dioxide** is a compound made of one carbon atom and two oxygen atoms.
-
-Its formula is CO2.
-
-Carbon dioxide is a common product of complete combustion of carbon-containing fuels.
-
-It is not poisonous in the same way carbon monoxide is, but high concentrations can displace oxygen.
-
-Carbon dioxide is also a greenhouse gas.
-
-Burning fossil fuels adds carbon dioxide to the atmosphere.
-
-This connects combustion to climate and the carbon cycle.
-
-## Water Vapor
-
-Combustion of hydrogen-containing fuels often produces water vapor.
-
-Hydrogen atoms in the fuel combine with oxygen atoms to form water.
-
-You may see water droplets on a cold surface above a clean-burning flame.
-
-That water came from the chemical reaction.
-
-For example, burning methane produces carbon dioxide and water vapor.
-
-Combustion does not simply make smoke. It makes new chemical products.
+Combustion of hydrogen-containing fuels often produces **water vapor**. Hydrogen in the fuel combines with oxygen to form water. Hold a cold spoon above a clean candle flame and you may see droplets — that water came from the reaction, not from the air alone.
 
 ## Flames
 
 A **flame** is the hot, glowing region where gases are burning.
 
-Many fuels must become vapor or gas before they burn with a flame.
+Many fuels must become vapor or gas before they burn with a visible flame. In a candle, heat melts wax near the wick. Liquid wax moves up the wick and vaporizes. **Wax vapor** burns in the flame. The wick mainly carries fuel upward; the wax is the real fuel.
 
-In a candle, heat melts wax near the wick. Liquid wax moves up the wick and vaporizes. Wax vapor then burns in the flame.
-
-The wick is not the main fuel. The wax is.
-
-Different parts of a flame can have different temperatures and different amounts of oxygen.
-
-This is why flame color and shape can vary.
+Different parts of a flame can have different temperatures and different amounts of oxygen. That is why flame color and shape change.
 
 ## Why Flames Glow
 
-Flames glow because hot particles and gases give off light.
+Flames glow because hot gases and particles give off light. In a yellow candle flame, tiny soot particles become hot and glow. A blue flame often means the fuel is mixing well with oxygen and burning more completely.
 
-In a yellow candle flame, tiny soot particles become hot and glow.
+Fireworks get their colors from metal salts and other chemicals that release characteristic colors when heated. Flame color can give clues about what is burning — but interpreting it takes care. Never experiment with flame colors without trained adult supervision.
 
-A blue flame often means the fuel is mixing well with oxygen and burning more completely.
+## Surface Area: Why Dust Can Explode
 
-Fireworks have bright colors because metal salts and other chemicals release characteristic colors when heated.
+Surface area strongly affects how fast fuel can burn.
 
-Flame color can give clues, but it must be interpreted carefully.
+Small pieces burn more easily than large chunks because more surface is exposed to oxygen and heat. Wood shavings catch fire more easily than a thick log.
 
-Never experiment with flame colors without trained adult supervision.
+**Dust explosions** are a real industrial hazard. Grain dust, flour dust, coal dust, or sawdust in air can ignite almost like a chain reaction because tiny particles have enormous total surface area. Mills, factories, and workshops control dust for this reason. Same chemistry as a campfire — wildly different scale and speed.
 
-## Surface Area and Combustion
+## Combustion in Engines
 
-Surface area affects combustion.
+Many engines are combustion machines.
 
-Small pieces of fuel burn more easily than large chunks because more surface is exposed to oxygen.
+In a **gasoline engine**, fuel vapor mixes with air and burns inside cylinders. Hot expanding gases push pistons. That motion turns the crankshaft and eventually the wheels. **Diesel** engines also use combustion but ignite fuel differently. **Jet engines** burn fuel with compressed air and shoot hot gases backward to produce thrust.
 
-Wood shavings catch fire more easily than a thick log.
+Combustion engines turn chemical energy in fuel into motion and heat. They are powerful and useful — and they also produce exhaust gases, including carbon dioxide.
 
-Dust can be dangerous because tiny particles have enormous surface area.
+## Combustion in Rockets
 
-Grain dust, flour dust, coal dust, or sawdust in air can sometimes explode if ignited.
+Rockets use combustion to produce thrust, but they cannot rely on air for oxygen.
 
-This is why dust control matters in mills, factories, and workshops.
+A rocket must carry **fuel** and an **oxidizer** — a substance that supplies oxygen or helps the fuel burn. In space there is no air. Some rockets burn liquid hydrogen with liquid oxygen; the reaction produces hot water vapor and enormous energy. Rocket combustion must be controlled with extreme precision. A small error is not a small problem.
 
-## Combustion and Engines
+## Combustion in Cooking
 
-Many engines use combustion.
+Cooking often uses combustion directly. Gas stoves burn natural gas or propane. Charcoal grills burn carbon-rich fuel. Wood fires can cook food over open flame.
 
-In a gasoline engine, fuel vapor mixes with air and burns inside cylinders.
+Combustion provides the heat that browns meat, boils water, and bakes bread. It also produces gases and smoke. Good ventilation and safe equipment matter. **Never use outdoor grills indoors** — the same combustion that cooks a burger can fill a room with carbon monoxide.
 
-The hot expanding gases push pistons.
+## Combustion vs. Respiration
 
-That motion turns the engine.
+Combustion and **respiration** are related but not the same.
 
-Diesel engines also use combustion, but they ignite fuel differently.
+Both can involve carbon compounds reacting with oxygen and releasing energy. Combustion is fast — heat and light in seconds. Respiration is controlled inside your cells, step by step, releasing energy your body can actually use. In respiration, glucose reacts with oxygen to produce carbon dioxide, water, and usable energy.
 
-Jet engines burn fuel with compressed air and push hot gases backward to produce thrust.
-
-Combustion engines change chemical energy into motion and heat.
-
-## Combustion and Rockets
-
-Rockets use combustion to produce thrust.
-
-A rocket must carry fuel and an oxidizer.
-
-An **oxidizer** supplies oxygen or helps fuel burn.
-
-This is necessary because rockets travel where there may be little or no air.
-
-Some rockets use liquid hydrogen as fuel and liquid oxygen as oxidizer.
-
-The reaction produces hot water vapor and enormous energy.
-
-Rocket combustion must be controlled with extreme precision.
-
-## Combustion and Cooking
-
-Cooking often uses combustion.
-
-Gas stoves burn natural gas or propane.
-
-Charcoal grills burn carbon-rich fuel.
-
-Wood fires can cook food.
-
-Combustion provides heat that causes physical and chemical changes in food.
-
-But cooking fires also produce gases and smoke.
-
-Good ventilation and safe equipment are important.
-
-Never use outdoor grills indoors.
-
-## Combustion and Respiration
-
-Combustion and respiration are related but not the same.
-
-Both can involve carbon compounds reacting with oxygen and releasing energy.
-
-Combustion is usually fast and releases energy as heat and light.
-
-Respiration is controlled inside cells and releases energy in useful steps.
-
-In respiration, glucose reacts with oxygen to produce carbon dioxide, water, and usable energy.
-
-Your body is not on fire because respiration is carefully controlled chemistry.
+Your body is not on fire. Respiration is carefully controlled chemistry, not a campfire in your lungs.
 
 ## Combustion and Oxidation
 
-Combustion is a kind of oxidation.
+Combustion is a kind of **oxidation** — combining with oxygen (or, in broader chemistry, losing electrons).
 
-**Oxidation** can mean combining with oxygen or losing electrons.
-
-Burning is fast oxidation.
-
-Rusting is slow oxidation.
-
-When wood burns, oxidation happens quickly and releases heat and light.
-
-When iron rusts, oxidation happens slowly and releases energy too gradually to make a flame.
-
-Combustion is oxidation you can often see and feel.
+Burning wood is fast oxidation: heat and light you can see. Rusting iron is slow oxidation: energy released too gradually for a flame. Combustion is oxidation you can often see and feel.
 
 ## Conservation of Matter
 
-Combustion follows the conservation of matter.
+Combustion follows the **conservation of matter**. Atoms are not destroyed. They are rearranged.
 
-Atoms are not destroyed.
+When a candle burns, wax seems to vanish. Its atoms become carbon dioxide, water vapor, soot, and other products. Many products are gases, so they drift away and are easy to miss. If you could capture every product and weigh them, the total mass would account for the wax that burned.
 
-They are rearranged.
-
-When a candle burns, wax seems to disappear, but its atoms become carbon dioxide, water vapor, soot, and other products.
-
-Some products float away as gases, so they are easy to miss.
-
-If all products could be captured and measured, the total matter would be accounted for.
-
-Fire changes matter. It does not make matter vanish.
+Fire changes matter. It does not make matter disappear.
 
 ## Energy in Combustion
 
-Combustion releases chemical energy stored in fuel.
+Combustion releases **chemical energy** stored in fuel — energy held in the bonds and arrangements of atoms.
 
-Chemical energy is energy stored in the bonds and arrangements of atoms.
+When fuel reacts with oxygen, new bonds form in products such as carbon dioxide and water. Those products are often lower in chemical energy than the original fuel and oxygen. The difference pours out as heat, light, sound, and motion.
 
-When fuel reacts with oxygen, new bonds form in products such as carbon dioxide and water.
+That released energy is why combustion powers civilization. It is also why uncontrolled fire is so dangerous.
 
-The products are often lower in chemical energy than the original fuel and oxygen.
+## Wildfires and Smoke
 
-The difference is released as heat, light, sound, and motion.
+**Wildfires** are large uncontrolled fires in forests, grasslands, or other natural areas. They need fuel, oxygen, and heat — the same fire triangle. Dry plants, wind, drought, and heat can turn a spark into a disaster. Lightning and human activity are common starters.
 
-This released energy is why combustion is useful.
+Some ecosystems depend on occasional natural fire. Uncontrolled wildfires can destroy homes, habitats, and lives.
 
-It is also why combustion can be dangerous.
-
-## Wildfires
-
-Wildfires are large uncontrolled fires in forests, grasslands, or other natural areas.
-
-Wildfires need fuel, oxygen, and heat.
-
-Dry plants, wind, high temperatures, and drought can increase wildfire danger.
-
-Lightning or human activity can start fires.
-
-Some ecosystems depend on occasional natural fire, but uncontrolled fires can destroy homes, habitats, and lives.
-
-Fire science helps people prevent, manage, and respond to wildfires.
-
-## Smoke
-
-Smoke is a mixture of gases and tiny particles produced by burning.
-
-Smoke can contain soot, ash, water vapor, carbon dioxide, carbon monoxide, and many other substances.
-
-Smoke is dangerous to breathe.
-
-It can irritate eyes and lungs.
-
-It can also signal incomplete combustion.
-
-During a fire, smoke can be more dangerous than flames because it spreads quickly and can contain poisonous gases.
+**Smoke** is a mixture of gases and tiny particles from burning. It can contain soot, ash, water vapor, carbon dioxide, carbon monoxide, and many other substances. Smoke irritates eyes and lungs and spreads fast. In many fires, smoke is more dangerous than the flames themselves because it can carry poisonous gases into places flames never reach.
 
 ## Fossil Fuels
 
-Fossil fuels include coal, oil, and natural gas.
+**Fossil fuels** — coal, oil, and natural gas — formed from ancient living things over long periods. They are carbon-rich stores of chemical energy.
 
-They formed from ancient living things over long periods.
+Burning fossil fuels powers electricity, heating, transportation, and industry. It also adds carbon dioxide and sometimes other pollutants to the air. Energy choices connect directly to air quality, climate, and health.
 
-Fossil fuels contain carbon-rich compounds.
+## Fighting Fire: Extinguishers and Fire Classes
 
-Burning fossil fuels releases energy that people use for electricity, heating, transportation, and industry.
+**Fire extinguishers** work by removing part of the fire triangle — cooling the fire, blocking oxygen, or interrupting the chemical reactions in the flame. Different extinguishers are made for different kinds of fires.
 
-It also produces carbon dioxide and sometimes pollutants.
+Fires are grouped by fuel type:
 
-This is why energy choices are connected to air quality, climate, health, and technology.
+| Class | Fuel type | Example |
+|-------|-----------|---------|
+| A | Ordinary solids | Wood, paper, cloth |
+| B | Flammable liquids | Gasoline, oil |
+| C | Electrical equipment | Wiring, appliances |
+| D | Combustible metals | Magnesium, sodium |
+| K | Cooking oils and fats | Kitchen grease fires |
 
-## Fire Extinguishers
-
-Fire extinguishers work by removing part of the fire triangle.
-
-Some cool the fire.
-
-Some smother the fire by blocking oxygen.
-
-Some interrupt the chemical reactions in the flame.
-
-Different extinguishers are made for different kinds of fires.
-
-Water can be dangerous on grease fires or electrical fires.
-
-Only trained people should use fire extinguishers, and everyone should know when to leave and call for help.
-
-## Fire Classes
-
-Fires can be grouped into classes based on the fuel.
-
-Common classes include:
-
-- Class A: ordinary solids such as wood, paper, and cloth
-- Class B: flammable liquids such as gasoline and oil
-- Class C: electrical equipment
-- Class D: combustible metals
-- Class K: cooking oils and fats
-
-Different fire classes need different responses.
-
-Using the wrong method can make a fire worse.
-
-This is why fire safety training matters.
+Using the wrong method can make a fire worse. Water can spread a **grease fire** or create shock hazards on **electrical fires**. Only trained people should use extinguishers — and everyone should know when to leave and call for help.
 
 ## Common Misconceptions
 
-One mistake is thinking oxygen is fuel. Oxygen supports combustion, but fuel is what burns.
+One mistake is thinking **oxygen is fuel**. Oxygen supports combustion; fuel is what burns.
 
-Another mistake is thinking fire destroys matter. Combustion rearranges atoms into new products.
+Another is thinking fire **destroys matter**. Combustion rearranges atoms into new products.
 
-A third mistake is thinking all flames are safe if they are small. Small flames can start large fires.
+A third is thinking **small flames are always safe**. Small flames can start large fires.
 
-A fourth mistake is thinking smoke is just dirty air. Smoke can contain poisonous gases and tiny harmful particles.
+A fourth is thinking **smoke is just dirty air**. Smoke can carry poisonous gases and harmful particles.
 
-A fifth mistake is thinking water puts out every fire. Water can spread grease fires and create shock hazards with electrical fires.
+A fifth is thinking **water puts out every fire**. Water can spread grease fires and create electrical hazards.
 
 ## Combustion Safety
 
-Combustion is useful only when controlled.
+Combustion is useful only when controlled. Treat fire like fast chemistry with serious consequences — not a toy.
 
-Good safety habits include:
+Important safety habits:
 
 - Never play with matches, lighters, candles, stoves, or fireworks.
 - Keep fuel, paper, cloth, hair, and loose clothing away from flames.
 - Never use grills, camp stoves, or fuel-burning engines indoors.
-- Make sure homes have working smoke alarms and carbon monoxide detectors.
-- Know two ways out of a room or building.
-- Stop, drop, and roll if clothing catches fire.
-- Stay low under smoke during a fire escape.
-- Leave a fire area quickly and call for help.
-- Use fire extinguishers only if trained and if escape is clear.
-- Follow adult instructions around laboratories, kitchens, workshops, and campfires.
-
-Fire is not a toy. It is fast chemistry with serious consequences.
+- Install and test smoke alarms and carbon monoxide detectors.
+- Know two ways out of every room or building.
+- **Stop, drop, and roll** if clothing catches fire.
+- Stay low under smoke when escaping.
+- Leave quickly and call for help — do not stay to fight a fire you cannot handle safely.
+- Use fire extinguishers only if trained and escape is clear.
+- Follow adult instructions in labs, kitchens, workshops, and at campfires.
 
 ## The Big Idea
 
-Combustion is a chemical reaction in which a fuel reacts with oxygen and releases energy.
+Combustion is a chemical reaction in which fuel reacts with oxygen and releases energy.
 
-Most ordinary fires need fuel, oxygen, and heat. Complete combustion of carbon-based fuels produces carbon dioxide and water, while incomplete combustion can produce smoke, soot, and poisonous carbon monoxide. Combustion powers engines, rockets, cooking, heating, and industry, but it also creates fire hazards, air pollution, and carbon dioxide emissions. Understanding combustion helps explain both energy use and fire safety.
+Most ordinary fires need fuel, oxygen, and heat. Complete combustion of carbon-based fuels produces mainly carbon dioxide and water; incomplete combustion can produce smoke, soot, and poisonous carbon monoxide. Combustion powers engines, rockets, cooking, and industry — and it creates fire hazards, air pollution, and carbon dioxide emissions. Understanding combustion helps you use energy wisely and stay safe around fire.
 
 If you remember only one sentence, remember this:
 
@@ -467,32 +246,28 @@ If you remember only one sentence, remember this:
 ## Study Questions
 
 1. What is combustion?
-2. Why is fire a chemical reaction?
+2. Why is fire a chemical reaction rather than a solid object?
 3. What are the three parts of the fire triangle?
-4. What is fuel?
-5. Give four examples of common fuels.
-6. What role does oxygen play in combustion?
-7. Why is it wrong to say oxygen is fuel?
-8. What is ignition?
-9. What is ignition temperature?
-10. What are common products of complete combustion of carbon-based fuels?
-11. What is complete combustion?
-12. What is incomplete combustion?
-13. Name three products or signs of incomplete combustion.
-14. What is carbon monoxide, and why is it dangerous?
-15. What is carbon dioxide?
-16. Why can combustion produce water vapor?
-17. What is a flame?
-18. Why does a candle flame use wax as fuel rather than mainly the wick?
-19. How does surface area affect combustion?
-20. Why can dust explosions happen?
-21. How do combustion engines use burning fuel?
-22. Why do rockets need to carry an oxidizer?
-23. How are combustion and respiration alike and different?
-24. How is combustion related to oxidation?
-25. How does combustion obey conservation of matter?
-26. What is smoke, and why is it dangerous?
-27. Why does burning fossil fuels affect the atmosphere?
-28. Why does water not put out every kind of fire safely?
-29. Name two common misconceptions about combustion.
-30. What are three important combustion or fire safety rules?
+4. What is fuel? Give four examples.
+5. What role does oxygen play in combustion?
+6. Why is it wrong to say oxygen is fuel?
+7. What is ignition? What is ignition temperature?
+8. What are common products of complete combustion of carbon-based fuels?
+9. How do complete and incomplete combustion differ?
+10. What is carbon monoxide, and why is it dangerous?
+11. What is carbon dioxide, and how does it connect to climate?
+12. Why can combustion produce water vapor?
+13. What is a flame? Why is wax the main fuel in a candle, not the wick?
+14. How does surface area affect combustion?
+15. Why can dust explosions happen?
+16. How does a gasoline engine use combustion?
+17. Why do rockets need to carry an oxidizer?
+18. How are combustion and respiration alike and different?
+19. How is combustion related to oxidation?
+20. How does combustion obey conservation of matter?
+21. What is smoke, and why can it be more dangerous than flames?
+22. Why does burning fossil fuels affect the atmosphere?
+23. Why does water not put out every kind of fire safely?
+24. Name two fire classes and one example fuel for each.
+25. Name two common misconceptions about combustion.
+26. What are three important fire safety rules?

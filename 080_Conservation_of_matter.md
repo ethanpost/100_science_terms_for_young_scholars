@@ -1,586 +1,146 @@
 ﻿# Conservation of Matter
 
-Imagine lighting a candle. The wax slowly disappears. A careless observer might say, "The wax is gone."
+Picture a late-night campfire. You feed in sticks and watch the flames climb. By morning the wood is mostly gone. Only ash and a few charred chunks remain.
 
-But a scientist asks better questions.
+A friend shrugs. "The fire ate it. Nothing left."
 
-Where did the wax go?
+You shake your head. Scientists do not accept that answer.
 
-What did it become?
-
-Did the matter vanish, or did it change into substances we cannot easily see?
+Where did the wood go? What did it become? Did the matter vanish — or did it change into stuff you cannot easily see?
 
 **Conservation of matter is the rule that matter is not created or destroyed in ordinary physical and chemical changes.**
 
-Matter can change shape.
+Matter can change shape, state, or identity. It can melt, freeze, dissolve, burn, rust, bubble, or react. But in ordinary changes, the atoms are still there. They may be rearranged, spread out, or carried away as invisible gases — but they have not simply disappeared.
 
-Matter can change state.
+That idea changes how you read the world. A shrinking candle, a fizzing soda, rust on a bike chain, steam from a pot, and even the food you eat all follow the same rule: **matter changes form, place, or arrangement; it does not vanish.**
 
-Matter can mix, dissolve, melt, freeze, burn, rust, or react.
-
-But in ordinary changes, the atoms are still there.
-
-They may be rearranged, spread out, or carried away as gases, but they have not simply disappeared.
+![Conservation of Matter](080_Conservation_of_matter_01.png)
 
 ## Matter Means Stuff
 
-Matter is anything that has mass and takes up space.
+**Matter** is anything that has mass and takes up space.
 
-Air is matter.
+Air is matter. Water is matter. Wood, metal, sugar, salt, smoke, steam, and carbon dioxide are matter too. Some matter is easy to see and hold. Some is invisible — like many gases — but it is still real. A balloon full of air has slightly more mass than the same balloon empty. That is why conservation of matter gets easier once you remember: **gases count.**
 
-Water is matter.
+## Mass: How Much Stuff
 
-Wood is matter.
+**Mass** is the amount of matter in something. Scientists often measure it in grams or kilograms. When they test conservation of matter, they compare mass before and after a change. If no matter escapes or enters, the total mass should stay the same.
 
-Metal is matter.
+## Closed Systems vs. Open Systems
 
-Sugar, salt, smoke, steam, and carbon dioxide are matter too.
+A **closed system** is one where matter cannot enter or leave. Imagine a sealed jar with a reaction inside. Gas may form, liquids may change color, the bag may puff up — but all the matter is trapped inside. The total mass of the jar and everything in it should stay the same.
 
-Sometimes matter is easy to see and hold.
-
-Sometimes it is invisible, like many gases.
-
-The conservation of matter becomes easier to understand when you remember that gases are real matter.
-
-## Mass and Matter
-
-Mass is the amount of matter in something.
-
-A rock has mass.
-
-A glass of water has mass.
-
-A balloon full of air has slightly more mass than the same balloon empty.
-
-Mass is usually measured in grams or kilograms.
-
-When scientists study conservation of matter, they often measure mass before and after a change.
-
-If no matter escapes or enters, the total mass should stay the same.
-
-## A Closed System
-
-A **closed system** is a system in which matter cannot enter or leave.
-
-Imagine a sealed jar.
-
-If a reaction happens inside the sealed jar, gas may form, liquids may change, and colors may shift.
-
-But the matter is trapped inside.
-
-The total mass of the sealed jar and everything in it should stay the same.
-
-A closed system is important because it helps us keep track of all the matter.
-
-## An Open System
-
-An **open system** allows matter to enter or leave.
-
-An uncovered pot of boiling water is an open system.
-
-Water vapor escapes into the air.
-
-The pot seems to lose mass because some water leaves as gas.
-
-The water has not been destroyed.
-
-It has moved into the air as water vapor.
-
-Many everyday changes appear to lose matter because they happen in open systems.
+An **open system** allows matter to enter or leave. Boil water in an uncovered pot and steam escapes. The water level drops because water vapor left the pot as gas. The water was not destroyed. It moved into the air. Many everyday changes *look* like matter is lost or gained because they happen in open systems. Track what enters and leaves, and the puzzle usually solves itself.
 
 ## The Candle Puzzle
 
-A burning candle seems to lose wax.
+A burning candle seems to lose wax. The wax melts, travels up the wick, and reacts with oxygen from the air. The products include carbon dioxide and water vapor — gases that drift into the room. The candle shrinks because wax left the candle as invisible gases after reacting.
 
-The wax melts, rises through the wick, and reacts with oxygen in the air.
-
-The products include carbon dioxide and water vapor.
-
-These gases float away into the room.
-
-The candle gets smaller because wax leaves the candle as invisible gases after reacting.
-
-Matter did not vanish.
-
-It changed form and moved away.
+Matter did not vanish. It changed form and moved away.
 
 ## The Rust Puzzle
 
-Rusting can surprise people in the opposite way.
+Rusting surprises people the opposite way. A rusty nail or bike chain can *gain* mass. How?
 
-A rusty piece of iron can gain mass.
+Iron reacts with oxygen from the air and water from the environment. Oxygen atoms join iron atoms to form rust. That oxygen came from outside the original metal. The object gains mass because matter from the air became part of the rust.
 
-How can something gain mass while rusting?
+## Physical Changes: Same Stuff, New Look
 
-Iron reacts with oxygen from the air and water from the environment.
+A **physical change** does not make a new substance. Melting ice is physical: still water, just liquid. Freeze it again — still water. Crush a can, cut paper, dissolve salt in water — the identity of the substance usually stays the same.
 
-Oxygen atoms join with iron atoms to form rust.
+If you melt 50 grams of ice in a sealed container, you should still have 50 grams of water (plus the container). The form changed. The amount of matter did not.
 
-The extra oxygen comes from outside the original iron.
+## Chemical Changes: New Substances, Same Atoms
 
-The object may gain mass because matter from the air becomes part of the rust.
+A **chemical change** makes new substances. Even then, atoms are conserved. Atoms in the reactants are rearranged into products. They are not destroyed.
 
-## Physical Changes Conserve Matter
-
-A physical change does not make a new substance.
-
-Melting ice is a physical change.
-
-The water changes from solid to liquid, but it is still water.
-
-If you melt 50 grams of ice in a sealed container, you should get 50 grams of liquid water.
-
-Freezing, melting, boiling, condensing, crushing, cutting, and dissolving usually conserve matter.
-
-The form changes.
-
-The amount of matter does not.
-
-## Chemical Changes Conserve Matter
-
-A chemical change makes new substances.
-
-But even in a chemical change, atoms are conserved.
-
-The atoms in the reactants are rearranged into products.
-
-They are not destroyed.
-
-When hydrogen and oxygen form water, hydrogen atoms and oxygen atoms are still present.
-
-They are just bonded differently.
-
-When iron rusts, iron atoms and oxygen atoms become part of rust.
-
-Chemical reactions rearrange atoms, but they do not make atoms vanish.
+When hydrogen and oxygen form water, hydrogen and oxygen atoms are still present — just bonded differently. When iron rusts, iron and oxygen atoms become part of rust. Chemical reactions rearrange atoms; they do not make atoms vanish.
 
 ## Conservation of Atoms
 
-The conservation of matter is closely connected to the conservation of atoms.
+Conservation of matter connects directly to **conservation of atoms**. In ordinary chemical reactions, atoms are not created or destroyed — they are rearranged. Start with 6 carbon atoms, and the products must contain 6 carbon atoms. Start with 12 oxygen atoms, and the products must contain 12 oxygen atoms. They may sit in different molecules, but every atom must be accounted for. Chemistry often feels like careful bookkeeping — because it is.
 
-In ordinary chemical reactions, atoms are not created or destroyed.
+## Chemical Equations and Balancing
 
-They are rearranged.
+Scientists use **chemical equations** to show reactions. Reactants go on the left; products on the right.
 
-If a reaction starts with 6 carbon atoms, the products must contain 6 carbon atoms.
+Hydrogen + oxygen → water
 
-If a reaction starts with 12 oxygen atoms, the products must contain 12 oxygen atoms.
+In formulas: H₂ + O₂ → H₂O
 
-The atoms may be in different molecules, but they must be accounted for.
+That shows the substances involved, but it is not balanced yet. A **balanced chemical equation** has the same number of each kind of atom on both sides.
 
-This is why chemistry often feels like careful bookkeeping.
+2H₂ + O₂ → 2H₂O
 
-## Chemical Equations
+Left side: 4 hydrogen atoms, 2 oxygen atoms. Right side: 4 hydrogen atoms, 2 oxygen atoms. Balanced.
 
-Scientists use chemical equations to show chemical reactions.
+When balancing, change **coefficients** (numbers in front of a formula). In 2H₂O, the 2 means two water molecules. Do **not** change **subscripts** (numbers inside a formula). In H₂O, the 2 means two hydrogens per molecule. Change H₂O to H₂O₂ and you get hydrogen peroxide — a different substance.
 
-A chemical equation lists reactants on the left and products on the right.
+Balancing is not just a classroom exercise. It respects conservation of matter. If oxygen atoms disappear on paper, the equation cannot describe a real ordinary reaction. Balanced equations help predict how much reactant you need and how much product you get — in labs, factories, medicine, and even industrial cooking.
 
-For example:
+## Kitchen and Garage Experiments
 
-Hydrogen + oxygen -> water
+**Vinegar and baking soda:** Bubbles are carbon dioxide. In an open cup, gas escapes and the cup may lose mass. In a sealed bag, the bag inflates — but total mass of bag plus contents should stay the same. The gas is still inside.
 
-In formulas:
+**Fizzy soda:** Before you open the bottle, dissolved carbon dioxide is trapped. Pop the cap and gas rushes out. The bottle may lose a tiny bit of mass. The gas did not disappear; it moved into the air.
 
-H2 + O2 -> H2O
+**Boiling water:** In an open pot, the level drops as water becomes vapor. In a closed distillation setup, that vapor can be cooled and collected as liquid again. Boiling changes state, not what the water *is*.
 
-This shows the substances involved, but it is not balanced yet.
+**Bike pump or tire:** You are pushing matter (air) into a smaller space. The air did not vanish when you could not see it — it was always there.
 
-A balanced equation must show the same number of each kind of atom on both sides.
+These are the same rule in different costumes: track where the matter went.
 
-## Balanced Equations
+## Fire, Food, and Growing Things
 
-A **balanced chemical equation** has the same number of each kind of atom in the reactants and products.
+**Campfire:** Wood seems destroyed; mostly ash remains. But much of the wood became gases — carbon dioxide, water vapor, and other products — plus heat and light. Capture every gas and particle and the total matter is accounted for.
 
-For water:
+**Eating:** Food matter does not vanish inside you. Some atoms build and repair tissue. Some fuel reactions that release energy. You breathe out carbon dioxide, lose water and other wastes, and give off heat. Mass from food becomes body, breath, movement, and waste. Your body is a living rearrangement machine.
 
-2H2 + O2 -> 2H2O
+**Plants:** A tree looks like it grows from soil, but much of its mass comes from carbon dioxide in the air and water from the ground. During photosynthesis, plants use light energy to turn CO₂ and water into sugars and oxygen. Carbon from the air becomes wood and leaves. **Air can become part of a tree.** That only sounds impossible until you remember air is matter.
 
-Left side:
+## Why Gases Fooled People for So Long
 
-- 4 hydrogen atoms
-- 2 oxygen atoms
+Gases can be invisible. They spread out. They escape open containers. For centuries, burning, breathing, and bubbling reactions looked like matter was *lost*. Antoine Lavoisier, a careful French chemist, measured masses before and after reactions and showed matter is conserved in chemical changes. He helped prove oxygen plays a key role in burning. Once scientists learned to trap and weigh gases, conservation of matter became obvious. **Closed systems** are still one of the best tools for proving it in a lab.
 
-Right side:
+## Matter Moves, Mixes, and Hides
 
-- 4 hydrogen atoms
-- 2 oxygen atoms
+Sometimes the best question is simply: **Where did it go?**
 
-The equation is balanced because every atom is accounted for.
+Water evaporates from a puddle and moves into air. Smoke rises and spreads. Carbon dioxide bubbles out of a reaction. Rust pulls oxygen from air. Sweat dries off skin after practice.
 
-## Coefficients and Subscripts
+Matter can change state — solid, liquid, gas — and seem to appear or vanish. Fog on a mirror is condensed water vapor. A disappearing puddle is evaporated water. Same atoms, different view.
 
-When balancing equations, scientists change coefficients.
+Dissolving salt in water looks like the salt vanished. It did not. Particles spread through the water. Evaporate the water and salt returns. Filtering, distillation, and sorting separate mixtures without destroying matter.
 
-A **coefficient** is a number in front of a chemical formula.
+Matter may become invisible gas, dissolve into a solution, spread into tiny pieces, or leave a container. When it seems missing, think like a detective — not like someone who gave up.
 
-In 2H2O, the 2 means two water molecules.
+## Conservation in the Real World
 
-Scientists do not change subscripts to balance equations.
+**Engineers** track matter in water treatment, factories, rockets, and food production. Careful accounting prevents waste and improves safety.
 
-A **subscript** is a small number inside a formula.
+**Environmental science:** Pollution does not disappear because you poured it away, burned it, buried it, or diluted it. Plastic breaks into smaller pieces; the matter remains. Smoke spreads through the atmosphere. Fertilizer washes into rivers. If matter leaves one place, it went somewhere else.
 
-In H2O, the 2 means each water molecule has two hydrogen atoms.
+**"Throwing it away":** "Away" usually means a landfill, recycling center, compost pile, incinerator, or ocean. Understanding conservation encourages smarter choices about packaging and disposal.
 
-Changing H2O to H2O2 would make hydrogen peroxide, a different substance.
+**Batteries:** They do not create matter. Chemical reactions rearrange materials inside to move electrons and produce electricity. Rechargeable batteries reverse many of those changes. Matter is rearranged, not destroyed.
 
-## Why Balancing Matters
+**Matter cycles:** Water cycles through evaporation, rain, rivers, and groundwater. Carbon moves through air, plants, animals, fuels, and rocks. Nitrogen cycles through soil, bacteria, and living things. Cycles move matter through forms and places — they do not create it from nothing.
 
-Balancing equations is not just a school exercise.
+## What Conservation Does *Not* Mean
 
-It is a way of respecting conservation of matter.
+It does not mean an object always keeps the same shape, substance, or location. It does not mean matter is always easy to see. It means that in ordinary physical and chemical changes, matter is not created or destroyed — every atom must still be accounted for.
 
-If an equation has oxygen atoms disappearing, it cannot describe an ordinary chemical reaction correctly.
-
-If carbon atoms appear from nowhere, the equation is not balanced.
-
-Balanced equations help chemists predict how much reactant is needed and how much product can form.
-
-They are used in medicine, cooking science, fuel production, environmental testing, factories, and laboratories.
-
-## The Vinegar and Baking Soda Example
-
-When vinegar reacts with baking soda, bubbles form.
-
-The bubbles are carbon dioxide gas.
-
-If the reaction happens in an open cup, gas escapes into the air.
-
-The cup may lose mass because matter leaves the cup.
-
-If the reaction happens in a sealed bag, the bag inflates.
-
-The total mass of the sealed bag and contents should remain the same.
-
-The gas is still inside the system.
-
-## The Soda Bottle Example
-
-A sealed bottle of fizzy soda contains liquid and dissolved carbon dioxide gas.
-
-Before opening, the gas is trapped.
-
-After opening, carbon dioxide escapes.
-
-The bottle may lose a small amount of mass because gas leaves.
-
-The gas did not disappear.
-
-It moved from the bottle into the air.
-
-This is conservation of matter in an everyday object.
-
-## The Boiling Water Example
-
-If you boil water in an open pot, the water level drops.
-
-The missing water has become water vapor.
-
-It moved into the air.
-
-If water is boiled and condensed in a closed system, the water can be collected again.
-
-This is how distillation works.
-
-Boiling changes state, not the identity of the water.
-
-## The Campfire Example
-
-A campfire seems to destroy wood.
-
-After burning, only ash remains.
-
-But most of the wood changed into gases, including carbon dioxide and water vapor.
-
-Smoke, ash, heat, and light are also involved.
-
-If we could capture every gas and particle, the total matter would be accounted for.
-
-The wood did not simply stop existing.
-
-It reacted and spread into the surroundings.
-
-## The Food Example
-
-When you eat food, the matter in the food does not vanish.
-
-Your body uses some atoms to build and repair tissues.
-
-Some atoms are used in energy-releasing reactions.
-
-Carbon dioxide is breathed out.
-
-Water and other wastes leave the body.
-
-The mass of food becomes part of your body, your breath, your movement, heat, and waste.
-
-Your body is a living example of matter changing form.
-
-## Plants and Matter
-
-Plants seem to grow from soil, but much of their mass comes from carbon dioxide in the air and water from the ground.
-
-During photosynthesis, plants use light energy to turn carbon dioxide and water into sugars and oxygen.
-
-Carbon atoms from carbon dioxide become part of plant material.
-
-This surprises many students.
-
-Air can become part of a tree.
-
-That is possible because air is matter.
-
-## Lavoisier and Careful Measurement
-
-Antoine Lavoisier was an important French scientist in the history of chemistry.
-
-He carefully measured masses before and after reactions.
-
-His work helped show that matter is conserved in chemical reactions.
-
-Earlier explanations of burning were often confused because gases were not well understood.
-
-Lavoisier showed that oxygen plays a key role in combustion.
-
-He helped turn chemistry into a science of careful measurement.
-
-## Why Gases Confused People
-
-Gases can be invisible.
-
-They spread out.
-
-They can escape from open containers.
-
-Because of this, people once thought matter was being lost in burning, breathing, or bubbling reactions.
-
-But gas has mass and takes up space.
-
-When scientists learned to trap and measure gases, conservation of matter became clearer.
-
-This is why closed systems are so useful.
-
-## Matter Can Move
-
-Sometimes the easiest way to understand conservation of matter is to ask, "Where did it go?"
-
-Water evaporates and moves into air.
-
-Smoke rises and spreads.
-
-Carbon dioxide leaves a reaction as bubbles.
-
-Rust gains oxygen from air.
-
-Sweat evaporates from skin.
-
-Matter can move from one place to another, but movement is not destruction.
-
-## Matter Can Change State
-
-Matter can change between solid, liquid, and gas.
-
-Ice can melt.
-
-Water can evaporate.
-
-Steam can condense.
-
-Liquid water can freeze.
-
-These changes can make matter seem to appear or disappear.
-
-Fog on a mirror appears when water vapor condenses.
-
-A puddle disappears when water evaporates.
-
-In both cases, matter is conserved.
-
-## Matter Can Mix and Separate
-
-Mixing does not destroy matter.
-
-If salt dissolves in water, the salt seems to disappear.
-
-But the salt particles are still there, spread through the water.
-
-Evaporating the water can leave salt behind.
-
-Filtering, evaporation, distillation, magnetism, and sorting can separate many mixtures.
-
-The matter is not gone.
-
-It is mixed or separated.
-
-## Matter Can Become Hard to See
-
-The conservation of matter teaches patience.
-
-Matter may become invisible gas.
-
-It may dissolve.
-
-It may spread into tiny particles.
-
-It may become part of a new compound.
-
-It may leave the container.
-
-When matter seems missing, a scientist looks for where it went.
-
-## Conservation in Engineering
-
-Engineers use conservation of matter when designing systems.
-
-Water treatment plants track how water and dissolved materials move.
-
-Factories measure raw materials and products.
-
-Rocket engineers track fuel, oxygen, exhaust gases, and thrust.
-
-Environmental engineers track pollutants through air, water, and soil.
-
-Food scientists track ingredients during cooking, drying, and packaging.
-
-Careful accounting prevents waste, improves safety, and helps solve problems.
-
-## Conservation in Environmental Science
-
-Pollution does not disappear just because it is poured away, burned, buried, or diluted.
-
-Matter moves through air, water, soil, and living things.
-
-Plastic pieces can break into smaller pieces, but the matter remains.
-
-Smoke can spread into the atmosphere.
-
-Fertilizers can wash into rivers.
-
-Conservation of matter helps us understand responsibility.
-
-If matter leaves one place, it goes somewhere else.
-
-## Conservation and Waste
-
-Throwing something away does not destroy it.
-
-"Away" usually means a landfill, recycling center, compost pile, ocean, incinerator, or another part of the environment.
-
-Some waste decomposes.
-
-Some is recycled.
-
-Some reacts.
-
-Some remains for a long time.
-
-Understanding conservation of matter encourages careful choices about materials, packaging, and disposal.
-
-## Conservation and Cooking
-
-Cooking is full of matter changes.
-
-Water evaporates from soup.
-
-Bread dough releases carbon dioxide as it rises.
-
-Meat browns through chemical reactions.
-
-Sugar melts and caramelizes.
-
-Egg proteins change shape and set.
-
-Mass may seem to change because steam or gas escapes.
-
-Cooking becomes more scientific when you track matter.
-
-## Conservation and Batteries
-
-Batteries do not create matter.
-
-They use chemical reactions to move electrons and convert chemical energy into electrical energy.
-
-The materials inside the battery change chemically as it discharges.
-
-Rechargeable batteries can reverse many of those changes when charged.
-
-Matter is rearranged, not destroyed.
-
-This connects conservation of matter with energy and technology.
-
-## Conservation and Living Things
-
-Living things are constantly taking in and giving off matter.
-
-Animals take in food, water, and oxygen.
-
-They give off carbon dioxide, water, heat, and wastes.
-
-Plants take in carbon dioxide, water, and minerals.
-
-They build sugars, wood, leaves, roots, seeds, and oxygen.
-
-Ecosystems are full of matter cycling from place to place.
-
-## Matter Cycles
-
-Matter often moves in cycles.
-
-Water cycles through evaporation, condensation, precipitation, runoff, and groundwater.
-
-Carbon cycles through air, plants, animals, oceans, rocks, fuels, and soil.
-
-Nitrogen cycles through air, bacteria, soil, plants, animals, and decomposers.
-
-These cycles do not create matter from nothing.
-
-They move matter through different forms and places.
-
-## What Conservation of Matter Does Not Mean
-
-Conservation of matter does not mean an object always keeps the same shape.
-
-It does not mean a substance always keeps the same identity.
-
-It does not mean matter always stays in the same place.
-
-It does not mean matter is always easy to see.
-
-It means that in ordinary physical and chemical changes, matter is not created or destroyed.
-
-The atoms must still be accounted for.
-
-## A Note About Nuclear Reactions
-
-In ordinary chemistry, atoms are rearranged but not changed into different elements.
-
-Nuclear reactions are different.
-
-In nuclear reactions, the nuclei of atoms can change.
-
-Tiny amounts of matter can be converted into large amounts of energy.
-
-That topic belongs to more advanced science.
-
-For this chapter, conservation of matter means conservation in ordinary physical and chemical changes.
+**A note on nuclear reactions:** In ordinary chemistry, atoms are rearranged, not turned into different elements. In **nuclear** reactions, atomic nuclei can change and tiny amounts of matter can become large amounts of energy. That belongs to more advanced physics. For this chapter, conservation of matter means conservation in ordinary physical and chemical changes.
 
 ## Common Misconceptions
 
-One mistake is thinking that if you cannot see matter, it is gone.
+One mistake: if you cannot see matter, it is gone. Invisible gases still have mass.
 
-Gases can be invisible but still have mass.
+Another: burning destroys matter. Burning changes matter into gases, ash, and smoke.
 
-Another mistake is thinking burning destroys matter.
+Another: dissolving makes a substance disappear. Dissolved particles are still there, spread out.
 
-Burning changes matter into gases, ash, smoke, and other products.
-
-A third mistake is thinking dissolving makes a substance disappear.
-
-Dissolved substances are still present.
-
-A fourth mistake is thinking conservation only applies to chemical reactions.
-
-It also applies to physical changes such as melting, freezing, evaporation, and dissolving.
+Another: conservation applies only to chemical reactions. It also applies to melting, freezing, evaporating, and dissolving.
 
 ## How to Think Like a Scientist
 
@@ -593,35 +153,27 @@ When matter seems to vanish, ask:
 - Did it spread into tiny pieces?
 - Was the system open or closed?
 
-These questions turn mystery into investigation.
+Those questions turn mystery into investigation.
 
 ## Safety and Matter Changes
 
-Conservation of matter also matters for safety.
+Conservation matters for safety too. Gas from a reaction can build pressure in a closed container. Fumes can fill a room. Combustion can produce dangerous gases such as carbon monoxide. Unknown household chemicals can react badly.
 
-Gas produced in a reaction can build pressure in a closed container.
-
-Fumes can spread through a room.
-
-Combustion products can include dangerous gases such as carbon monoxide.
-
-Household chemicals can react to form harmful substances.
-
-Good safety habits include:
+Good habits:
 
 - Do not mix unknown chemicals.
-- Do not seal reactions in closed containers unless a teacher specifically designs the activity.
+- Do not seal reactions in closed containers unless a teacher designed the activity.
 - Wear goggles when needed.
-- Work with ventilation when gases or fumes may form.
+- Use ventilation when gases or fumes may form.
 - Keep heat and flames under adult supervision.
 - Dispose of materials as instructed.
-- Remember that invisible gases can still be real and important.
+- Remember: invisible gases are still real matter.
 
 ## The Big Idea
 
-Conservation of matter means that matter is not created or destroyed in ordinary physical and chemical changes.
+Conservation of matter means matter is not created or destroyed in ordinary physical and chemical changes.
 
-Matter may change state, change form, dissolve, burn, rust, react, move into the air, or become part of new substances. In a closed system, the total mass stays the same because all the matter is still inside. In an open system, matter may enter or leave, making mass seem to change. Balanced chemical equations show conservation by accounting for every atom.
+Matter may change state, form, or identity. It may dissolve, burn, rust, react, or drift into the air. In a **closed system**, total mass stays the same because everything is still inside. In an **open system**, matter enters or leaves, so mass can seem to change. Balanced chemical equations show conservation by accounting for every atom.
 
 If you remember only one sentence, remember this:
 
@@ -630,32 +182,26 @@ If you remember only one sentence, remember this:
 ## Study Questions
 
 1. What is conservation of matter?
-2. What is matter?
+2. What is matter, and why is air considered matter?
 3. What is mass?
-4. Why is air considered matter?
-5. What is a closed system?
-6. What is an open system?
-7. Why does a burning candle seem to lose wax?
-8. What products can form when candle wax burns?
-9. Why can rusting iron gain mass?
-10. How do physical changes conserve matter?
-11. How do chemical changes conserve matter?
-12. What does conservation of atoms mean?
-13. Why are chemical equations balanced?
-14. What is a balanced chemical equation?
-15. What is the difference between a coefficient and a subscript?
-16. Why should subscripts not be changed when balancing equations?
-17. What happens to mass when vinegar and baking soda react in an open cup?
-18. What happens to mass when vinegar and baking soda react in a sealed bag?
-19. Why does an open soda bottle lose a little mass?
-20. Where does water go when an open pot boils for a long time?
-21. Why does a campfire leave much less ash than the original wood?
-22. How does eating food show matter changing form?
-23. Where do plants get much of the matter they use to grow?
-24. Who was Antoine Lavoisier, and why was his work important?
-25. Why did gases make conservation of matter hard for people to understand?
-26. Give three examples of matter moving from one place to another.
-27. How does conservation of matter help environmental science?
-28. Why does throwing something "away" not destroy it?
-29. What is one important difference between ordinary chemical reactions and nuclear reactions?
-30. What are three safety rules connected to matter changes and chemical reactions?
+4. What is a closed system? What is an open system?
+5. Why does a burning candle seem to lose wax?
+6. Why can a rusty nail or bike chain gain mass?
+7. How do physical changes conserve matter?
+8. How do chemical changes conserve matter?
+9. What does conservation of atoms mean?
+10. What is a balanced chemical equation?
+11. What is the difference between a coefficient and a subscript? Why should subscripts not be changed when balancing?
+12. What happens to mass when vinegar and baking soda react in an open cup versus a sealed bag?
+13. Why does an open soda bottle lose a little mass after you open it?
+14. Where does water go when an open pot boils for a long time?
+15. Why does a campfire leave much less material than the wood you started with?
+16. How does eating food show matter changing form rather than vanishing?
+17. Where do plants get much of the matter they use to grow?
+18. Who was Antoine Lavoisier, and why did his work matter?
+19. Why did invisible gases make conservation of matter hard to understand at first?
+20. Give three examples of matter moving from one place to another without being destroyed.
+21. Why does throwing something "away" not destroy the matter in it?
+22. What is one important difference between ordinary chemical reactions and nuclear reactions?
+23. When matter seems to disappear, what six questions should a scientist ask?
+24. Name three safety rules connected to gases, reactions, or burning.

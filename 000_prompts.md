@@ -15,4 +15,12 @@ Generate a chapter from a textbook used at one of the finest prep schools in mod
 
 Create an illustration in the style of: a crude, funny, hand-drawn explainer cartoon with simple stick-figure characters, rough black outlines, a mostly white background, and selective flat accent colors. Use labels, arrows, exaggerated facial expressions, and simple visual metaphors to explain the concept clearly. The drawing should feel like an informal illustrated essay sketch: minimalist, humorous, concept-first, intentionally rough, and easy to understand at a glance. Use color sparingly but meaningfully, such as red for danger, green for money or growth, blue for systems or institutions, yellow for warnings, and gray for bureaucracy or dull machinery.
 
+----
+
+## Good improvement prompt for cursor default model.
+
+Using @014_Simple_Machines.md and @014_Simple_Machines_Teachers_Guide.md as a guiding standard, improve the files mentioned here so that they are going to be more appealing for young boys from age 11-13
+
+----
+
 

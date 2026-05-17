@@ -6,56 +6,71 @@
 
 Students should be able to:
 
-- Describe **magnetic north** as the **compass** north direction determined by Earth's **magnetic field**.
-- Distinguish magnetic north from **true (geographic) north**.
+- Define **magnetic north** as the north direction a compass shows, based on Earth's **magnetic field** at a location.
+- Describe Earth's magnetic field in simple terms (generated mainly by motion in the liquid **outer core**).
+- Distinguish **magnetic north** from **true (geographic) north**.
 - Define **magnetic declination** and explain that it varies by **location** and **time**.
-- Give a simple reason Earth's field direction is not fixed forever (core dynamo changes).
-- Connect declination to practical **map/compass** conversion needs.
-- Recognize interference and calibration issues with electronic magnetometers.
-- Explain **grid north** as map-grid direction and why it can differ from true and magnetic north on some maps.
+- Explain why declination matters when combining **compass bearings** with **map** work.
+- Recognize **grid north** on some maps and why navigators check which north a map uses.
+- Give a simple reason Earth's field direction is not fixed forever (the core **dynamo** changes).
+- Identify **metal interference** and **calibration** issues with compasses and phone magnetometers.
+- Correct common misconceptions (magnetic north vs North Pole, declination the same everywhere, compass alone equals position).
 
 ### Answers to Study Questions
 
-1. Earth's **magnetic field** is a planet-wide magnetic influence generated mainly by motions in Earth's liquid outer core; it extends into space and affects compass needles and charged particles.
-2. It usually means the **local horizontal direction** a compass indicates as north, aligned with Earth's magnetic field in the horizontal plane.
-3. **True north** is toward Earth's **North Pole** along Earth's rotation axis direction at a place.
-4. **Magnetic declination** is the angle between **true north** and **magnetic north** at a location and date.
-5. Because Earth's internal dynamo and field configuration **change slowly** over time (secular variation).
-6. Earth's field geometry varies across the globe, so the angle between true and magnetic north differs by **location** (and updates by year).
-7. Without correction, compass-measured bearings will not match **true/map** bearings, causing systematic navigation errors.
-8. Accept reasonable answers: **indoor steel**, **magnets**, **calibration** errors, **nearby currents**, etc.
-9. Accept reasonable answers, e.g., "Magnetic north equals the geographic North Pole" is false; they are different references.
-10. **Grid north** is the direction of **north** on a map's **projected grid**; on some maps it differs slightly from **true north** and **magnetic north**, so careful navigators check which reference the map uses.
+1. Earth's **magnetic field** is a planet-wide magnetic influence generated mainly by electric currents and motion in Earth's liquid **outer core**. It extends into space, affects compass needles, deflects charged particles from the Sun, and is involved in auroras.
+2. It usually means the **local direction** a level compass indicates as north — the direction of Earth's magnetic field in the **horizontal plane** at that spot.
+3. **True north** is the direction toward Earth's **geographic North Pole** along Earth's **rotation axis**.
+4. **Magnetic declination** is the angle between **true north** and **magnetic north** at a specific **location** and **date**.
+5. Earth's field geometry varies across the globe, so the angle between true and magnetic north differs by **location** (and must be updated by **year**).
+6. Earth's internal **dynamo** and field configuration **change slowly** over time (**secular variation**), so declination values drift.
+7. Without correction, compass-measured bearings will not match **map** bearings drawn to true or grid north, causing **systematic navigation errors** (wrong landmarks, missed trails).
+8. **Grid north** is the direction of **north** on a map's **projected grid**. On some maps it differs slightly from **true north** and **magnetic north**; the map legend states which reference to use.
+9. Accept reasonable answers: motion in the liquid **outer core** drives a **geodynamo**; the field is not static.
+10. Accept reasonable answers: **belt buckle**, **knife**, **fence**, **bridge**, **backpack frame**, **vehicle**, **rebar**, etc.
+11. Accept reasonable answers: **steel structure**, **rebar**, **elevators**, **electrical interference**, poor **calibration**, confused app settings.
+12. The **geographic North Pole** is a fixed point on Earth's axis (true north reference). **Magnetic north** is the **compass direction** from local field lines — a different idea from "standing at the pole."
+13. The hiker can walk on a **consistent but wrong bearing**, missing campsites, trails, or ridges by a large distance over many kilometers.
+14. Accept reasonable answers: **ground observatories**, **satellite** missions, **ship/aircraft surveys**, geomagnetic **models** from agencies such as NOAA or national geomagnetic institutes.
+15. The field **changes over time** and varies by place; magnetic poles **drift**; declination is updated in charts and models.
+16. **False.** A compass shows **direction**, not position. You need a **map**, **landmarks**, and often other skills to know where you are.
+17. Whether the map uses **true north**, **grid north**, or another reference, and what **declination** (and year) applies.
+18. Answers may vary. A strong answer states that the needle may work correctly but point to **magnetic north** while the map uses **true** or **grid north**; without applying the correct **declination** (and map reference), the plotted path drifts sideways from the intended route.
 
 ### Activity Suggestions
 
-1. **Declination Time Machine**
-   Compare historical declination values for your city (if available) to today's value and discuss map aging.
+1. **Wrong Valley Simulation (Classroom)**
+   On graph paper, draw a trail to a campsite using **true north** up. Give students a "compass" bearing that is correct for **magnetic north** but omit declination correction. Measure how far the plotted path misses the target when declination is 10°, 15°, or 20°. Discuss why confident navigation can still fail.
 
-2. **Isogonic Map Interpretation**
-   Use a world declination chart to find regions of 0°, large east, and large west declination.
+2. **Declination Treasure Hunt**
+   Provide declination values for three cities (or use an online geomagnetic calculator). Students find which city has **east** vs **west** declination, largest vs smallest angle, and predict which hiker must correct the most when plotting on a true-north map.
 
-3. **Field Model Demo (Teacher-led)**
-   Show NOAA/BGS field calculator output for multiple coordinates; students notice latitude/longitude dependence.
+3. **Metal Interference Test**
+   Outdoors or in a safe area, students take compass readings away from metal, then near a belt buckle, fence, or backpack frame. Record how many degrees the needle shifts. Relate to real trail habits (hold compass away from gear).
 
-4. **Convert a Bearing**
-   Practice "true vs magnetic" addition/subtraction rules using a classroom mnemonic approved by your standards.
+4. **Map Legend Detective**
+   Supply topographic or orienteering maps with different north arrows. Students identify **true**, **magnetic**, and **grid** north symbols and the stated declination year. Practice one conversion problem using your local curriculum's sign convention.
 
-5. **Polar Wander vs Daily Navigation**
-   Short research: magnetic pole drift news article vs what hikers actually correct for locally.
+5. **Phone vs Compass Challenge**
+   Calibrate phone compasses outdoors (figure-eight). Compare phone bearing to hand compass away from steel, then near a door frame or railing. Discuss app settings for magnetic vs true north.
 
-6. **Smartphone Compass Calibration**
-   Follow manufacturer calibration figure-8 guidance and test before/after near steel doors.
+6. **Field Bearing Walk**
+   In a safe open area, set a bearing with corrected declination, pick a distant tree or post as a landmark, and walk toward it without looking at a phone. Partners check whether the group drifts when someone "forgets" declination on purpose for a short demo.
 
-7. **Aurora Connection Extension**
-   Optional: link magnetic field lines to aurora as motivation for why the field matters beyond compasses.
+7. **Magnetic Field and Aurora Extension**
+   Show a simple diagram of solar wind and Earth's field. Optional video of aurora. Connect: the same field that lights polar skies also steers your compass needle.
 
-8. **Myth-Busting Panel**
-   Address conspiracy myths vs scientific field monitoring with reputable agency sources.
+8. **Declination Time Machine**
+   Compare historical declination for your town (if available from a geomagnetic agency) to today's value. Discuss why old maps in a troop library might need updated declination notes.
 
 ### Teaching Notes
 
-- Distinguish **magnetic pole** (where field is vertical) from **declination** (local angle) without overloading detail.
-- Keep math minimal; focus on sign conventions carefully to avoid systematic errors.
-- Encourage reputable sources: national geomagnetic agencies.
-- Connect directly to the compass chapter and to map skills in latitude/longitude chapters.
+- Open with a **story** (trail split, wrong creek) so declination feels like a real stake, not a vocabulary word.
+- Use the phrase **"which north?"** whenever students mix map and compass work.
+- Distinguish **magnetic pole** (where the field is vertical) from **declination** (local angle between true and magnetic north) without overloading detail.
+- Teach **one** declination sign convention clearly (map to compass / compass to map) and practice it until automatic; mixed conventions cause systematic errors.
+- Keep math minimal unless students are ready; focus on **direction of error** (e.g., "your line drifts east of the trail").
+- Encourage reputable sources: national geomagnetic agencies, current **World Magnetic Model** or local equivalent — not random social-media diagrams.
+- Connect to **latitude/longitude** chapters (global address) and any **compass** or **orienteering** unit; magnetic north is the bridge between field tools and paper maps.
+- For ages 11–13, favor **outdoor**, **scout**, and **orienteering** contexts over abstract globe-only lessons; boys often engage when navigation has a clear "win or miss camp" outcome.
+- Remind students: a working compass is not a substitute for **map reading**, **landmarks**, and **situational awareness**.

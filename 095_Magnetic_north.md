@@ -1,124 +1,208 @@
 ﻿# Magnetic north
 
-If you have ever held a compass, you have trusted an invisible map drawn by Earth itself.
+You are on a trail in the woods. The path splits. Your map says the campsite is northeast. You pull out a compass, hold it level, and watch the needle swing and settle.
 
-The needle settles.
+It points north.
 
-It points "north."
+You start walking.
 
-But which north?
+An hour later, the trail does not look right. The creek is on the wrong side. The ridge you expected is not there. You were careful. You were not lost on purpose. But you may have been following the wrong kind of north.
 
-**Magnetic north** is one of the most practical directions in outdoor life, and one of the easiest to misunderstand.
+**Magnetic north** is one of the most useful directions in outdoor life — and one of the easiest to misunderstand.
+
+**Magnetic north is the north direction a compass shows, based on Earth's magnetic field at your location.**
+
+That sounds simple. In practice, it saves trips — or ruins them — depending on whether you know what your compass is really telling you.
+
+![Magnetic north](095_Magnetic_north_01.png)
 
 ## Earth's Magnetic Field
 
-Earth acts like a planet-sized magnet, though the full story happens deep inside Earth in the molten outer core.
+Earth is not just rock and water. Deep inside, it acts like a giant magnet.
 
-Electric currents and motion there generate a **magnetic field** that extends far into space.
+In the **outer core**, hot liquid iron moves and churns. Electric currents and motion there create a planet-wide **magnetic field** that stretches far into space.
 
-Near the ground, magnetic field lines emerge in southern polar regions and re-enter in northern polar regions in a simplified picture, like giant loops.
+You cannot see the field, but you can see what it does. It deflects charged particles from the Sun, helps create **auroras** near the poles, and tugs on a compass needle.
 
-A compass responds to the local direction of that field.
+Near the ground, magnetic field lines run in huge loops. In a simplified picture, they emerge from southern polar regions and curve back into northern polar regions. A compass needle lines up with the local direction of that field.
 
-## What "Magnetic North" Means in Daily Language
+The field is real. It is also not frozen in place forever.
 
-When people say **magnetic north**, they usually mean the direction a horizontally placed compass points in the horizontal plane: the direction of the **horizontal component** of Earth's magnetic field toward what navigators label as north on a compass dial.
+## What "Magnetic North" Means on a Trail
 
-This is not a single permanent dot painted on the ground.
+When hikers, scouts, pilots, and sailors say **magnetic north**, they usually mean something very practical:
 
-Earth's magnetic field changes slowly over time and varies by location.
+**The direction a level compass points when you read "north" on the dial.**
 
-Specialists track **magnetic poles**, regions where the field is vertical, separately from the everyday idea of "which way north is" for a traveler.
+More precisely, it is the direction of the **horizontal component** of Earth's magnetic field — the part that lies flat in the ground plane where you are standing.
 
-For a student, the essential idea is:
+This is not a single dot painted on the ground that never moves.
 
-**Magnetic north is the north direction indicated by a compass, based on Earth's magnetic field.**
+Earth's magnetic field **changes slowly over time** and **varies by location**. Scientists track **magnetic poles** — places where the field points straight up or down — separately from the everyday compass idea of "which way is north."
+
+For navigation on foot, the key idea is straightforward:
+
+**Magnetic north is compass north, from Earth's magnetic field right where you stand.**
 
 ## Magnetic North vs True North
 
-**True north** (also called **geographic north**) is the direction toward Earth's North Pole along Earth's axis.
+Maps for serious navigation are usually built around a different north.
+
+**True north** (also called **geographic north**) is the direction toward Earth's **North Pole** along Earth's rotation axis.
 
 **Magnetic north** is the direction your compass needle favors.
 
-The difference is **magnetic declination**.
+Those two directions are often close. They are not always the same.
 
-In some places the difference is small.
+The angle between true north and magnetic north at a given place and time is called **magnetic declination** (or just **declination**).
 
-In other places it is large.
+| Term | What it means |
+|------|----------------|
+| True north | Toward the geographic North Pole |
+| Magnetic north | Toward compass "N" at your location |
+| Declination | The angle between them (east or west) |
 
-It also changes year by year, which is why old maps can be misleading if declination is outdated.
+In some cities the difference is only a few degrees — easy to ignore on a short walk.
+
+In other places it can be **15°, 20°, or more**. Ignore it on a long hike with a paper map and you can miss a landmark by hundreds of meters.
+
+Declination also **changes year by year**. A map printed ten years ago may show declination that is slightly out of date. For rough camping that might not matter. For careful orienteering, it does.
+
+## Grid North: A Third "North" on Some Maps
+
+Some maps use **grid north** — the direction of the map's north–south grid lines.
+
+On many maps, grid north is almost the same as true north. On others, especially over large areas or certain map projections, grid north can differ a little from both true north and magnetic north.
+
+For serious navigation you learn which "north" your map is using, then correct in the right order:
+
+1. Compass bearing (magnetic)
+2. Adjust for declination → true bearing (or grid bearing, depending on the map)
+3. Plot on the map using the map's north reference
+
+It sounds like paperwork. In the field, it is the difference between reaching camp and walking past it.
 
 ## Why Magnetic North Wanders
 
-Earth's core dynamo is not frozen.
+Earth's magnetic field is generated by a **dynamo** in the liquid outer core. The core is not a solid frozen magnet. It is moving, swirling, and shifting.
 
-The field shifts, strengthens in some regions, weakens in others, and even undergoes long-term reversals over geologic time scales.
+The field **drifts**, **strengthens in some regions**, **weakens in others**, and over geologic time can even **reverse** (north and south magnetic poles trade places). Those reversals take thousands of years. You will not wake up to a flipped compass tomorrow.
 
-On human time scales, the important effect is slow drift of magnetic directions and poles.
+On human time scales, what matters is **slow drift**:
 
-Scientists measure and model the field with satellites, ground observatories, and surveys.
+- Magnetic directions change over decades.
+- The regions called magnetic poles move.
+- Declination values on maps need updating.
 
-## Navigation Consequences
+Scientists measure the field with **ground observatories**, **ships and aircraft surveys**, and **satellites** (such as missions that map Earth's magnetism from orbit). Agencies publish models and charts so navigators can use current declination values.
 
-Hikers, pilots, and ships often convert between:
+Magnetic north is reliable enough to guide explorers — and humble enough to drift while you sleep.
 
-- map directions tied to true north or grid north, and
-- compass directions tied to magnetic north.
+## Navigation: Why Declination Matters
 
-Failure to correct declination can send you confidently into the wrong valley.
+Imagine you stand on a hilltop with a map and compass.
 
-Some large maps also refer to **grid north**, the direction of the map's north-south grid lines, which can differ slightly from both true north and magnetic north depending on map projection.
+You sight a bearing to a distant hill: **45°** on your compass dial. You plot that line on the map to see where you will intersect a trail.
 
-For serious navigation, you learn which "north" your map is using and correct in the right order.
+If the map is drawn to **true north** but your compass reads **magnetic north**, your plotted line can be wrong unless you convert.
 
-Modern smartphones can show direction using magnetometers, but they still depend on Earth's field and can be miscalibrated or distorted indoors.
+**Hikers, pilots, and ships** routinely convert between:
 
-## Common Mistakes About Magnetic North
+- **Map directions** tied to true north or grid north, and
+- **Compass directions** tied to magnetic north.
 
-One mistake is equating magnetic north with the North Pole.
+The rule is always the same idea: **add or subtract declination** according to whether declination is **east** or **west** at your location — and according to which direction you are converting (map → compass or compass → map). Your teacher or field manual will give the exact sign convention used in your country.
 
-The North Pole is a geographic location on Earth's axis.
+Get it backward and you march confidently in the wrong direction.
 
-Magnetic north is a field direction concept.
+Failure to correct declination has sent experienced people into the wrong valley. It is not a beginner-only mistake. It is a **careless** mistake.
 
-Another mistake is thinking declination is the same everywhere.
+## Compasses, Metal, and Phone Apps
 
-It depends on place and time.
+A compass is a small magnet on a pivot. It aligns with Earth's field — unless something else pulls harder.
 
-A third mistake is assuming a compass points "to the magnetic pole" in a straight-line sense across the globe for all purposes.
+**Nearby metal** can deflect a needle:
 
-Navigation uses local field direction, which is more complicated than driving toward a point.
+- Belt buckles
+- Knife sheaths
+- Zippers and snaps
+- Fence posts
+- Bridge rails
+- The frame of your backpack if you hold the compass too close
 
-## How to Think Like a Field Scientist
+Hold the compass away from metal, level it, and let the needle settle before you read it.
 
-Ask:
+**Smartphones** can show direction using a **magnetometer** (a chip that senses magnetic fields). That can be handy. It is still Earth's field — not magic GPS north.
 
-- What year is this map declination for?
-- Is declination east or west of true north here?
-- Is my compass influenced by nearby metal?
-- Do I need to convert my measured bearing before plotting on a map?
+Phones can be wrong when:
 
-Magnetic north is reliable enough to guide explorers and humble enough to drift while you sleep.
+- They need **calibration** (often a figure-eight motion)
+- You are **indoors** near steel beams, rebar, or elevators
+- **Magnets** in cases or mounts interfere
+- The app confuses **magnetic north** with **true north** in its settings
+
+Before trusting a phone on a hike, check whether it shows magnetic or true north, calibrate outdoors away from metal, and compare with a real compass when you can.
+
+## Common Misconceptions
+
+**Mistake 1: Magnetic north is the same as the North Pole.**
+
+The **geographic North Pole** is a fixed point on Earth's rotation axis — true north for the whole planet in that sense.
+
+**Magnetic north** is a **direction** your compass follows from local field lines. The place where compasses point "into the ground" (a magnetic pole) is a different idea and is not even at the geographic pole.
+
+**Mistake 2: Declination is the same everywhere.**
+
+It depends on **where you are** and **when** the map was made. Two cities hundreds of kilometers apart can have very different declination.
+
+**Mistake 3: A compass always points straight at "the magnetic pole" like an arrow to a target.**
+
+Over short distances, you think in terms of **local field direction** — the way the field lines run near your feet. That is what the needle follows. Treating the whole planet like a simple "point me at one spot" diagram can confuse you on long trips or when learning advanced navigation.
+
+**Mistake 4: If the needle points north, I do not need a map.**
+
+A compass tells you direction. It does not tell you **where you are**, **what is in front of you**, or **whether a cliff is ahead**. Direction plus map plus landmarks plus common sense wins.
+
+## How to Think Like a Field Navigator
+
+Before you trust a bearing, ask:
+
+- **What year** is the declination on this map for?
+- Is declination **east** or **west** of true north here?
+- Is my compass or phone influenced by **nearby metal**?
+- Does my app show **magnetic** or **true** north?
+- Do I need to **convert** my measured bearing before plotting on the map?
+- Does this map use **true north**, **grid north**, or something else in its legend?
+
+Good navigators look confident because they checked the details — not because they skipped them.
 
 ## The Big Idea
 
-Magnetic north is the north direction indicated by a compass, determined by Earth's magnetic field.
+**Magnetic north** is the north direction shown by a compass, determined by Earth's magnetic field at your location.
 
-It differs from true geographic north by an angle called magnetic declination, which varies by location and changes slowly over time.
+It is **not** the same as **true (geographic) north** everywhere or every year. The difference is **magnetic declination**, which varies by place and changes slowly over time.
 
 If you remember only one sentence, remember this:
 
-**Magnetic north is compass north from Earth's magnetic field, not the same as true north everywhere or every year.**
+**Magnetic north is compass north from Earth's magnetic field — not the same as true north on your map until you correct for declination.**
 
 ## Study Questions
 
 1. What is Earth's magnetic field in simple terms?
-2. What does "magnetic north" usually mean for someone using a compass?
+2. What does "magnetic north" usually mean for someone using a compass on a hike?
 3. What is true north?
 4. What is magnetic declination?
-5. Why does declination change over years?
-6. Why might two cities have different declinations?
-7. Why is declination important for map and compass navigation?
-8. Name one thing that can make a phone compass unreliable.
-9. Name one misconception about magnetic north and correct it.
-10. What is grid north, and why might it matter on some maps?
+5. Why can declination be different in two cities far apart?
+6. Why does declination change over the years?
+7. Why is declination important when using a map and compass together?
+8. What is grid north, and why might it matter on some maps?
+9. What is one cause of slow change in Earth's magnetic field?
+10. Name two types of metal or objects that can pull a compass needle off course.
+11. Why might a smartphone compass be unreliable indoors?
+12. What is the difference between magnetic north and the geographic North Pole?
+13. If you ignore declination on a long hike, what kind of error can happen?
+14. Name one thing scientists use to measure and model Earth's magnetic field.
+15. Why is "magnetic north" not a single permanent spot that never moves?
+16. True or false: A compass alone tells you exactly where you are on a map. Explain.
+17. When converting between compass bearings and map bearings, what should you check on the map legend first?
+18. In your own words, explain why a careful hiker might reach the wrong campsite even while following a compass needle that works perfectly.

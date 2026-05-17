@@ -1,497 +1,198 @@
 ﻿# Rotation of the Earth
 
-You may feel as if you are sitting still.
+You finish a late game, walk off the field, and flop onto the bench. Your legs feel heavy. Your heart is still pounding. Everything around you seems perfectly still — the grass, the bleachers, the parking lot lights.
 
-Your chair is still.
+But you are not still.
 
-Your room is still.
-
-The ground under your feet seems still.
-
-But you are moving.
-
-Right now, Earth is spinning.
-
-You are riding on a turning planet.
-
-At the equator, Earth's surface moves eastward at about 1,670 kilometers per hour.
-
-You do not feel this speed because Earth carries you, the ground, the air, the ocean, and everything around you together.
+Right now, Earth is spinning. You are riding a planet that turns once about every 24 hours. At the equator, the ground under your feet is racing eastward at roughly **1,670 kilometers per hour** — faster than a commercial jet. You do not feel it because Earth carries you, the air, the oceans, and everything around you together.
 
 **Rotation of the Earth is Earth's spin around its axis, which takes about 24 hours and causes day and night.**
 
-Earth's rotation is one of the most important motions in everyday life.
+That daily spin is one of the most important motions you will ever study. It gives us sunrise and sunset, clocks, time zones, star trails, long afternoon shadows on a basketball court, and the rhythm of every school day.
 
-It gives us sunrise, noon, sunset, night, clocks, time zones, star trails, and the daily rhythm of the sky.
+![Rotation of the Earth](088_Rotation_of_the_Earth_01.png)
 
 ## Rotation Means Spinning
 
-**Rotation** means spinning around an axis.
+**Rotation** means turning around an axis.
 
-An **axis** is an imaginary line around which an object turns.
+An **axis** is an imaginary line an object spins around. Earth's axis runs from the North Pole to the South Pole through the center of the planet. You cannot see it — it is not a metal rod stuck through the globe. It is a useful line scientists draw to describe the spin.
 
-Earth's axis runs from the North Pole to the South Pole through the center of Earth.
+Earth rotates once in about **24 hours**. That is why one day is about 24 hours long.
 
-You cannot see the axis.
-
-It is not a metal rod.
-
-It is an imaginary line that helps us describe Earth's motion.
-
-Earth rotates once in about 24 hours.
-
-This is why one day is about 24 hours long.
-
-As Earth rotates, different parts of the planet face the Sun.
-
-The side facing the Sun has day.
-
-The side turned away from the Sun has night.
+As Earth turns, different parts face the Sun. The side facing the Sun has **day**. The side turned away has **night**. Nothing mystical happens at sunset — your location is simply rotating out of direct sunlight.
 
 ## Rotation and Revolution
 
-Rotation and revolution are different.
+These two words sound similar. They are not the same.
 
 **Rotation** is spinning around an axis.
 
 **Revolution** is traveling around another object.
 
-Earth rotates once about every 24 hours.
+Earth **rotates** once about every 24 hours.
 
-Earth revolves around the Sun once about every 365 days.
+Earth **revolves** around the Sun once about every 365 days.
 
-Rotation gives us day and night.
+| Motion | What moves | How long | What you notice most |
+|--------|------------|----------|----------------------|
+| Rotation | Earth spins on its axis | ~24 hours | Day and night |
+| Revolution | Earth orbits the Sun | ~365 days | The year; seasons (with tilt) |
 
-Revolution, together with Earth's tilted axis, gives us the year and the seasons.
+Rotation gives you today. Revolution, together with Earth's **tilted axis** (about 23.5°), gives you the year and the seasons.
 
-These two motions happen at the same time.
+Both happen at once. You are spinning with Earth while Earth travels around the Sun. Earth and the Sun are also moving with the Milky Way galaxy — motion in space is layered. The motion you notice every morning and evening is Earth's rotation.
 
-You are spinning with Earth while Earth travels around the Sun.
+## Earth's Axis, Poles, and the Equator
 
-You are also moving with the Sun around the center of the Milky Way galaxy.
+Earth's axis is **tilted**, not straight up and down compared with Earth's path around the Sun. That tilt matters for seasons. The **spin itself** matters for day and night.
 
-Motion in space is layered, but the daily motion you notice most is Earth's rotation.
+Earth rotates around its tilted axis every day. The **North Pole** and **South Pole** are the ends of the axis. Halfway between them is the **equator** — an imaginary line around Earth's middle.
 
-## Earth's Axis
-
-Earth's axis is tilted.
-
-It is not straight up and down compared with Earth's path around the Sun.
-
-The tilt is about 23.5 degrees.
-
-This tilt matters for seasons.
-
-But the spinning itself matters for day and night.
-
-Earth rotates around its tilted axis every day.
-
-The North Pole is the northern end of the axis.
-
-The South Pole is the southern end.
-
-Halfway between them is the equator.
-
-The **equator** is an imaginary line around the middle of Earth.
-
-Places near the equator travel the farthest during one rotation, so they move fastest.
-
-Places near the poles travel in much smaller circles, so they move more slowly.
+Places near the equator travel the farthest during one rotation, so they move fastest. Places near the poles travel in tiny circles, so they move more slowly. If Earth were a spinning basketball, a dot on the equator would race around the "seam" while a dot near the north end would barely creep in a small loop.
 
 ## Day and Night
 
-Day and night happen because Earth is a sphere that rotates.
+Day and night happen because Earth is a **sphere** that rotates.
 
-The Sun lights the half of Earth facing it.
+The Sun lights the half of Earth facing it. That half has daylight. The other half is in Earth's shadow and has night.
 
-That half has daylight.
+As Earth rotates, your town moves into sunlight, then out again. When your location turns toward the Sun, you see **sunrise**. When it faces the Sun most directly for that day, the Sun is highest in the sky. When your location turns away, you see **sunset**, then night.
 
-The other half is in Earth's shadow.
+The Sun is not actually rising and falling around Earth each day. **Earth is turning.** The daily path of the Sun across the sky is mostly **apparent motion** — motion as it appears from where you stand, even when the real cause is Earth's spin.
 
-That half has night.
+## Sunrise in the East, Sunset in the West
 
-As Earth rotates, your location moves into sunlight and then out of sunlight.
+The Sun appears to rise in the **east** and set in the **west** because Earth rotates from **west to east**.
 
-When your part of Earth turns toward the Sun, you see sunrise.
+Picture a merry-go-round turning counterclockwise. Trees outside seem to slide the opposite way across your view. Earth's eastward rotation makes the Sun, Moon, planets, and stars appear to drift **westward** across the sky.
 
-When it faces the Sun most directly for that day, the Sun is highest in the sky.
+That is why coaches schedule evening practice knowing the Sun will sink behind the west bleachers — and why stargazers know constellations will crawl westward through the night even though the stars themselves are not racing around Earth once per day.
 
-When your part of Earth turns away from the Sun, you see sunset.
+## Noon, Midnight, and Why You Do Not Feel the Spin
 
-Night follows because your location is facing away from the Sun.
+**Solar noon** is when the Sun is highest in the sky for that day — not always exactly when a clock says 12:00. Clocks use **time zones** and sometimes daylight saving time, so clock noon and solar noon can differ a little.
 
-The Sun is not actually rising and falling around Earth.
+**Midnight** is roughly when your side of Earth faces most directly away from the Sun.
 
-Earth is turning.
+If Earth is spinning so fast, why do you not feel it? Because you notice **changes** in motion more than **steady** motion.
 
-## Sunrise and Sunset
+Think about riding smoothly on a bus or train at constant speed. You can toss a ball gently in your hands and it behaves normally. You, the ball, the air, and the vehicle move together. Earth's rotation is very steady. The ground, oceans, atmosphere, buildings, and people are carried around together — so Earth does not feel as if it is rushing beneath your feet.
 
-The Sun appears to rise in the east and set in the west.
+## The Atmosphere Spins Too
 
-This happens because Earth rotates from west to east.
+Earth's atmosphere rotates with the planet. If the air did not move with Earth, fierce winds would constantly blast the surface.
 
-Imagine sitting on a merry-go-round that turns counterclockwise.
+Gravity, friction, and billions of years of shared motion keep the atmosphere mostly carried along. Ordinary winds are movements **inside** the rotating atmosphere — not the whole sky being left behind.
 
-Objects outside the ride may seem to move the opposite way across your view.
+That is why birds, planes, clouds, and thrown footballs are not instantly swept away by rotation alone. They already share Earth's motion.
 
-Earth's eastward rotation makes the Sun, Moon, planets, and stars appear to move westward across the sky.
+## The Night Sky and Star Trails
 
-This is called **apparent motion**.
+At night, stars appear to rise in the east and set in the west, just like the Sun. That is mostly because **Earth rotates beneath the sky**.
 
-Apparent motion is motion as it appears from a certain point of view.
+Near the North Star, **Polaris**, stars seem to circle around the **north celestial pole** — the point in the sky above Earth's North Pole. Polaris is useful because it sits very close to that point and helps you find north. It is **not** the brightest star in the sky; its value is its position.
 
-The daily path of the Sun across the sky is mostly an apparent motion caused by Earth's rotation.
+In the Southern Hemisphere there is no equally famous South Star. Sky watchers use other patterns, such as the Southern Cross, to find south.
 
-The Sun itself is not circling Earth every day.
+A long-exposure photograph of the night sky can show **star trails** — curved streaks that reveal Earth's rotation in one image.
 
-## Noon and Midnight
+## Time, Shadows, and Sundials
 
-Noon is not merely when a clock says 12:00.
+Earth's rotation is the basis of timekeeping. A **day** is tied to one rotation. Hours, minutes, and seconds divide that day into smaller pieces.
 
-In astronomy, **solar noon** is the time when the Sun is highest in the sky for that day.
+Ancient people used sunrise, sunset, and moving shadows to mark time. A **sundial** uses a shadow that changes direction and length as the Sun appears to cross the sky.
 
-Before solar noon, the Sun appears to climb higher.
+On a sunny day at school, you can watch the same idea without a sundial:
 
-After solar noon, it appears to sink lower.
+- **Morning:** shadows are long and point generally westward because the Sun is low in the east.
+- **Near noon:** shadows are usually shorter because the Sun is higher.
+- **Afternoon:** shadows grow longer again and point generally eastward.
 
-Midnight is roughly when your side of Earth faces most directly away from the Sun.
+You may not feel the ground turn, but a moving shadow tells the story.
 
-Clock time and solar time do not always match perfectly because of time zones, daylight saving time, and Earth's slightly uneven apparent solar motion during the year.
+## Solar Day vs. Sidereal Day
 
-Still, the basic idea is simple.
+Earth rotates once compared with the distant stars in about **23 hours and 56 minutes**. That is a **sidereal day**.
 
-Noon happens when your location is turned most toward the Sun.
+A normal **solar day** — from one solar noon to the next — is about **24 hours**.
 
-Midnight happens when your location is turned away.
+Why the difference? Earth is also moving around the Sun while it spins. After one spin compared with the stars, Earth must turn a little more so the Sun appears in the same noon position again. That extra turning takes about **four minutes**.
 
-## Why We Do Not Feel Earth Spinning
+For daily life, we use the solar day. For astronomy, the sidereal day tracks the stars.
 
-If Earth is spinning so fast, why do you not feel it?
+## Time Zones, Longitude, and the Date Line
 
-You do not feel steady motion very well when everything around you moves with you.
+Earth rotates **360 degrees** in about 24 hours — about **15 degrees per hour**.
 
-Think about riding smoothly in a train.
+Because different longitudes face the Sun at different times, places around the world use different clock times. A **time zone** is a region that shares the same standard clock time. When it is morning where you live, it may be evening on the other side of the planet — not because the Sun behaves differently there, but because Earth is rotating and those places face the Sun at different times.
 
-If the train moves at a steady speed, you can toss a ball gently in your hand and it behaves normally.
+**Longitude** tells how far east or west a place is from the **prime meridian** (zero degrees, through Greenwich, England). A difference of about 15 degrees in longitude roughly matches a one-hour difference in solar time.
 
-You, the ball, the air, and the train are all moving together.
+Before accurate portable clocks, finding **longitude at sea** was brutally hard. Sailors could estimate latitude from the Sun or stars more easily, but longitude required knowing the exact time at a home port and comparing it with local solar time. Earth's rotation made global navigation possible — and, for centuries, frustrating.
 
-You feel changes in motion more than steady motion.
+The **International Date Line** is an imaginary line mostly near 180° longitude where the calendar date changes when you travel around the world. Cross westward and you generally gain a calendar day; cross eastward and you generally lose one. The line bends around countries so nearby communities can share the same date. It exists because Earth is round, rotates, and has time zones.
 
-Earth's rotation is very steady.
-
-The ground, oceans, atmosphere, buildings, and people are carried around together.
-
-That is why Earth does not feel as if it is rushing beneath you.
-
-## The Atmosphere Rotates Too
-
-Earth's atmosphere rotates with Earth.
-
-If the air did not rotate with the planet, fierce winds would constantly blast over the surface.
-
-Instead, the atmosphere is mostly carried along by Earth's rotation because of gravity, friction, and the long history of the atmosphere moving with the planet.
-
-There are winds, of course.
-
-But ordinary winds are movements within the rotating atmosphere, not the whole atmosphere being left behind.
-
-This helps explain why birds, planes, clouds, and thrown balls do not get swept away simply because Earth is rotating.
-
-They already share Earth's motion.
-
-## The Sky Appears to Turn
-
-At night, stars appear to move across the sky.
-
-They rise in the east and set in the west, just as the Sun does.
-
-This is mostly because Earth rotates.
-
-If you watch a constellation for several hours, it seems to shift position.
-
-Near the North Star, Polaris, stars appear to circle around the north celestial pole.
-
-The stars are not all racing around Earth once per day.
-
-Earth is spinning beneath the sky.
-
-This is why a long-exposure photograph can show star trails.
-
-The trails reveal Earth's rotation.
-
-## Polaris and the Celestial Poles
-
-Polaris is called the North Star.
-
-It appears close to the north celestial pole.
-
-The **north celestial pole** is the point in the sky above Earth's North Pole.
-
-As Earth rotates, northern stars seem to circle around this point.
-
-Polaris appears almost fixed because it lies very close to that direction.
-
-It is not the brightest star.
-
-It is useful because of its position.
-
-In the Southern Hemisphere, there is no equally bright South Star.
-
-Sky watchers there use other patterns, such as the Southern Cross, to help find south.
-
-## Timekeeping
-
-Earth's rotation is the basis for timekeeping.
-
-A day is connected to one rotation of Earth.
-
-Hours divide the day into smaller parts.
-
-Minutes divide hours.
-
-Seconds divide minutes.
-
-Ancient people used shadows, sunrise, sunset, and the Sun's position to mark time.
-
-A **sundial** uses a shadow to show time.
-
-As Earth rotates, the Sun appears to move across the sky.
-
-The shadow cast by a sundial changes direction and length.
-
-Modern clocks are far more precise than sundials, but the basic idea of a day comes from Earth's rotation.
-
-## Solar Day and Sidereal Day
-
-Earth rotates once compared with the distant stars in about 23 hours and 56 minutes.
-
-This is called a **sidereal day**.
-
-But a normal solar day, from one noon to the next, is about 24 hours.
-
-Why the difference?
-
-Because Earth is also moving around the Sun while it rotates.
-
-After Earth completes one spin compared with the stars, it must turn a little more for the Sun to appear in the same noon position again.
-
-That extra turning takes about four minutes.
-
-For daily life, we use the solar day.
-
-For astronomy, the sidereal day is also important because it tracks the stars.
-
-## Time Zones
-
-Earth rotates 360 degrees in about 24 hours.
-
-That means it turns about 15 degrees each hour.
-
-Because different longitudes face the Sun at different times, places around the world have different local times.
-
-A **time zone** is a region that uses the same standard clock time.
-
-Time zones help people coordinate life across large distances.
-
-When it is morning in one part of the world, it may be afternoon, evening, or night somewhere else.
-
-This is not because the Sun is doing something different in each place.
-
-It is because Earth is rotating, and different places face the Sun at different times.
-
-## Longitude
-
-**Longitude** tells how far east or west a place is from the prime meridian.
-
-The **prime meridian** is the zero-degree longitude line that passes through Greenwich, England.
-
-Longitude is closely connected to time.
-
-If Earth turns 15 degrees per hour, then a difference of 15 degrees in longitude roughly matches a one-hour difference in solar time.
-
-Before accurate clocks, finding longitude at sea was very difficult.
-
-Sailors could find latitude more easily using the Sun or stars.
-
-But longitude required knowing the time back at a reference location and comparing it with local solar time.
-
-Earth's rotation made navigation possible, but also challenging.
-
-## The International Date Line
-
-The **International Date Line** is an imaginary line mostly near 180 degrees longitude.
-
-It is where the calendar date changes as you travel around the world.
-
-If you cross it going west, you generally move forward one calendar day.
-
-If you cross it going east, you generally move back one calendar day.
-
-The line bends around countries and islands so nearby communities can share the same date.
-
-The International Date Line exists because Earth is round, rotates, and has time zones.
-
-Without a date line, the calendar would become confusing as people traveled around the planet.
-
-## Shadows
-
-Earth's rotation changes shadows during the day.
-
-In the morning, shadows are long and point generally westward because the Sun is low in the eastern sky.
-
-Near noon, shadows are usually shorter because the Sun is higher.
-
-In the afternoon, shadows grow longer again and point generally eastward because the Sun is in the western sky.
-
-The exact direction and length of shadows depend on your location, season, and time.
-
-Watching shadows is one of the simplest ways to observe Earth's rotation.
-
-You do not feel the ground turn, but the moving shadow quietly tells the story.
+Ever text a friend in another country and wonder why their "tomorrow morning" is still your tonight? Rotation and time zones are the reason.
 
 ## The Coriolis Effect
 
-Earth's rotation affects moving air and water.
+Earth's rotation deflects large moving masses of air and water. That apparent deflection is the **Coriolis effect**.
 
-This apparent deflection is called the **Coriolis effect**.
+- In the **Northern Hemisphere**, large air masses tend to curve to the **right** of their path.
+- In the **Southern Hemisphere**, they tend to curve to the **left**.
 
-In the Northern Hemisphere, large moving air masses tend to be deflected to the right of their path.
+The Coriolis effect helps shape global winds, ocean currents, and the spin of huge storms. Hurricanes rotate **counterclockwise** in the Northern Hemisphere and **clockwise** in the Southern Hemisphere.
 
-In the Southern Hemisphere, they tend to be deflected to the left.
+It does **not** decide which way water drains in a sink or toilet. Those tiny motions are controlled by the shape of the drain and how the water started moving — a common myth you can ignore.
 
-The Coriolis effect helps shape global wind patterns and ocean currents.
+## Earth's Shape, Satellites, and Slowing Down
 
-It also affects the rotation of large storms.
+Earth is not a perfect sphere. It is slightly wider at the equator than from pole to pole — an **oblate spheroid**. Rotation helps create that slight bulge by carrying material around a large circle at the equator. The effect is small, but measurable.
 
-Hurricanes spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.
+Rotation also matters in space. Some satellites sit in **geostationary orbit** above the equator, orbiting once every 24 hours so they appear to hover over one spot on Earth. Weather and communication satellites use this trick. Other satellites streak across the night sky on different schedules.
 
-The Coriolis effect is important for large, long-lasting motions.
+Earth's rotation is very steady, but not perfectly unchanging. The Moon's gravity raises tides, and tidal friction slowly transfers energy so Earth's spin **gradually slows**. Days are getting longer — by tiny amounts in a human lifetime, but noticeably over hundreds of millions of years.
 
-It does not decide which way water drains in a sink or toilet.
+## Foucault's Pendulum: Proof You Can See Indoors
 
-Those small motions are controlled mostly by the shape of the container and the way the water starts moving.
+In 1851, French scientist Léon Foucault used a **pendulum** — a weight hanging from a fixed point — to show Earth's rotation. The pendulum seemed to change the direction of its swing over time. The pendulum was not twisting on its own. **Earth was rotating beneath it.**
 
-## Earth's Shape and Rotation
+Today, Foucault pendulums hang in some museums and science centers. A slow, swinging weight becomes visible proof that the ground is turning — even when you cannot feel it.
 
-Earth is not a perfect sphere.
+## Common Misconceptions
 
-It is slightly wider at the equator than from pole to pole.
+One mistake is thinking day and night happen because the Sun orbits Earth each day. **Earth rotates**; the Sun stays put in the solar system while we turn.
 
-This shape is called an **oblate spheroid**.
+Another mistake is confusing rotation with revolution. Earth **revolves** around the Sun once per year but **rotates** once per day.
 
-Earth's rotation helps create this slight bulge.
+A third mistake is expecting to feel Earth's spin like a roller coaster. Steady shared motion is hard to sense.
 
-As the planet spins, material near the equator is carried around in a large circle.
+A fourth mistake is calling Polaris the brightest star. It is important because it is near the north celestial pole.
 
-The effect is not enough to fling things into space, but it does make Earth bulge slightly.
-
-The difference is small compared with Earth's size, but scientists can measure it.
-
-Earth looks round to us, but careful measurement shows its rotating shape.
-
-## Foucault's Pendulum
-
-In 1851, a French scientist named Leon Foucault used a pendulum to show Earth's rotation.
-
-A **pendulum** is a weight hanging from a fixed point so it can swing back and forth.
-
-Foucault's pendulum seemed to change the direction of its swing over time.
-
-The pendulum was not twisting itself around.
-
-Earth was rotating beneath it.
-
-Today, Foucault pendulums can be seen in some museums and science centers.
-
-They are powerful because they let you see evidence of Earth's rotation indoors.
-
-A slow, swinging weight becomes proof that the ground is turning.
-
-## Satellites and Rotation
-
-Earth's rotation matters for satellites too.
-
-Some satellites are placed in **geostationary orbit**.
-
-A geostationary satellite orbits Earth above the equator once every 24 hours, matching Earth's rotation.
-
-Because of this, it appears to stay over the same place on Earth.
-
-This is useful for weather satellites, communication satellites, and television signals.
-
-Other satellites move across the sky because their orbits do not match Earth's rotation in the same way.
-
-When you see a satellite crossing the night sky, you are seeing orbital motion and Earth's rotation working together in your view.
-
-## Rotation Is Gradually Slowing
-
-Earth's rotation is very steady, but it is not perfectly unchanging.
-
-The Moon's gravity raises tides on Earth.
-
-Tidal interactions slowly transfer energy and make Earth's rotation slow down over long periods of time.
-
-This means days are gradually getting longer.
-
-The change is tiny in a human lifetime.
-
-Hundreds of millions of years ago, Earth's day was shorter than it is now.
-
-Far in the future, days will be slightly longer.
-
-This slow change reminds us that even familiar motions are part of a long history.
-
-## Common Mistakes About Earth's Rotation
-
-One mistake is thinking day and night happen because the Sun moves around Earth.
-
-Day and night happen because Earth rotates.
-
-Another mistake is thinking Earth rotates once per year.
-
-Earth revolves around the Sun once per year, but rotates once per day.
-
-A third mistake is thinking we should feel Earth's rotation strongly.
-
-We do not because Earth, the atmosphere, and everything around us move together very steadily.
-
-A fourth mistake is thinking Polaris is important because it is the brightest star.
-
-Polaris is important because it is near the north celestial pole.
-
-A fifth mistake is thinking the Coriolis effect controls water draining in sinks.
-
-The Coriolis effect matters for large-scale air and ocean motion, not ordinary drains.
+A fifth mistake is blaming the Coriolis effect on sink drains. Save it for hurricanes and planet-sized winds.
 
 ## How to Think Like an Earth Scientist
 
-When you study Earth's rotation, ask:
+When you study rotation, ask:
 
-- What is rotating?
-- What axis is it rotating around?
+- What is rotating, and around what axis?
 - How long does one rotation take?
-- What effects can we observe?
 - Is this real motion or apparent motion?
-- How does Earth's rotation affect light and shadow?
-- How does it affect time and longitude?
-- How does it affect winds, currents, or storms?
-- What evidence shows that Earth rotates?
+- What evidence can I observe — shadows, stars, clocks, storms?
 - How is rotation different from revolution?
 
-Earth's rotation is invisible in one moment but obvious over time.
-
-Watch the Sun, shadows, stars, clocks, and weather, and the spinning planet reveals itself.
+Earth's rotation is invisible in one blink but obvious over an afternoon or a night. Watch the Sun, your shadow, the stars, and the clock — the spinning planet reveals itself.
 
 ## The Big Idea
 
-Earth rotates around its axis once about every 24 hours.
+Earth rotates around its axis once about every 24 hours. That spin causes day and night, makes the Sun and stars appear to move across the sky, shapes timekeeping and time zones, changes shadows through the day, creates star trails, and influences large-scale winds and ocean currents through the Coriolis effect. Earth rotates from west to east, so the Sun appears to rise in the east and set in the west.
 
-This rotation causes day and night, makes the Sun and stars appear to move across the sky, shapes our timekeeping and time zones, affects shadows, helps explain star trails, and influences large-scale winds and ocean currents through the Coriolis effect. Earth rotates from west to east, so the Sun appears to rise in the east and set in the west. Rotation is different from revolution: rotation gives us the day, while revolution around the Sun gives us the year.
+Rotation is not revolution: **rotation gives us the day; revolution around the Sun gives us the year.**
 
 If you remember only one sentence, remember this:
 
-**Earth's rotation is the planet's daily spin, the hidden motion behind sunrise, sunset, night, clocks, shadows, star trails, and the rhythm of each day.**
+**Earth's rotation is the planet's daily spin — the hidden motion behind sunrise, sunset, night, clocks, shadows, star trails, and the rhythm of each day.**
 
 ## Study Questions
 
@@ -501,27 +202,19 @@ If you remember only one sentence, remember this:
 4. What causes day and night?
 5. What is the difference between rotation and revolution?
 6. What does Earth's revolution around the Sun help cause?
-7. What is the equator?
-8. Why do places near the equator move faster during Earth's rotation than places near the poles?
-9. Why does the Sun appear to rise in the east and set in the west?
-10. What is apparent motion?
-11. What is solar noon?
-12. Why do we not feel Earth spinning?
-13. Why does the atmosphere not get left behind as Earth rotates?
-14. Why do stars appear to move across the sky at night?
-15. What are star trails, and what do they show?
-16. What is Polaris, and why is it useful?
-17. Is Polaris the brightest star in the sky?
-18. How is Earth's rotation connected to timekeeping?
-19. What is a sundial?
-20. What is the difference between a solar day and a sidereal day?
-21. What is a time zone?
-22. About how many degrees does Earth rotate each hour?
-23. What is longitude?
-24. Why was finding longitude at sea difficult before accurate clocks?
-25. What is the International Date Line?
-26. How do shadows change during the day because of Earth's rotation?
-27. What is the Coriolis effect?
-28. Why does the Coriolis effect matter for storms but not ordinary drains?
-29. How does Earth's rotation affect Earth's shape?
-30. What did Foucault's pendulum help show?
+7. What is the equator, and why do places near it move faster during rotation than places near the poles?
+8. Why does the Sun appear to rise in the east and set in the west?
+9. What is apparent motion? Give one example related to Earth's rotation.
+10. What is solar noon?
+11. Why do we not feel Earth spinning?
+12. Why does the atmosphere not get left behind as Earth rotates?
+13. Why do stars appear to move across the sky at night?
+14. What are star trails, and what do they show?
+15. What is Polaris, and why is it useful? Is it the brightest star?
+16. How do shadows change during the day because of Earth's rotation?
+17. What is the difference between a solar day and a sidereal day?
+18. What is a time zone, and about how many degrees does Earth rotate each hour?
+19. What is longitude, and why was finding longitude at sea difficult before accurate clocks?
+20. What is the International Date Line?
+21. What is the Coriolis effect, and why does it matter for storms but not ordinary drains?
+22. What did Foucault's pendulum help show?
