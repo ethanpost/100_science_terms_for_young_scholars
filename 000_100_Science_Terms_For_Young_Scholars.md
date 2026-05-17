@@ -1,4 +1,4 @@
-# Top 100 Science Concepts a Well-Educated 6th Grader Might Have Known in the 1920s
+# 100 Scientific Terms for Young Scholars
 
 ## Physical Science and Mechanics
 

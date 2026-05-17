@@ -1,0 +1,6 @@
+Each topic should have 3-8 illustrations in the style of: a crude, funny, hand-drawn explainer cartoon with simple stick-figure characters, rough black outlines, a mostly white background, and selective flat accent colors. Use labels, arrows, exaggerated facial expressions, and simple visual metaphors to explain the concept clearly. The drawing should feel like an informal illustrated essay sketch: minimalist, humorous, concept-first, intentionally rough, and easy to understand at a glance. Use color sparingly but meaningfully, such as red for danger, green for money or growth, blue for systems or institutions, yellow for warnings, and gray for bureaucracy or dull machinery.
+
+These illustrations should illustrate a very specific concept or idea in the topic and be inserted into the appropriate spot in the file.
+
+They should not all be the exact same dimensions. They should add a nice visual break to the text and help the reader understand the concept better.
+

@@ -47,6 +47,8 @@ If an object has little mass spread through a large volume, it has low density.
 
 This is why a small rock may feel heavier than a much larger sponge.
 
+![The density formula](025_Density_02.png)
+
 ## Units of Density
 
 Density can be measured in different units.
@@ -97,6 +99,8 @@ The important question is:
 
 ## Density and Floating
 
+![Floating and sinking](025_Density_03.png)
+
 Density is closely connected to floating and sinking.
 
 An object usually floats in a fluid if its average density is less than the fluid's density.
@@ -121,6 +125,8 @@ The material density of steel is high. The average density of a steel ship can b
 
 This is one of the most important distinctions in buoyancy.
 
+![Average density of a steel ship](025_Density_04.png)
+
 ## Density and Displacement
 
 When an object is placed in water, it displaces, or pushes aside, some water.
@@ -142,6 +148,8 @@ Oil floats on water because oil is less dense than water. Honey sinks below wate
 You can sometimes make a density column by carefully layering liquids of different densities.
 
 From top to bottom, the liquids arrange themselves from least dense to most dense.
+
+![A density column](025_Density_05.png)
 
 ## Density of Gases
 
@@ -178,6 +186,8 @@ That is why ice floats.
 If ice sank, lakes and ponds could freeze from the bottom upward, making winter survival much harder for fish and other aquatic life.
 
 Floating ice forms an insulating layer at the surface, helping water below remain liquid.
+
+![Why ice floats](025_Density_06.png)
 
 ## Density and the Human Body
 
@@ -228,6 +238,8 @@ For example, if the water rises from 40 mL to 55 mL, the object's volume is:
 Since 1 mL is equal to 1 cm³, the object's volume is 15 cm³.
 
 Then you can find density if you know its mass.
+
+![Measuring volume by water displacement](025_Density_07.png)
 
 ## A Density by Displacement Calculation
 
