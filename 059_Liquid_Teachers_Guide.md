@@ -13,7 +13,7 @@ Students should be able to:
 - Explain flow, viscosity, surface tension, cohesion, adhesion, capillary action, meniscus, density, pressure, and hydraulics.
 - Distinguish evaporation, boiling, condensation, freezing, and melting.
 - Identify solutions, solutes, solvents, suspensions, and immiscible liquids.
-- Connect liquid properties to water, living things, weather, technology, machines, cooking, cleaning, and everyday life.
+- Connect liquid properties to water, living things, weather, technology, machines, sports, cooking, cleaning, and everyday life.
 - Apply safety rules for handling unknown liquids, spills, heat, glassware, electrical devices, and mixtures.
 
 ### Answers to Study Questions
@@ -48,14 +48,15 @@ Students should be able to:
 28. A **solution** is an evenly mixed mixture.
 29. The **solute** is the substance being dissolved, and the **solvent** is the substance doing the dissolving.
 30. Answers may include not tasting unknown liquids, not smelling chemicals directly, keeping liquids away from electrical devices, wiping spills with adult guidance, walking carefully near wet floors, wearing goggles when needed, using heat only with adult supervision, not mixing household liquids without instruction, labeling liquids, washing hands, and following disposal instructions.
+31. Answers may vary. A strong answer should connect the job to liquid properties, such as using brake fluid because it transmits pressure without compressing easily, or using engine oil because it lubricates and flows at the right viscosity. Students should show that the wrong liquid can fail at its job even if it pours.
 
 ### Activity Suggestions
 
 1. **Shape and Volume Pour**
-   Students pour the same measured amount of water into different containers. They observe that the shape changes while the volume stays the same.
+   Students pour the same measured amount of water into different containers, such as a sports bottle, beaker, and wide bowl. They observe that the shape changes while the volume stays the same.
 
 2. **Viscosity Race**
-   Compare safe liquids such as water, vegetable oil, dish soap, and syrup on a tilted tray or in clear containers. Students rank flow speed and connect it to viscosity.
+   Compare safe liquids such as water, vegetable oil, dish soap, and syrup on a tilted tray or in clear containers. Students rank flow speed and connect it to viscosity. Optional: compare room-temperature and warmed syrup.
 
 3. **Surface Tension Drops**
    Students count how many drops of water fit on a penny before spilling, then compare with soapy water. Discuss surface tension and the effect of soap.
@@ -70,18 +71,27 @@ Students should be able to:
    Teacher or students layer safe liquids such as corn syrup, water with food coloring, and vegetable oil. Discuss density and immiscible liquids.
 
 7. **Evaporation Investigation**
-   Compare equal amounts of water in a shallow dish and a narrow cup, or in warm and cool locations. Students observe which evaporates faster and why.
+   Compare equal amounts of water in a shallow dish and a narrow cup, or in warm and cool locations. Students observe which evaporates faster and why. Connect to puddles after rain and sweat after exercise.
 
 8. **Solution or Suspension Sort**
    Students compare salt water, sugar water, muddy water, oil and water, and orange juice with pulp. They classify each as solution, suspension, or immiscible mixture.
 
+9. **Hydraulics Model Discussion**
+   Use diagrams, videos, or a simple syringe-and-tube model to show how liquid pressure can transmit force. Connect to bike brakes, car brakes, or construction equipment.
+
+10. **Choose the Right Liquid Challenge**
+    Give groups a design problem, such as bike chain lubrication, brake lines, engine cooling, or cleaning a muddy jersey. Students choose a liquid type, name two important properties, and explain why water alone might be a poor choice.
+
 ### Teaching Notes
 
 - Keep the central definition visible: **a liquid has definite volume but no definite shape**.
+- Open with sports bottles, rain puddles, bike lube, and sweat so the topic feels immediate rather than abstract.
 - Emphasize that liquid particles stay close together while sliding past one another.
+- Link back to matter and solids; preview gases and the water cycle.
 - Use water first, then broaden examples so students do not think all liquids behave like water.
 - Separate evaporation from boiling carefully; this is a common confusion.
 - Connect surface tension, cohesion, adhesion, and capillary action through simple demonstrations.
 - Treat spills as safety events, especially near electrical devices or smooth floors.
 - Do not allow students to taste liquids, even common kitchen liquids, during science activities.
+- Use hydraulics and viscosity to connect liquids to machines, bikes, and vehicles boys often care about.
 - Link this chapter forward to gas, solution, density, weather, water cycle, and chemistry topics.

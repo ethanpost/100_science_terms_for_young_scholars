@@ -1,484 +1,319 @@
 ﻿# Nitrogen
 
-Every breath you take is mostly nitrogen. You need oxygen from the air, but the biggest part of air is actually nitrogen gas. It enters and leaves your lungs all day, usually without reacting.
+You sprint the last stretch of a mile and bend over, gasping. Your chest burns for oxygen — but most of what you just pulled into your lungs was not oxygen at all. About four out of every five breaths were **nitrogen gas**, going in and coming back out almost unchanged.
 
-Yet nitrogen is also part of proteins, DNA, fertilizers, soil, lightning chemistry, explosives, medicines, and living cells.
+Crack open a bag of chips. It feels puffy, almost like a tiny pillow. That is not an accident. Food companies often flush bags with nitrogen gas because it is fairly unreactive and helps keep chips from going stale or getting crushed.
+
+Walk past a garden or a farm field after rain. The green leaves look calm, but underground a hidden chemistry story is running. Plants need nitrogen to build proteins and DNA — yet they cannot simply drink nitrogen gas from the air the way you drink water from a hose.
+
+Then a summer thunderstorm rolls in. Lightning flashes. Thunder cracks. In that split second of extreme energy, nitrogen in the sky can be torn apart and rebuilt into new compounds that rain carries toward the soil.
 
 **Nitrogen is a chemical element, found mostly as N2 gas in air, and needed by living things to build proteins and DNA.**
 
-Nitrogen is quiet in the air but powerful in living things and chemistry. It is one of the key elements of life.
+Nitrogen is quiet in the atmosphere but powerful in living things, soil, industry, and chemistry. It is one of the key elements of life — and one of the trickiest for organisms to use.
 
-To understand nitrogen, we must begin with elements and gases.
+As you learned in the chapter on **elements**, an element is a pure substance made of only one kind of atom. As you learned in the chapter on **molecules**, atoms can bond into larger groups. Nitrogen is element number 7 on the periodic table, and in air it usually travels as **N2** — two nitrogen atoms locked together in an extremely strong bond.
+
+![Nitrogen](073_Nitrogen_01.png)
 
 ## Nitrogen Is an Element
 
-An **element** is a pure substance made of only one kind of atom.
+**Nitrogen** is an element because every nitrogen atom is the same kind of atom.
 
-Nitrogen is an element because it is made of nitrogen atoms.
-
-Every nitrogen atom has 7 protons in its nucleus.
-
-That means nitrogen's atomic number is 7.
+Every nitrogen atom has **7 protons** in its nucleus. That number is nitrogen's **atomic number**: 7.
 
 Nitrogen's chemical symbol is **N**.
 
-On the periodic table, nitrogen is a nonmetal.
+On the periodic table, nitrogen is a **nonmetal**. It can form many important compounds, especially in living things.
 
-Nitrogen atoms can form many important compounds, especially in living things.
+| Fact | Value |
+|------|-------|
+| Name | Nitrogen |
+| Symbol | N |
+| Atomic number | 7 (7 protons) |
+| Common form in air | N2 (nitrogen gas) |
 
-## Nitrogen Gas
+## Nitrogen Gas — N2
 
-Nitrogen gas is usually made of molecules with two nitrogen atoms.
+In the atmosphere, nitrogen usually exists as **nitrogen gas**.
 
 Its formula is **N2**.
 
-N2 is a **diatomic molecule**, meaning it contains two atoms.
+N2 is a **diatomic molecule** — a molecule made of two atoms of the same element.
 
-The two nitrogen atoms in N2 are held together very strongly.
+The two nitrogen atoms share electrons in a **triple bond**: three pairs of electrons holding them together. That bond is one of the strongest in ordinary chemistry.
 
-This strong bond makes nitrogen gas fairly unreactive under ordinary conditions.
+Because the bond is so strong, nitrogen gas is **fairly unreactive** under normal conditions. It does not catch fire, rust metal, or react with everything around it. That stability is exactly why nitrogen can make up most of the air without causing chaos.
 
-That is why nitrogen can make up most of the air without constantly catching fire, rusting things, or reacting with everything around it.
+**Important:** N2 is still an **element**. Every atom in the molecule is a nitrogen atom. The element chapter explained that oxygen also commonly exists as O2 — same idea.
 
 ## Nitrogen in Air
 
-Air is a mixture of gases.
+Air is a **mixture** of gases, not a single compound.
 
-Dry air near Earth's surface is about 78 percent nitrogen.
+Dry air near Earth's surface is roughly:
 
-It is about 21 percent oxygen.
+| Gas | About % of dry air |
+|-----|-------------------|
+| Nitrogen (N2) | 78% |
+| Oxygen (O2) | 21% |
+| Argon and others | 1% |
 
-The rest is mostly argon, carbon dioxide, water vapor, and small amounts of other gases.
+Carbon dioxide, water vapor, and trace gases are also present in smaller amounts.
 
-This means nitrogen is the main gas in the air around you.
+**Nitrogen is the main gas in the air around you.**
 
-When you inhale, you breathe in a great deal of nitrogen. When you exhale, most of that nitrogen comes back out unchanged.
+When you inhale, you pull in a great deal of nitrogen. When you exhale, most of that nitrogen leaves unchanged. Your body uses oxygen for cellular respiration, but it does not use nitrogen gas directly for energy the way it uses oxygen.
 
-Your body does not use nitrogen gas directly in the way it uses oxygen.
-
-## Why Nitrogen Gas Is Stable
-
-Nitrogen gas is stable because the two nitrogen atoms in N2 share electrons in a very strong bond.
-
-This bond is called a triple bond.
-
-A **triple bond** is a covalent bond in which atoms share three pairs of electrons.
-
-Because this bond is so strong, it takes a lot of energy to break nitrogen gas apart.
-
-This is why most plants and animals cannot use nitrogen gas directly from the air.
-
-The nitrogen must first be changed into more usable compounds.
-
-## Nitrogen and Life
-
-Living things need nitrogen.
-
-Nitrogen is found in:
-
-- Proteins
-- DNA
-- RNA
-- Chlorophyll
-- Vitamins
-- Many cell chemicals
-
-Proteins help build body structures and control chemical reactions.
-
-DNA stores genetic instructions.
-
-RNA helps cells use those instructions.
-
-Without nitrogen, living things could not build many of their most important molecules.
-
-## Nitrogen in Proteins
-
-Proteins are large molecules made from smaller units called amino acids.
-
-All amino acids contain nitrogen.
-
-Your muscles, skin, hair, enzymes, and many body structures depend on proteins.
-
-Plants also need nitrogen to make proteins for growth.
-
-When soil lacks usable nitrogen, plants may grow poorly or turn yellowish.
-
-This is one reason farmers and gardeners care about nitrogen in soil.
-
-## Nitrogen in DNA
-
-DNA contains nitrogen.
-
-DNA stands for deoxyribonucleic acid.
-
-It stores genetic instructions in cells.
-
-The "letters" of DNA are molecules called bases, and these bases contain nitrogen.
-
-Nitrogen is also found in RNA, another molecule needed for using genetic information.
-
-Every living thing uses nitrogen-containing molecules to pass on instructions for life.
+That fact surprises many people — and it leads to one of the biggest puzzles in biology.
 
 ## The Nitrogen Problem
 
-Earth's atmosphere is full of nitrogen gas, but most living things cannot use N2 directly.
+Earth's atmosphere is packed with nitrogen gas. Yet most living things **cannot use N2 directly**.
 
-This creates a problem.
+- **Plants** need nitrogen for proteins, DNA, and chlorophyll — but they cannot simply pull N2 from the air and build those molecules.
+- **Animals** need nitrogen too — but they get it by eating plants or other animals, not by breathing nitrogen gas.
 
-Plants need nitrogen, but they cannot simply pull N2 from air and build proteins with it.
+Before most organisms can use nitrogen, it must be changed into compounds such as **ammonia**, **ammonium**, **nitrates**, or **nitrites**.
 
-Animals need nitrogen, but they get it by eating plants or other animals, not by breathing nitrogen gas.
+This conversion is a central part of the **nitrogen cycle** — the movement of nitrogen through air, soil, water, and living things.
 
-Nitrogen must be changed into compounds such as ammonia, ammonium, nitrates, or nitrites before most organisms can use it.
+## Why Nitrogen Gas Is So Stable
 
-This conversion is a central part of the nitrogen cycle.
+Nitrogen gas is stable because the **triple bond** in N2 is very hard to break.
 
-## Nitrogen Fixation
+A **triple bond** is a covalent bond in which two atoms share **three pairs** of electrons.
 
-**Nitrogen fixation** is the process of changing nitrogen gas into nitrogen compounds that living things can use.
+Breaking that bond takes a lot of energy. Most plants and animals lack the tools to break it on their own.
 
-Some bacteria can fix nitrogen.
+That is why bacteria, lightning, and human industry matter so much. They are some of the main ways nitrogen gas gets converted into usable forms.
 
-These bacteria have special enzymes that can break the strong bond in N2.
+## Nitrogen and Life
 
-Some nitrogen-fixing bacteria live in soil.
+Living things need nitrogen in many molecules:
 
-Others live in nodules on the roots of certain plants, especially legumes such as peas, beans, clover, and alfalfa.
+| Molecule | Why nitrogen matters |
+|----------|---------------------|
+| **Proteins** | Build muscles, skin, hair, enzymes, and body structures |
+| **DNA** | Store genetic instructions |
+| **RNA** | Help cells use genetic instructions |
+| **Chlorophyll** | Let plants capture light for photosynthesis |
+| **Vitamins** | Support many body processes |
 
-Nitrogen fixation is one of the most important biological processes on Earth.
+**Proteins** are large molecules built from smaller units called **amino acids**. Every amino acid contains nitrogen.
 
-## Legumes and Root Nodules
+**DNA** stores genetic instructions using nitrogen-containing **bases**. RNA does similar work.
 
-Legumes are plants such as peas, beans, lentils, clover, and alfalfa.
+Without nitrogen, living things could not build many of their most important molecules. Your strength after training, the green of a lawn, and the instructions in every cell all depend on nitrogen chemistry — just not on nitrogen *gas* breathed straight from the air.
 
-Many legumes have root nodules.
+## Nitrogen Fixation — Unlocking the Air
 
-Root nodules are small swellings on roots where nitrogen-fixing bacteria live.
+**Nitrogen fixation** is the process of changing nitrogen gas (N2) into nitrogen compounds that living things can use.
 
-The plant gives the bacteria sugars and a safe place to live.
+### Bacteria: Earth's Hidden Nitrogen Workers
 
-The bacteria help change nitrogen gas into compounds the plant can use.
+Some **bacteria** can fix nitrogen. They produce special **enzymes** that break the strong N2 bond and build usable compounds.
 
-This partnership is called **symbiosis**.
+- Some nitrogen-fixing bacteria live freely in **soil**.
+- Others live inside **root nodules** — small swellings on the roots of certain plants.
 
-Symbiosis means a close relationship between different kinds of living things.
+Nitrogen fixation is one of the most important biological processes on Earth. Without it, life as we know it would look very different.
 
-## Lightning and Nitrogen
+### Legumes and Root Nodules
 
-Lightning can help fix nitrogen.
+**Legumes** are plants such as peas, beans, lentils, clover, and alfalfa.
 
-Lightning has enough energy to break apart nitrogen molecules and oxygen molecules in the air.
+Many legumes form a partnership with nitrogen-fixing bacteria in root nodules:
 
-The atoms can then form nitrogen oxides.
+| Partner | What it provides |
+|---------|------------------|
+| Plant | Sugars and a safe home on the root |
+| Bacteria | Fixed nitrogen compounds the plant can use |
 
-These compounds can dissolve in rain and reach the soil.
+This close partnership is called **symbiosis** — different kinds of living things working together for mutual benefit.
 
-Lightning does not provide most of the usable nitrogen for life, but it is one natural way nitrogen gas becomes part of compounds.
+Farmers have known for centuries that planting legumes can improve soil. Now you know the chemistry behind the tradition.
 
-Storms are not only weather events. They also do chemistry.
+### Lightning: Storm Chemistry
+
+**Lightning** can also help fix nitrogen.
+
+A lightning bolt carries enormous energy. It can break apart nitrogen and oxygen molecules in the air. The atoms may recombine as **nitrogen oxides**, dissolve in rain, and reach the soil.
+
+Lightning does not supply most of the world's usable nitrogen — bacteria do far more — but it is a real natural pathway. Storms are not only weather. They are also chemistry.
 
 ## The Nitrogen Cycle
 
 The **nitrogen cycle** is the movement of nitrogen through air, soil, water, and living things.
 
-Important steps include:
+Think of it as a loop, not a vocabulary list:
 
-- Nitrogen fixation
-- Nitrification
-- Assimilation
-- Decomposition
-- Denitrification
+| Step | What happens |
+|------|--------------|
+| **Nitrogen fixation** | N2 becomes ammonia, ammonium, or related compounds |
+| **Nitrification** | Soil bacteria change ammonia/ammonium into nitrites and nitrates |
+| **Assimilation** | Plants absorb nitrogen compounds and build proteins, DNA, and more |
+| **Food chains** | Animals get nitrogen by eating plants or other animals |
+| **Decomposition** | Dead organisms and wastes return nitrogen compounds to soil |
+| **Denitrification** | Certain bacteria change nitrogen compounds back into N2 gas |
 
-These words may sound large, but the story is simple:
+Nitrogen moves from air → soil compounds → living things → soil → and sometimes back to air. The cycle keeps nitrogen available for life.
 
-Nitrogen moves from air into soil compounds, into living things, back into soil, and sometimes back into the air.
+### Nitrification
 
-The cycle keeps nitrogen available for life.
+**Nitrification** is when soil bacteria change ammonia or ammonium into **nitrites** and **nitrates**.
 
-## Nitrification
+Many plants absorb **nitrates** through their roots. Without helpful bacteria, much soil nitrogen would not be in the best form for plant growth.
 
-**Nitrification** is a process in which soil bacteria change ammonia or ammonium into nitrites and nitrates.
-
-Nitrates are useful because many plants can absorb them through their roots.
-
-This step is important in soil fertility.
-
-Without helpful bacteria, much of the nitrogen in soil would not be in the best form for plants.
-
-Tiny organisms do work that feeds forests, farms, lawns, and gardens.
-
-## Assimilation
+### Assimilation
 
 **Assimilation** happens when plants take in nitrogen compounds and use them to build molecules such as proteins and DNA.
 
-Plants usually absorb nitrogen as nitrate or ammonium ions.
+Animals then get nitrogen by eating plants — or by eating animals that ate plants.
 
-Animals then get nitrogen by eating plants or by eating animals that ate plants.
+The nitrogen in your muscles may once have been in soil, in a bean plant, or in the air long before bacteria fixed it. Life is connected by cycles of matter.
 
-This means the nitrogen in your body may once have been in soil, in a plant, or even in the air long before bacteria fixed it.
+### Decomposition
 
-Life is connected by cycles of matter.
+When plants and animals die, **decomposers** (bacteria, fungi, and other organisms) break down remains and return nitrogen compounds to the soil. Animal wastes add nitrogen too.
 
-## Decomposition
+Good soil depends on this recycling step.
 
-When plants and animals die, decomposers break down their remains.
+### Denitrification
 
-Decomposers include bacteria, fungi, and other organisms.
+**Denitrification** is when certain bacteria change nitrogen compounds back into **nitrogen gas** (N2), returning it to the atmosphere.
 
-They return nitrogen compounds to the soil.
+This often happens in wet or low-oxygen soils. It completes the loop from soil back to air.
 
-Animal wastes also add nitrogen compounds to soil.
+## Fertilizers and Farms
 
-This step is important because it recycles nitrogen instead of locking it away forever.
+**Fertilizers** often contain nitrogen compounds because plants need nitrogen to grow.
 
-Good soil depends on decomposition.
+Common types include ammonium compounds, nitrate compounds, and **urea**.
 
-## Denitrification
+Used wisely, fertilizers help crops produce food for billions of people. Used carelessly, excess fertilizer can wash into rivers, lakes, and oceans — feeding **algal blooms**.
 
-**Denitrification** is a process in which certain bacteria change nitrogen compounds back into nitrogen gas.
+In an algal bloom, algae grow explosively, then die. Decomposers break them down and use oxygen from the water. Fish and other aquatic life can suffocate. **Dead zones** — areas with little aquatic life — can form.
 
-This returns nitrogen to the atmosphere.
+Nitrogen is necessary for life. Too much in the wrong place can cause serious harm. Useful nitrogen must be managed carefully.
 
-Denitrification often happens in wet soils or low-oxygen environments.
+## The Haber Process — Industry Meets Agriculture
 
-It completes part of the nitrogen cycle by moving nitrogen from soil back to air.
+For most of history, usable nitrogen limited how much food farmers could grow. Then chemists solved a huge problem.
 
-Without denitrification, nitrogen would not cycle in the same balanced way.
+The **Haber process** is an industrial method for making **ammonia** (NH3) from nitrogen gas and hydrogen:
 
-## Fertilizers
+- High **pressure**
+- High **temperature**
+- A **catalyst** — a substance that speeds up a reaction without being used up
 
-Fertilizers often contain nitrogen compounds.
+The Haber process made it possible to produce enormous amounts of fertilizer. That helped feed many more people. It also created responsibility: excess fertilizer can pollute water and disrupt ecosystems.
 
-Plants need nitrogen to grow, so farmers may add nitrogen fertilizers to soil.
+Powerful inventions often bring both benefits and duties.
 
-Common nitrogen fertilizers include ammonium compounds, nitrate compounds, and urea.
+## Important Nitrogen Compounds
 
-Fertilizers can help crops grow.
+### Ammonia — NH3
 
-But too much fertilizer can wash into rivers, lakes, and oceans.
+**Ammonia** is a compound of nitrogen and hydrogen. Its formula is **NH3**.
 
-This can cause environmental problems.
+It has a sharp smell and appears in fertilizers, refrigeration, cleaning products, and chemical manufacturing.
 
-Useful nitrogen must be managed carefully.
+Ammonia can act as a **base** (as you learned in the chapter on **bases**). Concentrated ammonia is irritating and dangerous. It can harm eyes, skin, and lungs.
 
-## Algal Blooms
+**Never smell ammonia directly. Never mix ammonia cleaners with bleach or other cleaners** — the reaction can release poisonous gas.
 
-Too much nitrogen in water can feed rapid growth of algae.
+### Nitrates
 
-This is called an **algal bloom**.
+**Nitrates** are compounds containing the nitrate ion (nitrogen and oxygen). Many dissolve in water. Plants use them as a nitrogen source.
 
-When algae die, decomposers break them down and use oxygen from the water.
+Nitrates appear in fertilizers and in the nitrogen cycle. Some nitrates are used in fireworks and explosives because they can supply oxygen in rapid reactions. Handle all such materials responsibly and only under adult supervision.
 
-This can lower dissolved oxygen levels.
+### Nitrogen Oxides
 
-Fish and other aquatic animals may suffer or die.
+When nitrogen combines with oxygen, **nitrogen oxides** form — in lightning, engines, power plants, and fires.
 
-This process can create dead zones where little aquatic life survives.
+Some nitrogen oxides contribute to **smog**, **acid rain**, and air pollution. Controlling vehicle and factory emissions matters for air quality and connects to chapters on **combustion** and **oxidation**.
 
-Nitrogen is necessary for life, but too much in the wrong place can cause harm.
+## Nitrogen Gas in Daily Life
 
-## Ammonia
+### Combustion and Fire Safety
 
-Ammonia is a compound of nitrogen and hydrogen.
+Nitrogen gas does not support ordinary burning the way oxygen does. In fact, nitrogen in air **dilutes** oxygen and slows combustion. That is one reason ordinary air is less fire-intense than pure oxygen.
 
-Its formula is **NH3**.
+At very high temperatures, however, nitrogen can react with oxygen to form nitrogen oxides — as in engines and lightning.
 
-Ammonia has a sharp smell.
+### Food Packaging
 
-It is used in fertilizers, cleaning products, refrigeration, and chemical manufacturing.
+Because N2 is fairly unreactive, food companies use nitrogen gas in some packaging. Replacing much of the oxygen with nitrogen can slow spoilage and oxidation — the same idea mentioned in the chapter on **oxidation**, where chip bags are flushed with nitrogen to protect fats from going rancid.
 
-Ammonia can act as a base.
+The gas in a chip bag is not just "extra air." It is often part of food preservation.
 
-Concentrated ammonia is irritating and dangerous. It can harm eyes, skin, and lungs.
+### Liquid Nitrogen
 
-Never smell ammonia directly or mix ammonia cleaners with other cleaners.
+Cool nitrogen gas to about **-196 °C**, and it becomes **liquid nitrogen** — extremely cold.
 
-## Nitrates
+Uses include freezing biological samples, industrial cooling, and science demonstrations. Liquid nitrogen can cause **severe frostbite** and can **displace oxygen** in closed spaces as it boils away.
 
-**Nitrates** are compounds containing the nitrate ion.
+Liquid nitrogen is for **trained adults** with proper equipment and ventilation only.
 
-Nitrate contains nitrogen and oxygen.
+## Nitrogen in Explosives — Same Element, Different Arrangement
 
-Many nitrates dissolve in water.
-
-Plants can use nitrates as a nitrogen source.
-
-Nitrates are found in fertilizers and in the nitrogen cycle.
-
-Some nitrates are used in fireworks and explosives because they can help supply oxygen in reactions.
-
-Nitrates must be handled responsibly.
-
-## Nitrogen Oxides
-
-Nitrogen can combine with oxygen to form nitrogen oxides.
-
-Nitrogen oxides can form in lightning, engines, power plants, and fires.
-
-Some nitrogen oxides contribute to air pollution, smog, and acid rain.
-
-They can react in the atmosphere to form acids or other pollutants.
-
-This is one reason controlling vehicle and factory emissions matters.
-
-Nitrogen chemistry affects air quality.
-
-## Nitrogen and Combustion
-
-Nitrogen gas does not support ordinary combustion the way oxygen does.
-
-In fact, nitrogen in air helps dilute oxygen and slow burning.
-
-This is one reason ordinary air is less fire-intense than pure oxygen.
-
-However, at very high temperatures, nitrogen can react with oxygen to form nitrogen oxides.
-
-Engines and lightning can provide enough energy for this.
-
-Nitrogen is usually quiet, but heat can make it reactive.
-
-## Liquid Nitrogen
-
-Nitrogen gas can become liquid if cooled to an extremely low temperature.
-
-Liquid nitrogen is very cold.
-
-It boils at about -196 degrees Celsius.
-
-Liquid nitrogen is used for freezing, preserving biological samples, cooling equipment, making some demonstrations, and industrial processes.
-
-It can cause severe frostbite.
-
-It can also displace oxygen from air in closed spaces as it evaporates.
-
-Liquid nitrogen should be handled only by trained adults with proper equipment and ventilation.
-
-## Nitrogen in Food Packaging
-
-Nitrogen gas is used in some food packaging.
-
-Because nitrogen gas is fairly unreactive, it can help protect food from oxygen.
-
-Replacing some oxygen with nitrogen can slow spoilage, oxidation, and staleness.
-
-Bags of chips may contain nitrogen gas to help keep the chips fresh and cushion them from crushing.
-
-The gas in the bag is not simply "extra air." It can be part of food preservation.
-
-## Nitrogen in Industry
-
-Nitrogen is important in industry.
-
-It is used to make ammonia.
-
-Ammonia is used to make fertilizers.
-
-Nitrogen gas can provide an inert, or unreactive, atmosphere for processes that should avoid oxygen.
-
-Liquid nitrogen is used for cooling.
-
-Nitrogen compounds are used in medicines, dyes, plastics, explosives, and many chemical products.
-
-Modern agriculture and industry depend heavily on nitrogen chemistry.
-
-## The Haber Process
-
-The **Haber process** is an industrial method for making ammonia from nitrogen and hydrogen.
-
-The reaction uses high pressure, high temperature, and a catalyst.
-
-A **catalyst** is a substance that speeds up a chemical reaction without being used up.
-
-The Haber process made it possible to produce huge amounts of fertilizer.
-
-This helped feed many more people.
-
-It also created challenges, because excess fertilizer can pollute water and change ecosystems.
-
-Powerful inventions often have both benefits and responsibilities.
-
-## Nitrogen in Explosives
-
-Some nitrogen compounds store chemical energy and can react very rapidly.
-
-Examples include certain nitrates and other nitrogen-rich compounds.
+Some nitrogen-rich compounds store enormous chemical energy and can react very rapidly. Certain nitrates and other nitrogen compounds appear in explosives.
 
 Explosives must never be treated casually.
 
-The same element that helps plants grow can appear in dangerous materials when arranged in certain compounds.
-
-This is a key chemistry lesson:
-
-Properties depend on how atoms are bonded and arranged.
+The same element that helps plants grow can appear in dangerous materials when atoms are arranged differently. **Properties depend on how atoms are bonded and arranged.**
 
 Nitrogen in air is calm. Nitrogen in some compounds can be powerful.
 
-## Nitrogen and the Body
+## Nitrogen and Your Body
 
 Your body does not use nitrogen gas from the air directly.
 
-But your body contains nitrogen in proteins, DNA, RNA, and many other molecules.
+But your body contains nitrogen in proteins, DNA, RNA, and many other molecules. You get that nitrogen from **food**:
 
-You get nitrogen from food.
+- Beans, eggs, meat, fish, nuts, and dairy are protein-rich sources.
+- Your body breaks down dietary proteins into amino acids and rebuilds its own proteins.
 
-Foods with protein, such as beans, eggs, meat, fish, nuts, and dairy products, contain nitrogen.
-
-Your body breaks down proteins into amino acids and uses them to build its own proteins.
-
-Nitrogen is part of growth and repair.
+Nitrogen is part of growth, repair, and every cell's chemistry.
 
 ## Nitrogen Deficiency in Plants
 
-Plants that lack enough usable nitrogen often grow poorly.
+Plants without enough usable nitrogen often grow poorly. Leaves may turn pale green or yellow. Plants may stay small or weak because nitrogen is needed for **chlorophyll** and **proteins**.
 
-Their leaves may become pale green or yellow.
-
-They may be small or weak.
-
-This happens because nitrogen is needed for chlorophyll and proteins.
-
-Chlorophyll helps plants capture light energy for photosynthesis.
-
-Farmers and gardeners may test soil and add fertilizer or compost to improve nitrogen supply.
-
-Too little nitrogen limits growth. Too much can pollute.
+Farmers and gardeners test soil and may add fertilizer or compost. Too little nitrogen limits growth. Too much can pollute waterways.
 
 ## Common Misconceptions
 
-One mistake is thinking oxygen is the main gas in air. Nitrogen is actually the largest part of dry air.
+One mistake is thinking **oxygen** is the main gas in air. **Nitrogen** is actually the largest part of dry air.
 
-Another mistake is thinking nitrogen is useless because we do not breathe it for energy. Nitrogen is essential in proteins and DNA.
+Another mistake is thinking nitrogen is useless because we do not "breathe it for energy." Nitrogen is essential in **proteins** and **DNA**.
 
-A third mistake is thinking plants can use nitrogen gas directly from air. Most plants need nitrogen compounds such as nitrates or ammonium.
+A third mistake is thinking plants can use **N2 directly** from the air. Most need nitrogen compounds such as nitrates or ammonium.
 
-A fourth mistake is thinking all nitrogen compounds are safe because nitrogen gas is fairly unreactive. Some nitrogen compounds are toxic, polluting, or explosive.
+A fourth mistake is thinking all nitrogen compounds are safe because nitrogen gas is unreactive. Some compounds are **toxic**, **polluting**, or **explosive**.
 
-A fifth mistake is thinking fertilizer is always good. Too much nitrogen fertilizer can damage waterways and ecosystems.
+A fifth mistake is thinking fertilizer is always good. **Too much** can damage waterways and ecosystems.
 
 ## Nitrogen Safety
 
 Nitrogen is common, but it still requires care.
 
-Good safety habits include:
-
 - Do not inhale gases from tanks, bags, balloons, or unknown sources.
-- Do not handle liquid nitrogen without trained adult supervision.
-- Keep liquid nitrogen away from skin and eyes.
-- Use liquid nitrogen only with good ventilation.
-- Do not seal liquid nitrogen in a closed container.
-- Never mix ammonia cleaners with bleach or other cleaners.
+- Do not handle **liquid nitrogen** without trained adult supervision.
+- Keep liquid nitrogen away from skin and eyes; use good ventilation; never seal it in a closed container.
+- **Never mix ammonia cleaners with bleach** or other cleaners.
 - Do not smell ammonia directly.
 - Treat nitrate compounds and unknown powders as potentially hazardous.
-- Use goggles when working with nitrogen compounds in demonstrations.
+- Wear goggles when a teacher requires them for demonstrations.
 - Follow teacher instructions for fertilizers, ammonia, and disposal.
 
-Nitrogen gas in ordinary air is safe to breathe as part of air, but concentrated nitrogen can displace oxygen and cause suffocation.
+Nitrogen gas in ordinary air is safe to breathe as part of air. **Concentrated** nitrogen in a closed space can displace oxygen and cause suffocation.
 
 ## The Big Idea
 
-Nitrogen is a chemical element with atomic number 7.
-
-It makes up most of the air as N2 gas, a stable diatomic molecule. Living things need nitrogen to build proteins, DNA, RNA, and other molecules, but most organisms cannot use nitrogen gas directly. Nitrogen must move through the nitrogen cycle by fixation, nitrification, assimilation, decomposition, and denitrification. Nitrogen compounds are important in fertilizers, food, soil, industry, medicine, pollution, and explosives.
+Nitrogen is element number 7. It makes up most of the air as **N2**, a stable diatomic molecule held together by a strong triple bond. Living things need nitrogen for proteins, DNA, and many other molecules, but most organisms cannot use nitrogen gas directly. The **nitrogen cycle** — fixation, nitrification, assimilation, decomposition, and denitrification — moves nitrogen through air, soil, and life. Human industry, especially the **Haber process**, changed agriculture forever. Nitrogen compounds also appear in food packaging, pollution, and materials that demand respect.
 
 If you remember only one sentence, remember this:
 
@@ -487,32 +322,26 @@ If you remember only one sentence, remember this:
 ## Study Questions
 
 1. What is nitrogen?
-2. What is nitrogen's chemical symbol?
-3. How many protons does every nitrogen atom have?
-4. What is nitrogen's atomic number?
-5. What is the formula for nitrogen gas in air?
-6. What does diatomic molecule mean?
-7. About what percent of dry air is nitrogen?
-8. Why does most inhaled nitrogen leave the body unchanged?
-9. Why is nitrogen gas fairly unreactive under ordinary conditions?
-10. What is a triple bond?
-11. Name three important molecules in living things that contain nitrogen.
-12. Why do plants need nitrogen?
-13. Why is nitrogen important in DNA?
-14. Why can most plants and animals not use nitrogen gas directly?
-15. What is nitrogen fixation?
-16. What kinds of organisms can fix nitrogen?
-17. What are legumes?
-18. How can lightning help change nitrogen gas into compounds?
-19. What is the nitrogen cycle?
-20. What is nitrification?
-21. What is assimilation in the nitrogen cycle?
-22. What is denitrification?
-23. Why are nitrogen fertilizers useful?
-24. How can too much nitrogen fertilizer harm water ecosystems?
-25. What is ammonia, and what is its formula?
-26. What are nitrates?
-27. What are nitrogen oxides, and why can they be a problem?
-28. What is liquid nitrogen, and why is it dangerous?
-29. Name two common misconceptions about nitrogen.
-30. What are three safety rules for nitrogen or nitrogen compounds?
+2. What is nitrogen's chemical symbol and atomic number?
+3. What is the formula for nitrogen gas in air, and what does *diatomic molecule* mean?
+4. About what percent of dry air is nitrogen? Why does most inhaled nitrogen leave the body unchanged?
+5. Why is nitrogen gas fairly unreactive under ordinary conditions?
+6. What is a triple bond?
+7. Why can most plants and animals not use nitrogen gas (N2) directly from the air?
+8. Name three important molecules in living things that contain nitrogen.
+9. What is nitrogen fixation, and what kinds of organisms can do it?
+10. How do legumes and root nodules relate to nitrogen fixation?
+11. How can lightning help change nitrogen gas into usable compounds?
+12. List the main steps of the nitrogen cycle and explain what each step does in plain language.
+13. What is nitrification? What is assimilation? What is denitrification?
+14. Why are nitrogen fertilizers useful, and how can too much fertilizer harm water ecosystems?
+15. What is the Haber process, and why is it historically important?
+16. What is ammonia (formula and one use), and why must ammonia cleaners never be mixed with bleach?
+17. What are nitrates, and why are they important for plants?
+18. What are nitrogen oxides, and why can they be an environmental problem?
+19. How does nitrogen in air affect ordinary combustion compared with pure oxygen?
+20. Why is nitrogen gas used in some food packaging?
+21. What is liquid nitrogen, and what are two dangers of using it?
+22. Why can the same element appear in calm air and in powerful or dangerous compounds?
+23. Name two common misconceptions about nitrogen.
+24. List three safety rules for nitrogen or nitrogen compounds.

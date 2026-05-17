@@ -8,10 +8,11 @@ Students should be able to:
 
 - Define a constellation as an official region of the sky, usually named for a star pattern as seen from Earth.
 - Explain that constellation patterns depend on Earth's point of view and that member stars are usually not close together in space.
-- Distinguish constellations from asterisms such as the Big Dipper, Little Dipper, Orion's Belt, and Summer Triangle.
-- Identify Orion, Ursa Major, Ursa Minor, Polaris, Cassiopeia, and useful seasonal patterns in the Northern Hemisphere.
+- Distinguish constellations from asterisms using the chapter comparison table (Big Dipper, Little Dipper, Orion's Belt, Summer Triangle).
+- Identify the Northern Hemisphere starter kit: Ursa Major, Big Dipper, Ursa Minor, Polaris, Cassiopeia, Orion, and the Summer Triangle.
+- Use the seasonal sky calendar to connect Earth's orbit to winter, spring, summer, and autumn patterns.
 - Explain how constellations help organize the sky, support navigation, mark seasons, and locate deep-sky objects.
-- Define zodiac, ecliptic, circumpolar constellation, star map, planisphere, celestial sphere, deep-sky object, and light pollution.
+- Define zodiac, ecliptic, circumpolar constellation, star map, planisphere, deep-sky object, and light pollution.
 - Understand that constellation stories vary across cultures and should be presented respectfully.
 - Distinguish astronomy (evidence-based science) from astrology (belief, not science).
 
@@ -70,11 +71,13 @@ Students should be able to:
 
 - Keep the anchor phrase visible: **constellations are sky landmarks seen from Earth's point of view**.
 - Reinforce that official constellations are **regions**, not just stick figures.
-- Use the Big Dipper early — it teaches asterism, Ursa Major, pointer stars, Polaris, and navigation in one chain.
+- Use the **constellation vs. asterism** table early so students stop calling the Big Dipper a constellation.
+- Teach the **Northern Hemisphere starter kit** as one linked chain: Big Dipper → pointer stars → Polaris → Cassiopeia backup → Orion (winter) → Summer Triangle (summer).
+- Use **Tonight's Five Steps** as a homework or camping-trip checklist rather than expecting full-sky memorization in one night.
 - Correct the Polaris myth calmly: **position, not brightness**.
 - Connect seasonal change to Earth's **orbit**, not just "winter sky."
 - Present cultural sky stories with respect; avoid treating one tradition as the only valid interpretation.
 - Separate **astronomy from astrology** clearly and without ridicule — many students have heard horoscope language before.
 - For boys 11–13, favor outdoor observation, friendly competition, navigation challenges, and apps used sparingly with red-light discipline over long lists of coordinates.
 - Real observing depends on weather, location, and **dark adaptation** — plan backup indoor planisphere or planetarium sessions.
-- The chapter image `087_Constellations_01.png` can support a stick-figure cartoon of star-hopping, pointer stars, or the Earth-view vs. true-distance idea when available.
+- The chapter image `087_Constellations_01.png` illustrates perspective (stars at different distances), asterism vs. constellation, pointer stars to Polaris, and star-hopping — use it when introducing the "not close in space" idea.

@@ -7,14 +7,17 @@
 Students should be able to:
 
 - Define a **compass** as a tool that uses Earth's **magnetic field** to find direction.
+- Connect compass behavior to prior learning on **magnetism** (poles, attraction, Earth's field).
 - Explain that a magnetized **needle** aligns with magnetic field lines to indicate north and south.
 - Name **cardinal** and **intercardinal** directions and understand clockwise ordering on a compass dial.
 - Distinguish **true north** (toward the geographic North Pole along Earth's axis) from **magnetic north** (the direction a compass needle points).
 - Define **magnetic declination** as the angle between true north and magnetic north at a location.
 - Read a **bearing** in degrees clockwise from north and recognize a **compass rose** on a map.
-- Describe basic steps for using a **baseplate compass** with a map.
+- Describe basic steps for using a **baseplate compass** with a map, including when to apply declination.
 - Identify common **interference** sources (metal, magnets, electrical devices) and responsible navigation habits.
 - Compare compass navigation with **GPS** and explain why compasses remain useful backups.
+- Distinguish **heading** (direction of travel) from **position** on a map.
+- Relate compass skills to outdoor safety, orienteering, and cross-chapter topics (**magnetism**, **magnetic north**, **electromagnet**).
 
 ### Answers to Study Questions
 
@@ -39,18 +42,19 @@ Students should be able to:
 19. GPS needs **power**, **signal**, and working **hardware**. Compasses need none of those. They work under tree cover, in remote areas, and when batteries die. They are lightweight backup tools.
 20. **Move away** from the truck (or other metal source) until the needle settles and points consistently. Do not trust readings taken beside large metal objects.
 21. **180°** is **south**.
-22. Answers may vary. A strong answer should note that the needle's north end aligns with Earth's magnetic field toward the polar region we call north, but the needle is actually responding to magnetic poles, not the geographic pole directly — hence **declination** and the "not the whole story" wording.
+22. Accept any one **Try This** activity from the chapter with a reasonable lesson. Examples: shadow-stick method teaches approximate east–west; interference walk teaches reliability near metal; declination lookup connects map and field; orienteering mini-course practices leveling and settling the needle.
+23. Answers may vary. A strong answer should note that the needle's north end aligns with Earth's magnetic field toward the polar region we call north, but the needle is actually responding to magnetic poles, not the geographic pole directly — hence **declination** and the "not the whole story" wording.
 
 ### Activity Suggestions
 
 1. **Make a Simple Compass**
-   Magnetize a sewing needle by stroking it with a magnet in one direction. Float it on a small cork or chip in a bowl of water. Observe which end points north. Test interference by bringing a bar magnet or steel paper clip near the bowl. Discuss why the needle must be free to rotate.
+   Magnetize a sewing needle by stroking it with a magnet in one direction. Float it on a small cork or chip in a bowl of water. Observe which end points north. Test interference by bringing a bar magnet or steel paper clip near the bowl. Discuss why the needle must be free to rotate. Connect to the **magnetism** chapter.
 
 2. **Cardinal and Bearing Wheel**
-   Have students build a paper dial marked with N, E, S, W and degree values (0°, 90°, 180°, 270°). Add intercardinal directions at 45° intervals. Quiz pairs: call out a bearing; students point or name the direction.
+   Have students build a paper dial marked with N, E, S, W and degree values (0°, 90°, 180°, 270°). Add intercardinal directions at 45° intervals. Quiz pairs: call out a bearing; students point or name the direction. Add timed rounds for engagement.
 
 3. **Declination Lookup**
-   Using a reputable geomagnetic service or USGS declination tool, find the current declination for your town. Students record whether magnetic north lies east or west of true north and practice adding or subtracting the correction on a sample map exercise.
+   Using a reputable geomagnetic service or USGS declination tool, find the current declination for your town. Students record whether magnetic north lies east or west of true north and practice adding or subtracting the correction on a sample map exercise. Preview the **magnetic north** chapter if students will read it next.
 
 4. **Interference Hunt**
    Walk a compass slowly past classroom doors, desk legs, rebar in walls, computers, and speakers. Students log where the needle deflects and how far they must step back for a stable reading. Debrief reliability and field habits.
@@ -64,15 +68,23 @@ Students should be able to:
 7. **GPS vs Compass Discussion and Field Test**
    Compare phone GPS direction with compass bearing on an open field. Discuss batteries, tree cover, and signal loss. Ask students to list three situations where a compass would be the better primary tool.
 
-8. **Historical Navigation Short Read**
+8. **Shadow Stick + Compass Check**
+   On a sunny day, run the shadow-stick east–west method from the chapter, then verify with a compass. Discuss Northern vs Southern Hemisphere shadow direction if relevant to your class.
+
+9. **Historical Navigation Short Read**
    Assign a brief reading on lodestone, early Chinese and European maritime compasses, or compass roses on old charts. Students identify one way compass technology changed exploration, trade, or warfare.
+
+10. **Navigation Scenario Cards**
+    Give pairs scenario cards: dead phone battery in woods, metal bridge railing, fog on a lake, hiking at night. Students choose compass habits, declination steps, or interference fixes and justify answers in two sentences.
 
 ### Teaching Notes
 
 - Use correct but age-appropriate magnet language. The north-seeking end of the needle is attracted toward Earth's magnetic south pole near the geographic north polar region; "the needle points north" is a useful classroom shortcut once students understand the fuller picture.
-- Emphasize **declination** as a map-literacy skill, not an advanced extra. Even a small error matters over long distances.
+- Emphasize **declination** as a map-literacy skill, not an advanced extra. Even a small error matters over long distances; use a local declination example so the number feels real.
 - Pair compass lessons with **map reading** and outdoor safety: telling adults your route, carrying backup navigation, and staying found.
 - Reinforce that a compass shows **direction**, not **position**. Students need both map and compass skills to navigate unfamiliar terrain.
 - When demonstrating, hold the compass **level** and away from metal desks, chairs, and projector carts.
-- Connect to student interests: hiking, camping, scouting, orienteering, survival skills, sailing, aviation, and search-and-rescue stories make the topic feel practical rather than abstract.
+- Connect to student interests: hiking, camping, scouting, orienteering, survival skills, sailing, aviation, search-and-rescue stories, and games with minimaps or heading readouts make the topic feel practical rather than abstract.
 - Digital compasses in phones are useful teaching tools but reinforce that they share the same magnetic interference issues as classic needles.
+- Cross-reference **051 Magnetism**, **056 Electromagnet**, and **095 Magnetic north** when students have read those chapters; avoid re-teaching full magnetism if the class already covered poles and fields.
+- The **Try This** section supports low-equipment homework and field labs; debrief builds observation habits and ties classroom magnetism to real navigation.

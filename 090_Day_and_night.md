@@ -1,28 +1,34 @@
 ﻿# Day and Night
 
-You finish a late game, walk off the field, and flop onto the bench. The parking-lot lights buzz on. Your shadow stretches long across the asphalt. A few hours earlier, that same shadow was almost gone — crushed under your feet at noon when the Sun was high.
+You are up at 5:47 a.m. for an away game. The bus windows are black. Then a thin orange line cracks open along the horizon. By the time you reach the field, the sky is blue, the grass is bright, and your water bottle throws a short shadow straight down.
 
-It feels as if the Sun traveled over your town today: up in the east, across the sky, down in the west.
+Twelve hours later you are on the same bus heading home. The Sun is a red coin sinking behind the trees. Streetlights click on. Through the window you can barely see the field you played on — just a dark rectangle and a few glowing windows in the distance.
 
-But the deeper truth is better.
+Nothing about the Sun "turned off."
 
-You are standing on a spinning planet.
+Your side of Earth turned away from it.
 
 **Day and night happen because Earth rotates, turning different parts of the planet toward and away from the Sun.**
 
-That daily switch from light to dark is one of the simplest things to notice and one of the most important things to understand in astronomy.
+That daily switch from light to dark is one of the simplest things to notice and one of the most important things to understand in astronomy. You already know *that* Earth spins from the chapter on **rotation of the Earth**. This chapter is about what that spin *feels* like: blue skies, long shadows, stars at night, time zones on your phone, and why summer evenings stay light longer than winter ones.
 
 ![Day and Night](090_Day_and_night_01.png)
 
 ## The Sun Lights Half of Earth
 
-The Sun shines in all directions. Earth is a sphere. At any moment, the half facing the Sun is lit — that half has **day**. The half turned away is in darkness — that half has **night**.
+The **Sun** is a star that shines in all directions. Earth is a sphere. At any moment, the half facing the Sun is lit — that half has **day**. The half turned away is in darkness — that half has **night**.
 
 The line between day and night is called the **terminator**. The name sounds like something from a science-fiction movie, but in astronomy it simply means the boundary between light and dark. On Earth, the terminator is where sunrise or sunset is happening right now.
 
 As Earth rotates, this boundary sweeps across the planet. Your town moves into sunlight in the morning and out of it in the evening.
 
-## Earth Rotates
+| Side of Earth | What you get | What the Sun is doing |
+|---------------|--------------|------------------------|
+| Facing the Sun | Daylight | Sunlight hits the ground directly |
+| Turned away from the Sun | Night | You are in Earth's shadow |
+| On the terminator line | Sunrise or sunset | Sun is at the horizon |
+
+## Earth Rotates — You Ride the Planet
 
 **Rotation** means spinning around an axis. Earth's **axis** is an imaginary line through the North Pole and South Pole. Earth rotates around this axis once about every 24 hours. That spin causes day and night.
 
@@ -32,7 +38,11 @@ The Sun is not really circling Earth each day. **Earth is turning.** The Sun's d
 
 This is like watching scenery seem to slide backward when you ride in a train or bus. The trees are not rushing backward. Your point of view is moving. Same idea with the sky.
 
+**Memory trick:** The planet spins **eastward**, so the sky seems to slide **westward** — the opposite direction.
+
 ## Your Daily Ride Toward and Away from the Sun
+
+Think of your town as a seat on a slow carnival ride. Earth spins, and your seat moves into sunlight, through the bright part of the day, and back into shadow.
 
 **Sunrise** happens when your part of Earth rotates into sunlight. The Sun appears at the eastern horizon. The sky often brightens before the Sun itself shows up — that early glow is **twilight**, caused when Earth's atmosphere scatters sunlight even while the Sun is still below the horizon.
 
@@ -44,6 +54,13 @@ After solar noon, your part of Earth begins turning away from the Sun. The Sun a
 
 **Midnight** is roughly when your side of Earth faces most directly away from the Sun — the opposite of solar noon. Clock midnight may not match the exact astronomical middle of the night, but it still reminds you of the main idea: day and night are not the Sun turning on and off. They are Earth turning.
 
+| Event | What is happening | What you often notice |
+|-------|-------------------|------------------------|
+| Sunrise | Your town rotates into sunlight | Orange sky, long shadows, birds waking up |
+| Solar noon | Sun is highest for that day | Shortest shadows, strongest direct light |
+| Sunset | Your town rotates out of direct sunlight | Red or pink sky, lights turning on |
+| Midnight | Your side faces most away from the Sun | Dark sky, stars if skies are clear |
+
 ## Night Is Earth's Shadow
 
 Night is not a substance and not black air pouring over the land. Night is what you get when your side of Earth is turned away from the Sun. Earth itself blocks the sunlight. You are standing in Earth's shadow.
@@ -51,6 +68,8 @@ Night is not a substance and not black air pouring over the land. Night is what 
 That is why stars become visible at night. They were there during the day too, but sunlight scattered by the atmosphere made the sky too bright to see them. At night, the sky above you is no longer flooded with scattered sunlight, and faint stars can appear.
 
 Far from city lights, the night sky can be much darker and richer — which is why people travel to dark-sky sites to see the Milky Way. Darkness is not empty. It is a chance for faint light to be noticed.
+
+If you have read the chapter on **stars**, you know each point of light is a distant sun. Day hides them. Night reveals them.
 
 ## Why the Daytime Sky Looks Blue
 
@@ -70,9 +89,11 @@ A **shadow** forms when an object blocks light. Shadows are excellent clues that
 
 On a sunny day at school or practice:
 
-- **Morning:** the Sun is low in the east. Shadows are long and point generally westward.
-- **Near noon:** the Sun is higher. Shadows are usually shorter.
-- **Afternoon:** the Sun is low in the west. Shadows grow longer and point generally eastward.
+| Time of day | Sun position | Shadow behavior |
+|-------------|--------------|-----------------|
+| Morning | Low in the east | Long shadows pointing generally west |
+| Near noon | High in the sky | Usually shorter shadows |
+| Afternoon | Low in the west | Long shadows pointing generally east |
 
 Stick a pencil or tent pole upright and mark its shadow every hour. The ground seems still, but the moving shadow tells you the planet is turning. Ancient people used the same idea with sundials. You do not need to feel the spin to see its effects.
 
@@ -80,9 +101,11 @@ Stick a pencil or tent pole upright and mark its shadow every hour. The ground s
 
 Many people think the Moon belongs only to night. It does not.
 
-The Moon shines because it reflects sunlight. Depending on where the Moon is in its orbit, it may be above the horizon during daylight. A crescent, half moon, or gibbous moon can sit in a blue daytime sky.
+As you learned in the chapter on the **Moon**, it shines because it reflects sunlight. Depending on where the Moon is in its orbit, it may be above the horizon during daylight. A crescent, half moon, or gibbous moon can sit in a blue daytime sky.
 
 The **full moon** is usually easiest to see at night because it is opposite the Sun in the sky. The **new moon** is usually hard to spot because it is near the Sun's direction. Day and night come from Earth's rotation, but what you see in the sky also depends on the Moon's orbit.
+
+**Try this:** For one week, note whether you can spot the Moon during daylight. Log the phase. You may be surprised how often it is up there while the Sun is out.
 
 ## Planets, Stars, and Eye Safety
 
@@ -96,15 +119,24 @@ When it is noon where you live, it is not noon everywhere. Earth is round and ro
 
 As Earth rotates, morning sweeps across the planet, then noon, then evening and night. If you text a friend far away, it may be breakfast time for you and bedtime for them. Time zones are a human way of organizing Earth's rotation — not a change in how the Sun works.
 
-## Why Summer Days Are Longer (But Day and Night Still Come Daily)
+The chapter on **rotation of the Earth** goes deeper into longitude, the International Date Line, and why global clocks look the way they do.
 
-Not every day has the same amount of daylight. In many places, summer days are longer and winter days are shorter. That happens because Earth's axis is **tilted** and Earth **revolves** around the Sun.
+## Rotation vs. Revolution: Two Different Cycles
+
+Not every day has the same amount of daylight. In many places, summer days are longer and winter days are shorter. That happens because Earth's axis is **tilted** and Earth **revolves** around the Sun — a topic covered in the chapter on **revolution of the Earth**.
+
+Keep the causes separate:
+
+| Motion | How long | What it mainly gives you |
+|--------|----------|---------------------------|
+| **Rotation** (spin) | ~24 hours | Day and night every day |
+| **Revolution** (orbit) + **tilt** | ~365 days | Seasons; longer or shorter daylight |
 
 **Rotation** causes the daily cycle of day and night — about every 24 hours, no matter the season.
 
 **Tilt and revolution** change how long daylight lasts during different seasons. In summer, your hemisphere is tilted toward the Sun and the Sun takes a longer path across the sky. In winter, your hemisphere is tilted away and the path is shorter.
 
-Keep the causes separate: rotation gives you today; tilt and revolution stretch or shrink how much of today is lit.
+**Memory trick:** **Rotation** = **R**ight now (today's light switch). **Revolution** = the **year**-long trip around the Sun.
 
 ## Different Places, Different Daylight
 
@@ -118,11 +150,13 @@ Inside the Arctic and Antarctic Circles, places can have **polar day** — the S
 
 Scientists name three levels — civil, nautical, and astronomical — from brightest to darkest. You do not need every name memorized yet. The main idea is that atmosphere makes day and night change gradually instead of flipping like a light switch.
 
+That is why coaches can still run drills in the fading glow after sunset, and why you can read outside for a few minutes after the Sun disappears — the sky is not instantly black.
+
 ## Who Is Awake When?
 
 Day and night shape living things.
 
-Animals active during the day are **diurnal** — hawks, squirrels, many songbirds. Animals active at night are **nocturnal** — owls, bats, many moths. Some animals are busiest at dawn and dusk.
+Animals active during the day are **diurnal** — hawks, squirrels, many songbirds. Animals active at night are **nocturnal** — owls, bats, many moths. Some animals are busiest at dawn and dusk (**crepuscular**).
 
 Plants respond to light and dark too. Many flowers open or close on a daily schedule. Human bodies have **circadian rhythms** — daily cycles tied to light and darkness. Your sleep schedule is connected to when your side of Earth faces the Sun.
 
@@ -140,10 +174,12 @@ Studying day and night helps explain why dark skies matter for astronomy and wil
 
 Other planets have day and night too, if they rotate and are lit by a star.
 
-- **Mars:** a day only a little longer than Earth's.
-- **Jupiter:** rotates very fast — a day of about 10 hours.
-- **Venus:** rotates very slowly, and in an unusual direction.
-- **The Moon:** has day and night, but one full cycle there lasts about a month.
+| World | Day length (roughly) | Note |
+|-------|----------------------|------|
+| Mars | A little over 24 hours | Similar rhythm to Earth |
+| Jupiter | About 10 hours | Spins very fast |
+| Venus | Very long; unusual direction | One "day" there is longer than its year |
+| The Moon | About 29 Earth days | One full day-night cycle per lunar month |
 
 Earth's 24-hour rhythm is familiar to us. It is not the only rhythm in space.
 
@@ -159,15 +195,16 @@ A fourth mistake is thinking stars disappear during the day. They are still ther
 
 A fifth mistake is thinking every place on Earth has the same daylight hours. Day length changes with latitude and season.
 
+A sixth mistake is mixing up **rotation** and **revolution**. Rotation gives you today. Revolution (with tilt) stretches or shrinks how much of today is lit.
+
 ## How to Think Like a Sky Scientist
 
 When you study day and night, ask:
 
 - Which side of Earth is facing the Sun right now?
 - Where is the terminator?
-- Which way is Earth rotating?
-- Is this sunrise, solar noon, sunset, or midnight?
 - Is the Sun's motion real or apparent?
+- Is this sunrise, solar noon, sunset, or midnight?
 - How are shadows changing?
 - How does the atmosphere affect the sky?
 - How does the season affect day length?
@@ -204,7 +241,7 @@ If you remember only one sentence, remember this:
 17. How are day and night different near the equator compared with near the poles?
 18. What are polar day and polar night?
 19. What is twilight?
-20. What does nocturnal mean? What does diurnal mean?
+20. What does nocturnal mean? What does diurnal mean? What does crepuscular mean?
 21. What is light pollution?
 22. Do other planets have day and night? Give one example.
 23. Name two common misconceptions about day and night.

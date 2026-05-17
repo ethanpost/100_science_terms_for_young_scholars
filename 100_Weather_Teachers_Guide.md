@@ -7,6 +7,7 @@
 Students should be able to:
 
 - Define **weather** as short-term atmospheric conditions at a place and time.
+- Connect weather to prior topics: **Sun** (uneven heating), **rotation**, **revolution**, **seasons**, and water as **liquid** and **gas**.
 - Identify key elements: **temperature**, **humidity**, **wind**, **clouds**, **precipitation**, **pressure**, and **visibility**.
 - Explain **air pressure** as the weight of air above a location and connect **high** and **low** pressure to general sky trends.
 - Describe **wind** as air moving from higher toward lower pressure, with awareness of local and large-scale drivers (e.g., sea breeze, jet stream).
@@ -15,7 +16,7 @@ Students should be able to:
 - Explain that uneven solar heating and interactions of air, water, and land drive weather changes.
 - Describe **air masses** and basic **cold**, **warm**, **stationary**, and **occluded** fronts as boundaries between different air properties.
 - Describe forecasting as **observations + computer models**, with **uncertainty** increasing farther ahead.
-- Distinguish **weather** from **climate** cleanly.
+- Distinguish **weather** from **climate** cleanly and preview the climate chapter.
 - Connect **severe weather** awareness to evidence-based **safety** practices (lightning, tornado, flood, heat, cold).
 - Refute common misconceptions (cloud weight, forecast “guessing,” climate vs single cold day, tornado shelter myths).
 
@@ -46,8 +47,8 @@ Students should be able to:
 
 ### Activity Suggestions
 
-1. **Daily Weather Map Read**
-   Students interpret symbols on a national surface map for highs, lows, fronts, and precipitation (level-appropriate). Each student explains one feature in plain language.
+1. **Game-Day Forecast Challenge**
+   Students pull a real one-day forecast for a local park or field. Each writes a two-sentence “coach’s call” (go / delay / cancel) with one ingredient named (wind, lightning risk, heat, etc.). Compare calls before and after the actual day.
 
 2. **Pressure Change Watch**
    Use a classroom barometer or digital sensor for two weeks. Students log pressure trends and same-day sky conditions, then discuss correlation vs causation.
@@ -62,7 +63,7 @@ Students should be able to:
    Two student groups represent warm moist air and cold dense air. Demonstrate cold-front “wedge” lifting and warm-front “slide” overhead; debrief typical weather each brings.
 
 6. **Radar Loop Interpretation**
-   Project a short radar loop before a front or storm. Students describe motion (approaching, passing) and practice “when to cancel outdoor plans” decisions using school policy.
+   Project a short radar loop before a front or storm. Students describe motion (approaching, passing) and practice “when to cancel outdoor plans” using school policy.
 
 7. **Forecast vs Outcome Log**
    Record a 5-day forecast and verify daily with observations. Discuss model “busts” as learning moments, not jokes at forecasters’ expense.
@@ -70,25 +71,23 @@ Students should be able to:
 8. **Severe Weather Safety Drill**
    School-appropriate drill for thunderstorm or tornado procedures. Include myth-busting: cars, overpasses, and opening windows during tornadoes.
 
-9. **Hurricane Track Case Study**
-   Plot a historical hurricane track. Students separate threats: **wind**, **storm surge**, **inland flooding**, and list one safety action per threat.
+9. **Weather vs Climate Card Sort**
+   Give cards (“today’s high 92°F,” “desert averages 10 inches rain per year,” “snowed in May once,” “Arctic warming trend”). Sort into **weather** vs **climate** piles and defend one card each — bridge to chapter 101.
 
-10. **Urban Heat Island Walk**
-    Compare pavement temperature vs shaded grass at the same time with infrared thermometers or simple thermometers. Link to uneven heating and local weather effects.
-
-11. **Weather vs Climate Card Sort**
-    Give cards (“today’s high 92°F,” “desert averages 10 inches rain per year,” “snowed in May once,” “Arctic warming trend”). Sort into **weather** vs **climate** piles and defend one card each.
-
-12. **Build a Mini Weather Report**
+10. **Build a Mini Weather Report**
     Teams produce a two-minute “broadcast” using real data: temperature, wind, sky, tomorrow’s outlook, and one safety tip for expected conditions.
 
 ### Teaching Notes
 
-- Emphasize **rising air cools → condensation → clouds** before front symbols; it unifies many observations.
+- Open with the **pickup-game-cancelled** hook or a similar real story so weather feels immediate, not abstract.
+- Keep the anchor phrase visible: **rising air cools → condensation → clouds**.
+- Use the **Weather at a Glance** table as a one-period review sheet before the climate chapter.
+- Reinforce cross-links to **Sun**, **seasons**, **rotation**, **day and night**, **liquid**, and **gas** so students see one connected Earth system.
 - Use **high vs low pressure** and **wind direction** repeatedly; students confuse pressure symbols with temperature colors on apps.
-- Keep **climate change** discussion for the climate chapter unless students raise it; use the weather/climate boundary to avoid politicized anecdotes.
+- Briefly distinguish **tides** (gravity on oceans) from **storms** (air masses and fronts) if coastal students conflate them.
+- Keep **climate change** discussion for chapter 101 unless students raise it; use the weather/climate boundary to avoid politicized anecdotes.
 - Point students to **national weather services** and school-approved alert systems rather than random social media posts.
 - Frame **forecast uncertainty** as scientific honesty, not incompetence — compare to “confidence intervals” in other subjects if useful.
-- For ages 11–13, anchor examples in **sports cancellations**, **outdoor safety**, **travel**, and **daily planning** rather than abstract globals-only framing.
+- For ages 11–13, anchor examples in **sports cancellations**, **outdoor safety**, **travel**, **camping**, and **daily planning** rather than abstract globals-only framing.
 - When demonstrating severe weather, prioritize **calm, factual** tone; some students have storm anxiety or lived experience — allow opt-out of graphic videos.
 - Optional math: reading **millibars** or **inches of mercury** on station plots; keep calculations light unless the class already studies unit conversion.

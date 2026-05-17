@@ -12,7 +12,23 @@ Weather is what you feel on your skin during cross-country practice. It is what 
 
 Weather can flip quickly. A sunny morning can become a stormy afternoon. A dry week can end in a downpour. That is normal. The atmosphere is always in motion.
 
+You already know the **Sun** heats Earth, that **rotation** gives you day and night, and that **revolution** carries you around the Sun once a year. You know **seasons** change how strongly sunlight hits your hemisphere. You know water exists as **liquid** and **gas** in the world around you. This chapter ties those ideas together: **weather is what the moving air and water above you are doing right now.**
+
 ![Weather](100_Weather_01.png)
+
+## Weather at a Glance
+
+| Idea | What to remember |
+|------|------------------|
+| **Weather** | Short-term atmosphere at a place and time — hours to days |
+| **Climate** | Long-term average pattern — years and decades (next chapter) |
+| **Main ingredients** | Temperature, humidity, pressure, wind, clouds, precipitation |
+| **Pressure rule** | Wind flows from **high** toward **low** pressure |
+| **Cloud recipe** | **Rising** air cools → vapor **condenses** → clouds form |
+| **Clear-sky recipe** | **Sinking** air warms → clouds can **evaporate** |
+| **Big driver** | The Sun heats Earth **unevenly** → air moves |
+| **Fronts** | Boundaries where different **air masses** meet |
+| **Forecasting** | Observations + computer **models** (uncertainty grows with time) |
 
 ## Weather Is Not Climate
 
@@ -22,7 +38,7 @@ People mix these up all the time. Keep them separate from the start.
 
 **Climate** is the long-term average pattern of weather in a region — years and decades.
 
-A single cold day in winter does not disprove long-term warming. A single heat wave does not prove it either. You will study **climate** as its own chapter.
+A single cold day in winter does not disprove long-term warming. A single heat wave does not prove it either. You will study **climate** as its own chapter right after this one.
 
 For now, remember this line:
 
@@ -48,25 +64,30 @@ None of these works alone. **Temperature** and **moisture** together decide whet
 
 **Air pressure** is the force from the weight of the air column above you.
 
-You cannot see air, but it has mass. A column of air from the ground to the top of the atmosphere pushes down on every square inch of surface.
+You cannot see air, but it has mass. The atmosphere is mostly **gas** — mostly nitrogen and oxygen — and that gas has weight. A column of air from the ground to the top of the atmosphere pushes down on every square inch of surface.
 
-When forecasters say a **high-pressure** system is moving in, they mean air is sinking slowly over a wide area. Sinking air tends to warm and dry out. Skies often turn **clear and calm** — great for practice, not always great if you needed rain for a garden.
+| System | What the air is doing | Sky often looks… |
+|--------|----------------------|------------------|
+| **High pressure** | Air sinks slowly, warms, dries | Clear and calm — great for practice |
+| **Low pressure** | Air rises, cools, clouds build | Windy, cloudy, stormy |
+
+When forecasters say a **high-pressure** system is moving in, they mean air is sinking slowly over a wide area. Sinking air tends to warm and dry out. Skies often turn **clear and calm** — great for a tournament, not always great if you needed rain for a garden.
 
 A **low-pressure** system means air is rising over a region. Rising air can cool and form clouds and storms. Lows often bring **wind, clouds, and precipitation**.
 
 Wind blows because air moves from areas of **higher** pressure toward areas of **lower** pressure, like water finding a drain — except the "drain" is a low on the weather map.
 
-Earth's rotation **curves** moving air in large systems. That twist is part of why storm tracks and wind directions can seem to turn on a map.
+Earth's **rotation** curves moving air in large systems. That twist is part of why storm tracks and wind directions can seem to turn on a map.
 
 ## Wind: Air on the Move
 
 **Wind** is air moving from higher pressure toward lower pressure, shaped by Earth's spin, mountains, lakes, cities, and the temperature of land and water.
 
-You feel wind at the skate park, on a boat, or when a door slams because pressure changed inside and outside a building.
+You feel wind at the skate park, on a boat, at the top of a ski hill, or when a door slams because pressure changed inside and outside a building.
 
 Local winds have names you might hear:
 
-- **Sea breeze** — afternoon wind from cool ocean toward warm land.
+- **Sea breeze** — afternoon wind from cool ocean toward warm land (great for sailing, tough for beach volleyball when sand flies).
 - **Land breeze** — night wind from cooler land toward warmer water.
 - **Mountain breeze** and **valley breeze** — daily patterns tied to slopes heating and cooling.
 
@@ -74,11 +95,11 @@ On a bigger scale, the **jet stream** is a fast river of air high in the sky. It
 
 ## Water in the Air: Humidity, Clouds, Rain
 
-Water is everywhere in weather, usually as invisible **water vapor**.
+Water is everywhere in weather, usually as invisible **water vapor** — water in **gas** form floating in the air.
 
-**Humidity** describes how much moisture the air holds. Warm air can often hold more vapor than cold air.
+**Humidity** describes how much moisture the air holds. Warm air can often hold more vapor than cold air. That is why a July afternoon can feel like a wet towel and a January morning can feel crisp even when the thermometer reads similar numbers.
 
-When air **rises**, it expands and **cools**. Cool air cannot hold as much vapor. The vapor **condenses** into tiny liquid droplets or ice crystals — a **cloud**.
+When air **rises**, it expands and **cools**. Cool air cannot hold as much vapor. The vapor **condenses** into tiny **liquid** droplets or ice crystals — a **cloud**.
 
 That is one of the most useful ideas in meteorology:
 
@@ -107,13 +128,13 @@ Clouds are not "light" because they float. A thick cloud can weigh **millions of
 
 ## Why Weather Changes
 
-The Sun heats Earth **unevenly**.
+The **Sun** heats Earth **unevenly**.
 
 Reasons include:
 
-- **Day and night** — half the planet is lit, half is dark.
+- **Day and night** — half the planet is lit, half is dark (chapter on **day and night**).
 - **Latitude** — the equator receives more direct sunlight than the poles.
-- **Seasons** — tilt changes how strongly sunlight hits each hemisphere.
+- **Seasons** — Earth's tilt changes how strongly sunlight hits each hemisphere (chapter on **seasons**).
 - **Land vs ocean** — land heats and cools faster than water.
 - **Elevation** — mountain tops are colder than valleys.
 - **Surface type** — dark pavement, snow, and forests reflect and absorb heat differently.
@@ -121,6 +142,8 @@ Reasons include:
 Uneven heating sets air in motion. Warm air rises; cool air sinks. Air flows sideways to replace what moved. Mountains **block** and **lift** air. Cities can be hotter than nearby fields (**urban heat island**).
 
 All of this pushes air up, down, and sideways — and **weather is what you get when that motion happens fast enough to notice**.
+
+Near the ocean, **tides** are mostly about the Moon's gravity pulling on water — not the same thing as a thunderstorm. But coastlines still get fog, sea breezes, and hurricanes shaped by warm ocean water and moving air masses.
 
 ## Air Masses and Fronts
 

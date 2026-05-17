@@ -11,7 +11,8 @@ Students should be able to:
 - Distinguish fuel from oxygen and ignition from continued burning.
 - Compare complete combustion and incomplete combustion using products, flame clues, and safety risks.
 - Identify common combustion products, including carbon dioxide, water vapor, smoke, soot, and carbon monoxide.
-- Connect combustion to oxidation, engines, rockets, cooking, fossil fuels, wildfires, smoke, fire extinguishers, and conservation of matter.
+- Connect combustion to prior topics (oxygen, carbon, carbon dioxide, chemical change) and forward to oxidation.
+- Describe combustion in engines, rockets, cooking, fossil fuels, wildfires, smoke, fire extinguishers, and conservation of matter.
 - Compare combustion with respiration.
 - Apply fire safety rules for flames, fuels, smoke, carbon monoxide, detectors, extinguishers, escape, and fire classes.
 
@@ -47,7 +48,7 @@ Students should be able to:
 ### Activity Suggestions
 
 1. **Fire Triangle Challenge**
-   Present short scenarios (smothering a campfire, soaking wood, running out of propane). Students identify which side of the fire triangle was removed and explain why the fire stopped.
+   Present short scenarios (smothering a campfire, soaking wood, running out of propane, blowing out a candle). Students identify which side of the fire triangle was removed and explain why the fire stopped.
 
 2. **Complete vs. Incomplete Combustion Lab Photos**
    Compare images of blue gas flames, yellow smoky flames, soot, and clean-burning candles. Students use the comparison table to classify each image and predict likely products.
@@ -55,30 +56,39 @@ Students should be able to:
 3. **Candle Under Jar Demonstration**
    Teacher lights a candle and covers it with a jar. Students observe the flame dying as oxygen runs low. Discuss the fire triangle and strict safety rules. Never give open flames to students.
 
-4. **Engine Energy Flow Diagram**
-   Students sketch a gasoline engine: fuel and air in, combustion in the cylinder, hot gases pushing the piston, exhaust out. Label where chemical energy becomes heat and motion.
+4. **Cold Spoon Over Candle (Teacher Demo)**
+   Hold a cold metal spoon briefly above a candle flame. Students observe condensation and discuss water vapor as a combustion product. Reinforce: teacher-only demo, clear ventilation.
 
-5. **Rocket Fuel and Oxidizer Pairing**
+5. **Engine Energy Flow Diagram**
+   Students sketch a gasoline engine or dirt bike: fuel and air in, combustion in the cylinder, hot gases pushing the piston, exhaust out. Label where chemical energy becomes heat and motion.
+
+6. **Rocket Fuel and Oxidizer Pairing**
    Students research or receive cards for common rocket propellant pairs (e.g., hydrogen + liquid oxygen). They explain why rockets carry oxidizer and what products form.
 
-6. **Surface Area and Dust Discussion**
-   Compare a whole sheet of paper to shredded paper using discussion or video only — no student burning. Connect to grain-mill and workshop dust-safety cases.
+7. **Surface Area and Dust Discussion**
+   Compare a whole sheet of paper to shredded paper using discussion or video only — no student burning. Connect to grain-mill, bakery, and workshop dust-safety cases.
 
-7. **Smoke and CO Home Safety Audit**
+8. **Smoke and CO Home Safety Audit**
    Students evaluate scenarios: grill in a garage, dead CO detector battery, generator indoors, fireplace with blocked chimney. They recommend fixes and rank dangers.
 
-8. **Fire Class Match Game**
+9. **Fire Class Match Game**
    Match fire classes (A, B, C, K) to sample fuels and to appropriate response strategies. Discuss why water is wrong for grease and electrical fires.
+
+10. **Combustion vs. Respiration Venn**
+    Two-circle Venn: both involve oxygen and energy release; combustion is fast with heat/light; respiration is controlled in cells with usable energy steps. Students add one example each (campfire vs. sprinting).
 
 ### Teaching Notes
 
-- Open with the match–grill–engine–rocket hook so combustion feels immediate, not abstract.
-- Keep the fire triangle visible throughout: fuel, oxygen, heat.
-- Emphasize that oxygen supports burning but is **not** fuel — this is the most common student error.
-- Treat carbon monoxide as a major safety point; connect it to invisible danger, not only to visible smoke.
-- Reinforce conservation of matter: burning rearranges atoms; wax does not vanish into nothing.
+- Open with the match–grill–dirt bike–candle–rocket hook so combustion feels immediate, not abstract — mirrors Simple Machines, Nitrogen, and Oxidation chapters.
+- Keep the **fire triangle** visible throughout: fuel, oxygen, heat. The chapter image reinforces this — use it when introducing the triangle and again at review.
+- Emphasize that oxygen supports burning but is **not** fuel — this is the most common student error; tie back to the **oxygen** chapter.
+- Treat **carbon monoxide** as a major safety point; connect it to invisible danger, not only to visible smoke.
+- Reinforce **conservation of matter**: burning rearranges atoms; wax does not vanish into nothing — preview **conservation of matter** if that chapter follows soon.
 - Use teacher demonstrations or videos for flames; do not put open flames in student hands.
-- Distinguish complete from incomplete combustion using the table, flame color, and safety products.
-- Connect combustion to prior topics: oxidation, carbon, oxygen, fossil fuels, and climate where appropriate.
+- Distinguish complete from incomplete combustion using the table, flame color, and safety products; link CO₂ to the **carbon dioxide** chapter.
+- Connect combustion to prior topics: **oxygen**, **carbon**, **carbon dioxide**, **compounds**, **mixtures**, and **matter** states where fuels are solid, liquid, or gas.
+- Link forward to **oxidation** (fast vs. slow) and **conservation of matter**.
 - Fire safety should be practical and serious: escape first, extinguish only if trained and safe.
-- For 11–13 boys, lean on engines, rockets, campfires, and real-world stakes — but keep the tone respectful of fire's danger, not thrilling carelessness.
+- For 11–13 boys, lean on engines, campfires, grills, rockets, and real-world stakes — but keep the tone respectful of fire's danger, not thrilling carelessness.
+- Never demonstrate dust ignition; discuss industrial cases from a safe distance only.
+- The cold-spoon demo is optional but memorable for water vapor as a product — brief exposure only, adult-only.

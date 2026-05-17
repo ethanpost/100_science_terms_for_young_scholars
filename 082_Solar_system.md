@@ -12,6 +12,8 @@ You are not standing on a still platform. You are riding a planet inside an enor
 
 It is our neighborhood in space — the place where Earth lives.
 
+![Solar system](082_Solar_system_01.png)
+
 ## The Sun Runs the Neighborhood
 
 At the center is the **Sun**, a **star**: a huge ball of hot glowing gas that makes its own light and heat.

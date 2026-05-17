@@ -17,6 +17,7 @@ Students should be able to:
 - Explain why tides matter for practical activities (navigation, fishing, surfing, tide pools, engineering).
 - Name the **intertidal zone** and describe why organisms there must tolerate both wet and dry conditions.
 - Refute common misconceptions (e.g., tides caused only by spin, only by the Moon, or identical timing everywhere).
+- Connect tides to prior chapters on the **Moon**, **rotation of the Earth**, and **day and night** when those have been taught.
 
 ### Answers to Study Questions
 
@@ -54,38 +55,34 @@ Students should be able to:
    Use official tide tables or NOAA data for a nearby port. Students find two highs and two lows in one day (semidiurnal) or compare stations with mixed/diurnal patterns. Graph high-tide heights across one lunar month and spot spring/neap weeks.
 
 3. **Globe + Moon Orbit Walk**
-   One student is the Moon orbiting a globe while another slowly rotates the globe. Mark a "beach" sticker and discuss passing through high water twice per day in a simple model, then name one reason real coasts differ.
+   One student is the Moon orbiting a globe while another slowly rotates the globe. Mark a "beach" sticker and discuss passing through high water twice per day in a simple model, then name one reason real coasts differ. Connect to **rotation of the Earth** (088) if students have read it.
 
 4. **Gravity Stretch Demo (Qualitative)**
    Two students gently pull opposite ends of stretchy fabric with a bead "ocean." A third student represents the Moon pulling one side slightly harder. Emphasize this is a **model**, not exact scale — goal is differential pull, not math.
 
-5. **Bay of Fundy / Funnel Research Mini-Report**
-   Students explain how shape amplifies range using Bay of Fundy, Mont-Saint-Michel (France), or another famous site. Include one image or sketch of a narrowing bay.
+5. **Tide vs Wind Wave Observation**
+   On a safe supervised shoreline or via video, students note wind ripples (seconds) vs changing water line over hours (tides). Journal one sentence distinguishing the two. Use the chapter's three-layer stack: tide, wind wave, storm surge.
 
-6. **Tide vs Wind Wave Observation**
-   On a safe supervised shoreline or via video, students note wind ripples (seconds) vs changing water line over hours (tides). Journal one sentence distinguishing the two.
-
-7. **Plan an Adventure With Tides**
+6. **Plan an Adventure With Tides**
    Teams plan a **tide-pool trip**, **kayak launch**, or **surf session** using real tide tables: list best time, what to bring, and one safety rule (e.g., never turn your back on incoming tide).
 
-8. **Storm Surge Stack Sketch**
+7. **Storm Surge Stack Sketch**
    Draw three water levels: normal, **high tide**, and **high tide + storm surge**. Discuss why emergency warnings combine lunar phase with weather.
 
-9. **Intertidal Zone Species Cards**
+8. **Intertidal Zone Species Cards**
    Students match organisms (crab, barnacle, anemone, shorebird) to adaptations for wet vs dry hours. Connect to **low-tide** exploration timing.
-
-10. **Navigation Literacy — Chart Datum**
-    Introduce why sailors care about depth at **low tide** and what **chart datum** means on a simple harbor chart excerpt (age-appropriate).
 
 ### Teaching Notes
 
 - Open with a **concrete hook** (skimboard morning vs afternoon sand width, tide pools, fishing) before abstract gravity language.
 - Reinforce that **spring tide** is not the season — say it early and repeat once.
-- Use the phrase **Moon close, Sun far** when explaining why the Moon dominates daily ocean tides.
+- Post the memory tricks: **Moon close, Sun far** and **Spring at full/new, neap at quarter**.
+- **Sequence:** Best after **Moon** (084), **rotation of the Earth** (088), and **day and night** (090). The chapter briefly references all three; do not re-teach moon phases or Earth's spin from scratch.
 - Keep the two-bulge model **simple**; add lag, amphidromic points, and resonance only if students are ready.
-- Separate three ideas on the board: **tide**, **wind wave**, **storm surge** — students often merge them.
+- Separate three ideas on the board: **tide**, **wind wave**, **storm surge** — students often merge them. Use the chapter's comparison table and "layers" list.
 - Connect to prior lessons on **gravity**, **Moon phases**, and **Earth's rotation** if those chapters are already taught.
 - When using tide tables, stress **station-specific** predictions — avoid assuming one time fits an entire region.
-- **Safety**: incoming tides can trap explorers; rip currents and storms are separate hazards. Pair any field idea with adult supervision and local rules.
+- **Safety:** incoming tides can trap explorers; rip currents and storms are separate hazards. Pair any field idea with adult supervision and local rules.
 - For 11–13 boys, lean into **action contexts** (sports on sand, boats, exploration) without stereotyping — offer varied examples (engineering, ecology, emergency planning).
 - Optional extension: have students compare tide-table highs during a known **new moon** week vs **quarter moon** week to see spring/neap in data.
+- The chapter image `093_Tides_01.png` shows Earth with two water bulges, the Moon's pull, and high vs low tide on the same beach — use it when introducing gravity and the two-bulge model before the globe walk.

@@ -8,7 +8,7 @@ Right now, Earth is spinning. You are riding a planet that turns once about ever
 
 **Rotation of the Earth is Earth's spin around its axis, which takes about 24 hours and causes day and night.**
 
-That daily spin is one of the most important motions you will ever study. It gives us sunrise and sunset, clocks, time zones, star trails, long afternoon shadows on a basketball court, and the rhythm of every school day.
+That daily spin is one of the most important motions you will ever study. It gives us sunrise and sunset, clocks, time zones, star trails, long afternoon shadows on a basketball court, and the rhythm of every school day. Later in this book, the chapter on **revolution of the Earth** covers Earth's yearly trip around the Sun — a different motion with a different schedule.
 
 ![Rotation of the Earth](088_Rotation_of_the_Earth_01.png)
 
@@ -22,9 +22,11 @@ Earth rotates once in about **24 hours**. That is why one day is about 24 hours 
 
 As Earth turns, different parts face the Sun. The side facing the Sun has **day**. The side turned away has **night**. Nothing mystical happens at sunset — your location is simply rotating out of direct sunlight.
 
+**Memory trick:** **ROT**ation sounds like **ROT**ating — spinning in place, like a basketball on your fingertip or a player doing a slow spin move before a pass.
+
 ## Rotation and Revolution
 
-These two words sound similar. They are not the same.
+These two words sound similar. They are not the same — and mixing them up is one of the most common mistakes in Earth science.
 
 **Rotation** is spinning around an axis.
 
@@ -39,9 +41,11 @@ Earth **revolves** around the Sun once about every 365 days.
 | Rotation | Earth spins on its axis | ~24 hours | Day and night |
 | Revolution | Earth orbits the Sun | ~365 days | The year; seasons (with tilt) |
 
-Rotation gives you today. Revolution, together with Earth's **tilted axis** (about 23.5°), gives you the year and the seasons.
+Rotation gives you today. Revolution, together with Earth's **tilted axis** (about 23.5°), gives you the year and the seasons — covered in depth in the chapter on **revolution of the Earth**.
 
 Both happen at once. You are spinning with Earth while Earth travels around the Sun. Earth and the Sun are also moving with the Milky Way galaxy — motion in space is layered. The motion you notice every morning and evening is Earth's rotation.
+
+As you learned in the chapter on the **solar system**, almost every planet rotates. Earth is special to *us* because we live on the spin.
 
 ## Earth's Axis, Poles, and the Equator
 
@@ -51,15 +55,25 @@ Earth rotates around its tilted axis every day. The **North Pole** and **South P
 
 Places near the equator travel the farthest during one rotation, so they move fastest. Places near the poles travel in tiny circles, so they move more slowly. If Earth were a spinning basketball, a dot on the equator would race around the "seam" while a dot near the north end would barely creep in a small loop.
 
+| Location | Rough surface speed from rotation |
+|----------|-----------------------------------|
+| Equator | ~1,670 km/h |
+| Mid-latitudes (e.g. USA) | ~1,200 km/h |
+| Poles | ~0 km/h (you spin in place) |
+
+For comparison: a fast highway drive might be **120 km/h**. A jet cruise might be **900 km/h**. The equator still wins — and you never feel the race.
+
 ## Day and Night
 
 Day and night happen because Earth is a **sphere** that rotates.
 
-The Sun lights the half of Earth facing it. That half has daylight. The other half is in Earth's shadow and has night.
+The **Sun** — our star, described in its own chapter — lights the half of Earth facing it. That half has daylight. The other half is in Earth's shadow and has night.
 
 As Earth rotates, your town moves into sunlight, then out again. When your location turns toward the Sun, you see **sunrise**. When it faces the Sun most directly for that day, the Sun is highest in the sky. When your location turns away, you see **sunset**, then night.
 
 The Sun is not actually rising and falling around Earth each day. **Earth is turning.** The daily path of the Sun across the sky is mostly **apparent motion** — motion as it appears from where you stand, even when the real cause is Earth's spin.
+
+The **Moon** shines by reflected sunlight too. When you see the Moon at night, its phase and position still change with Earth's rotation carrying you to new viewing angles — even though the Moon is also orbiting Earth on a slower schedule.
 
 ## Sunrise in the East, Sunset in the West
 
@@ -67,7 +81,9 @@ The Sun appears to rise in the **east** and set in the **west** because Earth ro
 
 Picture a merry-go-round turning counterclockwise. Trees outside seem to slide the opposite way across your view. Earth's eastward rotation makes the Sun, Moon, planets, and stars appear to drift **westward** across the sky.
 
-That is why coaches schedule evening practice knowing the Sun will sink behind the west bleachers — and why stargazers know constellations will crawl westward through the night even though the stars themselves are not racing around Earth once per day.
+That is why coaches schedule evening practice knowing the Sun will sink behind the west bleachers — and why stargazers who learned the **constellations** chapter know those patterns will crawl westward through the night even though the stars themselves are not racing around Earth once per day.
+
+**Memory trick:** Earth spins **west → east**, so sky objects **appear** to go **east → west** across your view — the opposite direction.
 
 ## Noon, Midnight, and Why You Do Not Feel the Spin
 
@@ -78,6 +94,8 @@ That is why coaches schedule evening practice knowing the Sun will sink behind t
 If Earth is spinning so fast, why do you not feel it? Because you notice **changes** in motion more than **steady** motion.
 
 Think about riding smoothly on a bus or train at constant speed. You can toss a ball gently in your hands and it behaves normally. You, the ball, the air, and the vehicle move together. Earth's rotation is very steady. The ground, oceans, atmosphere, buildings, and people are carried around together — so Earth does not feel as if it is rushing beneath your feet.
+
+Same reason you can jump on a moving skateboard and land in the same spot: you already share the board's motion.
 
 ## The Atmosphere Spins Too
 
@@ -91,6 +109,8 @@ That is why birds, planes, clouds, and thrown footballs are not instantly swept 
 
 At night, stars appear to rise in the east and set in the west, just like the Sun. That is mostly because **Earth rotates beneath the sky**.
 
+Remember from the chapter on **stars**: each point of light is a distant sun, and starlight can take years to reach you. The stars are not doing a daily lap around Earth. **You** are turning.
+
 Near the North Star, **Polaris**, stars seem to circle around the **north celestial pole** — the point in the sky above Earth's North Pole. Polaris is useful because it sits very close to that point and helps you find north. It is **not** the brightest star in the sky; its value is its position.
 
 In the Southern Hemisphere there is no equally famous South Star. Sky watchers use other patterns, such as the Southern Cross, to find south.
@@ -103,7 +123,7 @@ Earth's rotation is the basis of timekeeping. A **day** is tied to one rotation.
 
 Ancient people used sunrise, sunset, and moving shadows to mark time. A **sundial** uses a shadow that changes direction and length as the Sun appears to cross the sky.
 
-On a sunny day at school, you can watch the same idea without a sundial:
+The chapter on **shadows** goes deeper into how blocking light works. Here is the rotation connection: on a sunny day at school, you can watch the same idea without a sundial:
 
 - **Morning:** shadows are long and point generally westward because the Sun is low in the east.
 - **Near noon:** shadows are usually shorter because the Sun is higher.
@@ -113,13 +133,15 @@ You may not feel the ground turn, but a moving shadow tells the story.
 
 ## Solar Day vs. Sidereal Day
 
-Earth rotates once compared with the distant stars in about **23 hours and 56 minutes**. That is a **sidereal day**.
+Earth rotates once compared with the distant stars in about **23 hours and 56 minutes**. That is a **sidereal day** (from a Latin word related to stars).
 
 A normal **solar day** — from one solar noon to the next — is about **24 hours**.
 
 Why the difference? Earth is also moving around the Sun while it spins. After one spin compared with the stars, Earth must turn a little more so the Sun appears in the same noon position again. That extra turning takes about **four minutes**.
 
 For daily life, we use the solar day. For astronomy, the sidereal day tracks the stars.
+
+**Memory trick:** **Solar** day = tied to the **Sun** (~24 h). **Sidereal** day = tied to the **stars** (~23 h 56 min) — slightly shorter.
 
 ## Time Zones, Longitude, and the Date Line
 
@@ -133,7 +155,7 @@ Before accurate portable clocks, finding **longitude at sea** was brutally hard.
 
 The **International Date Line** is an imaginary line mostly near 180° longitude where the calendar date changes when you travel around the world. Cross westward and you generally gain a calendar day; cross eastward and you generally lose one. The line bends around countries so nearby communities can share the same date. It exists because Earth is round, rotates, and has time zones.
 
-Ever text a friend in another country and wonder why their "tomorrow morning" is still your tonight? Rotation and time zones are the reason.
+Ever text a friend in another country and wonder why their "tomorrow morning" is still your tonight? Or why a live stream from Tokyo is airing at 2 a.m. your time? Rotation and time zones are the reason.
 
 ## The Coriolis Effect
 
@@ -159,6 +181,16 @@ Earth's rotation is very steady, but not perfectly unchanging. The Moon's gravit
 In 1851, French scientist Léon Foucault used a **pendulum** — a weight hanging from a fixed point — to show Earth's rotation. The pendulum seemed to change the direction of its swing over time. The pendulum was not twisting on its own. **Earth was rotating beneath it.**
 
 Today, Foucault pendulums hang in some museums and science centers. A slow, swinging weight becomes visible proof that the ground is turning — even when you cannot feel it.
+
+## Try This Tonight
+
+You do not need a telescope or a globe to collect evidence. Pick one:
+
+1. **Shadow watch:** Mark where a pole or fence post shadow falls at dinner time. Check again an hour later. The shadow moved because Earth turned — and the Sun's position in your sky changed with it.
+2. **Star drift:** On a clear night, line up a rooftop or tree branch with one bright star. Set a timer for 15 minutes. The star will have shifted — mostly because you rotated with Earth.
+3. **East-west proof:** Notice where the Sun set yesterday. Tomorrow morning, watch it rise in the opposite part of the sky. Earth's west-to-east spin explains the pattern.
+
+Write one sentence about what you saw. That sentence is a scientist's observation.
 
 ## Common Misconceptions
 
@@ -218,3 +250,5 @@ If you remember only one sentence, remember this:
 20. What is the International Date Line?
 21. What is the Coriolis effect, and why does it matter for storms but not ordinary drains?
 22. What did Foucault's pendulum help show?
+23. Name one "Try This Tonight" observation that shows Earth's rotation.
+24. In your own words, explain why rotation and revolution are both happening at once but feel different in daily life.

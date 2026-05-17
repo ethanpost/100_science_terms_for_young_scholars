@@ -1,6 +1,8 @@
 ﻿# Liquid
 
-Pour water from a bottle into a glass. The water does not keep the shape of the bottle. It spreads into the glass and takes the glass's shape. Pour it into a bowl, and it changes shape again.
+You squeeze a sports bottle and water shoots into your mouth. Rain pools in a puddle after practice. Chain lube drips onto a bike gear. Sweat beads on your forehead and helps cool you down when it evaporates.
+
+None of those liquids keep the shape of the container they came from. Pour the same water into a tall cup, a wide bowl, or a narrow flask, and the shape changes each time.
 
 But the amount of water is still the same.
 
@@ -8,15 +10,17 @@ That is one of the key ideas about liquids.
 
 **A liquid is a state of matter with a definite volume but no definite shape.**
 
-Liquids are all around you. Water, milk, juice, oil, vinegar, rain, blood, sap, gasoline, ink, and liquid soap are all liquids. Liquids flow through rivers, pipes, veins, engines, oceans, and kitchens. They are essential for life, weather, machines, cooking, cleaning, and chemistry.
+Liquids are everywhere in the world you actually use. They include water, sports drinks, milk, juice, oil, vinegar, rain, blood, sap, gasoline, ink, liquid soap, brake fluid, and engine oil. Liquids flow through rivers, pipes, veins, engines, oceans, and kitchens. They cool your body, power machines, shape weather, and carry nutrients through living things.
 
-To understand liquids, we must look at how their particles behave.
+To understand liquids, you must look smaller — at how their particles behave.
+
+![Liquid](059_Liquid_01.png)
 
 ## Liquids Are Matter
 
 A liquid is a kind of matter.
 
-Matter is anything that has mass and takes up space.
+As you learned in the chapter on matter, **matter** is anything that has mass and takes up space.
 
 Liquids have mass. A full water bottle weighs more than an empty one.
 
@@ -42,7 +46,7 @@ A liquid does not have a definite shape.
 
 Instead, it takes the shape of its container.
 
-Water in a tall glass is tall and narrow. The same water in a shallow dish is wide and flat.
+Water in a tall sports bottle is tall and narrow. The same water in a shallow dish is wide and flat.
 
 This happens because the particles in a liquid can move and slide past one another.
 
@@ -74,13 +78,15 @@ In a gas, particles are far apart and move freely. A gas has no definite shape a
 
 Liquids are in the middle. They are more flexible than solids but more compact than gases.
 
+If you have read the chapter on solids, you already know one side of this comparison. Liquids are the state between a rigid solid and a spread-out gas.
+
 ## Flow
 
 To **flow** means to move smoothly from one place to another.
 
 Liquids flow because their particles can move past one another.
 
-Water flows down a stream. Syrup flows slowly from a bottle. Rainwater flows along a gutter. Blood flows through blood vessels.
+Water flows down a stream. Syrup flows slowly from a bottle. Rainwater flows along a gutter. Blood flows through blood vessels. Brake fluid flows through lines when you press a pedal.
 
 Gravity often pulls liquids downward, but liquids can also be pushed through pipes by pumps or pressure.
 
@@ -96,11 +102,11 @@ A liquid with high viscosity flows slowly.
 
 A liquid with low viscosity flows easily.
 
-Honey has higher viscosity than water. Molasses has higher viscosity than juice. Motor oil is more viscous than gasoline.
+Honey has higher viscosity than water. Molasses has higher viscosity than juice. Motor oil is more viscous than gasoline. Thick chain lube moves more slowly than water.
 
 Temperature can affect viscosity. Warm honey flows more easily than cold honey because heating lets its particles move more freely.
 
-Viscosity matters in cooking, engines, medicine, painting, lava flows, and many machines.
+Viscosity matters in cooking, engines, medicine, painting, lava flows, and many machines. Engineers choose liquids partly by how fast they need to flow.
 
 ## Surface Tension
 
@@ -112,7 +118,7 @@ Surface tension is the tightness of a liquid's surface caused by attraction betw
 
 Water molecules attract one another. At the surface, this attraction can make the water act a little like a stretched skin.
 
-Surface tension helps water form droplets. It also helps explain why water beads up on waxed surfaces.
+Surface tension helps water form droplets. It also helps explain why water beads up on waxed surfaces or on a freshly waxed car.
 
 Soap reduces water's surface tension, which helps water spread and clean more effectively.
 
@@ -160,7 +166,7 @@ Mercury forms a meniscus that curves upward in the middle because mercury partic
 
 When measuring liquid in a graduated cylinder, scientists read the volume at the bottom of the water meniscus.
 
-Careful measurement matters.
+Careful measurement matters in labs, cooking, and medicine.
 
 ## Measuring Liquid Volume
 
@@ -197,7 +203,7 @@ This is why oil often floats on water.
 
 If liquids do not mix, they may form layers according to density. Denser liquids settle below less dense liquids.
 
-Density columns can show this clearly when safe liquids are used.
+A density column made from safe liquids such as corn syrup, colored water, and vegetable oil can show this clearly.
 
 ## Floating and Sinking in Liquids
 
@@ -225,7 +231,7 @@ The deeper you go in a liquid, the greater the pressure becomes because more liq
 
 This is why deep-sea submarines must be very strong.
 
-It is also why your ears may feel pressure when you dive underwater.
+It is also why your ears may feel pressure when you dive underwater in a pool or lake.
 
 Liquid pressure pushes in all directions, not just downward.
 
@@ -239,7 +245,7 @@ Liquids are difficult to compress, so they can carry force through pipes and cyl
 
 Hydraulic systems are used in:
 
-- Car brakes
+- Car and bike brakes
 - Excavators
 - Lifts
 - Dump trucks
@@ -248,7 +254,7 @@ Hydraulic systems are used in:
 
 In a hydraulic brake system, pressing a pedal puts pressure on brake fluid. The fluid transmits the pressure to the brakes near the wheels.
 
-Hydraulics shows that liquids can do heavy work.
+Hydraulics shows that liquids can do heavy work. A small push at one end can create a large push somewhere else.
 
 ## Compressibility
 
@@ -260,9 +266,7 @@ Gases compress easily because their particles are far apart.
 
 Liquids do not compress easily because their particles are already close together.
 
-This is why liquids are useful in hydraulic systems.
-
-They can transmit pressure well because they do not simply shrink much when squeezed.
+This is why liquids are useful in hydraulic systems. They can transmit pressure well because they do not simply shrink much when squeezed.
 
 ## Evaporation
 
@@ -274,7 +278,7 @@ Evaporation can happen below the boiling point.
 
 On a warm, dry, windy day, a puddle may disappear faster because more water molecules escape from the surface into the air.
 
-Evaporation causes cooling. When sweat evaporates from your skin, it carries energy away and helps cool your body.
+Evaporation causes cooling. When sweat evaporates from your skin after exercise, it carries energy away and helps cool your body.
 
 ## Boiling
 
@@ -286,7 +290,7 @@ Boiling happens at a substance's boiling point, if pressure is ordinary and stea
 
 Water boils at about 100 degrees Celsius at sea level.
 
-At higher elevations, air pressure is lower, so water boils at a lower temperature.
+At higher elevations, air pressure is lower, so water boils at a lower temperature. That can affect cooking times on a camping trip in the mountains.
 
 Boiling is not the same as evaporation. Evaporation happens at the surface. Boiling happens throughout the liquid.
 
@@ -294,7 +298,7 @@ Boiling is not the same as evaporation. Evaporation happens at the surface. Boil
 
 **Condensation** is the change of state from gas to liquid.
 
-Water droplets on the outside of a cold glass form because water vapor in the air cools and condenses.
+Water droplets on the outside of a cold drink form because water vapor in the air cools and condenses.
 
 Clouds form when water vapor condenses into tiny liquid droplets or ice crystals.
 
@@ -394,9 +398,11 @@ Some materials behave partly like liquids and partly like solids.
 
 **Liquid crystals** can flow like liquids but have some orderly arrangement like crystals.
 
-Liquid crystals are used in many displays, including older calculators, watches, monitors, and screens.
+Liquid crystals are used in many displays, including calculators, watches, monitors, and screens.
 
 LCD stands for liquid crystal display.
+
+Your phone, tablet, and many game screens depend on liquid crystal technology.
 
 This shows that states of matter can be more interesting than the simple words solid, liquid, and gas suggest.
 
@@ -412,7 +418,7 @@ Sap carries materials through plants.
 
 Cells contain watery fluids where many chemical reactions happen.
 
-Tears protect the eyes. Saliva helps with chewing and digestion. Sweat helps cool the body.
+Tears protect the eyes. Saliva helps with chewing and digestion. Sweat helps cool the body during exercise.
 
 Life is not only built from solid structures. It depends on moving liquids.
 
@@ -438,7 +444,7 @@ Technology uses liquids in many ways.
 
 Liquids cool engines, carry heat in heating systems, clean surfaces, dissolve chemicals, move force in hydraulic machines, lubricate moving parts, carry medicine into the body, and transport fuel.
 
-Engine oil reduces friction.
+Engine oil reduces friction in cars, trucks, and bikes.
 
 Brake fluid transmits pressure.
 
@@ -448,7 +454,7 @@ Liquid fuels store chemical energy.
 
 Coolants help machines avoid overheating.
 
-The properties of a liquid matter for the job it must do.
+The properties of a liquid matter for the job it must do. A mechanic does not put water in an engine where oil belongs.
 
 ## Common Misconceptions
 
@@ -524,3 +530,4 @@ If you remember only one sentence, remember this:
 28. What is a solution?
 29. What is the difference between a solute and a solvent?
 30. What are three safety rules for studying or handling liquids?
+31. In your own words, explain why a bike or car needs the right liquid for brakes or an engine, not just any liquid that pours.

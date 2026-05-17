@@ -9,13 +9,15 @@ Students should be able to:
 - Define Earth's rotation as Earth's spin around its axis (~24 hours) and explain that rotation causes day and night.
 - Distinguish rotation from revolution and connect revolution (with axial tilt) to the year and seasons.
 - Describe Earth's axis, poles, equator, and eastward rotation; explain why equatorial surface speed is greatest.
+- Compare equatorial rotation speed to familiar speeds (highway, jet) without overloading math.
 - Explain apparent motion of the Sun, Moon, stars, and planets across the sky.
 - Connect rotation to sunrise, sunset, solar noon, shadows, star trails, timekeeping, time zones, longitude, and the International Date Line.
 - Explain why people do not feel Earth's steady rotation and why the atmosphere is not left behind.
 - Compare solar day and sidereal day.
 - Describe the Coriolis effect and its importance for large-scale winds, currents, and storms (not sinks).
-- Identify evidence for Earth's rotation, including changing shadows, star trails, and Foucault's pendulum.
+- Identify evidence for Earth's rotation, including changing shadows, star trails, Foucault's pendulum, and simple home observations.
 - Correct common misconceptions about day and night, Polaris, drains, and Earth's motions.
+- Relate Earth's rotation to other chapters (Sun, Moon, shadows, stars, solar system, revolution).
 
 ### Answers to Study Questions
 
@@ -41,6 +43,8 @@ Students should be able to:
 20. The **International Date Line** is an imaginary line mostly near 180° longitude where the calendar date changes when traveling around the world.
 21. The **Coriolis effect** is the apparent deflection of large moving air or water masses caused by Earth's rotation (right in the Northern Hemisphere, left in the Southern Hemisphere). It shapes huge storms and global circulation. Ordinary drains are too small; water direction depends on container shape and initial motion.
 22. Foucault's pendulum helped show that **Earth rotates** because the pendulum's swing direction appears to change as Earth turns beneath it.
+23. Answers may vary. Strong answers mention **shadow movement** over an hour, **star drift** when lined up with a fixed object, or watching the **Sun rise in the east and set in the west** — all evidence of Earth's rotation.
+24. Answers may vary. A strong answer should state that **rotation** (daily spin) causes day and night and the moving sky, while **revolution** (yearly orbit) causes the year and seasons; both happen at once, but rotation is what we notice every sunrise and sunset.
 
 ### Activity Suggestions
 
@@ -51,13 +55,13 @@ Students should be able to:
    One student spins slowly in place (rotation) while walking a large circle around a "Sun" chair (revolution). Pause to name which motion causes day/night vs. year/seasons. Repeat until the class can explain both without prompting.
 
 3. **Shadow Mission on the Field or Playground**
-   On a sunny day, students measure a fixed object's shadow length and direction at opening, mid-morning, lunch, and mid-afternoon. Graph results and connect to Earth's rotation and apparent solar motion. Works well after sports practice when students already notice long evening shadows.
+   On a sunny day, students measure a fixed object's shadow length and direction at opening, mid-morning, lunch, and mid-afternoon. Graph results and connect to Earth's rotation and apparent solar motion. Pair with the shadows chapter if students have read it.
 
 4. **Apparent Motion Spin Lab**
    Students sit on rotating stools or stand on a slow turntable while watching a fixed object across the room. Discuss how the room seems to move the opposite way — same idea as the Sun appearing to cross the sky.
 
 5. **Time Zone Text Challenge**
-   Give pairs a simple world map with time zones. Scenario: "It is 7 p.m. Saturday in New York — what day and rough time might a friend in Tokyo or London see?" Students use 15° per hour and discuss the International Date Line when crossing the Pacific.
+   Give pairs a simple world map with time zones. Scenario: "It is 7 p.m. Saturday in New York — what day and rough time might a friend in Tokyo or London see?" Students use 15° per hour and discuss the International Date Line when crossing the Pacific. Connect to gaming streams or messages with friends abroad.
 
 6. **Star Trail and Polaris Station**
    Show a star-trail photograph or a short planetarium clip. Students identify why arcs form and where Polaris fits. Optional: one-night homework to sketch the Big Dipper and note how it shifted over two hours.
@@ -68,16 +72,24 @@ Students should be able to:
 8. **Foucault Pendulum or Video Evidence**
    Visit a museum pendulum or show a high-quality video. Students write three sentences: what moves, what stays fixed relative to the room, and what that proves about Earth.
 
+9. **Speed Comparison Relay**
+   Post cards: equator (~1,670 km/h), mid-latitude (~1,200 km/h), highway (~120 km/h), jet (~900 km/h). Teams sort fastest to slowest and explain why the equator wins even though we feel still.
+
+10. **Try This Tonight Debrief**
+    Assign one home observation from the chapter (shadow watch, star drift, or east-west Sun). Next class, students share one sentence of evidence. Vote on the clearest proof of rotation.
+
 ### Teaching Notes
 
 - Open with a relatable hook (late practice, gaming past sunset, bus ride) before defining rotation.
 - Keep the anchor phrase visible: **Earth's rotation is the daily spin that causes day and night**.
-- Reinforce **rotation vs. revolution** every lesson; this is the most common confusion.
+- Reinforce **rotation vs. revolution** every lesson; this is the most common confusion. Use the memory trick: **ROTation = ROTating in place**.
 - Use physical models whenever possible; boys 11–13 often grasp day and night fastest by moving a globe themselves.
 - Correct the geocentric habit early: the Sun does not orbit Earth daily — **apparent motion** comes from Earth's spin.
-- Clarify that we do not feel rotation because we share Earth's steady motion; use the bus or train ball-toss analogy.
+- Clarify that we do not feel rotation because we share Earth's steady motion; use the bus, train, or skateboard ball-toss analogy.
 - Be careful with the Coriolis effect: important for planet-scale winds and hurricanes, **not** for classroom sinks or toilets.
-- Connect longitude and time zones to real life (travel, texting friends abroad, esports streams in other regions) so the topic feels practical.
-- Pair shadow activities with athletics or outdoor school spaces when possible.
-- The chapter image `088_Rotation_of_the_Earth_01.png` can support a stick-figure cartoon of day/night, apparent motion, or time zones when available.
-- Optional extension: compare equatorial speed (~1,670 km/h) to familiar speeds (highway, jet) without overloading math.
+- Connect longitude and time zones to real life (travel, texting friends abroad, esports or live streams in other regions) so the topic feels practical.
+- Pair shadow activities with athletics or outdoor school spaces when possible; link to the shadows chapter for light-blocking detail.
+- The chapter image `088_Rotation_of_the_Earth_01.png` shows day/night, west-to-east spin, rotation vs. revolution, and apparent motion — use it as a lesson opener.
+- Preview the revolution chapter briefly so students know seasons and the year come next, not from daily spin alone.
+- Optional extension: compare equatorial speed to familiar speeds without requiring calculations beyond reading a table.
+- The **Try This Tonight** section gives low-equipment homework; debrief builds scientific observation habits.

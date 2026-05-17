@@ -10,6 +10,8 @@ Bases are everywhere—in soap, cleaners, baking soda, antacids, soil treatments
 
 **A base is a substance that can accept protons or produce hydroxide ions in water.**
 
+![Base](069_Base_01.png)
+
 To understand bases, it helps to remember their chemical partner: acids.
 
 ## Bases and Acids: The Other Half of the Story

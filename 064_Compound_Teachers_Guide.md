@@ -7,13 +7,14 @@
 Students should be able to:
 
 - Define a compound as a pure substance made of two or more elements chemically joined in a fixed ratio.
-- Distinguish compounds from elements and mixtures.
+- Distinguish compounds from elements and mixtures using examples and comparison tables.
 - Explain fixed ratios, chemical bonds, chemical formulas, and subscripts.
 - Compare ionic bonding and covalent bonding at an introductory level.
 - Identify ionic compounds, covalent compounds, molecules, ions, and formula units.
-- Explain why compounds can have properties very different from their elements.
+- Explain why compounds can have properties very different from their elements (e.g., salt vs sodium and chlorine).
 - Connect compounds to water, carbon dioxide, sodium chloride, calcium carbonate, glucose, acids, bases, salts, organic compounds, inorganic compounds, living things, Earth, and technology.
 - Explain that chemical reactions form, change, and break compounds by rearranging atoms.
+- Apply conservation of atoms and balanced-equation thinking at an introductory level.
 - Apply safety rules for studying compounds, household chemicals, acids, bases, fuels, solvents, heat, and disposal.
 
 ### Answers to Study Questions
@@ -52,36 +53,47 @@ Students should be able to:
 ### Activity Suggestions
 
 1. **Element, Compound, Mixture Sort**
-   Students sort cards or safe samples such as oxygen, copper, water, salt, carbon dioxide, air, lemonade, soil, steel, and sugar into element, compound, or mixture.
+   Students sort cards or safe samples such as oxygen, copper, water, salt, carbon dioxide, air, lemonade, soil, steel, and sugar into element, compound, or mixture. Discuss why salt water is a mixture but table salt is a compound.
 
 2. **Formula Reading Practice**
-   Give formulas such as H2O, CO2, NaCl, CaCO3, C6H12O6, and C12H22O11. Students identify elements and count atoms where appropriate.
+   Give formulas such as H2O, CO2, NaCl, CaCO3, C6H12O6, and C12H22O11. Students identify elements and count atoms. Emphasize that subscripts are part of the meaning, not decoration.
 
 3. **Compound Model Building**
-   Students build models of water, carbon dioxide, methane, ammonia, and glucose fragments using beads or model kits. Discuss formulas and fixed ratios.
+   Students build models of water, carbon dioxide, methane, ammonia, and glucose fragments using beads or model kits. Discuss fixed ratios and connect to the molecule chapter.
 
 4. **Salt vs. Its Elements Discussion**
-   Use images or teacher explanation of sodium and chlorine, then compare with table salt. Students explain why compounds have new properties.
+   Use images or a teacher-led story of sodium metal and chlorine gas, then compare with table salt. Students explain in their own words why compounds have new properties — this is the chapter's emotional hook.
 
-5. **Mixture vs. Compound Separation**
-   Compare separating a mixture such as sand and iron filings with the idea that water requires chemical change to break into hydrogen and oxygen.
+5. **H2O vs. H2O2 Ratio Card**
+   Two formula cards with the same elements but different subscripts. Students predict whether the substances are the same and why ratio matters.
 
-6. **Carbonate Bubble Demo**
-   Teacher places vinegar on chalk, limestone, or eggshell and students observe carbon dioxide bubbles. Connect calcium carbonate to chemical reactions.
+6. **Mixture vs. Compound Separation**
+   Compare separating a mixture (sand and iron filings with a magnet) with the idea that water requires chemical change to break into hydrogen and oxygen. No electrolysis demo required — the contrast is the point.
 
-7. **Organic and Inorganic Compound Hunt**
-   Students classify common compounds from labels or cards, such as water, sugar, baking soda, vinegar, salt, limestone, plastic, and glucose.
+7. **Carbonate Bubble Demo**
+   Teacher places vinegar on chalk, limestone, or eggshell; students observe carbon dioxide bubbles. Connect calcium carbonate to chemical reactions and to the fizzing-soda opening in the chapter intro.
 
-8. **Conservation of Atoms Models**
-   Use colored blocks or paper atoms to model reactants rearranging into products. Students verify that the number of each type of atom stays the same.
+8. **Organic and Inorganic Compound Hunt**
+   Students classify compounds from labels or cards: water, sugar, baking soda, vinegar, salt, limestone, plastic, glucose. Discuss why carbon is special in organic chemistry.
+
+9. **Conservation of Atoms Models**
+   Use colored blocks or paper atoms to model reactants rearranging into products. Students verify that the number of each type of atom stays the same — bridge to balanced equations.
+
+10. **Compound Scavenger Hunt**
+    Students find three compounds at home or school (not elements or mixtures) and write name, formula if known, and one use. Share and classify as ionic or covalent when possible.
 
 ### Teaching Notes
 
 - Keep the central definition visible: **a compound has elements chemically joined in a fixed ratio**.
-- Contrast compounds and mixtures repeatedly; this is the main conceptual hurdle.
-- Emphasize that compounds are pure substances even though they contain more than one element.
-- Treat formulas as meaningful information about elements and ratios, not just names.
-- Clarify that ionic compounds such as salt are not best pictured as separate simple molecules.
+- Open with soda bubbles, salt on food, baking-soda volcanoes, and breathing so the topic feels immediate rather than abstract.
+- Contrast compounds and mixtures repeatedly; this is the main conceptual hurdle for this age group.
+- Emphasize that compounds are pure substances even though they contain more than one element — use the element/compound/mixture table often.
+- Treat formulas as meaningful information about elements and ratios, not just names to memorize.
+- Clarify that ionic compounds such as salt are not best pictured as separate simple molecules; link to the molecule chapter's compound vs. molecule table.
 - Use familiar compounds first: water, salt, carbon dioxide, sugar, chalk, vinegar, and baking soda.
+- The sodium + chlorine → salt story is powerful; let students react to the contrast before defining ionic bonding in detail.
 - Reinforce conservation of atoms as preparation for chemical reactions and balanced equations.
+- Link back to matter, atoms, molecules, and elements; link forward to mixtures, solutions, acids, bases, and reactions.
 - Do not allow students to taste substances during compound activities, even if the substances are familiar foods.
+- The chapter image reinforces fixed ratio, salt-from-dangerous-elements, and compound vs. mixture — use it when introducing the definition and the mixture contrast.
+- H2O vs. H2O2 is a quick, memorable proof that ratio defines the compound.

@@ -1,18 +1,33 @@
 ﻿# Revolution of the Earth
 
-You blow out the candles on your birthday cake. Everyone cheers. You feel a year older.
+Last June you stayed outside until nine o'clock and still had light for one more throw. Last December the same clock said dinner time, but the sky was already purple and the field lights were buzzing on.
 
-That moment is not just about cake.
+Same backyard. Same you. Different sky.
 
-It marks one full trip your home planet has made around the Sun.
+That shift is not the Sun getting lazy. It is Earth finishing another lap.
 
-While you slept through winter break, played pickup basketball in spring, went to camp in summer, and started a new school year in fall, Earth never stopped moving. It was not parked in space. It was racing around the Sun on a giant curved path — about **30 kilometers per second** on average. That is faster than a rifle bullet. You do not feel it because Earth carries you, the air, and everything around you along smoothly.
+While you slept through winter break, grinded a new game over summer, went to camp, and started a new school year, Earth never parked in space. It was racing around the Sun on a giant curved path — about **30 kilometers per second** on average. That is faster than a rifle bullet. You do not feel it because Earth carries you, the air, and everything around you along smoothly — the same reason you do not feel Earth's daily spin, as you learned in the chapter on **rotation of the Earth**.
 
 **Revolution of the Earth is Earth's motion around the Sun, taking about 365 1/4 days and helping create the year and the seasons.**
 
 Revolution is quieter than sunrise and sunset. You cannot watch one full orbit in a single evening. But over weeks and months, its effects show up everywhere: changing seasons, longer or shorter days, different constellations at night, and the calendar on your phone.
 
+As you learned in the chapter on the **Sun**, our star sits at the center of the solar system and holds Earth in orbit with gravity. Revolution is how Earth keeps that yearly appointment.
+
 ![Revolution of the Earth](089_Revolution_of_the_Earth_01.png)
+
+## Revolution at a Glance
+
+| Idea | What to remember |
+|------|------------------|
+| **Revolution** | Earth traveling around the Sun |
+| **Orbit** | The path Earth follows |
+| **One year** | About **365 1/4 days** per orbit |
+| **Rotation** (different!) | Earth spinning once ~**24 hours** → day and night |
+| **Axis tilt** | About **23.5°** — main driver of seasons |
+| **Seasons** | Mostly **tilt + revolution**, not distance from the Sun |
+| **Leap year** | Bookkeeping for that extra quarter day |
+| **Speed** | ~**30 km/s** average — you ride along smoothly |
 
 ## Revolution Means Orbiting
 
@@ -28,11 +43,11 @@ Earth's orbit is not a perfect circle. It is an **ellipse** — a slightly stret
 
 The Sun sits slightly off the center of that ellipse, at a point called a **focus**. So Earth is a little closer to the Sun at some times of year and a little farther at others.
 
-That small distance change is **not** the main reason we have seasons. Tilt is. (More on that soon.)
+That small distance change is **not** the main reason we have seasons. **Tilt** is. (More on that soon.)
 
 ## Rotation and Revolution
 
-These two words sound alike. Mixing them up is one of the most common mistakes in Earth science.
+These two words sound alike. Mixing them up is one of the most common mistakes in Earth science — and on tests.
 
 **Rotation** is spinning around an axis.
 
@@ -48,6 +63,8 @@ Earth **rotates** once about every 24 hours. That gives you day and night.
 Earth **revolves** around the Sun once about every **365 1/4 days**. That gives you the year.
 
 Both happen at once. You are spinning with Earth every day while Earth carries you around the Sun every year. Rotation gives you today's schedule. Revolution, together with Earth's **tilted axis**, gives you the year's rhythm — when soccer season feels crisp, when the pool opens, when you need a heavier jacket.
+
+The chapter on **seasons** goes deeper into weather patterns and regional differences. Here, focus on the **orbit** and how tilt plus revolution set the stage.
 
 ## Gravity and Forward Motion
 
@@ -65,6 +82,8 @@ If there were no Sun's gravity, Earth would drift off in a straighter line throu
 
 There is no giant track in space — no invisible road. Earth is always falling toward the Sun and always moving forward fast enough to miss it. That balance is the orbit.
 
+Picture tossing a baseball horizontally. Gravity bends the path downward. Throw it fast enough from a tall tower and the ground curves away beneath it — the ball could keep missing the ground. Earth is doing that on a cosmic scale, year after year.
+
 ## How Long Is a Year?
 
 A **year** is based on Earth's revolution around the Sun.
@@ -77,7 +96,7 @@ To fix this, we use **leap years**. Most leap years add **February 29**, giving 
 
 Most years divisible by 4 are leap years. Century years are leap years only if divisible by 400 (so **2000** was a leap year, but **1900** was not). The rules are fussy because Earth's year is not exactly 365.25 days — but the basic reason is simple: **Earth's orbit is not a neat whole number of days.**
 
-Without leap years, seasons would slowly slide through the calendar. Eventually, July would not feel like summer in the Northern Hemisphere.
+Without leap years, seasons would slowly slide through the calendar. Eventually, July would not feel like summer in the Northern Hemisphere — and "back to school in August" would land in a totally different sunlight pattern.
 
 ## Earth's Axis Is Tilted
 
@@ -129,6 +148,8 @@ In winter, the Sun stays **lower** and its rays strike at a slant.
 
 Seasonal temperature is really a team effort: **angle of sunlight + length of daylight.**
 
+Try this at home: shine a phone flashlight straight on your hand, then at a steep angle. Same light, different spread — same physics the planet uses all year.
+
 ## Solstices and Equinoxes
 
 A **solstice** happens twice each year. The name comes from an old idea that the Sun seems to **stand still** for a few days — its noon height barely changes.
@@ -171,7 +192,7 @@ At night you look **away** from the Sun into space. As Earth moves in its orbit,
 
 That is why **different constellations** show up in different seasons.
 
-In the Northern Hemisphere, **Orion** is easy on winter evenings. **Scorpius** and **Sagittarius** stand out in summer. **Leo** often appears in spring. **Pegasus** and **Andromeda** in autumn.
+In the Northern Hemisphere, **Orion** is easy on winter evenings — perfect for a cold camping trip. **Scorpius** and **Sagittarius** stand out in summer. **Leo** often appears in spring. **Pegasus** and **Andromeda** in autumn.
 
 The stars are not vanishing. Earth's position in its orbit changes which slice of the universe your night sky faces. Seasonal constellations are a quiet sign that Earth is moving.
 
@@ -207,6 +228,8 @@ The **year** comes from Earth's revolution.
 
 The calendar on your wall is not random. It is humans trying to line up clocks and dates with motions in the sky. Leap years are not a weird bonus day — they are bookkeeping for a planet that will not orbit in exactly 365 neat days.
 
+Your birthday marks another trip around the Sun — one more revolution completed since the day you were born.
+
 ## Earth's Orbital Speed
 
 Earth's average speed around the Sun is about **30 km/s** — roughly **108,000 km/h**.
@@ -214,6 +237,18 @@ Earth's average speed around the Sun is about **30 km/s** — roughly **108,000 
 For comparison, a commercial jet might cruise near **900 km/h**. Earth is moving vastly faster, yet you feel nothing because everything around you moves with you at the same steady pace — the same reason you do not feel Earth's daily spin.
 
 The ride is smooth. The speed is real.
+
+## Evidence You Can Spot
+
+You cannot see Earth slide along its orbit in one night, but you can collect proof:
+
+- **Day length** — Track sunset time on your phone for two weeks in June vs. two weeks in December. The pattern tracks Earth's tilt and position in orbit.
+- **Noon Sun height** — Notice how high the Sun is at lunch in summer vs. winter. Higher in summer means more direct rays.
+- **Seasonal constellations** — Orion in winter evenings, Scorpius in summer. The night sky is a slow calendar.
+- **Opposite hemispheres** — News from Australia or World Cup schedules can show winter sports while yours are in full swing. Same orbit, different tilt toward the Sun.
+- **Leap day** — February 29 exists because the year is about 365 1/4 days long.
+
+Revolution is invisible in one glance but obvious if you watch the year unfold.
 
 ## What Would Happen Without Tilt?
 
@@ -287,3 +322,4 @@ If you remember only one sentence, remember this:
 21. What can happen inside the Arctic and Antarctic Circles?
 22. About how fast does Earth move around the Sun, and why do you not feel it?
 23. What would seasons be like if Earth had no axial tilt?
+24. Name two pieces of evidence you can observe that Earth is moving in its orbit (without leaving the ground).

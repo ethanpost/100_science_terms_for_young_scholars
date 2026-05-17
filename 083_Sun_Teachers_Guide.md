@@ -8,13 +8,14 @@ Students should be able to:
 
 - Define the Sun as the star at the center of the solar system.
 - Explain that the Sun is made mostly of hydrogen and helium plasma.
-- Distinguish nuclear fusion from ordinary burning or combustion.
+- Distinguish nuclear fusion from ordinary burning or combustion using a comparison table.
 - Identify major solar layers: core, radiative zone, convective zone, photosphere, chromosphere, and corona.
 - Explain how sunlight, gravity, and solar energy affect Earth.
 - Connect the Sun to photosynthesis, weather, the water cycle, seasons, and common energy sources.
 - Describe sunspots, the solar cycle, solar flares, coronal mass ejections, solar wind, and auroras.
 - Correct common misconceptions about the Sun's color, seasons, and solar observation.
 - Apply strict safety rules for observing the Sun.
+- Connect the Sun chapter to prior topics (gravity, hydrogen, combustion, solar system) and upcoming astronomy chapters (stars, seasons, eclipse, day and night).
 
 ### Answers to Study Questions
 
@@ -47,7 +48,7 @@ Students should be able to:
    Have students measure a fixed object's shadow length and direction at opening, mid-morning, lunch, and mid-afternoon on a sunny day. Graph the results and connect changing shadows to Earth's rotation and the Sun's apparent motion. Works well for sports fields or schoolyards.
 
 2. **Fusion vs. Burning Card Sort**
-   Students sort statements into "campfire combustion" vs. "solar fusion" (needs oxygen? happens in core? releases energy from nuclei joining?). Debunk the "Sun is on fire" idea before diving into layers.
+   Use the chapter's comparison table as a guide. Students sort statements into "campfire combustion" vs. "solar fusion" (needs oxygen? happens in core? releases energy from nuclei joining?). Debunk the "Sun is on fire" idea before diving into layers.
 
 3. **Scale Shock: Earth vs. Sun**
    Use balls or paper circles to model relative size (e.g., peppercorn Earth vs. basketball Sun). Optionally add distance: if the Sun is a basketball, Earth might be a peppercorn 25 meters away. Discuss why the Sun looks small in the sky.
@@ -58,24 +59,28 @@ Students should be able to:
 5. **Food Chain Solar Trace**
    Teams trace energy from the Sun through three or four links (Sun → wheat → bread → student, or Sun → algae → fish → human). Emphasize that stored chemical energy in food began as sunlight.
 
-6. **Space Weather Briefing**
+6. **Solar Layer Storyboard**
+   Students draw or storyboard energy moving from core → radiative zone → convective zone → photosphere → space. Label each layer and one key fact. Reinforces the table without turning the section into a memorization drill.
+
+7. **Space Weather Briefing**
    Show simplified NOAA or NASA space-weather graphics. Students role-play as satellite operators or airline planners deciding what to do when a solar flare or CME is forecast. Links science to phones, GPS, and power grids.
 
-7. **Safe Eclipse Toolkit Design**
+8. **Safe Eclipse Toolkit Design**
    In groups, students design a one-page "safe viewing kit" for a solar eclipse: certified glasses, pinhole projector steps, what *not* to do (sunglasses, unfiltered binoculars). Present to the class; reinforce that safety is non-negotiable.
 
-8. **Aurora Magnet Model**
+9. **Aurora Magnet Model**
    Use bar magnets, iron filings or compasses, and a simple diagram to show how Earth's magnetosphere guides charged particles toward the poles. Follow with images or video of auroras and connect to solar wind and CMEs.
 
 ### Teaching Notes
 
 - Open with a relatable hook (sports practice, phone battery charged by solar or grid power, morning shadows) before defining the Sun as a star.
 - Keep the anchor phrase visible: **the Sun is our star, powered by fusion and essential for life on Earth**.
-- Correct the "Sun is on fire" misconception early; use **trade force for distance** style clarity: fusion in the core, not combustion in space.
+- Correct the "Sun is on fire" misconception early; use the **fusion vs. combustion** table and the phrase **trade force for distance** only where it fits (e.g., when discussing orbit, not fusion).
 - Emphasize plasma, not solid surface or campfire flame.
-- Connect to prior chapters on heat, light, radiation, gravity, matter, elements, seasons, and the solar system where applicable.
+- Connect to prior chapters: **solar system** (082), **gravity** (002), **hydrogen** (072), **combustion** (076), **matter** and **gas** (057, 060). Point forward to **stars** (086), **seasons** (091), **eclipse** (092), and **day and night** (090) without teaching those topics in full here.
 - Use models carefully; most diagrams are not to scale for size, distance, or temperature.
 - Treat solar viewing safety as absolute. Students should never improvise filters or look through optical devices without trained adult supervision and proper equipment.
-- For ages 11–13, balance wonder (scale, auroras, eclipses) with relevance (food energy, weather, technology affected by space weather). Avoid making the chapter feel like a list of definitions — use the layer section as one flowing story of energy from core to space.
+- For ages 11–13, balance wonder (scale, auroras, eclipses) with relevance (food energy, weather, technology affected by space weather). Use the layer table as one flowing story of energy from core to space, not a list to memorize in one sitting.
 - Reinforce that seasons are caused mostly by Earth's tilt, not by changing distance from the Sun.
-- Optional extension: compare our medium-sized Sun to red giants or white dwarfs if students have studied stars elsewhere.
+- Use the illustration (`083_Sun_01.png`) to review fusion vs. combustion, the 8-minute light delay, and gravity holding Earth in orbit.
+- Optional extension: compare our medium-sized Sun to red giants or white dwarfs when students reach the **stars** chapter.

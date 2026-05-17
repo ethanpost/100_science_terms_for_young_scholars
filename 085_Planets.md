@@ -16,6 +16,8 @@ That one is Earth.
 
 In our solar system, planets orbit the Sun. They do not make their own light. They shine because they reflect sunlight.
 
+![Planets](085_Planets_01.png)
+
 ## Planets Are Worlds
 
 A planet is not just a dot in the sky. It is a world with size, gravity, motion, materials, temperature, and history.

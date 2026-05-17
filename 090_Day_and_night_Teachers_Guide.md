@@ -15,8 +15,8 @@ Students should be able to:
 - Explain why stars are usually hidden during the day and why the Moon can sometimes be seen in daylight.
 - Distinguish daily day-night causes (rotation) from seasonal daylight changes (tilt and revolution).
 - Connect day and night to time zones, latitude, polar day, and polar night.
-- Describe how day and night affect living things and how artificial light can cause light pollution.
-- Correct common misconceptions about day and night.
+- Describe how day and night affect living things (diurnal, nocturnal, crepuscular) and how artificial light can cause light pollution.
+- Correct common misconceptions about day and night, including confusion between rotation and revolution.
 
 ### Answers to Study Questions
 
@@ -39,22 +39,22 @@ Students should be able to:
 17. Near the equator, day and night are often close to equal throughout the year. Near the poles, daylight can vary extremely, including polar day and polar night.
 18. **Polar day** is when the Sun stays above the horizon for 24 hours or more. **Polar night** is when the Sun stays below the horizon for 24 hours or more.
 19. **Twilight** is the light in the sky before sunrise or after sunset, caused by Earth's atmosphere scattering sunlight when the Sun is below the horizon.
-20. **Nocturnal** means active at night. **Diurnal** means active during the day.
+20. **Nocturnal** means active at night. **Diurnal** means active during the day. **Crepuscular** means most active at dawn and dusk.
 21. **Light pollution** is excessive or poorly directed artificial light that brightens the night sky, hides stars, wastes energy, and can affect wildlife.
 22. Yes. Examples: Mars has a day slightly longer than Earth's; Jupiter's day is about 10 hours; the Moon's day-night cycle lasts about a month.
-23. Answers may include: day and night are caused by the Sun moving around Earth; night happens because clouds cover the Sun; the Moon only appears at night; stars disappear during the day; all places have the same daylight hours.
+23. Answers may include: day and night are caused by the Sun moving around Earth; night happens because clouds cover the Sun; the Moon only appears at night; stars disappear during the day; all places have the same daylight hours; rotation and revolution are the same thing.
 24. Answers may vary. A strong answer should state that Earth rotates from west to east, so the Sun, Moon, and stars appear to move westward across the sky even though Earth's spin is the real cause.
 
 ### Activity Suggestions
 
 1. **Lamp and Globe Day-Night Model**
-   Use a lamp as the Sun and a globe as Earth. Mark one location and rotate it through sunrise, day, solar noon, sunset, and night. Ask students to name which side of Earth has day at each position.
+   Use a lamp as the Sun and a globe as Earth. Mark one location and rotate it through sunrise, day, solar noon, sunset, and night. Ask students to name which side of Earth has day at each position and where the terminator is.
 
 2. **Terminator Demonstration**
    Shine a flashlight on a ball in a dim room. Students identify the lit half, dark half, and terminator line, then predict where sunrise and sunset are occurring on the model.
 
 3. **Shadow Clock at Practice or Recess**
-   Place a stick or tent pole upright on a sunny day. Students record shadow direction and length at several times. Connect changes to Earth's rotation and apparent motion of the Sun.
+   Place a stick or tent pole upright on a sunny day. Students record shadow direction and length at several times. Connect changes to Earth's rotation and apparent motion of the Sun. Compare morning, noon, and afternoon using the chapter's shadow table.
 
 4. **Sunrise and Sunset Color Model**
    Use a clear container of water with a small amount of milk and a flashlight to model scattering. Discuss why low sunlight appears redder and why the daytime sky looks blue.
@@ -63,17 +63,21 @@ Students should be able to:
    Give students a world map with several cities. Students determine whether each place is likely in morning, afternoon, evening, or night compared with their location — then discuss why a video call with a cousin abroad might mean very different mealtimes.
 
 6. **Daylight Graph**
-   Provide daylight-hour data for one city across a year. Students graph the data and identify longer summer days and shorter winter days. Reinforce that rotation still causes day and night every day; tilt changes how much of each day is lit.
+   Provide daylight-hour data for one city across a year. Students graph the data and identify longer summer days and shorter winter days. Reinforce that rotation still causes day and night every day; tilt and revolution change how much of each day is lit.
 
 7. **Day Moon Observation**
-   Assign students to look for the Moon during daylight over several days, recording date, time, direction, phase, and weather. Discuss why the full moon is easier at night but other phases can appear by day.
+   Assign students to look for the Moon during daylight over several days, recording date, time, direction, phase, and weather. Discuss why the full moon is easier at night but other phases can appear by day. Connect to the Moon chapter if students have read it.
 
-8. **Nocturnal and Diurnal Sort**
-   Students sort animals as nocturnal, diurnal, or active at dawn and dusk. Connect behavior to light, temperature, safety, and feeding. Optional: discuss how stadium or street lights might affect nocturnal animals.
+8. **Nocturnal, Diurnal, and Crepuscular Sort**
+   Students sort animals as nocturnal, diurnal, or crepuscular. Connect behavior to light, temperature, safety, and feeding. Optional: discuss how stadium or street lights might affect nocturnal animals.
+
+9. **Light Pollution Audit**
+   Students sketch their neighborhood at night from memory or a short evening walk (with adult supervision). Mark light sources that point upward vs. downward. Discuss one change that would help stars and wildlife.
 
 ### Teaching Notes
 
 - Keep the anchor phrase visible: **day and night happen because Earth rotates**.
+- **Sequence:** This chapter works best after **rotation of the Earth** (088) and pairs well with **revolution of the Earth** (089) for the rotation-vs.-revolution table. It focuses on lived experience — sky color, shadows, schedules, light pollution — rather than re-teaching Coriolis, sidereal days, or Foucault's pendulum (those stay in 088).
 - Use a globe and lamp early; students grasp the lit half, dark half, and terminator faster when they see the model.
 - Separate daily causes from seasonal ones: **rotation** causes day and night; **tilt and revolution** change daylight length.
 - Reinforce that the Sun's daily motion is **apparent motion** caused by Earth's rotation.
@@ -81,4 +85,5 @@ Students should be able to:
 - Use shadows as low-cost, outdoor evidence — especially engaging after sports or during recess.
 - Mention eye safety: never look directly at the Sun; never search near the Sun with binoculars or a telescope without proper solar-safe equipment and trained supervision.
 - Connect artificial light to human safety and to the value of dark skies for astronomy and wildlife.
-- If students have read the Rotation of Earth chapter, note that rotation is the shared mechanism; this chapter focuses on what we experience — light, shadows, sky color, schedules, and time zones.
+- For boys 11–13, lean on relatable routines (early bus rides, practice schedules, texting friends in other time zones, camping vs. city skies) rather than abstract lists.
+- The chapter image `090_Day_and_night_01.png` shows Earth, the terminator, and day/night sides — use it when introducing the lit-half model before students touch a globe.

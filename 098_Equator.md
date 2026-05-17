@@ -4,6 +4,8 @@ Cut Earth into a northern half and a southern half like an apple sliced evenly t
 
 The knife's cut is the **equator**.
 
+![Equator](098_Equator_01.png)
+
 ## What the Equator Is
 
 The **equator** is Earth's **0° latitude** line: the great circle halfway between the North Pole and South Pole.

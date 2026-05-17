@@ -1,8 +1,10 @@
 ﻿# Compound
 
-Table salt looks harmless enough. You may sprinkle it on food. But it is made from sodium, a soft metal that reacts violently with water, and chlorine, a poisonous greenish gas.
+You crack open a soda and watch bubbles race upward. You sprinkle salt on fries after a game. You mix baking soda and vinegar for a fizzing volcano demo. You breathe out after a hard sprint and plants later use what you released.
 
-Joined together, they become something entirely different.
+None of those moments look the same. But each one involves **compounds** — pure substances made when atoms of different elements join in a fixed ratio.
+
+Table salt looks harmless enough. It is made from **sodium**, a soft metal that reacts violently with water, and **chlorine**, a poisonous greenish gas. Joined together, they become something entirely different.
 
 That is the power of compounds.
 
@@ -10,7 +12,9 @@ That is the power of compounds.
 
 Compounds make up water, sugar, salt, carbon dioxide, baking soda, chalk, rust, vinegar, many medicines, many plastics, and most of the substances in your body. Chemistry is largely the study of how elements form compounds and how compounds change.
 
-To understand compounds, we must begin with elements.
+As you learned in the chapter on **atoms**, matter is built from tiny particles. As you learned in the chapter on **molecules**, atoms can bond into groups. As you learned in the chapter on **elements**, each element is one kind of atom. **Compounds** are what you get when different elements join chemically — new substances with new properties.
+
+![Compound](064_Compound_01.png)
 
 ## Elements Join Chemically
 
@@ -18,483 +22,267 @@ An **element** is a pure substance made of only one kind of atom.
 
 Hydrogen, oxygen, carbon, sodium, chlorine, iron, and gold are elements.
 
-Elements can join chemically to form compounds.
+Elements can join chemically to form compounds. When they join, their atoms are held together by **chemical bonds**. The result is not just a pile of elements mixed together. It is a new pure substance with its own properties.
 
-When elements join in a compound, their atoms are held together by chemical bonds.
-
-The compound is not just a pile of elements. It is a new pure substance with its own properties.
-
-Hydrogen and oxygen can form water.
-
-Carbon and oxygen can form carbon dioxide.
-
-Sodium and chlorine can form table salt.
+| Starting elements | Compound formed | Formula |
+|-------------------|-----------------|---------|
+| Hydrogen + oxygen | Water | H2O |
+| Carbon + oxygen | Carbon dioxide | CO2 |
+| Sodium + chlorine | Sodium chloride (table salt) | NaCl |
 
 ## Fixed Ratio
 
-A compound has a fixed ratio of elements.
+A compound has a **fixed ratio** of elements — a definite proportion that does not change for that compound.
 
-This means the elements are joined in a definite proportion.
+Water always has two hydrogen atoms for every one oxygen atom. That is why water's formula is H2O.
 
-Water always has hydrogen and oxygen in the same atomic ratio: two hydrogen atoms for every one oxygen atom.
+Carbon dioxide always has one carbon atom for every two oxygen atoms. That is why its formula is CO2.
 
-That is why water's formula is H2O.
+**If the ratio changes, the substance changes.**
 
-Carbon dioxide always has one carbon atom for every two oxygen atoms.
-
-That is why its formula is CO2.
-
-If the ratio changes, the substance changes.
-
-H2O is water. H2O2 is hydrogen peroxide. They contain the same elements, but in different ratios, so they are different compounds with different properties.
+H2O is water. H2O2 is hydrogen peroxide. Same elements, different ratios — different compounds with different properties. Water is safe to drink in ordinary amounts. Hydrogen peroxide is used as a disinfectant and is not something you drink.
 
 ## Pure Substances
 
-A compound is a pure substance.
+A compound is a **pure substance**.
 
-A **pure substance** has a fixed composition.
+A **pure substance** has a fixed composition. Pure water contains water molecules, not random amounts of hydrogen and oxygen floating separately. Pure carbon dioxide contains carbon dioxide molecules. Pure sodium chloride contains sodium and chloride ions in a fixed pattern.
 
-Pure water contains water molecules, not random amounts of hydrogen and oxygen.
+**Important:** pure substance does not always mean element.
 
-Pure carbon dioxide contains carbon dioxide molecules.
-
-Pure sodium chloride contains sodium and chloride ions in a fixed pattern.
+| Type | What it contains | Example |
+|------|------------------|---------|
+| Element | One kind of atom | Gold, oxygen (O2) |
+| Compound | Two or more elements chemically joined | Water, salt, CO2 |
+| Mixture | Substances physically combined | Air, trail mix |
 
 A compound can be pure even though it contains more than one element.
 
-This is important: pure substance does not always mean element.
-
-Elements are pure substances made of one kind of atom.
-
-Compounds are pure substances made of two or more elements chemically joined.
-
 ## Compounds and Mixtures
 
-A compound is different from a mixture.
+A compound is different from a **mixture**.
 
-A **mixture** is matter made of two or more substances physically combined.
+A **mixture** is matter made of two or more substances physically combined. In a mixture, the parts are not chemically joined in a fixed ratio.
 
-In a mixture, the parts are not chemically joined in a fixed ratio.
+| | Compound | Mixture |
+|---|----------|---------|
+| How parts combine | Chemically bonded | Physically mixed |
+| Ratio | Fixed | Can vary |
+| Examples | Water, salt, CO2 | Air, trail mix, salt water |
+| Separation | Usually needs chemical change | Often physical methods work |
 
-Trail mix is a mixture. You can have more raisins or fewer peanuts.
+Trail mix is a mixture — you can have more raisins or fewer peanuts. Air is a mixture of gases. Salt water is a mixture of dissolved salt and water.
 
-Air is a mixture of gases.
-
-Salt water is a mixture of salt and water.
-
-In a compound, the elements are chemically joined in a definite ratio.
-
-Water is a compound. Carbon dioxide is a compound. Table salt is a compound.
-
-Mixtures can often be separated by physical methods. Compounds require chemical changes to break them into simpler substances.
+Water, carbon dioxide, and table salt are compounds. Their elements are locked together in definite ratios.
 
 ## Chemical Bonds
 
 A **chemical bond** is an attraction that holds atoms or ions together.
 
-Compounds form because atoms or ions bond.
+Compounds form because atoms or ions bond. Two important kinds at this level:
 
-Two important kinds of bonding are:
+- **Ionic bonding** — electrons are transferred; oppositely charged ions attract
+- **Covalent bonding** — atoms share electrons
 
-- Ionic bonding
-- Covalent bonding
-
-In ionic bonding, electrons are transferred and oppositely charged ions attract.
-
-In covalent bonding, atoms share electrons.
-
-The kind of bond affects the compound's properties, such as melting point, hardness, solubility, and electrical conductivity.
+The kind of bond affects properties such as melting point, hardness, solubility, and whether the compound conducts electricity when melted or dissolved.
 
 ## Ionic Compounds
 
-An **ionic compound** is made of positive and negative ions held together by electric attraction.
+An **ionic compound** is made of positive and negative **ions** held together by electric attraction.
 
 An **ion** is an atom or group of atoms with an electric charge.
 
-Table salt is an ionic compound.
+Table salt is an ionic compound. Sodium atoms can lose electrons and become positive sodium ions. Chlorine atoms can gain electrons and become negative chloride ions. The opposites attract and form sodium chloride, NaCl.
 
-Sodium atoms can lose electrons and become positive sodium ions.
-
-Chlorine atoms can gain electrons and become negative chloride ions.
-
-The positive and negative ions attract and form sodium chloride, NaCl.
-
-Ionic compounds often form crystals. Many have high melting points. Some conduct electricity when melted or dissolved in water.
+Ionic compounds often form crystals. Many have high melting points. Some conduct electricity when melted or dissolved in water — useful in batteries and many industrial processes.
 
 ## Covalent Compounds
 
 A **covalent compound** is made of atoms joined by sharing electrons.
 
-Water is a covalent compound.
+Water, carbon dioxide, methane, and sugar are covalent compounds. Many covalent compounds form from nonmetal elements. They often exist as **molecules**, though some form large networks.
 
-Carbon dioxide is a covalent compound.
-
-Methane is a covalent compound.
-
-Sugar is a covalent compound.
-
-Many covalent compounds are made from nonmetal elements.
-
-Covalent compounds often exist as molecules, though some form large networks.
-
-Their properties vary widely. Some are gases, some are liquids, and some are solids at room temperature.
+Their properties vary widely — some are gases, some liquids, some solids at room temperature.
 
 ## Molecules and Compounds
 
 A **molecule** is a group of atoms held together by chemical bonds.
 
-Many compounds are made of molecules.
+Many compounds are made of molecules. Water molecules contain hydrogen and oxygen. Carbon dioxide molecules contain carbon and oxygen. Sugar molecules contain carbon, hydrogen, and oxygen.
 
-Water molecules contain hydrogen and oxygen atoms.
+But not every compound is best described as separate little molecules.
 
-Carbon dioxide molecules contain carbon and oxygen atoms.
+| Substance | Compound? | Best picture |
+|-----------|-----------|--------------|
+| Water (H2O) | Yes | Separate molecules |
+| Carbon dioxide (CO2) | Yes | Separate molecules |
+| Table salt (NaCl) | Yes | Repeating pattern of ions, not separate "salt molecules" |
 
-Sugar molecules contain carbon, hydrogen, and oxygen atoms.
-
-But not every compound is best described as separate molecules.
-
-Table salt is made of a repeating pattern of sodium and chloride ions. It is a compound, but not a collection of separate little salt molecules in the same way water is a collection of water molecules.
+Table salt is a compound made of a repeating pattern of sodium and chloride ions — not a bag of tiny NaCl molecules the way a bottle of water holds separate H2O molecules.
 
 ## Chemical Formulas
 
 A **chemical formula** shows which elements are in a compound and how many atoms or ions are represented.
 
-Examples include:
+| Compound | Formula | Elements present |
+|----------|---------|-------------------|
+| Water | H2O | Hydrogen, oxygen |
+| Carbon dioxide | CO2 | Carbon, oxygen |
+| Sodium chloride | NaCl | Sodium, chlorine |
+| Calcium carbonate | CaCO3 | Calcium, carbon, oxygen |
+| Glucose | C6H12O6 | Carbon, hydrogen, oxygen |
 
-- H2O for water
-- CO2 for carbon dioxide
-- NaCl for sodium chloride
-- CaCO3 for calcium carbonate
-- C6H12O6 for glucose
+Formulas use **element symbols** and **subscripts**. Subscripts tell how many atoms of an element are in each formula unit or molecule. No subscript usually means one.
 
-Chemical formulas use element symbols and numbers.
+### Reading Formulas
 
-The numbers are called subscripts.
+In **H2O**: H = hydrogen, 2 = two hydrogen atoms, O = oxygen, no subscript = one oxygen atom.
 
-Subscripts tell how many atoms of an element are present in the formula unit or molecule.
+In **CO2**: C = carbon, O = oxygen, 2 = two oxygen atoms.
 
-## Reading Formulas
+In **C6H12O6**: 6 carbon, 12 hydrogen, 6 oxygen atoms per molecule.
 
-To read a formula, look at each element symbol and its subscript.
-
-In H2O:
-
-- H means hydrogen
-- The 2 means two hydrogen atoms
-- O means oxygen
-- No subscript after O means one oxygen atom
-
-In CO2:
-
-- C means carbon
-- O means oxygen
-- The 2 means two oxygen atoms
-
-In C6H12O6:
-
-- There are 6 carbon atoms
-- 12 hydrogen atoms
-- 6 oxygen atoms
-
-Formulas are one of chemistry's main languages.
+Formulas are one of chemistry's main languages — not just labels, but information about what is inside and in what ratio.
 
 ## Properties of Compounds
 
-A compound has its own properties.
+A compound has its own properties. They can be very different from the elements that form it.
 
-The properties of a compound can be very different from the properties of the elements that form it.
-
-Hydrogen is a gas that burns easily.
-
-Oxygen is a gas that supports burning.
-
-Water, made from hydrogen and oxygen, puts many fires out.
-
-Sodium is a reactive metal.
-
-Chlorine is a poisonous gas.
-
-Sodium chloride is table salt.
+| Element(s) | Properties | Compound | New properties |
+|------------|------------|----------|----------------|
+| Hydrogen (burns) + oxygen (supports burning) | Gases | Water (H2O) | Liquid; puts out many fires |
+| Sodium (reactive metal) + chlorine (poison gas) | Dangerous separately | Sodium chloride (NaCl) | Table salt — safe in normal food amounts |
 
 Chemical bonding creates new substances, not just mixtures of old properties.
 
-## Water
+## Water — Earth's Most Important Compound
 
-Water is one of the most important compounds on Earth.
+Water's formula is H2O. Each molecule has two hydrogen atoms and one oxygen atom.
 
-Its formula is H2O.
+Water is a liquid at ordinary room temperature. It dissolves many substances, moves nutrients in living things, shapes weather, carves landforms, and supports life.
 
-Each water molecule contains two hydrogen atoms and one oxygen atom.
-
-Water is a liquid at ordinary room temperature.
-
-It dissolves many substances, transports materials in living things, shapes weather, carves landforms, and supports life.
-
-Water also has unusual properties. Ice floats on liquid water because solid water is less dense than liquid water.
-
-This one compound affects nearly everything on Earth.
+Ice floats on liquid water because solid water is less dense than liquid water — unusual and important for lakes and oceans in winter.
 
 ## Carbon Dioxide
 
-Carbon dioxide is a compound made of carbon and oxygen.
+Carbon dioxide (CO2) is made of carbon and oxygen. It is a gas at ordinary temperatures.
 
-Its formula is CO2.
+Animals breathe it out. Plants use it in photosynthesis. Burning fuels often produces it. It appears in fizzy drinks, fire extinguishers, and Earth's atmosphere. It is also a **greenhouse gas** — it helps trap heat in the atmosphere.
 
-Carbon dioxide is a gas at ordinary temperatures.
+## Sodium Chloride — Table Salt
 
-Animals breathe it out.
+Sodium chloride (NaCl) is ordinary table salt — ions in a crystal pattern. It dissolves in water and is essential for your body in proper amounts, though too much can be unhealthy.
 
-Plants use it during photosynthesis.
-
-Burning fuels often produces it.
-
-Carbon dioxide is found in fizzy drinks, fire extinguishers, and Earth's atmosphere.
-
-It is also a greenhouse gas, which means it helps trap heat in the atmosphere.
-
-## Sodium Chloride
-
-Sodium chloride is ordinary table salt.
-
-Its formula is NaCl.
-
-It is made of sodium ions and chloride ions.
-
-Sodium chloride forms crystals.
-
-It dissolves in water.
-
-It is important for the human body in proper amounts, but too much can be unhealthy.
-
-It is used in cooking, food preservation, medicine, road de-icing, and many chemical processes.
-
-Salt is a good example of how a compound can be very different from its elements.
+People use it in cooking, food preservation, medicine, road de-icing, and countless chemical processes. Salt is the classic example of a compound that is nothing like its elements.
 
 ## Calcium Carbonate
 
-Calcium carbonate is a compound with the formula CaCO3.
+Calcium carbonate (CaCO3) is in limestone, chalk, marble, seashells, coral, and eggshells.
 
-It is found in limestone, chalk, marble, seashells, coral, and eggshells.
-
-Calcium carbonate can react with acids.
-
-If vinegar touches chalk or a seashell, bubbles may form because carbon dioxide gas is produced.
-
-This reaction helps geologists identify carbonate minerals.
-
-Calcium carbonate also shows how compounds build rocks, shells, and structures in nature.
+If vinegar touches chalk or a seashell, bubbles may form — carbon dioxide gas from a chemical reaction. That reaction helps geologists identify carbonate minerals and shows how compounds build rocks, shells, and structures in nature.
 
 ## Glucose and Sugars
 
-Glucose is a sugar with the formula C6H12O6.
+Glucose (C6H12O6) contains carbon, hydrogen, and oxygen. Plants make it in photosynthesis. Living things use it as a major energy source.
 
-It contains carbon, hydrogen, and oxygen.
-
-Plants make glucose during photosynthesis.
-
-Living things use glucose as an important energy source.
-
-Table sugar, or sucrose, is another compound made of carbon, hydrogen, and oxygen. Its formula is C12H22O11.
-
-Sugars show that compounds can store chemical energy and support life.
+Table sugar (sucrose, C12H22O11) is another compound of carbon, hydrogen, and oxygen. Sugars store chemical energy and support life.
 
 ## Acids, Bases, and Salts
 
-Many compounds are acids, bases, or salts.
+Many compounds are **acids**, **bases**, or **salts**.
 
-An **acid** is a substance that can produce hydrogen ions in water or donate protons in reactions.
+- An **acid** can produce hydrogen ions in water or donate protons in reactions (vinegar contains acetic acid).
+- A **base** can accept protons or produce hydroxide ions in water (baking soda is a mild base).
+- A **salt** is an ionic compound often formed from an acid-base reaction (table salt is a salt).
 
-A **base** is a substance that can accept protons or produce hydroxide ions in water.
+These topics will go deeper in later chapters.
 
-A **salt** is an ionic compound often formed from an acid-base reaction.
+## Organic and Inorganic Compounds
 
-Vinegar contains acetic acid.
+Many carbon-containing compounds are **organic compounds** — sugars, fats, proteins, DNA, vitamins, fuels (methane, gasoline), plastics, and many medicines. Carbon is special because it can form many bonds and many structures, making carbon chemistry extremely rich.
 
-Baking soda is a mild base.
+**Inorganic compounds** include water, salts, minerals, many acids and bases, and metal oxides. Rocks and minerals often contain inorganic compounds. Rust (iron and oxygen) and calcium carbonate in limestone are inorganic.
 
-Table salt is a salt.
-
-These topics will be studied more deeply in later chapters.
-
-## Organic Compounds
-
-Many compounds containing carbon are called **organic compounds**.
-
-Living things contain many organic compounds.
-
-Examples include sugars, fats, proteins, DNA, and many vitamins.
-
-Fuels such as methane, gasoline, and natural gas contain organic compounds.
-
-Plastics and many medicines are also organic compounds.
-
-Carbon is special because it can form many bonds and many different structures.
-
-This makes carbon chemistry extremely rich.
-
-## Inorganic Compounds
-
-Not all compounds are organic.
-
-**Inorganic compounds** include many substances such as water, salts, minerals, acids, bases, and metal oxides.
-
-Rocks and minerals often contain inorganic compounds.
-
-Rust is an inorganic compound involving iron and oxygen.
-
-Calcium carbonate in limestone is inorganic.
-
-The difference between organic and inorganic chemistry is useful, but both are important. The world contains both kinds of compounds.
+Both kinds matter. The world contains both.
 
 ## Compounds in Living Things
 
-Your body is made of many compounds.
+Your body is built from compounds.
 
-Water is the most abundant compound in the body.
+| Compound type | Role |
+|---------------|------|
+| Water | Most abundant; solvent and transport |
+| Proteins | Tissues, enzymes, structure |
+| Fats | Energy storage, cell membranes |
+| Carbohydrates | Energy and structure |
+| DNA | Genetic instructions |
+| Mineral compounds | Bones, signals, cell function |
 
-Proteins help build tissues and control reactions.
+Life depends on compounds arranged in complex, organized ways.
 
-Fats store energy and form cell membranes.
+## Compounds in Earth and Technology
 
-Carbohydrates provide energy and structure.
+Earth is full of compounds. Quartz (silicon and oxygen), limestone (calcium carbonate), clay minerals, and iron ores are examples. Water dissolves compounds, carries minerals, freezes, melts, and reacts with rocks — geology and chemistry stay connected.
 
-DNA stores genetic instructions.
-
-Mineral compounds help build bones, carry signals, and keep cells working.
-
-Life depends on compounds arranged in complex and organized ways.
-
-## Compounds in Earth
-
-Earth is full of compounds.
-
-Rocks are made of minerals, and minerals are often compounds.
-
-Quartz is made of silicon and oxygen.
-
-Limestone contains calcium carbonate.
-
-Clay minerals contain elements such as silicon, oxygen, aluminum, and hydrogen.
-
-Iron ores contain iron compounds.
-
-Water shapes the surface, dissolves compounds, carries minerals, freezes, melts, and reacts with rocks.
-
-Geology and chemistry are closely connected.
-
-## Compounds in Technology
-
-Technology depends on compounds.
-
-Glass is made mainly from compounds of silicon and oxygen.
-
-Concrete contains compounds of calcium, silicon, oxygen, and other elements.
-
-Plastics are made from large carbon-based compounds.
-
-Medicines are carefully designed compounds.
-
-Batteries depend on chemical compounds that react to produce electrical energy.
-
-Computer chips use silicon compounds and extremely pure silicon.
-
-Modern life is built from compounds as much as from metals and machines.
+Technology depends on compounds too: glass (silicon and oxygen compounds), concrete, plastics, medicines, battery materials, and the extremely pure silicon in computer chips. Modern life is built from compounds as much as from metals and machines.
 
 ## Chemical Reactions Make New Compounds
 
-Compounds form and change during chemical reactions.
+Compounds form and change in **chemical reactions**. Bonds break and new bonds form. Atoms rearrange. New substances appear.
 
-In a chemical reaction, bonds break and new bonds form.
-
-Atoms are rearranged.
-
-New substances are produced.
-
-For example, hydrogen and oxygen can react to form water.
-
-Iron can react with oxygen and water to form rust.
-
-Vinegar and baking soda react to form carbon dioxide and other substances.
+- Hydrogen and oxygen can react to form water.
+- Iron can react with oxygen and water to form rust.
+- Vinegar and baking soda react to produce carbon dioxide and other products.
 
 Chemical reactions are how many compounds are made, changed, and broken apart.
 
 ## Breaking Compounds Apart
 
-Compounds can be broken into simpler substances by chemical means.
+Compounds break into simpler substances by **chemical** means — not by simple filtering, sorting, or evaporation alone.
 
-For example, water can be broken into hydrogen and oxygen using electricity in a process called electrolysis.
+Water can be split into hydrogen and oxygen using electricity (**electrolysis**). Those physical methods work well for many **mixtures**, but separating a **compound** into its elements usually requires chemical change.
 
-This is not done by simple filtering, sorting, or evaporation.
-
-Those are physical methods and work well for many mixtures.
-
-To separate a compound into its elements or simpler compounds, chemical change is needed.
-
-This is one of the key differences between compounds and mixtures.
+That difference is one of the most important ideas in chemistry.
 
 ## Conservation of Atoms
 
-In ordinary chemical reactions, atoms are conserved.
+In ordinary chemical reactions, **atoms are conserved** — not created or destroyed, only rearranged.
 
-That means atoms are not created or destroyed.
-
-They are rearranged into new compounds or molecules.
-
-If a reaction begins with 2 hydrogen atoms and 1 oxygen atom, those atoms must still be present after the reaction.
-
-This is why chemical equations must be balanced.
-
-Balanced equations keep track of atoms.
-
-Conservation of atoms is the particle-level explanation for conservation of matter.
+If a reaction begins with 2 hydrogen atoms and 1 oxygen atom, those same atoms must still be present afterward. That is why chemical equations must be **balanced**. Conservation of atoms is the particle-level explanation for conservation of matter.
 
 ## Naming Compounds
 
-Compounds have names.
+Compounds have **common names** (water, baking soda, chalk, table salt) and **systematic chemical names** (sodium chloride, calcium carbonate, carbon dioxide, sodium bicarbonate).
 
-Some names are common names, such as water, baking soda, chalk, and table salt.
-
-Some names are systematic chemical names, such as sodium chloride, calcium carbonate, carbon dioxide, and sodium bicarbonate.
-
-Chemical names often tell which elements are present.
-
-"Sodium chloride" tells us sodium and chlorine are involved.
-
-"Carbon dioxide" tells us carbon and oxygen are involved, and the prefix "di-" means two oxygen atoms.
+Chemical names often tell which elements are present. "Sodium chloride" points to sodium and chlorine. "Carbon dioxide" points to carbon and oxygen; the prefix "di-" means two oxygen atoms.
 
 Learning compound names is like learning a scientific vocabulary.
 
 ## Safe Household Compounds
 
-Many household compounds are useful and safe when used properly.
+Water, sugar, table salt, baking soda, and vinegar are familiar and usually safe when used properly. Even so, science activities have rules:
 
-Water, sugar, table salt, baking soda, and vinegar are familiar examples.
+- Do not taste substances during experiments.
+- Do not mix household chemicals unless an adult gives clear instructions.
+- Some ordinary-looking compounds can irritate skin, damage eyes, give off fumes, or react dangerously with other substances.
 
-But even familiar compounds should be handled thoughtfully in science activities.
-
-Do not taste substances during experiments.
-
-Do not mix household chemicals unless an adult gives clear instructions.
-
-Some ordinary-looking compounds can irritate skin, damage eyes, give off fumes, or react dangerously with other substances.
-
-Safety depends on the substance, amount, concentration, and use.
+Safety depends on the substance, amount, concentration, and use — not on whether it sounds familiar.
 
 ## Common Misconceptions
 
 One mistake is thinking a compound is the same as a mixture. A compound has elements chemically joined in a fixed ratio; a mixture is physically combined and can vary.
 
-Another mistake is thinking compounds must have properties similar to their elements. Compounds can have very different properties.
+Another mistake is thinking compounds must behave like their elements. Salt is nothing like reactive sodium metal plus poisonous chlorine gas.
 
 A third mistake is thinking every compound is made of separate molecules. Ionic compounds such as sodium chloride form repeating ion patterns.
 
 A fourth mistake is thinking formulas are just labels. Formulas show which elements are present and the ratios of their atoms or ions.
 
-A fifth mistake is thinking compounds can always be separated by physical methods. Compounds require chemical changes to break apart.
+A fifth mistake is thinking compounds can always be separated by physical methods alone. Breaking a compound apart usually requires chemical change.
 
 ## Compound Safety
 
-Compounds can be safe, useful, irritating, poisonous, flammable, corrosive, reactive, or explosive depending on what they are and how they are used.
+Compounds can be safe, useful, irritating, poisonous, flammable, corrosive, reactive, or explosive — depending on what they are and how they are used.
 
 Good safety habits include:
 
@@ -515,7 +303,7 @@ Chemical knowledge and careful habits belong together.
 
 A compound is a pure substance made of two or more elements chemically joined in a fixed ratio.
 
-Compounds have chemical formulas, chemical bonds, and properties that can be very different from the elements that form them. Some compounds are molecular, while others are ionic. Compounds make up water, salt, carbon dioxide, sugars, minerals, medicines, plastics, rocks, living things, and many technologies. Chemical reactions form, change, and break compounds by rearranging atoms.
+Compounds have chemical formulas, chemical bonds, and properties that can be very different from the elements that form them. Some compounds are molecular; others are ionic. Compounds make up water, salt, carbon dioxide, sugars, minerals, medicines, plastics, rocks, living things, and much of modern technology. Chemical reactions form, change, and break compounds by rearranging atoms.
 
 If you remember only one sentence, remember this:
 

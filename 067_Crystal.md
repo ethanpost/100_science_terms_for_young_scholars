@@ -1,14 +1,18 @@
 ﻿# Crystal
 
-Look closely at a grain of table salt. It may seem like a tiny white speck, but under a magnifying glass many grains look like little cubes. A snowflake has six-sided beauty. Quartz can grow in pointed shapes. Sugar can form sparkling crystals on a string.
+You pour salt on fries and the grains look like plain white dust. You hang a string in hot sugar water and watch rock candy slowly grow. You catch a snowflake on your glove and see six arms before it melts. You tap the screen on a phone or game controller and never think about the tiny crystal inside that helps it keep time.
 
-These shapes are not accidents.
+None of those moments look the same. But each one involves the same hidden idea.
 
 **A crystal is a solid whose particles are arranged in a regular repeating pattern.**
 
-Crystals are found in salt, sugar, snowflakes, quartz, diamonds, metals, minerals, rocks, computer chips, medicines, and even some parts of living things. Crystals show that the tiny world of atoms, ions, and molecules can create visible order.
+That hidden order is the power of a crystal. It can produce cube-shaped salt grains, sparkling sugar, six-sided snowflakes, hard quartz, blazing diamonds, orderly metal, computer chips, medicines, and minerals inside rocks.
 
-To understand crystals, we must begin with solids.
+Crystals are everywhere: salt, sugar, snowflakes, quartz, diamonds, metals, minerals, rocks, computer chips, medicines, and even some parts of living things. They show that the tiny world of atoms, ions, and molecules can create visible order you can actually see — if you know what to look for.
+
+As you learned in the chapter on **solids**, a solid has definite shape and volume. As you learned in the chapter on **solutions**, dissolved particles can leave a liquid and come back together as solids during **crystallization**. This chapter zooms in on the solids whose particles line up in repeating patterns.
+
+![Crystal](067_Crystal_01.png)
 
 ## Crystals Are Solids
 
@@ -20,9 +24,9 @@ In solids, particles are close together and mostly vibrate in place.
 
 In a crystal, those particles are not arranged randomly. They are arranged in an orderly repeating pattern.
 
-The particles may be atoms, ions, or molecules.
+The particles may be **atoms**, **ions**, or **molecules** — the same tiny building blocks you met in earlier chapters on matter, atoms, and molecules.
 
-This hidden pattern helps explain the shape, hardness, melting point, cleavage, and other properties of a crystal.
+This hidden pattern helps explain the shape, hardness, melting point, cleavage, color, and other properties of a crystal.
 
 ## The Repeating Pattern
 
@@ -38,11 +42,24 @@ Because the pattern repeats, the crystal may grow with flat faces and regular an
 
 The outside shape can give clues about the inside pattern.
 
-## Crystal Lattice
+## Crystal Lattice and Unit Cell
 
 A **crystal lattice** is the regular three-dimensional arrangement of particles in a crystal.
 
-The word lattice means a framework or pattern.
+The word *lattice* means a framework or pattern.
+
+A **unit cell** is the smallest repeating part of that lattice.
+
+Imagine a brick wall. One brick is not the whole wall, but repeating bricks make the wall. In a crystal, the unit cell repeats again and again to build the whole structure.
+
+| Term | Meaning | Think of it as… |
+|------|---------|-----------------|
+| **Crystal lattice** | The full repeating 3D particle pattern | The whole tiled floor |
+| **Unit cell** | The smallest repeating piece of the lattice | One tile that repeats |
+
+Unit cells are far too small to see with your eyes. Scientists use models, mathematics, and special instruments to study them. The unit cell helps explain why crystals often have predictable shapes and angles.
+
+### Examples of Different Lattices
 
 In table salt, sodium ions and chloride ions alternate in a regular lattice.
 
@@ -52,202 +69,120 @@ In metals, atoms are packed in orderly patterns that allow some electrons to mov
 
 Different lattices produce different properties.
 
-## Unit Cell
-
-A **unit cell** is the smallest repeating part of a crystal lattice.
-
-Imagine a brick wall. One brick is not the whole wall, but repeating bricks make the wall.
-
-In a crystal, the unit cell repeats again and again to build the crystal structure.
-
-Unit cells are too small to see with your eyes.
-
-Scientists use models, mathematics, and special instruments to study them.
-
-The unit cell helps explain why crystals have predictable shapes and angles.
-
-## Crystal Faces
+## Crystal Faces, Angles, and Symmetry
 
 The flat surfaces of a crystal are called **crystal faces**.
 
 Crystal faces form because particles add to the growing crystal in an orderly way.
 
-Salt crystals often have cube-like faces.
-
-Quartz crystals often have six-sided prisms with pointed ends.
-
-Snowflakes often show six-sided symmetry.
-
-The shape of a crystal face depends on the arrangement of particles inside.
-
-A crystal's beauty is the visible result of invisible order.
-
-## Angles and Symmetry
-
-Crystals often have regular angles.
+Salt crystals often have cube-like faces. Quartz crystals often have six-sided prisms with pointed ends. Snowflakes often show six-sided symmetry.
 
 The angles between crystal faces are related to the particle pattern inside the crystal.
 
-Crystals also often show **symmetry**.
-
-Symmetry means a balanced or repeated arrangement.
-
-A snowflake has six-sided symmetry because of the way water molecules arrange themselves as ice.
+**Symmetry** means a balanced or repeated arrangement. A snowflake has six-sided symmetry because of the way water molecules arrange themselves as ice.
 
 Not every crystal is perfect or large enough to show obvious symmetry, but the internal order is still present.
+
+A crystal's beauty is the visible result of invisible order.
 
 ## Crystalline and Amorphous Solids
 
 Not all solids are crystals.
 
-A **crystalline solid** has particles arranged in a regular repeating pattern.
+| Type | Particle arrangement | Examples |
+|------|---------------------|----------|
+| **Crystalline solid** | Regular repeating pattern | Salt, sugar, quartz, diamond, snowflakes, many metals |
+| **Amorphous solid** | No regular crystal pattern | Glass, rubber, many plastics, wax, some gels |
 
-An **amorphous solid** does not have a regular crystal pattern.
+Both are solids with definite shape and volume under ordinary conditions. The difference is how the particles are arranged — and that difference affects properties.
 
-Salt, sugar, quartz, diamond, snowflakes, and many metals are crystalline.
-
-Glass, rubber, many plastics, wax, and some gels are amorphous.
-
-Both crystalline and amorphous materials are solids, but their particle arrangements are different.
-
-That difference affects their properties.
+Ordinary window glass is usually amorphous, not crystalline. That is a common point of confusion.
 
 ## Ions, Atoms, and Molecules in Crystals
 
 Crystals can be built from different kinds of particles.
 
-Some crystals are made of ions.
+| Built from | Example | Notes |
+|------------|---------|-------|
+| **Ions** | Table salt (NaCl) | Positive sodium ions and negative chloride ions alternate |
+| **Atoms** | Diamond, many metals | Carbon atoms in a network; metal atoms in orderly packs |
+| **Molecules** | Sugar, ice | Sucrose molecules or water molecules in repeating patterns |
 
-Table salt is made of sodium ions and chloride ions in a repeating pattern.
-
-Some crystals are made of atoms.
-
-Diamond is made of carbon atoms bonded in a network.
-
-Many metals are crystals made of metal atoms arranged in regular patterns.
-
-Some crystals are made of molecules.
-
-Sugar crystals are made of sugar molecules arranged regularly.
-
-Ice crystals are made of water molecules arranged in a pattern.
+Same kinds of particles can form very different crystals if they arrange differently. Carbon is the famous example.
 
 ## Salt Crystals
 
-Table salt is sodium chloride.
+Table salt is sodium chloride. Its formula is NaCl.
 
-Its formula is NaCl.
+Salt crystals often form tiny cubes. Inside the crystal, positive sodium ions and negative chloride ions alternate in a regular pattern. Opposite charges attract, which helps hold the lattice together.
 
-Salt crystals often form tiny cubes.
+Salt dissolves in water because water molecules can pull sodium and chloride ions away from the crystal — the same dissolving idea you studied in the **solution** chapter.
 
-Inside the crystal, positive sodium ions and negative chloride ions alternate in a regular pattern.
+If salt water evaporates, salt crystals can form again. Dissolving and crystallizing are partners.
 
-The ions attract each other because opposite charges attract.
-
-This strong arrangement gives salt its crystal shape and many of its properties.
-
-Salt dissolves in water because water molecules can pull sodium and chloride ions away from the crystal.
-
-## Sugar Crystals
+## Sugar Crystals and Rock Candy
 
 Sugar can form crystals too.
 
-Table sugar is sucrose, a compound made of carbon, hydrogen, and oxygen.
+Table sugar is sucrose, a compound made of carbon, hydrogen, and oxygen. Sugar crystals are made of sugar molecules arranged in an orderly pattern.
 
-Sugar crystals are made of sugar molecules arranged in an orderly pattern.
+**Rock candy** is made by growing large sugar crystals from a sugar solution. As water evaporates or as a hot solution cools, sugar molecules leave the solution and join the growing crystal where they fit the pattern.
 
-Rock candy is made by growing large sugar crystals from a sugar solution.
-
-As water evaporates or as a hot solution cools, sugar molecules leave the solution and join the growing crystal.
-
-The crystal grows when molecules attach in the right places.
+The crystal grows when molecules attach in the right places. That is crystallization in action — and it is one of the best hands-on ways to see hidden order become visible.
 
 ## Quartz Crystals
 
-Quartz is a common mineral made of silicon and oxygen.
+Quartz is a common mineral made of silicon and oxygen. Its formula is SiO₂.
 
-Its formula is SiO2.
+Quartz often forms six-sided crystals with pointed ends. It is hard, durable, and common in many rocks.
 
-Quartz often forms six-sided crystals with pointed ends.
+Quartz is used in glassmaking, watches, electronics, and many industrial materials. Tiny quartz crystals can vibrate at very regular rates, which makes them useful in timekeeping. Your phone or game device may depend on crystal timing you never see.
 
-It is hard, durable, and common in many rocks.
+This is one example of how crystal properties power modern technology.
 
-Quartz is used in glassmaking, watches, electronics, and many industrial materials.
+## Diamond and Graphite: Same Element, Different Structure
 
-Tiny quartz crystals can vibrate at very regular rates, which makes them useful in timekeeping.
+Diamond and graphite are both made of carbon atoms. Yet they are very different.
 
-This is one example of how crystal properties can be used in technology.
+| Property | Diamond | Graphite |
+|----------|---------|----------|
+| Hardness | Extremely hard | Soft and slippery |
+| Appearance | Transparent | Dark gray, used in pencil "lead" |
+| Structure | Strong 3D network of bonded carbon atoms | Flat layers that slide past one another |
 
-## Diamond and Graphite
+Same element. Different crystal structure. Very different properties.
 
-Diamond and graphite are both made of carbon atoms.
-
-Yet they are very different.
-
-Diamond is extremely hard and transparent.
-
-Graphite is soft, dark, and slippery. It is used in pencil "lead."
-
-The difference is the arrangement of the carbon atoms.
-
-In diamond, each carbon atom bonds in a strong three-dimensional network.
-
-In graphite, carbon atoms form flat layers that can slide over one another.
-
-Same element, different crystal structure, very different properties.
+That is one of the most important lessons in materials science: **arrangement matters**.
 
 ## Snowflakes
 
 Snowflakes are ice crystals.
 
-They form when water vapor in cold air changes into ice.
-
-Water molecules arrange themselves in patterns that often produce six-sided shapes.
+They form when water vapor in cold air changes into ice. Water molecules arrange themselves in patterns that often produce six-sided shapes.
 
 No two large snowflakes are likely to be exactly alike because each one travels through different temperatures, humidity, and air currents as it grows.
 
-Snowflakes show how tiny molecular arrangements can create delicate visible forms.
+Snowflakes show how tiny molecular arrangements can create delicate visible forms. They are crystals falling from the sky.
 
-They are crystals falling from the sky.
-
-## Minerals
+## Minerals and Gemstones
 
 A **mineral** is a naturally occurring solid with a definite chemical composition and an orderly crystal structure.
 
-Most rocks are made of minerals.
+Most rocks are made of minerals. Examples include quartz, feldspar, mica, calcite, halite, and diamond.
 
-Examples of minerals include quartz, feldspar, mica, calcite, halite, and diamond.
+Geologists identify minerals using properties such as color, streak, hardness, luster, cleavage, crystal shape, density, and reaction with acid.
 
-Minerals are identified by properties such as:
+Many **gemstones** are crystals valued for beauty, hardness, color, rarity, and durability: diamond, ruby, sapphire, emerald, amethyst, topaz, and garnet.
 
-- Color
-- Streak
-- Hardness
-- Luster
-- Cleavage
-- Crystal shape
-- Density
-- Reaction with acid
+Color often comes from tiny amounts of other elements inside the crystal. Ruby and sapphire are both forms of the mineral corundum. Ruby is red because of traces of chromium. Sapphire can be blue because of traces of iron and titanium.
 
-Crystals are central to geology because minerals are crystalline.
+Tiny impurities can make a crystal more beautiful — and more valuable.
 
-## Gemstones
-
-Many gemstones are crystals.
-
-Diamond, ruby, sapphire, emerald, amethyst, topaz, and garnet are examples.
-
-Gemstones are valued for beauty, hardness, color, rarity, and durability.
-
-Color often comes from small amounts of other elements inside the crystal.
-
-Ruby and sapphire are both forms of the mineral corundum. Ruby is red because of traces of chromium. Sapphire can be blue because of traces of iron and titanium.
-
-Tiny impurities can make a crystal more beautiful.
-
-## Crystal Growth
+## Crystal Growth and Crystallization
 
 Crystals grow when particles join a regular pattern.
+
+**Crystallization** is the process by which crystals form.
 
 Crystal growth can happen from:
 
@@ -259,217 +194,79 @@ Crystal growth can happen from:
 
 The growing crystal is like a building under construction. Particles attach where they fit the pattern.
 
-If conditions are steady and there is enough space, larger and better-shaped crystals may form.
+If conditions are steady and there is enough space, larger and better-shaped crystals may form. If growth is fast or crowded, crystals may be smaller or irregular.
 
-If growth is fast or crowded, crystals may be smaller or irregular.
+### From Solutions: Saturated, Supersaturated, and Seed Crystals
 
-## Crystallization
+Crystals often grow from solutions — connecting back to the **solution** chapter.
 
-**Crystallization** is the process by which crystals form.
+A **saturated solution** holds as much dissolved solute as it can at a certain temperature. If more solute is added, it may not dissolve.
 
-Crystallization can happen when a dissolved substance comes out of solution as a solid.
+A **supersaturated solution** holds more dissolved solute than it normally should at that temperature. Supersaturated solutions are unstable. If a seed crystal is added, or if the solution is disturbed, crystals may suddenly grow.
 
-For example, salt crystals can form when seawater evaporates.
-
-Sugar crystals can form when a concentrated sugar solution cools or loses water.
-
-Crystallization can also happen when molten rock cools and minerals form.
-
-Crystallization is a physical process in many cases, but it can be part of larger chemical processes too.
-
-## Saturated and Supersaturated Solutions
-
-Crystals often grow from solutions.
-
-A **saturated solution** holds as much dissolved solute as it can at a certain temperature.
-
-If more solute is added, it may not dissolve.
-
-A **supersaturated solution** holds more solute than it normally should at that temperature.
-
-Supersaturated solutions are unstable.
-
-If a seed crystal is added, or if the solution is disturbed, crystals may suddenly grow.
-
-Rock candy and some dramatic classroom crystal demonstrations use this idea.
-
-## Seed Crystals
-
-A **seed crystal** is a small crystal used to start or guide crystal growth.
-
-Particles from a solution can attach to the seed crystal.
-
-If the conditions are right, the seed grows into a larger crystal.
-
-Rock candy often starts with sugar crystals on a string or stick.
-
-The seed gives dissolved particles a place to begin building the pattern.
+A **seed crystal** is a small crystal used to start or guide crystal growth. Particles from a solution attach to it. Rock candy often starts with sugar crystals on a string or stick. The seed gives dissolved particles a place to begin building the pattern.
 
 Without a seed, crystals can still form, but they may start in many places and grow smaller.
 
-## Cooling and Crystal Size
+### Cooling Speed and Crystal Size
 
 The speed of cooling affects crystal size.
 
-Slow cooling often allows larger crystals to form because particles have more time to arrange themselves.
+| Cooling | Typical result |
+|---------|----------------|
+| **Slow** | Larger crystals — particles have more time to arrange |
+| **Fast** | Smaller crystals — particles locked in place quickly |
+| **Very fast** (lava at surface) | May form volcanic glass (amorphous, not crystalline) |
 
-Fast cooling often forms smaller crystals because particles are locked into place quickly.
+This idea is important in geology. Igneous rocks that cool slowly underground often have larger mineral crystals. Lava that cools quickly at Earth's surface often has smaller crystals.
 
-This idea is important in geology.
+## Cleavage, Fracture, and Hardness
 
-Igneous rocks that cool slowly underground often have larger mineral crystals.
+Some crystals break along flat planes. This is called **cleavage**.
 
-Lava that cools quickly at Earth's surface often has smaller crystals.
-
-Very rapid cooling may form volcanic glass, which is amorphous rather than crystalline.
-
-## Cleavage and Fracture
-
-Some crystals break along flat planes.
-
-This is called **cleavage**.
-
-Cleavage happens because bonds may be weaker in certain directions inside the crystal lattice.
-
-Mica splits into thin sheets.
-
-Halite, or rock salt, can break into cube-like pieces.
+Cleavage happens because bonds may be weaker in certain directions inside the crystal lattice. Mica splits into thin sheets. Halite (rock salt) can break into cube-like pieces.
 
 If a mineral breaks in irregular shapes instead of flat planes, that is called **fracture**.
 
-Cleavage and fracture help identify minerals.
+**Hardness** is resistance to being scratched. Diamond is extremely hard because of its strong carbon bonding network. Talc is very soft. Quartz is hard enough to scratch glass.
 
-## Hardness
+Geologists often use scratch tests to help identify minerals. Cleavage, fracture, and hardness all depend on particle type and bond arrangement in the crystal.
 
-Crystals can have different hardness.
-
-**Hardness** is resistance to being scratched.
-
-Diamond is extremely hard because of its strong carbon bonding network.
-
-Talc is very soft.
-
-Quartz is hard enough to scratch glass.
-
-Geologists often use scratch tests to help identify minerals.
-
-Hardness depends on the kinds of particles and the strength and arrangement of bonds in the crystal.
-
-## Defects in Crystals
+## Defects and Color
 
 Real crystals are rarely perfect.
 
-A **crystal defect** is a place where the regular pattern is interrupted.
+A **crystal defect** is a place where the regular pattern is interrupted — a missing particle, an extra particle, a different atom in place of the usual one, or a shifted row.
 
-A particle may be missing.
+Defects can change a crystal's color, strength, electrical behavior, and other properties. In some technologies, carefully controlled defects are extremely useful.
 
-An extra particle may be squeezed in.
-
-Another kind of atom may replace one of the usual atoms.
-
-A row of particles may be shifted.
-
-Defects can change a crystal's color, strength, electrical behavior, and other properties.
-
-In some technologies, carefully controlled defects are extremely useful.
-
-## Crystals and Color
-
-Crystals can be colorful.
-
-Sometimes color comes from the main elements in the crystal.
-
-Sometimes color comes from tiny amounts of impurities.
-
-Amethyst is purple quartz. Its color comes from impurities and natural radiation effects.
-
-Ruby is red because of chromium in corundum.
-
-Emerald is green because of small amounts of chromium or vanadium in beryl.
+Crystals can be colorful. Sometimes color comes from the main elements. Sometimes it comes from tiny impurities. Amethyst is purple quartz. Ruby is red corundum with chromium. Emerald is green beryl with small amounts of chromium or vanadium.
 
 Small changes in composition can make large changes in appearance.
 
-## Crystals in Technology
+## Crystals in Technology, Food, and Life
 
-Crystals are not only pretty.
+Crystals are not only pretty. They are useful.
 
-They are useful.
+| Area | Examples |
+|------|----------|
+| **Technology** | Quartz in watches and clocks; silicon in computer chips and solar cells; crystals in lasers, sensors, and medical imaging |
+| **Food** | Sugar and salt crystals; ice in frozen foods; cocoa butter crystals in chocolate; ice crystal size in ice cream |
+| **Living things** | Calcium phosphate crystals in bones and teeth; calcium carbonate in shells and coral; tiny crystals used for balance in some animals |
 
-Quartz crystals help keep time in watches and clocks.
+Many medicines are manufactured and studied as crystals. Modern technology depends on understanding crystal structure.
 
-Silicon crystals are used in computer chips and solar cells.
+In ice cream, small ice crystals make a smoother texture; large ice crystals make it feel grainy. Food science is full of crystals.
 
-Salt crystals are used in food and chemistry.
-
-Certain crystals are used in lasers, sensors, medical imaging, and scientific instruments.
-
-Many medicines are manufactured and studied as crystals.
-
-Modern technology depends on understanding crystal structure.
-
-## Crystals in Food
-
-Crystals appear in food.
-
-Sugar crystals give table sugar its sparkle.
-
-Salt crystals season food.
-
-Ice crystals form in frozen foods.
-
-Chocolate quality depends partly on the crystal form of cocoa butter.
-
-Rock candy is made of large sugar crystals.
-
-In ice cream, small ice crystals make a smoother texture, while large ice crystals make it feel grainy.
-
-Food science is full of crystals.
-
-## Crystals in Living Things
-
-Living things can make crystals.
-
-Bones and teeth contain crystals of minerals containing calcium and phosphate.
-
-Shells and coral contain crystalline calcium carbonate.
-
-Some animals use tiny crystals for balance or vision.
-
-Plants can form crystals of certain compounds inside their tissues.
-
-Not all crystals are rocks. Life can build crystals too.
-
-## X-Ray Crystallography
+## X-Ray Crystallography and Light
 
 Scientists can study crystals using X-rays.
 
-**X-ray crystallography** is a method that uses X-rays to learn the arrangement of atoms in a crystal.
+**X-ray crystallography** is a method that uses X-rays to learn the arrangement of atoms in a crystal. When X-rays pass through a crystal, they scatter in patterns scientists can analyze. This method has helped reveal the structures of minerals, metals, medicines, proteins, DNA, and many other substances.
 
-When X-rays pass through a crystal, they scatter in patterns.
+Crystals can also interact with light in special ways — bending it, splitting it, sparkling from many faces, glowing under ultraviolet light, or passing through as transparent, translucent, or opaque materials.
 
-Scientists can use those patterns to figure out where atoms are.
-
-This method has helped scientists understand minerals, metals, medicines, proteins, DNA, and many other substances.
-
-It is one of the most powerful tools for seeing the hidden order of matter.
-
-## Crystals and Light
-
-Crystals can interact with light in special ways.
-
-Some crystals bend light.
-
-Some split light into different directions.
-
-Some sparkle because of reflection and refraction from many faces.
-
-Some glow under ultraviolet light.
-
-Some are transparent, some translucent, and some opaque.
-
-The arrangement of particles affects how light moves through or reflects from the crystal.
-
-This is why crystals are important in lenses, lasers, jewelry, and instruments.
+The arrangement of particles affects how light moves through or reflects from the crystal. That is why crystals matter in lenses, lasers, jewelry, and instruments.
 
 ## Common Misconceptions
 
@@ -481,7 +278,7 @@ A third mistake is thinking all shiny rocks are crystals. Some shiny materials a
 
 A fourth mistake is thinking glass is a crystal. Ordinary glass is usually amorphous, not crystalline.
 
-A fifth mistake is thinking bigger crystals are always better or purer. Crystal size depends on growth conditions, and purity depends on composition.
+A fifth mistake is thinking bigger crystals are always better or purer. Crystal size depends on growth conditions; purity depends on composition.
 
 ## Crystal Safety
 
@@ -544,3 +341,4 @@ If you remember only one sentence, remember this:
 28. Give three ways crystals are used in technology or daily life.
 29. Name two common misconceptions about crystals.
 30. What are three safety rules for crystal activities?
+31. In your own words, explain how a crystal you have seen or used — salt, sugar, snow, rock candy, a mineral, or a device — shows hidden order on the inside.

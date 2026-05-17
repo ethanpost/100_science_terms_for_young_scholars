@@ -8,6 +8,7 @@ Students should be able to:
 
 - Define the Moon as Earth's natural satellite and explain that it reflects sunlight.
 - Distinguish natural satellites from artificial satellites and explain why the Moon is not a planet.
+- Place the Moon in context of the solar system and the Sun as the light source for phases.
 - Describe the Moon's orbit, the lunar month (~29.5 days), rotation, revolution, and synchronous rotation.
 - Explain the cause of Moon phases and use waxing and waning correctly.
 - Distinguish phases from eclipses and explain why eclipses do not occur every month.
@@ -15,6 +16,7 @@ Students should be able to:
 - Identify regolith, craters, maria, highlands, and the terminator on the lunar surface.
 - Explain the Moon's thin exosphere, extreme temperatures, weaker gravity, and polar water ice.
 - Connect the Moon to tides (including spring and neap tides) and to human exploration.
+- Relate the Moon to everyday contexts (night activity, tides, calendars, camping, observation).
 - Observe the Moon safely and correct common misconceptions.
 
 ### Answers to Study Questions
@@ -39,8 +41,10 @@ Students should be able to:
 18. The Moon's surface gravity is about **one sixth** of Earth's gravity.
 19. The Moon's gravity pulls on Earth and its oceans, causing regular rises and falls in sea level as Earth rotates. **Spring tides** (stronger high and low tides) occur near new and full moon when Sun, Earth, and Moon align. **Neap tides** (milder) occur near first and third quarter when the Sun and Moon pull at right angles.
 20. The **giant impact hypothesis** is the idea that the Moon formed about 4.5 billion years ago when a Mars-sized object struck the young Earth and blasted material into orbit that later came together as the Moon.
-21. **Neil Armstrong** and **Buzz Aldrin** walked on the Moon in **1969** (Apollo 11). Michael Collins orbited above in the command module.
+21. **Neil Armstrong** and **Buzz Aldrin** walked on the Moon in **1969** (Apollo 11). **Michael Collins** orbited above in the command module.
 22. The **terminator** is the line between lunar day and night on the Moon's surface. It is often the best time to see craters and mountains because long shadows make relief stand out; a full moon has shorter shadows and less dramatic detail.
+23. Accept any two clear examples: tides affecting coasts and boating; moonlight for night walks or sports; lunar month in calendars; camping/stargazing plans; eclipse events; historical timekeeping; stabilizing Earth's tilt over long periods; preserved impact history for science.
+24. Strong answers should state that the Moon reflects very bright sunlight while the night sky is dark, so contrast makes it look brilliant even though the surface is darker than fresh snow (more like worn asphalt or charcoal).
 
 ### Activity Suggestions
 
@@ -48,7 +52,7 @@ Students should be able to:
    Use a bright lamp as the Sun, a student or ball as Earth, and a white foam ball as the Moon. One student holds Earth while another orbits the Moon, always turning the same face toward Earth. Pause at new, first quarter, full, and third quarter. Ask: "Which half of the ball is lit? How much can Earth see?"
 
 2. **One-Month Sky Log**
-   Students observe or research the Moon for four weeks. Each entry: date, phase name, rough sketch, and one note (rise time, brightness, or weather). Connect waxing and waning to the calendar. Bonus: photograph the Moon with a phone through a window — compare to sketches.
+   Students observe or research the Moon for four weeks. Each entry: date, phase name, rough sketch, waxing or waning, and one note (brightness, daylight visibility, or weather). Connect the log to the 29.5-day cycle. Bonus: compare phone app icons to sketches.
 
 3. **Synchronous Rotation Walk**
    "Earth" stands still. "Moon" walks a circle around Earth while always facing Earth (not the room). Repeat once without rotating to show the difference. Discuss: the Moon is spinning — we just see one face.
@@ -68,14 +72,23 @@ Students should be able to:
 8. **Apollo Mission Brief or Design-a-Base**
    Teams research one Apollo mission OR sketch a simple lunar base near a pole. Include: goal, one discovery or challenge, and why ice or low gravity matters. Present in two minutes — encourages ownership of exploration history.
 
+9. **Tide Table Challenge**
+   Students find a local or online tide table. Mark two spring-tide dates and two neap-tide dates using phase calendars. Explain in one paragraph how the Moon's gravity and alignment with the Sun produce the pattern.
+
+10. **Safe vs. Unsafe Sky Rules**
+    Sort cards: "lunar eclipse with eyes," "solar eclipse with sunglasses," "Moon through binoculars at night," "Moon through telescope near daytime Sun." Discuss why solar rules are non-negotiable.
+
 ### Teaching Notes
 
+- Open with a post-game walk, camping night, or changing crescent — mirrors **Sun**, **Solar system**, and **Oxidation** hooks for ages 11–13.
 - Keep the anchor phrase visible: **the Moon is Earth's rocky natural satellite and shines by reflected sunlight**.
 - Emphasize that **phases are not caused by Earth's shadow**; Earth's shadow causes lunar eclipses only.
 - Use physical models for phases and eclipses — flat diagrams often confuse students about what is lit.
 - Clarify that the **far side is not permanently dark** and that the Moon has **gravity**, just weaker than Earth's.
-- Connect tides to gravity and to real contexts (harbors, fishing, surfing) so the Moon feels relevant, not abstract.
+- Connect tides to gravity and to real contexts (harbors, fishing, surfing, boat ramps) so the Moon feels relevant, not abstract.
 - Pair the **giant impact hypothesis** with evidence language: scientists compare Moon rocks and Earth rocks; it is not a random guess.
 - Treat **solar eclipse safety as non-negotiable**; lunar eclipses are safe to watch, but the Sun is not.
-- For boys 11–13, lean on exploration (Apollo, future bases), outdoor observation, and hands-on models rather than long lists of phase names without context.
-- The chapter image `084_Moon_01.png` can support a stick-figure cartoon of phases, tides, or Earth–Moon–Sun alignment when available.
+- Connect backward to **solar system**, **Sun**, **gravity**, **mass**, and **weight**; forward to **planets**, **rotation**, and **revolution**.
+- For boys 11–13, lean on exploration (Apollo, future bases), outdoor observation, night sports, and hands-on models rather than long lists of phase names without context.
+- The chapter image `084_Moon_01.png` supports phases, reflected light, and Earth–Moon–Sun alignment — use when introducing phases and the "not its own light" idea.
+- Optional extension: compare the Moon to Galilean moons when students reach the **planets** chapter — Earth has one large moon; Jupiter has many.

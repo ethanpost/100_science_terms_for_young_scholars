@@ -1,162 +1,145 @@
 ﻿# Salt
 
-Shake a few grains of table salt onto black paper and look closely. The tiny white crystals may seem ordinary, but each one is built from charged particles locked together in a neat pattern. Taste a potato chip, smell the ocean, or watch salt melt ice on a winter sidewalk, and you are seeing one familiar member of a much larger chemical family.
+You shake crystals onto hot fries. You taste the ocean after wiping out on a bodyboard. You watch road crews spread white grains on an icy sidewalk so cars do not slide. You crack open a sports drink after a long practice and read "electrolytes" on the label.
 
-When most people hear the word salt, they think of the white crystals sprinkled on food. That familiar table salt is important, but in chemistry the word salt has a much broader meaning. Table salt is only one member of a large family.
+Different moments — same chemistry idea.
+
+When most people hear **salt**, they picture the white shaker on the kitchen table. That familiar **table salt** matters — but in chemistry the word **salt** means something much bigger.
 
 **A salt is an ionic compound often formed when an acid reacts with a base.**
 
-Salts are found in oceans, rocks, soil, foods, medicines, fertilizers, batteries, fireworks, caves, shells, bones, and living cells. Some salts are safe in small amounts. Some are poisonous. Some dissolve easily in water. Some barely dissolve at all.
+Salts show up in oceans, rocks, soil, food, medicine, batteries, fireworks, caves, shells, bones, and living cells. Some are safe in small amounts. Some are poisonous. Some dissolve easily in water. Some barely dissolve at all.
 
-To understand salts, we must begin with ions.
+As you learned in the chapters on **acids** and **bases**, many salts form when acids and bases **neutralize** each other. As you learned in the chapter on **crystals**, many salts grow as solids with repeating ion patterns. This chapter ties those ideas together.
+
+![Salt](070_Salt_01.png)
 
 ## Salts Are Ionic Compounds
 
-An **ionic compound** is made of positive and negative ions held together by electric attraction.
+A **salt** is built from charged particles called **ions**.
 
 An **ion** is an atom or group of atoms with an electric charge.
 
-A positive ion is called a **cation**.
+| Term | Charge | Example |
+|------|--------|---------|
+| **Cation** | Positive (+) | Sodium ion (Na+) |
+| **Anion** | Negative (−) | Chloride ion (Cl−) |
 
-A negative ion is called an **anion**.
+An **ionic compound** is made of positive and negative ions held together by electric attraction.
 
-In a salt, positive and negative ions attract each other and form a neutral compound overall.
+In a salt, cations and anions attract each other. Their charges **balance** so the compound is neutral overall — not positively or negatively charged as a whole.
 
-The charges balance.
+That is why table salt feels ordinary even though it is made of charged pieces locked in a crystal.
 
-This is why table salt, sodium chloride, is not positively or negatively charged overall even though it is made of charged ions.
+## Table Salt: The One You Know Best
 
-## Table Salt
-
-Table salt is sodium chloride.
+Table salt is **sodium chloride**.
 
 Its formula is **NaCl**.
 
-It is made of sodium ions and chloride ions.
+It is made of sodium ions (Na+, positive) and chloride ions (Cl−, negative). They attract each other and lock into a **crystal lattice** — a regular three-dimensional pattern of ions.
 
-Sodium ions have positive charge.
+| Fact | Detail |
+|------|--------|
+| Formula | NaCl |
+| Ions | Na+ and Cl− |
+| Ratio | One sodium for every chloride |
+| Common uses | Food, preservation, medicine, water softening, road de-icing |
 
-Chloride ions have negative charge.
+Sodium chloride is only **one** salt. Chemistry includes hundreds more.
 
-The opposite charges attract and form a crystal lattice.
-
-Table salt is used in food, cooking, preservation, medicine, water softening, road de-icing, and many chemical processes.
-
-But sodium chloride is only one salt.
-
-## Salt in Chemistry
+## Salt in Chemistry — Not Just the Shaker
 
 In everyday speech, "salt" usually means sodium chloride.
 
-In chemistry, a salt is a much wider category.
+In chemistry, a **salt** is any ionic compound made of balanced positive and negative ions — often from an acid-base reaction, but not always.
 
-Examples of salts include:
+| Salt | Formula | Notes |
+|------|---------|-------|
+| Sodium chloride | NaCl | Table salt; edible in small amounts |
+| Calcium carbonate | CaCO₃ | Limestone, chalk, eggshells |
+| Magnesium sulfate | MgSO₄ | Epsom salt |
+| Sodium bicarbonate | NaHCO₃ | Baking soda |
+| Potassium nitrate | KNO₃ | Fertilizer; handle with care |
+| Copper sulfate | CuSO₄ | Bright blue crystals; **not safe to eat** |
 
-- Sodium chloride
-- Calcium carbonate
-- Magnesium sulfate
-- Copper sulfate
-- Potassium nitrate
-- Sodium bicarbonate
-- Calcium chloride
+Some salts are useful in food. Some are used in farming, medicine, or construction. Some are dangerous. **Do not assume a substance is safe because it is called a salt.**
 
-These substances have different properties and uses.
+## Acids, Bases, and Neutralization
 
-Some are edible in small amounts. Some are not safe to eat. Some are used in fertilizers, medicine, construction, cleaning, and industry.
+Many salts form when an **acid** and a **base** react.
 
-## Acids, Bases, and Salts
+An **acid** can donate protons or produce hydrogen ions (H+) in water.
 
-Many salts form when acids and bases react.
+A **base** can accept protons or produce hydroxide ions (OH−) in water.
 
-An **acid** can donate protons or produce hydrogen ions in water.
+When they meet, they can **neutralize** each other — reduce their sharp acidic and basic properties. That reaction is called **neutralization**.
 
-A **base** can accept protons or produce hydroxide ions in water.
+Many neutralization reactions produce **water** and a **salt**.
 
-When an acid and a base react, the reaction is called **neutralization**.
+Example: hydrochloric acid (HCl) plus sodium hydroxide (NaOH) can form water and sodium chloride (NaCl).
 
-Many neutralization reactions produce water and a salt.
+The sodium comes from the base. The chloride comes from the acid.
 
-For example:
+### Neutralization Is Not Always "Perfectly Safe"
 
-Hydrochloric acid can react with sodium hydroxide to produce sodium chloride and water.
+The word **neutralization** can trick people.
 
-The sodium part comes from the base. The chloride part comes from the acid.
+It does **not** always mean the final mixture is perfectly neutral, perfectly harmless, or ready to taste.
 
-## Neutralization
+| Situation | What can happen |
+|-----------|-----------------|
+| Too much acid left | Mixture may still be acidic |
+| Too much base left | Mixture may still be basic |
+| Heat released | Mixture can get hot |
+| Harmful salt formed | Product may still be dangerous |
 
-**Neutralization** is a reaction between an acid and a base that reduces acidic and basic properties.
+Neutralization is powerful chemistry. It belongs in the lab or under adult control — not in random mixing at home.
 
-The word neutralization can be a little tricky.
+## Salt Formulas and Charge Balance
 
-It does not always mean the final solution is perfectly neutral or perfectly safe.
+Salt formulas show the **ratio of ions** needed so charges balance to zero.
 
-If too much acid remains, the solution may still be acidic.
+| Salt | Formula | What it means |
+|------|---------|---------------|
+| Sodium chloride | NaCl | 1 Na+ balances 1 Cl− |
+| Calcium chloride | CaCl₂ | 1 Ca²⁺ balances 2 Cl− |
+| Magnesium sulfate | MgSO₄ | 1 Mg²⁺ balances 1 SO₄²⁻ |
 
-If too much base remains, the solution may still be basic.
-
-The reaction can also release heat.
-
-Neutralization is important, but it must be handled carefully.
-
-## Salt Formulas
-
-Salt formulas show the ratio of ions.
-
-Sodium chloride is NaCl. This means sodium ions and chloride ions combine in a one-to-one ratio.
-
-Calcium chloride is CaCl2. This means one calcium ion balances with two chloride ions.
-
-Magnesium sulfate is MgSO4. This means one magnesium ion balances with one sulfate ion.
-
-The formula of a salt must balance electric charges.
-
-Positive and negative charges must add to zero overall.
+Positive and negative charges must add up to **zero overall**. That is why formulas look the way they do.
 
 ## Crystal Lattices
 
-Many salts form crystals.
+Many salts form **crystals** — solids whose particles sit in a regular repeating pattern.
 
-A **crystal** is a solid whose particles are arranged in a regular repeating pattern.
+In sodium chloride, sodium and chloride ions alternate in a lattice that extends in all directions. That hidden order is why salt grains often look **cube-shaped**.
 
-In sodium chloride, sodium ions and chloride ions alternate in a crystal lattice.
-
-The lattice extends in all directions.
-
-This is why salt grains often have cube-like shapes.
-
-The crystal shape comes from the hidden arrangement of ions.
-
-Different salts can form different crystal shapes because their ions arrange differently.
+Different salts form different crystal shapes because their ions pack differently. If you studied **crystals** already, you have seen this idea from another angle: the shape you see comes from the arrangement you cannot.
 
 ## Dissolving Salts
 
 Many salts dissolve in water.
 
-When sodium chloride dissolves, water molecules pull sodium ions and chloride ions away from the crystal.
+When sodium chloride dissolves, water molecules pull Na+ and Cl− ions away from the crystal. The ions spread through the water.
 
-The ions spread throughout the water.
+The salt has **not** disappeared. It is present as **dissolved ions** — too small to see, but still there.
 
-The salt has not disappeared. It is present as dissolved ions.
+If the water evaporates, crystals can form again. That is how salt is recovered from seawater in **salt ponds** and how ancient seas left salt deposits behind.
 
-If the water evaporates, salt crystals can form again.
-
-This is how salt can be recovered from seawater in salt ponds.
-
-## Solubility of Salts
+## Solubility
 
 Not all salts dissolve equally well.
 
 **Solubility** is how much solute can dissolve in a certain amount of solvent at a certain temperature.
 
-Sodium chloride dissolves fairly well in water.
+| Salt | In water |
+|------|----------|
+| Sodium chloride | Dissolves fairly well |
+| Calcium carbonate | Dissolves poorly in pure water |
+| Silver chloride | Dissolves very little |
+| Potassium nitrate | Dissolves much better in hot water than cold |
 
-Calcium carbonate dissolves poorly in pure water.
-
-Silver chloride dissolves very little in water.
-
-Potassium nitrate dissolves much better in hot water than in cold water.
-
-The solubility of a salt depends on the salt, the solvent, and the temperature.
+Solubility depends on the salt, the solvent, and the temperature.
 
 ## Electrolytes
 
@@ -164,251 +147,153 @@ Dissolved salts can make water conduct electricity.
 
 An **electrolyte** is a substance that forms ions in solution and allows the solution to conduct electric current.
 
-Salt water conducts electricity much better than pure water because it contains moving ions.
+Pure water conducts poorly. **Salt water** conducts much better because moving ions carry charge.
 
-Your body uses dissolved salts as electrolytes.
+Your body uses dissolved salts as electrolytes. Sodium, potassium, calcium, magnesium, chloride, and phosphate ions help nerves, muscles, cells, and body fluids work. Sweat tastes salty because it carries dissolved salts — but tasting sweat is not a science test.
 
-Sodium, potassium, calcium, magnesium, chloride, and phosphate ions help nerves, muscles, cells, and body fluids work properly.
+Electrolytes matter. Too much or too little can be harmful. Sports drinks and medical fluids are designed around that balance — not around "more salt is always better."
 
-Electrolytes are important, but too much or too little can be harmful.
-
-## Salts in the Body
+## Salts in the Body and Diet
 
 The human body needs salts.
 
-Sodium and chloride help maintain fluid balance.
+- **Sodium and chloride** help maintain fluid balance.
+- **Potassium** supports nerves and muscles.
+- **Calcium** salts help build bones and teeth.
+- **Magnesium and phosphate** play roles inside cells.
 
-Potassium helps nerves and muscles work.
+Table salt is useful, but too much **sodium** in the diet can be unhealthy for many people. High sodium intake can contribute to high blood pressure in some individuals. Many processed foods contain added salt.
 
-Calcium salts help build bones and teeth.
-
-Magnesium and phosphate ions are important in cells.
-
-Sweat contains dissolved salts.
-
-This is why sweat can taste salty, though tasting sweat is not a science test.
-
-The body needs the right balance of salts, not simply more.
-
-## Too Much Salt
-
-Table salt is useful, but too much sodium in the diet can be unhealthy for many people.
-
-High sodium intake can contribute to high blood pressure in some individuals.
-
-Many processed foods contain added salt.
-
-The body needs sodium, but it needs a sensible amount.
-
-Nutrition is chemistry plus biology.
-
-Students should follow family, doctor, and nutrition guidance about diet.
+The body needs the **right balance**, not simply more. Follow family, doctor, and nutrition guidance about diet.
 
 ## Salts in Food
 
-Salts affect food in several ways.
+Salts shape food in several ways.
 
-Table salt adds flavor.
+**Flavor.** Table salt sharpens taste.
 
-Salt can help preserve foods by making conditions harder for many microbes.
+**Preservation.** Salt can make conditions harder for many microbes — which is why people have salted meat and fish for centuries.
 
-Baking soda, sodium bicarbonate, is a salt that can react with acids to produce carbon dioxide gas. That gas can help baked goods rise.
+**Rising.** Baking soda (sodium bicarbonate, NaHCO₃) is a salt that acts as a mild base. When it reacts with an acid in batter, **carbon dioxide** gas forms and helps muffins and quick breads rise. Vinegar plus baking soda produces the same gas — the classic fizz demo.
 
-Calcium salts can firm some foods.
+**Texture.** Calcium salts can firm some foods. Mineral salts occur naturally in many vegetables and grains.
 
-Mineral salts naturally occur in many foods.
-
-Food chemistry depends on salts, acids, bases, water, heat, and living materials.
+Food chemistry is salts, acids, bases, water, heat, and living ingredients working together.
 
 ## Salts in the Ocean
 
-Seawater contains many dissolved salts.
+Seawater holds many dissolved salts.
 
-The most common dissolved salt is sodium chloride, but seawater also contains magnesium, calcium, potassium, sulfate, carbonate, and other ions.
+The most common is sodium chloride, but seawater also contains magnesium, calcium, potassium, sulfate, carbonate, and other ions.
 
 The saltiness of water is called **salinity**.
 
-Rivers carry dissolved minerals from rocks to the ocean.
-
-Water evaporates from the ocean, but most dissolved salts stay behind.
-
-Over long periods, this helps make oceans salty.
+Rivers carry dissolved minerals from rocks toward the ocean. Water evaporates from the ocean surface, but most dissolved salts stay behind. Over long time, that helps make oceans salty.
 
 ## Salts in Rocks and Minerals
 
-Many minerals are salts or contain salt-like ionic structures.
+Many minerals are salts or salt-like ionic structures.
 
-Halite is rock salt, sodium chloride.
+| Mineral | Salt type | Where you see it |
+|---------|-----------|------------------|
+| Halite | Sodium chloride | Rock salt, salt mines |
+| Calcite | Calcium carbonate | Limestone, marble, chalk, shells |
+| Gypsum | Calcium sulfate | Drywall, cave deposits |
+| Fluorite | Calcium fluoride | Crystals, industrial uses |
 
-Calcite is calcium carbonate.
+Geology and chemistry meet in these solids.
 
-Gypsum is calcium sulfate with water in its crystal structure.
+## Families of Salts
 
-Fluorite is calcium fluoride.
+Chemists group many salts by their negative ion.
 
-These minerals form rocks, cave deposits, crystals, building materials, and industrial resources.
+### Carbonates
 
-Geology and chemistry meet in salts.
+**Carbonates** contain the carbonate ion (CO₃²⁻).
 
-## Carbonates
+Calcium carbonate appears in limestone, marble, chalk, seashells, coral, and eggshells.
 
-**Carbonates** are salts containing the carbonate ion.
+Many carbonates react with acids to produce **carbon dioxide** gas. That is why vinegar bubbles on chalk or eggshell.
 
-The carbonate ion contains carbon and oxygen.
+### Nitrates
 
-Calcium carbonate is found in limestone, marble, chalk, seashells, coral, and eggshells.
+**Nitrates** contain the nitrate ion (NO₃⁻).
 
-Carbonates often react with acids to produce carbon dioxide gas.
+Nitrate salts are used in **fertilizers** because plants need nitrogen. Too much nitrate washing into rivers and lakes can fuel algal blooms and harm ecosystems.
 
-This is why vinegar can bubble on chalk or eggshell.
+Some nitrates appear in fireworks and explosives. Useful chemistry must be handled responsibly.
 
-Carbonates are important in geology, oceans, living shells, caves, and the carbon cycle.
+### Sulfates
 
-## Nitrates
+**Sulfates** contain the sulfate ion (SO₄²⁻).
 
-**Nitrates** are salts containing the nitrate ion.
-
-Nitrates contain nitrogen and oxygen.
-
-Many nitrates dissolve in water.
-
-Nitrate salts are used in fertilizers because plants need nitrogen to grow.
-
-Too much nitrate washing into rivers and lakes can cause environmental problems, including algal blooms.
-
-Some nitrates are also used in fireworks and explosives.
-
-Useful chemistry must be handled responsibly.
-
-## Sulfates
-
-**Sulfates** are salts containing the sulfate ion.
-
-Sulfates contain sulfur and oxygen.
-
-Magnesium sulfate is known as Epsom salt.
-
-Calcium sulfate is found in gypsum.
-
-Copper sulfate forms bright blue crystals and is used in some laboratory and agricultural applications, but it can be harmful and should not be handled casually.
-
-Sulfate salts appear in minerals, water, medicine, and industry.
-
-## Baking Soda
-
-Baking soda is sodium bicarbonate.
-
-Its formula is NaHCO3.
-
-It is a salt that can act as a mild base.
-
-When baking soda reacts with an acid, carbon dioxide gas is produced.
-
-This reaction helps cakes, muffins, and quick breads rise.
-
-Vinegar and baking soda also react to produce carbon dioxide bubbles.
-
-Baking soda is familiar and useful, but it is still a chemical substance and should be used properly.
+Magnesium sulfate is **Epsom salt**. Calcium sulfate is in **gypsum**. Copper sulfate forms bright blue crystals used in some labs and agriculture — but it can be harmful and should not be handled casually.
 
 ## Salt and Ice
 
-Salt can lower the freezing point of water.
+Salt can **lower the freezing point** of water.
 
-This is why salt is sometimes used on icy roads and sidewalks.
+That is why salt is spread on icy roads and sidewalks. Salt does not create heat. It changes how ice melts and water freezes.
 
-Salt does not create heat. It changes the freezing and melting behavior of water.
+Salt water can stay liquid below 0 °C. The same idea appears in old-fashioned ice-cream makers: ice plus salt can get very cold.
 
-Salt water can remain liquid below 0 degrees Celsius.
+Salt-ice mixtures can injure skin if handled carelessly. Treat them with respect.
 
-This same idea is used in making ice cream with ice and salt.
+## Hard Water
 
-Salt and ice mixtures can become very cold and can injure skin if handled carelessly.
+**Hard water** contains dissolved minerals, especially calcium and magnesium salts.
 
-## Salts and Water Hardness
+It can leave **scale** in pipes, kettles, and appliances and make soap less effective. **Water softening** removes or exchanges some of those ions.
 
-Hard water contains dissolved minerals, especially calcium and magnesium salts.
+Hard water is not always unsafe, but it can be inconvenient — another way dissolved salts affect daily life.
 
-Hard water can leave scale in pipes, kettles, and appliances.
+## Salts in Medicine and Industry
 
-It can also make soap less effective.
+Many medicines are prepared as **salts** so they dissolve, absorb, or store better.
 
-Water softening removes or changes some of these ions.
+**Saline solution** is carefully prepared salt water for medical rinsing or fluid replacement — only under proper guidance.
 
-Hard water is not always unsafe, but it can be inconvenient.
+Salts are industrial workhorses: glass, soap, paper, fertilizers, dyes, metals, batteries, and cleaning products. Sodium chloride is used to produce chlorine and sodium hydroxide. Calcium carbonate goes into cement and agriculture. Potassium salts feed crops.
 
-The behavior of dissolved salts affects homes and machines.
-
-## Salts in Medicine
-
-Many medicines are salts.
-
-Turning a medicine into a salt can make it dissolve better, absorb better, or store better.
-
-Saline solution is salt water prepared carefully for medical use.
-
-It can be used for rinsing, cleaning wounds, or replacing fluids under medical guidance.
-
-Epsom salt and other salts have medical uses when used properly.
-
-Never take salts or medicines unless instructed by an adult or medical professional.
-
-## Salts in Industry
-
-Salts are important industrial materials.
-
-They are used to make glass, soap, paper, fertilizers, medicines, dyes, metals, batteries, and cleaning products.
-
-Sodium chloride is used to produce chlorine and sodium hydroxide.
-
-Calcium carbonate is used in cement, paper, plastics, and agriculture.
-
-Potassium salts are used in fertilizers.
-
-Salts are quiet workhorses of chemistry.
+Salts do quiet, enormous work behind the scenes.
 
 ## Precipitation Reactions
 
-Sometimes two solutions react and form an insoluble salt.
+Sometimes two solutions mix and form a solid salt that does not dissolve well.
 
-The solid that forms is called a **precipitate**.
+The solid is called a **precipitate**.
 
-A **precipitation reaction** happens when dissolved ions combine to form a solid that does not dissolve well.
+A **precipitation reaction** happens when dissolved ions combine to form an insoluble product.
 
-For example, some solutions containing silver ions and chloride ions can form solid silver chloride.
+Example: solutions containing silver ions and chloride ions can form solid **silver chloride** — a cloudy or white solid that shows a new substance has formed.
 
-The cloudy or solid material shows that a new substance has formed.
-
-Precipitation reactions are used in water treatment, analysis, and chemistry labs.
+Precipitation reactions matter in water treatment, chemical analysis, and laboratory testing.
 
 ## Salt Is Not Always Safe
 
-The word salt can sound harmless because table salt is familiar.
+Table salt is familiar. That familiarity can fool you.
 
-But many salts are dangerous.
+Many salts are poisonous, corrosive, or harmful to the environment. Some irritate skin or eyes. Some are reactive or oxidizing.
 
-Some are poisonous.
+| Examples requiring caution | Risk |
+|----------------------------|------|
+| Copper sulfate | Harmful if swallowed or mishandled |
+| Lead and mercury salts | Poisonous |
+| Many nitrate salts | Oxidizing; used in explosives |
 
-Some irritate skin or eyes.
-
-Some can harm the environment.
-
-Some are reactive or oxidizing.
-
-Copper sulfate, lead salts, mercury salts, and many nitrate salts require caution.
-
-Do not assume a substance is safe because it is called a salt.
+**Do not assume a substance is safe because it is called a salt.** Colorful crystals and cool names do not prove safety.
 
 ## Common Misconceptions
 
-One mistake is thinking all salts are table salt. Table salt is only sodium chloride.
+One mistake is thinking **all salts are table salt**. Sodium chloride is only one member of a large family.
 
-Another mistake is thinking all salts are safe to eat. Many salts are poisonous or harmful.
+Another mistake is thinking **all salts are safe to eat**. Many are poisonous or harmful.
 
-A third mistake is thinking salts are always made by simply mixing any acid and base carelessly. Acid-base reactions require correct substances, amounts, and safety controls.
+A third mistake is thinking salts form by **carelessly mixing any acid and base**. Correct substances, amounts, and safety controls matter — as do heat and leftover reactants.
 
-A fourth mistake is thinking dissolved salt disappears. It is still present as ions in solution.
+A fourth mistake is thinking **dissolved salt disappears**. It is still present as ions in solution.
 
-A fifth mistake is thinking neutralization always produces a harmless mixture. The final mixture may still contain extra acid, base, heat, or a harmful salt.
+A fifth mistake is thinking **neutralization always produces a harmless mixture**. Extra acid, extra base, heat, or a dangerous salt can remain.
 
 ## Salt Safety
 
@@ -431,43 +316,37 @@ Familiar table salt belongs in the kitchen. Unknown laboratory salts belong unde
 
 ## The Big Idea
 
-A salt is an ionic compound often formed when an acid reacts with a base.
+A salt is an ionic compound made of balanced positive and negative ions, often produced when an acid reacts with a base.
 
-Salts are made of positive and negative ions whose charges balance. Many salts form crystals, dissolve in water, and conduct electricity when dissolved because they produce ions. Table salt is sodium chloride, but chemistry includes many salts, such as carbonates, nitrates, sulfates, bicarbonates, and mineral salts. Salts are important in food, bodies, oceans, rocks, medicine, farming, industry, and chemical reactions.
+Salts form crystals, dissolve in water, and can conduct electricity when dissolved because they produce moving ions. Table salt is sodium chloride, but chemistry includes carbonates, nitrates, sulfates, bicarbonates, and mineral salts in oceans, rocks, food, bodies, medicine, farming, and industry.
 
 If you remember only one sentence, remember this:
 
-**A salt is an ionic compound made of balanced positive and negative ions, often produced by acid-base reactions.**
+**A salt is an ionic compound of balanced ions — often from acid-base reactions — and not every salt belongs on your fries.**
 
 ## Study Questions
 
 1. What is a salt in chemistry?
 2. Why is table salt only one example of a salt?
 3. What is an ionic compound?
-4. What is an ion?
-5. What is a cation?
-6. What is an anion?
-7. Why is sodium chloride neutral overall?
-8. What is the formula for sodium chloride?
-9. What ions make up sodium chloride?
-10. How can an acid and a base form a salt?
-11. What is neutralization?
-12. Why does neutralization not always mean the final mixture is perfectly safe?
-13. What do salt formulas show?
-14. Why must the charges in a salt balance?
-15. What is a crystal lattice?
-16. Why do salt grains often have cube-like shapes?
-17. What happens when sodium chloride dissolves in water?
-18. What is solubility?
-19. What is an electrolyte?
-20. Why does salt water conduct electricity better than pure water?
-21. Name four ions important in the human body.
-22. Why can too much table salt in the diet be unhealthy for many people?
-23. What is salinity?
-24. Why are oceans salty?
-25. What are carbonates?
-26. What gas forms when many carbonates react with acids?
-27. What is baking soda, and what gas can it produce when reacting with acids?
-28. What is a precipitate?
-29. Name two common misconceptions about salts.
-30. What are three safety rules for studying salts?
+4. What is the difference between a cation and an anion?
+5. Why is sodium chloride neutral overall even though it contains charged ions?
+6. What is the formula for sodium chloride, and which ions does it contain?
+7. How can an acid and a base form a salt?
+8. What is neutralization?
+9. Why does neutralization not always mean the final mixture is perfectly safe?
+10. What do salt formulas show, and why must charges balance?
+11. What is a crystal lattice, and why do salt grains often look cube-shaped?
+12. What happens when sodium chloride dissolves in water?
+13. What is solubility?
+14. What is an electrolyte, and why does salt water conduct electricity better than pure water?
+15. Name three ions important in the human body.
+16. Why can too much sodium in the diet be unhealthy for many people?
+17. What is salinity, and why are oceans salty?
+18. What are carbonates, and what gas forms when many carbonates react with acids?
+19. What is baking soda, and what gas can it produce when reacting with acids?
+20. How does salt affect the freezing point of water?
+21. What is a precipitate?
+22. Name two common misconceptions about salts.
+23. What are three safety rules for studying salts?
+24. In your own words, explain how salts connect something you eat, something in nature, and something from the acid-base chapters you have studied.

@@ -1,433 +1,286 @@
 ﻿# Carbon
 
-The black mark from a pencil, the sparkle of a diamond, the sugar in an apple, the wood in a tree, the gasoline in a car, and the carbon dioxide you breathe out all have something in common.
+You sharpen a pencil and leave a gray-black streak on paper. That streak is mostly **graphite** — a form of carbon, not metal lead.
 
-They contain carbon.
+Hold a diamond up to light and it throws back sharp sparkles. Diamond is also carbon. Same element, wildly different look and feel.
+
+Bite into an apple or a slice of pizza. The sugars, fats, and proteins in your food are built around carbon atoms. So is the wood in a desk, the rubber in sneakers, the plastic on a phone case, and the gasoline that powers many cars.
+
+After a hard workout you breathe harder. Part of what you push out is **carbon dioxide** — carbon linked to oxygen, returning to the air.
+
+Carbon is everywhere, yet easy to overlook because it hides inside molecules instead of shouting its name.
 
 **Carbon is a chemical element with atomic number 6, famous for forming many compounds and serving as a basic element of life.**
 
-Carbon is one of the most important elements in science. It forms the backbone of living molecules, fuels, plastics, medicines, foods, and many materials. It can be soft graphite, hard diamond, invisible carbon dioxide, or part of the DNA inside your cells.
+Carbon forms the backbone of living molecules, fuels, plastics, medicines, foods, and countless materials. It can be soft graphite, hard diamond, invisible carbon dioxide, or part of the DNA inside your cells.
 
-To understand carbon, we must begin with atoms and elements.
+As you learned in the chapter on **elements**, an element is a pure substance made of only one kind of atom. As you learned in the chapter on **atoms**, every atom has a nucleus of protons and neutrons with electrons around it. As you learned in the chapter on **molecules**, atoms can bond into larger groups. Carbon is element number 6 — and one of the greatest "builders" in all of chemistry.
+
+![Carbon](074_Carbon_01.png)
 
 ## Carbon Is an Element
 
-An **element** is a pure substance made of only one kind of atom.
+**Carbon** is an element because every carbon atom is the same kind of atom.
 
-Carbon is an element because it is made of carbon atoms.
-
-Every carbon atom has 6 protons in its nucleus.
-
-That means carbon's atomic number is 6.
+Every carbon atom has **6 protons** in its nucleus. That number is carbon's **atomic number**: 6.
 
 Carbon's chemical symbol is **C**.
 
-On the periodic table, carbon is a nonmetal.
+On the periodic table, carbon is a **nonmetal**. It is not the most abundant element in Earth's crust, but it is one of the most important for life and chemistry.
 
-Carbon is not the most abundant element in Earth's crust, but it is one of the most important for life and chemistry.
+| Fact | Value |
+|------|-------|
+| Name | Carbon |
+| Symbol | C |
+| Atomic number | 6 (6 protons) |
+| Valence electrons | 4 |
+| Common forms | Graphite, diamond, CO2, organic compounds |
 
-## Carbon Atoms
+## Carbon Atoms and Four Valence Electrons
 
-A carbon atom has 6 protons.
+A neutral carbon atom has **6 electrons** — the same number as protons, so the charges balance.
 
-Most carbon atoms also have 6 neutrons, though some isotopes have different numbers of neutrons.
+Most carbon atoms also have **6 neutrons**, though some **isotopes** have different neutron counts (more on that later).
 
-A neutral carbon atom has 6 electrons.
-
-Carbon has 4 valence electrons.
+The electrons that matter most for bonding sit in the outer shell. Carbon has **4 valence electrons**.
 
 **Valence electrons** are outer electrons involved in bonding.
 
-Because carbon has 4 valence electrons, it can form up to four covalent bonds.
+Because carbon has four valence electrons, it can form up to **four covalent bonds** — sharing electrons with hydrogen, oxygen, nitrogen, other carbons, and many more elements.
 
-This bonding ability is the key to carbon's importance.
+That bonding ability is the secret behind carbon's importance. Carbon is like a construction set for molecules: it can link into chains, rings, branches, sheets, and giant networks. Few elements can build such variety.
 
-## Carbon Can Form Many Bonds
+## Covalent Bonds — Sharing Electrons
 
-Carbon can bond with many elements.
+Carbon usually forms **covalent bonds** — bonds in which atoms **share** electrons.
 
-It bonds with hydrogen, oxygen, nitrogen, sulfur, phosphorus, chlorine, and many metals.
+| Compound | What carbon bonds to | Simple idea |
+|----------|----------------------|-------------|
+| **Methane** (CH4) | 4 hydrogen atoms | One carbon, four H |
+| **Carbon dioxide** (CO2) | 2 oxygen atoms | One carbon, two O |
+| **Glucose** (C6H12O6) | H, O, and other C | Sugar in food |
 
-Carbon can also bond with other carbon atoms.
+Living molecules often contain carbon covalently bonded to hydrogen, oxygen, nitrogen, phosphorus, sulfur, and other carbon atoms. That shared-electron chemistry makes complex life possible.
 
-This allows carbon atoms to form:
-
-- Chains
-- Rings
-- Branches
-- Sheets
-- Networks
-
-Few elements can build such a variety of structures.
-
-Carbon is like a construction set for molecules.
-
-## Covalent Bonds
-
-Carbon usually forms **covalent bonds**.
-
-A covalent bond forms when atoms share electrons.
-
-Carbon can share electrons with other atoms to make stable molecules.
-
-For example, methane has one carbon atom bonded to four hydrogen atoms.
-
-Carbon dioxide has one carbon atom bonded to two oxygen atoms.
-
-Many molecules in living things contain carbon covalently bonded to hydrogen, oxygen, nitrogen, and other carbon atoms.
-
-Carbon's covalent bonding makes complex life chemistry possible.
-
-## Organic Compounds
+## Organic Compounds — Carbon's Chemistry Kingdom
 
 Many carbon-containing compounds are called **organic compounds**.
 
 Organic compounds include:
 
-- Sugars
-- Fats
-- Proteins
-- DNA
-- Vitamins
-- Fuels
-- Plastics
-- Many medicines
+- Sugars, fats, and proteins
+- DNA and vitamins
+- Fuels, plastics, and many medicines
+- Wood, rubber, and many fabrics
 
-Organic chemistry is the branch of chemistry that studies carbon compounds.
+**Organic chemistry** is the branch of chemistry that studies carbon compounds.
 
-Not every carbon compound is classified as organic. Carbon dioxide and carbonates are usually treated as inorganic compounds.
+Not every carbon compound counts as organic in the classroom sense. **Carbon dioxide** (CO2) and **carbonates** (such as limestone) are usually treated as **inorganic** carbon compounds. Even so, carbon is the central element of organic chemistry and of life on Earth.
 
-Even so, carbon is the central element of organic chemistry.
+**Important:** In chemistry, **organic** does **not** mean "safe," "natural," or "good for you." Some organic compounds are harmless; others are poisonous. The word describes chemistry, not grocery-store marketing.
 
 ## Carbon and Life
 
 Living things are built from carbon compounds.
 
-Your body contains carbon in proteins, fats, sugars, DNA, and many other molecules.
+Your body holds carbon in proteins, fats, sugars, DNA, and thousands of other molecules. Plants store carbon in cellulose, starches, oils, and proteins. Animals get carbon by eating plants — or by eating animals that ate plants.
 
-Plants contain carbon in cellulose, sugars, starches, oils, and proteins.
+Carbon can form **long chains** and **complex shapes**, which makes it ideal for building the large molecules life needs. Scientists often call Earth life **carbon-based life**.
 
-Animals get carbon by eating plants or by eating animals that ate plants.
+### Carbon in Food
 
-Carbon's ability to form long chains and complex shapes makes it ideal for building living molecules.
+When you eat, you take in carbon compounds. **Carbohydrates**, **fats**, and **proteins** all contain carbon.
 
-Life on Earth is often called carbon-based life.
+Your cells break some of these molecules apart and use them for energy, growth, and repair.
 
-## Carbon in Food
+**Glucose**, a common sugar, has the formula **C6H12O6** — six carbons, twelve hydrogens, six oxygens.
 
-Food contains carbon.
+During **respiration**, cells use **oxygen** (from the chapter on **oxygen**) to release energy from glucose, producing **carbon dioxide** and water. Carbon moves through your body every day.
 
-Carbohydrates, fats, and proteins are carbon compounds.
+## Carbon Dioxide — A Molecule With a Huge Job
 
-When you eat food, your body breaks down some of these molecules and uses them for energy, growth, and repair.
+**Carbon dioxide** is a compound of one carbon atom and two oxygen atoms. Its formula is **CO2**.
 
-Glucose, a sugar, has the formula C6H12O6.
+At ordinary temperatures it is a **gas**. Animals breathe it out. Plants take it in during **photosynthesis**. Burning many fuels produces it. It dissolves in oceans, fizzes in soda, and acts as a **greenhouse gas** in the atmosphere.
 
-It contains carbon, hydrogen, and oxygen.
+The next chapter, **Carbon dioxide**, goes deeper into CO2 — air, oceans, safety, and climate. For now, remember: carbon does not disappear when you exhale. It leaves as CO2, ready to move through the **carbon cycle**.
 
-During respiration, cells use oxygen to release energy from glucose, producing carbon dioxide and water.
+## Photosynthesis and Respiration — Opposite Partners
 
-Carbon moves through your body every day.
+Plants, algae, and some bacteria use carbon dioxide in **photosynthesis**:
 
-## Carbon Dioxide
+- **Inputs:** carbon dioxide, water, light energy
+- **Outputs:** sugar (stored energy) and oxygen
 
-Carbon dioxide is a compound made of carbon and oxygen.
+In plain words: CO2 plus water plus sunlight can become sugar and oxygen. That process stores solar energy in carbon compounds.
 
-Its formula is **CO2**.
+**Respiration** (in cells) runs the other direction for many organisms:
 
-Carbon dioxide is a gas at ordinary temperatures.
+- **Inputs:** glucose and oxygen
+- **Outputs:** carbon dioxide, water, and usable energy
 
-Animals breathe out carbon dioxide.
+That is why you breathe in oxygen and breathe out carbon dioxide after exercise.
 
-Plants use carbon dioxide during photosynthesis.
+| Process | Who | Carbon dioxide | Oxygen | Energy |
+|---------|-----|----------------|--------|--------|
+| **Photosynthesis** | Plants, algae, some bacteria | Takes in | Releases | Stores in sugar |
+| **Respiration** | Plants and animals (cells) | Releases | Uses | Releases from food |
 
-Burning fuels often produces carbon dioxide.
-
-Carbon dioxide is also used in fizzy drinks, fire extinguishers, and dry ice.
-
-It is an important greenhouse gas in Earth's atmosphere.
-
-## Photosynthesis
-
-Plants, algae, and some bacteria use carbon dioxide in **photosynthesis**.
-
-Photosynthesis uses sunlight, carbon dioxide, and water to make sugar and oxygen.
-
-In simple words:
-
-Carbon dioxide plus water plus light energy can make sugar and oxygen.
-
-This process stores energy from sunlight in carbon compounds.
-
-When animals eat plants, they use some of that stored energy.
-
-Photosynthesis is one of the main ways carbon enters living food webs.
-
-## Respiration
-
-**Respiration** is the process cells use to release energy from food.
-
-In many organisms, glucose reacts with oxygen to produce carbon dioxide, water, and usable energy.
-
-This is why you breathe in oxygen and breathe out carbon dioxide.
-
-Respiration returns carbon dioxide to the air.
-
-Photosynthesis and respiration are connected.
-
-Plants take in carbon dioxide and release oxygen during photosynthesis.
-
-Animals and plants use oxygen and release carbon dioxide during respiration.
+Photosynthesis and respiration are connected partners in the carbon cycle — not opposites in a "good vs. bad" sense, but two sides of how carbon and energy move through living things.
 
 ## The Carbon Cycle
 
 The **carbon cycle** is the movement of carbon through air, water, living things, rocks, soil, and fuels.
 
-Carbon moves when:
+Think of it as a loop, not a single path:
 
-- Plants take in carbon dioxide
-- Animals eat plants
-- Organisms breathe out carbon dioxide
-- Dead matter decomposes
-- Fossil fuels burn
-- Oceans absorb and release carbon dioxide
-- Shells and rocks form
-- Volcanoes release carbon gases
+| Pathway | What happens |
+|---------|--------------|
+| **Photosynthesis** | Plants take in CO2 and build carbon compounds |
+| **Eating** | Animals get carbon from food |
+| **Respiration** | Organisms release CO2 |
+| **Decomposition** | Dead matter returns carbon to soil and air |
+| **Fossil fuel burning** | Stored ancient carbon becomes CO2 |
+| **Ocean exchange** | Seawater absorbs and releases CO2 |
+| **Shells and rocks** | Carbonates store carbon for long periods |
+| **Volcanoes** | Release carbon gases from Earth's interior |
 
-Carbon is not used up. It moves and changes form.
+Carbon is not used up. It **changes form** and **moves**. The carbon cycle links life, air, oceans, rocks, fuels, and climate.
 
-The carbon cycle connects life, air, oceans, rocks, and climate.
+### Carbon in the Ocean
 
-## Carbon in the Ocean
+Oceans hold a huge amount of carbon.
 
-Oceans contain a huge amount of carbon.
+CO2 **dissolves** in seawater. Some becomes **bicarbonate** and **carbonate** ions. Marine organisms use carbonate to build shells and skeletons. When they die, some carbon becomes sediment and rock.
 
-Carbon dioxide dissolves in seawater.
+Oceans also **exchange** CO2 with the atmosphere. The ocean is a major piece of the carbon cycle — not a separate world from the air above your school.
 
-Some dissolved carbon becomes bicarbonate and carbonate ions.
+### Carbonates — Carbon Locked in Rock
 
-Marine organisms use carbonate to make shells and skeletons.
+**Carbonates** are compounds containing the **carbonate ion** (carbon and oxygen together).
 
-When these organisms die, some carbon can become part of sediments and rocks.
+**Calcium carbonate** (CaCO3) appears in limestone, marble, chalk, seashells, coral, and eggshells.
 
-Oceans also exchange carbon dioxide with the atmosphere.
+Carbonates react with acids to produce CO2 gas — which is why **vinegar** bubbles on chalk or eggshell. Carbonates store enormous amounts of carbon in rocks and ocean sediments.
 
-The ocean is a major part of the carbon cycle.
+## Fossil Fuels and Climate
 
-## Carbonates
+**Fossil fuels** — coal, oil, and natural gas — formed from ancient living things over millions of years. They store chemical energy in carbon-rich compounds.
 
-**Carbonates** are compounds containing the carbonate ion.
+When fossil fuels **burn**, carbon in the fuel reacts with oxygen and forms **carbon dioxide**, releasing energy. That CO2 returns to the atmosphere.
 
-Calcium carbonate is found in limestone, marble, chalk, seashells, coral, and eggshells.
+Burning fossil fuels has powered modern industry and transportation, but it also adds CO2 faster than natural cycles alone have handled in recent centuries.
 
-Its formula is CaCO3.
+### Greenhouse Gases
 
-Carbonates can react with acids to produce carbon dioxide gas.
+**Carbon dioxide** is a **greenhouse gas** — a gas that absorbs and re-emits heat in Earth's atmosphere.
 
-This is why vinegar can bubble when placed on chalk or eggshell.
+Greenhouse gases help keep Earth warm enough for life. But **adding too much** CO2 can strengthen the greenhouse effect and contribute to **climate change**.
 
-Carbonates store large amounts of carbon in rocks and ocean materials.
+Human activities — burning fossil fuels, cutting forests, and changing land use — can increase atmospheric CO2. Understanding carbon helps explain one of the great environmental challenges of our time. The full CO2 chapter connects these ideas to air, oceans, and safety.
 
-## Fossil Fuels
+## Black Carbon Materials
 
-Fossil fuels contain carbon.
+Carbon often looks **black** when it is not bonded into clear crystals.
 
-Coal, oil, and natural gas formed from ancient living things over long periods.
+| Material | How it forms | Notes |
+|----------|--------------|-------|
+| **Charcoal** | Wood heated with limited oxygen | Used for grilling and drawing |
+| **Soot** | Incomplete burning | Tiny carbon-rich particles in smoke |
+| **Coal** | Ancient plant material compressed over time | A fossil fuel |
 
-They store chemical energy in carbon-rich compounds.
+These are not always pure carbon, but carbon-rich structures absorb light and look dark. Treat smoke and soot as **unhealthy to breathe**.
 
-When fossil fuels burn, carbon in the fuel reacts with oxygen and forms carbon dioxide.
+## Graphite and Diamond — Same Element, Different Arrangement
 
-Burning fossil fuels releases energy, but it also adds carbon dioxide to the atmosphere.
+### Graphite
 
-This affects the carbon cycle and climate.
+**Graphite** is soft, dark, and slippery. Pencil "lead" is mostly graphite mixed with clay — not the metal lead.
 
-## Carbon and Climate
+Graphite's carbon atoms sit in **flat layers**. Layers can slide past each other, which makes graphite good for writing and lubrication. Graphite can also **conduct electricity** along its layers because some electrons can move.
 
-Carbon dioxide is a greenhouse gas.
+### Diamond
 
-A **greenhouse gas** absorbs and re-emits heat in Earth's atmosphere.
+**Diamond** is another form of carbon. Each carbon atom bonds to **four** other carbons in a strong three-dimensional network.
 
-Greenhouse gases help keep Earth warm enough for life.
+That arrangement makes diamond **extremely hard**. Pure diamond is transparent and can sparkle when cut. Diamonds appear in jewelry, cutting tools, drill bits, and scientific equipment.
 
-But adding too much carbon dioxide can strengthen the greenhouse effect and contribute to climate change.
+**Same element, different structure, very different properties.** Arrangement controls what a material can do — the same lesson you saw with nitrogen compounds that are calm in air but powerful when bonded differently.
 
-Human activities such as burning fossil fuels and cutting forests can increase atmospheric carbon dioxide.
-
-Understanding carbon helps explain one of the great environmental challenges of modern times.
-
-## Charcoal, Soot, and Coal
-
-Carbon appears in black materials such as charcoal, soot, and coal.
-
-Charcoal is made when wood is heated with limited oxygen.
-
-Soot is made of tiny carbon-rich particles from incomplete burning.
-
-Coal is a fossil fuel made mostly from ancient plant material.
-
-These materials are not pure carbon in every case, but carbon is a major part of them.
-
-Their black color often comes from carbon-rich structures that absorb light.
-
-## Graphite
-
-Graphite is a form of carbon.
-
-It is soft, dark, and slippery.
-
-Pencil "lead" is mostly graphite mixed with clay, not the metal lead.
-
-Graphite's carbon atoms are arranged in flat layers.
-
-The layers can slide over one another, which makes graphite useful for writing and lubrication.
-
-Graphite can also conduct electricity because some electrons can move through its layers.
-
-Carbon's arrangement controls its properties.
-
-## Diamond
-
-Diamond is another form of carbon.
-
-In diamond, each carbon atom is bonded to four other carbon atoms in a strong three-dimensional network.
-
-This makes diamond extremely hard.
-
-Diamond is transparent when pure and can sparkle when cut.
-
-Diamonds are used in jewelry, cutting tools, drill bits, and scientific equipment.
-
-Diamond and graphite are both carbon, but their atoms are arranged differently.
-
-Same element, different structure, very different properties.
-
-## Allotropes
+## Allotropes and Modern Carbon Forms
 
 Different forms of the same element in the same state are called **allotropes**.
 
-Graphite and diamond are allotropes of carbon.
+| Allotrope | Structure (simple) | Properties / uses |
+|-----------|-------------------|-------------------|
+| **Graphite** | Layered sheets | Soft, writes, conducts a bit |
+| **Diamond** | 3D network | Very hard, cuts, jewelry |
+| **Graphene** | Single carbon sheet | Strong, research in electronics |
+| **Fullerenes** | Cage-like molecules | Nanotechnology research |
+| **Carbon nanotubes** | Tiny tubes | Strength, possible future tech |
 
-Other carbon allotropes include graphene, fullerenes, and carbon nanotubes.
+Scientists and engineers are still discovering uses for these forms. Carbon is not "finished" as a subject — it is an active frontier.
 
-**Graphene** is a single layer of carbon atoms arranged in a sheet.
+## Carbon in Materials and Technology
 
-**Fullerenes** are cage-like carbon molecules.
+Carbon shows up in materials you touch every day:
 
-**Carbon nanotubes** are tiny tube-shaped carbon structures.
+- **Steel** — iron plus a small amount of carbon; more carbon often means harder steel
+- **Carbon fiber** — strong and lightweight
+- **Plastics** — large carbon-based molecules
+- **Rubber, glues, paints, fuels, medicines** — carbon chemistry throughout
 
-These forms have remarkable strength, electrical behavior, and possible uses in future technology.
+**Activated carbon** traps impurities in water and air filters. **Carbon black** strengthens rubber in tires. Carbon compounds power batteries, electronics, and medical tools.
 
-## Carbon in Materials
+Modern materials science depends heavily on carbon. If you like building, sports gear, or gadgets, you are already surrounded by carbon engineering.
 
-Carbon is important in materials.
+## Carbon Monoxide — Invisible Danger
 
-Steel contains iron and a small amount of carbon.
+**Carbon monoxide** has formula **CO** — one carbon, one oxygen.
 
-The amount of carbon affects steel's hardness, strength, and flexibility.
+Unlike CO2, carbon monoxide is **poisonous**. It can form when fuels burn **without enough oxygen** (incomplete combustion).
 
-Carbon fibers are strong and lightweight.
+| Fact | Why it matters |
+|------|----------------|
+| No color, no smell | You cannot detect it with your senses |
+| Binds to blood | Stops blood from carrying oxygen properly |
+| Indoor risk | Grills, engines, heaters in closed spaces are dangerous |
 
-Plastics are made from large carbon-based molecules.
+Homes should have **carbon monoxide detectors**. Never run engines, charcoal grills, or fuel-burning heaters in closed garages, tents, or rooms without ventilation. The chapter on **combustion** connects fuel burning to both CO2 and CO.
 
-Rubber, glues, paints, fabrics, fuels, medicines, and many coatings contain carbon compounds.
-
-Modern materials science depends heavily on carbon.
-
-## Carbon Monoxide
-
-Carbon monoxide is a compound made of carbon and oxygen.
-
-Its formula is **CO**.
-
-Carbon monoxide is a poisonous gas.
-
-It can form when fuels burn without enough oxygen.
-
-It has no color or smell, which makes it especially dangerous.
-
-Carbon monoxide can prevent blood from carrying oxygen properly.
-
-Homes should have carbon monoxide detectors, and engines or grills should never be used in closed spaces.
-
-## Carbon Isotopes
-
-Carbon has isotopes.
+## Carbon Isotopes and Radiocarbon Dating
 
 **Isotopes** are atoms of the same element with different numbers of neutrons.
 
-Carbon-12 is the most common carbon isotope.
+| Isotope | Neutrons (typical) | Notes |
+|---------|-------------------|-------|
+| **Carbon-12** | 6 | Most common; stable |
+| **Carbon-13** | 7 | Stable; less common |
+| **Carbon-14** | 8 | Radioactive; decays over time |
 
-Carbon-13 is stable and less common.
+**Carbon-14** forms naturally in the atmosphere. Living things take in carbon while alive. After death, new carbon-14 stops arriving, and the C-14 already present slowly decays.
 
-Carbon-14 is radioactive.
-
-Carbon-14 forms naturally in the atmosphere and is used in radiocarbon dating.
-
-Scientists can use carbon-14 to estimate the age of once-living materials such as wood, cloth, bone, or charcoal.
-
-## Radiocarbon Dating
-
-**Radiocarbon dating** uses carbon-14 to estimate the age of materials that were once living.
-
-Living things take in carbon while they are alive.
-
-After they die, they stop taking in new carbon.
-
-The carbon-14 already present slowly decays.
-
-By measuring how much carbon-14 remains, scientists can estimate age.
-
-Radiocarbon dating is useful in archaeology, geology, and environmental science.
-
-It works only for certain materials and age ranges.
-
-## Carbon in Technology
-
-Carbon appears in many technologies.
-
-It is used in:
-
-- Pencils
-- Steel
-- Carbon fiber
-- Plastics
-- Batteries
-- Filters
-- Tires
-- Electronics
-- Cutting tools
-- Medical materials
-
-Activated carbon can trap many impurities and is used in filters.
-
-Carbon black strengthens rubber in tires.
-
-Carbon compounds are used in medicines and fuels.
-
-Carbon's variety makes it one of the most useful elements.
+**Radiocarbon dating** measures remaining carbon-14 to estimate the age of once-living materials — wood, bone, cloth, charcoal. Archaeologists and geologists use it to place ancient objects in time. It works only for certain materials and age ranges, but it is one of carbon's coolest detective tools.
 
 ## Common Misconceptions
 
-One mistake is thinking carbon is only black charcoal or pencil graphite. Carbon also appears in diamond, carbon dioxide, sugars, proteins, plastics, and living things.
+One mistake is thinking carbon is only black charcoal or pencil graphite. Carbon also appears in diamond, CO2, sugars, proteins, plastics, and living things.
 
-Another mistake is thinking carbon dioxide is always bad. Carbon dioxide is necessary for photosynthesis, but too much in the atmosphere can cause problems.
+Another mistake is thinking carbon dioxide is always bad. CO2 is **necessary** for photosynthesis; problems come when **too much** builds up in the atmosphere over time.
 
-A third mistake is thinking diamond and graphite are different elements. They are both carbon, arranged differently.
+A third mistake is thinking diamond and graphite are different elements. They are both carbon — arranged differently.
 
-A fourth mistake is thinking organic means safe or natural. Organic compounds can be safe, harmful, natural, or synthetic.
+A fourth mistake is thinking **organic** means safe or natural. Organic compounds can be safe, harmful, natural, or synthetic.
 
-A fifth mistake is thinking carbon disappears when fuel burns. Carbon atoms become carbon dioxide, carbon monoxide, soot, or other products.
+A fifth mistake is thinking carbon **disappears** when fuel burns. Carbon atoms become CO2, CO, soot, or other products — matter is conserved, as you will explore further in chapters on **chemical reaction** and **conservation of matter**.
 
 ## Carbon Safety
 
-Carbon substances vary widely in safety.
-
-Good safety habits include:
+Carbon substances vary widely in safety. Good habits:
 
 - Do not breathe smoke, soot, or dust from carbon materials.
 - Never use grills, engines, or fuel-burning heaters in closed spaces.
-- Make sure homes have working carbon monoxide detectors.
+- Install and test **carbon monoxide detectors** at home.
 - Do not taste unknown carbon compounds.
 - Wear goggles when experiments require them.
 - Keep fuels and solvents away from flames.
@@ -436,13 +289,11 @@ Good safety habits include:
 - Use adult supervision for combustion demonstrations.
 - Follow disposal instructions for fuels, plastics, solvents, and chemical samples.
 
-Carbon is essential to life, but some carbon compounds can be deadly.
+Carbon is essential to life, but some carbon compounds — especially CO and many solvents — can be deadly.
 
 ## The Big Idea
 
-Carbon is a chemical element with atomic number 6.
-
-It can form four covalent bonds and build chains, rings, sheets, and networks. Carbon is the backbone of organic compounds and living things. It appears in carbon dioxide, carbonates, fossil fuels, plastics, foods, graphite, diamond, steel, and many technologies. Carbon moves through the carbon cycle, linking air, water, organisms, rocks, fuels, and climate.
+Carbon is element number 6 with four valence electrons. It forms covalent bonds and builds chains, rings, sheets, and networks. Carbon is the backbone of organic compounds and living things. It appears in CO2, carbonates, fossil fuels, foods, graphite, diamond, steel, plastics, and countless technologies. The **carbon cycle** moves carbon through air, water, organisms, rocks, and fuels — linking life, industry, and climate.
 
 If you remember only one sentence, remember this:
 
@@ -451,32 +302,23 @@ If you remember only one sentence, remember this:
 ## Study Questions
 
 1. What is carbon?
-2. What is carbon's chemical symbol?
-3. How many protons does every carbon atom have?
-4. What is carbon's atomic number?
-5. How many valence electrons does carbon have?
-6. Why can carbon form so many different compounds?
-7. What is a covalent bond?
-8. What are organic compounds?
-9. Name four examples of organic compounds or carbon-containing materials.
-10. Why is carbon important for living things?
-11. What is the formula for glucose?
-12. What is carbon dioxide, and what is its formula?
-13. How do plants use carbon dioxide?
-14. What is respiration?
-15. What is the carbon cycle?
-16. Name four ways carbon moves through the carbon cycle.
-17. How do oceans store or move carbon?
-18. What are carbonates?
-19. Where is calcium carbonate found?
-20. Why does burning fossil fuels add carbon dioxide to the atmosphere?
-21. What is a greenhouse gas?
-22. What is graphite?
-23. What is diamond?
-24. Why are diamond and graphite so different if both are carbon?
-25. What are allotropes?
-26. Name two modern carbon materials besides diamond and graphite.
-27. What is carbon monoxide, and why is it dangerous?
-28. What are carbon isotopes?
-29. Name two common misconceptions about carbon.
-30. What are three safety rules related to carbon or carbon compounds?
+2. What is carbon's chemical symbol and atomic number?
+3. How many valence electrons does carbon have, and why does that matter?
+4. What is a covalent bond?
+5. What are organic compounds? Name four examples.
+6. Why is carbon important for living things?
+7. What is the formula for glucose?
+8. What is carbon dioxide (formula), and what will the next chapter explore about it?
+9. How do photosynthesis and respiration differ regarding carbon dioxide and oxygen?
+10. What is the carbon cycle? Name four pathways carbon takes.
+11. How do oceans store or move carbon?
+12. What are carbonates? Where is calcium carbonate found?
+13. Why does burning fossil fuels add CO2 to the atmosphere?
+14. What is a greenhouse gas?
+15. How do graphite and diamond differ if both are carbon?
+16. What are allotropes? Name three besides graphite and diamond.
+17. Give two everyday uses of carbon in materials or technology.
+18. What is carbon monoxide, and why is it dangerous?
+19. What are carbon isotopes? How is carbon-14 used in radiocarbon dating?
+20. Name two common misconceptions about carbon.
+21. List three safety rules related to carbon or carbon compounds.

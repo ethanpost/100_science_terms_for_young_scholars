@@ -21,6 +21,9 @@ Students should be able to:
 - Name at least one safe indirect viewing method (e.g., pinhole projection).
 - Describe one scientific use of eclipses (e.g., corona studies, atmospheric probing via lunar eclipse color).
 - Refute common misconceptions (wrong shadow, wrong phase, "dim means safe" for solar viewing).
+- Use the **SOLAR / LUNAR** memory trick and the **two shadow stories** table to sort eclipse types quickly.
+- Connect eclipses to prior chapters on the **Moon** (phases vs shadows), the **Sun** (scale and corona), and **revolution of the Earth** (predictable orbits).
+- Complete at least one **Try This** modeling or pinhole activity without direct Sun viewing.
 
 ### Answers to Study Questions
 
@@ -48,6 +51,7 @@ Students should be able to:
 22. Accept reasonable answers: studying the Sun's **corona** during totality; learning about Earth's **atmosphere** from lunar eclipse color; testing celestial mechanics predictions; calibrating instruments.
 23. The Sun is much larger, but the Moon is much **closer**, so both can appear nearly the same **angular size** in the sky, allowing the Moon to cover the Sun's disk when aligned.
 24. Answers may vary. A strong answer should state: **solar** — Moon in middle, Moon's shadow on Earth, near new moon; **lunar** — Earth in middle, Earth's shadow on Moon, near full moon.
+25. Accept reasonable answers from the **Try This** section, e.g., **lamp-and-ball model** of solar vs lunar geometry; **pinhole crescents** under a tree or through fingers (look at the ground, not the Sun); **umbra/penumbra sketch** with a ball and lamp; **headline drill** identifying eclipse type, phase, safety, and visibility.
 
 ### Activity Suggestions
 
@@ -84,15 +88,21 @@ Students should be able to:
 11. **Thirty-Second Sketch Challenge**
     Pairs draw Sun–Earth–Moon for a named eclipse type in 30 seconds, then trade papers and check middle object and shadow direction.
 
+12. **Chapter Try This Stations**
+    Rotate four mini-stations from the chapter: lamp-and-ball model, pinhole crescents on sunny pavement (look at the ground only), umbra/penumbra ball sketch, headline drill. Each group writes one observation sentence before rotating.
+
 ### Teaching Notes
 
 - Anchor phrase: **two shadow stories** — Moon in the middle (solar) vs Earth in the middle (lunar).
+- Teach the **SOLAR / LUNAR** memory trick aloud; have students point to the middle object on a diagram while saying it.
 - Keep shadow ownership explicit: **Moon's shadow on Earth** vs **Earth's shadow on Moon**.
 - Do **not** demonstrate Sun viewing with unfiltered optics; model safe projection and certified filters only.
 - Emphasize **nodes/tilt** after students understand basic geometry; connect to prior chapters on Moon **phases** and orbit **tilt**.
-- Separate **phases** (monthly, viewing angle) from **eclipses** (alignment + nodes) early to prevent the "Earth's shadow causes phases" error from resurfacing.
-- Use relatable hooks — recess, night games, travel to totality — but keep safety language serious, not casual.
-- For ages 11–13, the comparison **table** in the chapter is a good reference sheet; consider a printable version.
+- Separate **phases** (monthly, viewing angle) from **eclipses** (alignment + nodes) early to prevent the "Earth's shadow causes phases" error from resurfacing — reinforce what students already read in the **Moon** chapter.
+- Use relatable hooks — recess, night games, travel to totality — but keep safety language serious, not casual. "Dim does not mean safe" deserves repetition, not jokes.
+- For ages 11–13, the comparison **table** in the chapter is a good reference sheet; consider a printable version for notebooks.
+- Run **Try This** activities before assigning study questions 24–25; physical models reduce shadow-direction errors on tests.
 - Invite a local astronomy club or planetarium for filter demonstrations; many groups run school eclipse outreach.
 - If a live eclipse occurs during the unit, plan viewing as a structured activity with parental permission and verified glasses — never improvised filters.
 - Pair lunar eclipse homework with moonrise times so students can observe when possible; solar events need daytime scheduling and strict safety briefing.
+- Link the **400× size / 400× distance** coincidence when students ask why the Moon can cover the Sun; it connects naturally to the **Sun** chapter's scale discussion.

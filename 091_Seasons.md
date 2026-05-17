@@ -1,6 +1,6 @@
 ﻿# Seasons
 
-In October you zip a hoodie over your jersey and jog through leaves that crunch under your cleats. In July you are dripping sweat at the pool after a pickup game, searching for shade. In February you scrape frost off the car window before dawn practice.
+In October you zip a hoodie over your jersey and jog through leaves that crunch under your cleats. In July you are dripping sweat at the pool after a pickup game, searching for shade. In February you scrape frost off the windshield before dawn practice — same field, same bus stop, completely different sky.
 
 Same planet. Same Sun. Completely different feel outside.
 
@@ -12,17 +12,37 @@ They are not random moods of the sky. They are patterns — temperature, storms,
 
 Once you understand why seasons happen, you can explain why evening practice in June still has light while the same time in December feels dark early — and why a cousin in Australia might be wearing a swimsuit on Christmas while you are in a coat.
 
+You already know Earth's **rotation** gives you day and night (chapter on **rotation of the Earth**) and Earth's **revolution** carries you around the Sun once a year (chapter on **revolution of the Earth**). This chapter connects those motions to the **year's rhythm** — the tilted axis that makes summer hot, winter cold, and your sports schedule feel like a different planet.
+
 ![Seasons](091_Seasons_01.png)
+
+## Seasons at a Glance
+
+| Idea | What to remember |
+|------|------------------|
+| **Season** (astronomical) | Long pattern of weather + daylight tied to Earth's orbit |
+| **Sports season** | A block of games or practices — related word, different meaning |
+| **Main cause** | Earth's **tilted axis** (~23.5°) as Earth **revolves** |
+| **Rotation** | ~24 hours → day and night (not seasons by itself) |
+| **Revolution** | ~365 1/4 days → the year; seasons need **tilt + revolution** |
+| **Summer recipe** | Higher Sun + **longer days** → stronger heating |
+| **Winter recipe** | Lower Sun + **shorter days** → weaker heating |
+| **Hemispheres** | Opposite seasons at the **same time** |
+| **Distance myth** | Earth nearest Sun in **January** (Northern winter) — tilt wins |
+| **Solstice** | Longest or shortest day of the year for a hemisphere |
+| **Equinox** | Day and night nearly **equal** worldwide |
 
 ## Sports Season vs Astronomical Season
 
 People use the word **season** in two ways, and both are real.
 
-**Sports season** means a block of games or practices: fall football, winter basketball, spring baseball.
+**Sports season** means a block of games or practices: fall football, winter basketball, spring baseball, summer league.
 
 **Astronomical season** means Earth's yearly sunlight pattern: spring, summer, autumn (fall), and winter.
 
-They overlap, but they are not the same thing. A warm January day does not magically turn winter into summer. A rainy July week is still summer. This chapter is about **astronomical seasons** — the science behind the year's rhythm.
+They overlap, but they are not the same thing. A warm January day does not magically turn winter into summer. A rainy July week is still summer. Your travel-team schedule can start in March while astronomical spring begins around the equinox — close, but not identical.
+
+This chapter is about **astronomical seasons** — the science behind the year's rhythm.
 
 ## What a Season Really Is
 
@@ -43,11 +63,11 @@ That one sentence contains two separate motions you must keep straight.
 
 ## Rotation and Revolution — Do Not Mix Them Up
 
-These words sound alike. Mixing them up is one of the most common mistakes in Earth science.
+These words sound alike. Mixing them up is one of the most common mistakes in Earth science — and on tests.
 
 **Rotation** is Earth spinning once about every **24 hours**.
 
-Rotation gives you **day and night**.
+Rotation gives you **day and night**. The chapter on **day and night** explores what that spin feels like from sunrise to midnight.
 
 **Revolution** is Earth traveling around the Sun once in about **365 1/4 days**.
 
@@ -60,13 +80,15 @@ Revolution gives you the **year** and, together with tilt, the **seasons**.
 
 Both happen at once. You are spinning with Earth every day while Earth carries you around the Sun every year.
 
+**Memory trick:** **ROT**ation = **ROT**ating in place (like a ball on your fingertip). **REV**olution = **REV**olving around something else (like a lap around the track).
+
 If Earth were **not** tilted, days would still exist, but seasons would be much weaker. **Revolution alone** does not create our familiar spring, summer, fall, and winter. **Tilt plus revolution** does.
 
 ## Earth's Axis Is Tilted
 
 Picture a globe on a desk.
 
-The **axis** is the imaginary line through the North Pole and South Pole. Earth spins around that axis every day.
+The **axis** is the imaginary line through the North Pole and South Pole. Earth spins around that axis every day — the same axis you met in the chapters on **rotation** and **revolution**.
 
 But the axis is **not** straight up-and-down compared with Earth's path around the Sun.
 
@@ -118,17 +140,26 @@ Seasonal temperature is really a team effort:
 
 Scientists sometimes call the sunlight that reaches a surface **insolation** — incoming solar radiation. More direct insolation over more hours means stronger heating. That is summer's recipe.
 
-## What You Can Actually Notice Through the Year
+**Try this:** Shine a phone flashlight straight on your palm, then at a steep angle. Same light, different spread — same physics the planet uses all year.
 
-Seasons are not only about thermometers. You can **see** them.
+## Your Year on the Same Field
+
+Seasons are not only about thermometers. You can **see** and **feel** them where you live.
 
 In summer, your **noon shadow** is short because the Sun is high. In winter, the same clock time can cast a long shadow across the driveway or court.
 
 The Sun rises and sets farther north or south along the horizon as the year turns. In many towns, summer sunsets hang around the west bleachers longer than winter sunsets do.
 
-Evening practice in June still has usable light. The same time slot in December can feel like night is already winning.
+Evening practice in June still has usable light. The same time slot in December can feel like night is already winning — that is **seasonal** daylight change on top of the daily spin you learned about in **day and night**.
 
-Birds migrate. Trees leaf out or drop leaves. Frost appears on grass. These living-world signs ride on the same astronomical rhythm.
+Birds migrate. Trees leaf out or drop leaves. Frost appears on grass. Your gear changes — shorts, hoodie, heavy coat. These living-world and locker-room signs ride on the same astronomical rhythm.
+
+| What to watch | Summer tendency | Winter tendency |
+|---------------|-----------------|-----------------|
+| Noon shadow | Shorter | Longer |
+| Sunset time (same clock) | Later | Earlier |
+| Practice after school | More usable light | Darker sooner |
+| Midday Sun height | Higher in sky | Lower in sky |
 
 ## Distance from the Sun Is Not the Main Story
 
@@ -138,15 +169,17 @@ That guess is wrong for most places on Earth.
 
 Earth's orbit is slightly **elliptical** — a stretched oval — so distance does change a little during the year.
 
-Earth is closest to the Sun around **early January** — during Northern Hemisphere **winter**.
+Earth is **closest** to the Sun around **early January**. Astronomers call that point **perihelion** — during Northern Hemisphere **winter**.
 
-Earth is farthest around **early July** — during Northern Hemisphere **summer**.
+Earth is **farthest** around **early July**. That point is **aphelion** — during Northern Hemisphere **summer**.
 
 So winter in places like New York is **not** caused by Earth being far away.
 
 Winter there is caused mainly by **tilt**, **sunlight angle**, and **shorter days**.
 
 Distance has a small effect. Earth's **tilted axis** and **revolution** do the heavy work.
+
+**Memory trick:** **Peri**helion sounds like **peri**od — think "close period" in January. **Ap**helion — **ap**art, farther in July. But neither one decides your hemisphere's season. **Tilt** does.
 
 ## Solstices and Equinoxes
 
@@ -159,7 +192,7 @@ The name comes from an old idea that the Sun seems to **stand still** for a few 
 - **June solstice** (around June 20–21): Northern Hemisphere tilted most toward the Sun — longest day there, start of astronomical summer; Southern Hemisphere has its shortest day and winter.
 - **December solstice** (around December 21–22): Northern Hemisphere tilted most away — shortest day there and winter; Southern Hemisphere has its longest day and summer.
 
-An **equinox** happens twice a year, when day and night are nearly **equal** all over Earth.
+An **equinox** happens twice a year, when day and night are nearly **equal** all over Earth. The word means **equal night**.
 
 At an equinox, neither hemisphere is tilted strongly toward the Sun.
 
@@ -228,7 +261,7 @@ Revolution **with tilt** does.
 
 Another mistake is saying summer is because Earth is **closer** to the Sun.
 
-Tilt and sunlight angle matter far more for seasonal heating in each hemisphere.
+Tilt and sunlight angle matter far more for seasonal heating in each hemisphere. **Perihelion** in January proves the distance story fails for the Northern Hemisphere.
 
 A third mistake is thinking the **whole Earth** has summer at once.
 
@@ -281,7 +314,7 @@ If you remember only one sentence, remember this:
 10. Name two changes you might notice in your own town between summer and winter besides temperature.
 11. If it is summer in the Northern Hemisphere, what season is it in the Southern Hemisphere?
 12. Why is distance from the Sun not the main cause of seasons?
-13. When is Earth closest to the Sun, and what season is it in the Northern Hemisphere then?
+13. When is Earth closest to the Sun, and what season is it in the Northern Hemisphere then? What is that closest point called?
 14. What is a solstice?
 15. What is an equinox?
 16. During an equinox, are day and night nearly equal across Earth?

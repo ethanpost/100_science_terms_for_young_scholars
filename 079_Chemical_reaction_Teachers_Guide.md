@@ -8,12 +8,13 @@ Students should be able to:
 
 - Define a chemical reaction as a process in which substances change into new substances by rearranging atoms and chemical bonds.
 - Identify reactants, products, chemical bonds, chemical equations, balanced equations, coefficients, and subscripts.
-- Distinguish chemical changes from physical changes.
+- Distinguish chemical changes from physical changes using the test of new substances forming.
 - Recognize possible signs of chemical reactions while understanding that clues are not always proof.
 - Explain conservation of matter and conservation of atoms in ordinary chemical reactions.
 - Identify major reaction types: synthesis, decomposition, combustion, single replacement, double replacement, acid-base neutralization, and redox.
 - Explain exothermic and endothermic reactions, reaction rate, catalysts, and enzymes at an introductory level.
-- Apply safety rules for mixing substances, heat, gases, fumes, spills, pressure, labeling, and disposal.
+- Connect chemical reactions to prior chapters (atoms, compounds, combustion, oxidation, rust) and forward to conservation of matter.
+- Apply safety rules for mixing substances, heat, gases, fumes, pressure, spills, labeling, and disposal.
 
 ### Answers to Study Questions
 
@@ -36,7 +37,7 @@ Students should be able to:
 17. Subscripts should not be changed because changing a subscript changes the identity of the substance.
 18. A **synthesis reaction** happens when simpler substances combine to form a more complex substance.
 19. A **decomposition reaction** happens when one substance breaks down into simpler substances.
-20. **Combustion** is a reaction in which a fuel reacts with oxygen and releases energy.
+20. **Combustion** is a reaction in which a fuel reacts with oxygen and releases energy, often as heat and light.
 21. A **single replacement reaction** happens when one element replaces another in a compound.
 22. A **double replacement reaction** happens when parts of two compounds trade places.
 23. **Neutralization** is a reaction between an acid and a base that can produce water and a salt.
@@ -45,43 +46,46 @@ Students should be able to:
 26. An **exothermic reaction** releases energy to the surroundings.
 27. An **endothermic reaction** absorbs energy from the surroundings.
 28. Factors include temperature, concentration, surface area, stirring, catalysts, and the nature of the reactants.
-29. A **catalyst** is a substance that speeds up a chemical reaction without being used up.
-30. Answers may include not mixing unknown substances, not tasting materials, not smelling chemicals directly, wearing goggles, using heat only with supervision, keeping flammables away from flames, using ventilation, reporting spills or fumes, labeling containers, and following disposal instructions.
+29. A **catalyst** is a substance that speeds up a chemical reaction without being used up. **Enzymes** are biological catalysts made by living things that control reactions in digestion, cells, and metabolism.
+30. Answers may include not mixing unknown substances, not tasting materials, not smelling chemicals directly, wearing goggles, using heat only with supervision, keeping flammables away from flames, using ventilation, never capping a fizzing container, reporting spills or fumes, labeling containers, and following disposal instructions.
 
 ### Activity Suggestions
 
-1. **Chemical vs. Physical Change Sort**
-   Students sort scenario cards such as melting ice, burning paper, rusting iron, dissolving salt, cutting wood, baking bread, and vinegar plus baking soda.
+1. **Kitchen Counter vs. Garage Bench Sort**
+   Students sort scenario cards: melting ice, burning paper, rusting wrench, dissolving salt, cutting wood, baking bread, vinegar + baking soda, boiling water, crushing chalk. For each, they label physical or chemical and cite whether a **new substance** formed.
 
 2. **Vinegar and Baking Soda Reaction**
-   Teacher or students under supervision combine small amounts of vinegar and baking soda. Students identify reactants, products, gas formation, and safety steps.
+   Under supervision, combine small amounts of vinegar and baking soda. Students identify reactants, products, gas formation, and safety steps (ventilation, goggles if required, no tasting). Optional: capture gas in a balloon over the flask neck to show a product is gas.
 
-3. **Conservation of Atoms Model**
-   Use colored blocks or paper atoms to model a reaction. Students rearrange atoms from reactants into products and verify atom counts.
+3. **Atom Conservation Model**
+   Use colored blocks or paper tokens for H and O atoms. Students model 2H₂ + O₂ → 2H₂O by rearranging tokens — no atoms created or destroyed. Connect to the upcoming conservation-of-matter chapter.
 
-4. **Balanced Equation Practice**
-   Use simple equations with atom icons before formulas. Students balance by changing coefficients, not subscripts.
+4. **Balanced Equation Practice with Icons**
+   Use simple equations with atom icons before formulas. Students balance by changing coefficients only; discuss what happens if someone changes a subscript (wrong substance).
 
-5. **Reaction Evidence Stations**
-   Use safe demonstrations or videos showing gas formation, precipitate formation, color change, temperature change, and light production. Students identify evidence and limitations.
+5. **Clue vs. Proof Stations**
+   Use safe demos or videos: boiling water (bubbles, no new substance), vinegar + baking soda (gas + new substances), precipitate demo or video, color-change demo (e.g., rust photo), temperature demo (exothermic hand warmer or teacher-controlled reaction). Students list clues seen and whether each station proves a **chemical** change.
 
-6. **Rate of Reaction Investigation**
-   Compare whole vs. crushed effervescent tablets in water, or warm vs. cool water. Students connect surface area and temperature to rate.
+6. **Rate Investigation: Tablets and Temperature**
+   Compare whole vs. crushed effervescent tablets in water, or warm vs. cool water. Students measure time to dissolve/fizz and connect surface area and temperature to reaction rate. Discuss dust-explosion concept at a conceptual level only.
 
-7. **Catalyst Demonstration**
-   Use a teacher-controlled safe demonstration or video of a catalyst speeding a reaction. Connect to enzymes and catalytic converters.
+7. **Reaction Type Match Game**
+   Provide cards with reaction descriptions (fuel + oxygen, two clear liquids making a solid, acid + base, one compound heating and breaking apart). Students match to synthesis, decomposition, combustion, single replacement, double replacement, neutralization, or redox. Use familiar examples from prior chapters (rust, fire, battery).
 
-8. **Reaction Safety Scenarios**
-   Students evaluate situations involving unknown mixtures, closed containers, heat, fumes, spills, goggles, and disposal.
+8. **Safety Scenario Cards**
+   Present situations: mixing cleaners under a sink, heating a capped bottle, tasting lab liquid, unknown powder + unknown liquid, spill with fumes. Students identify hazards and correct actions. Reinforce: curiosity and caution together.
 
 ### Teaching Notes
 
-- Keep the central idea visible: **chemical reactions rearrange atoms into new substances**.
-- Emphasize that signs of reaction are clues, not automatic proof.
-- Conservation of matter is the anchor idea for equations and balancing.
-- Teach coefficients and subscripts carefully; changing subscripts changes substances.
-- Use familiar examples: rust, combustion, baking, digestion, vinegar and baking soda, batteries, and photosynthesis.
-- Consider splitting the chapter into two lessons: first chemical vs. physical change, evidence, reactants/products, equations, and conservation; then reaction types, energy, rate, catalysts, enzymes, and reversible reactions.
-- Avoid turning reaction types into memorization only; connect each type to a concrete example and treat advanced names as extensions after the core idea is secure.
-- Prioritize safety whenever gases, heat, pressure, or unknown substances are involved.
-- Link this chapter forward to conservation of matter and periodic table topics.
+- Open with the vinegar-and-baking-soda scene or another vivid demo before abstract vocabulary.
+- Keep the central idea visible: **chemical reactions rearrange atoms into new substances.**
+- Emphasize that signs of reaction are **clues**, not automatic proof — boiling vs. baking soda is the classic pair.
+- Conservation of matter is the anchor for equations and balancing; preview chapter 080 without requiring mass measurements yet.
+- Teach coefficients and subscripts carefully; changing subscripts changes substances — use physical tokens or colored atoms.
+- Use familiar examples: rust (link to oxidation/rust chapters), combustion, baking, digestion, vinegar and baking soda, batteries, photosynthesis.
+- Consider two lessons: (1) chemical vs. physical, evidence, reactants/products, equations, conservation; (2) reaction types, energy, rate, catalysts, enzymes, reversible reactions.
+- Avoid reaction-type memorization without examples; the summary table is a map, not a spelling test.
+- For redox, stay at electron-loss/gain level if students have read oxidation; skip oxidation states unless the class is ready.
+- Prioritize safety whenever gases, heat, pressure, or unknown substances are involved — especially never capping a fizzing container.
+- Link backward to atom, molecule, compound, mixture, combustion, and oxidation; link forward to conservation of matter.
+- Connect to stewardship: rust on bridges and bikes, controlled fire vs. wildfire, and safe handling of household chemicals are real-world chemistry, not only textbook topics.

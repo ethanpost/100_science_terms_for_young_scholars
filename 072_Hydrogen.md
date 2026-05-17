@@ -6,6 +6,8 @@ You cannot see hydrogen gas in ordinary air. You cannot smell it either. But hyd
 
 **Hydrogen is the lightest chemical element, with one proton in each atom.**
 
+![Hydrogen](072_Hydrogen_01.png)
+
 Hydrogen is simple in structure but powerful in importance. It is the first element on the periodic table and the most abundant element in the universe.
 
 To understand hydrogen, we must begin with atoms.

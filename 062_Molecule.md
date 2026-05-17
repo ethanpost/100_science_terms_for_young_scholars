@@ -1,42 +1,38 @@
 ﻿# Molecule
 
-Take a sip of water. You cannot see the tiny pieces that make it up, but every drop contains an enormous number of water molecules. Each one is made of atoms joined together in a particular way.
+You crack open a sports drink after practice. You smell smoke from a campfire. You watch bubbles race up through a soda. You breathe hard after a sprint and feel your chest rise and fall.
 
-Those joined atoms give water its special properties.
+You cannot see the tiny pieces inside any of those moments, but they are there — billions of them.
+
+Each sip, each smell, each bubble, and each breath involves **molecules**.
 
 **A molecule is a group of atoms held together by chemical bonds.**
 
-Molecules make up water, oxygen gas, carbon dioxide, sugar, fats, proteins, plastics, medicines, fuels, smells, flavors, and much of your own body. If atoms are the letters of matter, molecules are like words made from those letters.
+Molecules make up water, oxygen gas, carbon dioxide, sugar, fats, proteins, plastics, fuels, smells, flavors, and much of your own body. If atoms are the letters of matter, molecules are like words made from those letters.
 
-To understand molecules, we must begin with atoms and bonds.
+To understand molecules, start with what you already know about **atoms** — the tiny building blocks from the last chapter.
+
+![Molecule](062_Molecule_01.png)
 
 ## Atoms Join Together
 
 An **atom** is one of the tiny building blocks of matter.
 
-Atoms can exist alone, but many atoms join with other atoms.
+Atoms can exist alone, but many atoms join with other atoms. When they join, they form larger particles.
 
-When atoms join, they form larger particles.
+Sometimes two atoms join. Sometimes hundreds or thousands join. Sometimes millions connect in long chains or networks.
 
-Sometimes two atoms join.
-
-Sometimes hundreds or thousands of atoms join.
-
-Sometimes millions of atoms are connected in long chains or networks.
-
-The way atoms join helps explain the properties of substances. Water behaves differently from oxygen gas because its atoms are joined differently.
+The way atoms join helps explain why substances behave differently. Water acts nothing like oxygen gas because its atoms are joined in a different pattern.
 
 ## Chemical Bonds
 
 A **chemical bond** is an attraction that holds atoms or ions together.
 
-Chemical bonds involve electrons, especially the electrons farthest from the nucleus.
-
-These outer electrons are called **valence electrons**.
+Chemical bonds involve electrons, especially the **valence electrons** — the outer electrons farthest from the nucleus.
 
 Atoms bond because certain arrangements of electrons are more stable than others.
 
-You do not need to know every detail of bonding yet. The main idea is this:
+You do not need every detail of bonding yet. The main idea is this:
 
 **Chemical bonds hold atoms together to make molecules and compounds.**
 
@@ -46,328 +42,159 @@ A molecule is a group of atoms bonded together.
 
 A **compound** is a pure substance made of two or more elements chemically joined in a fixed ratio.
 
-Some molecules are compounds.
+Some molecules are compounds. Water is both a molecule and a compound because it contains hydrogen and oxygen atoms chemically joined. Carbon dioxide is both because it contains carbon and oxygen.
 
-Water is a molecule and a compound because it contains hydrogen and oxygen atoms chemically joined.
+Some molecules are not compounds. Oxygen gas is made of molecules with two oxygen atoms bonded together. It is a molecule, but not a compound, because it contains only one element.
 
-Carbon dioxide is a molecule and a compound because it contains carbon and oxygen atoms chemically joined.
-
-Some molecules are not compounds.
-
-Oxygen gas is made of molecules with two oxygen atoms. It is a molecule, but it is not a compound because it contains only one element.
+| Substance | Formula | Molecule? | Compound? | Why |
+|-----------|---------|-----------|-----------|-----|
+| Water | H2O | Yes | Yes | Hydrogen and oxygen bonded together |
+| Carbon dioxide | CO2 | Yes | Yes | Carbon and oxygen bonded together |
+| Oxygen gas | O2 | Yes | No | Only oxygen atoms |
+| Nitrogen gas | N2 | Yes | No | Only nitrogen atoms |
 
 ## Molecules of Elements
 
 Some elements naturally form molecules.
 
-Oxygen gas is made of oxygen molecules. Each oxygen molecule contains two oxygen atoms.
+- **Oxygen gas** — O2, two oxygen atoms per molecule
+- **Nitrogen gas** — N2, two nitrogen atoms per molecule
+- **Hydrogen gas** — H2, two hydrogen atoms per molecule
 
-Nitrogen gas is made of nitrogen molecules. Each nitrogen molecule contains two nitrogen atoms.
+These are **molecules of elements**. Atoms are bonded together, but all atoms are the same element.
 
-Hydrogen gas is made of hydrogen molecules. Each hydrogen molecule contains two hydrogen atoms.
-
-These are molecules of elements.
-
-They are molecules because atoms are bonded together.
-
-They are not compounds because all the atoms are the same element.
+The air you breathe is mostly nitrogen molecules (N2) and oxygen molecules (O2), not single atoms floating alone.
 
 ## Molecules of Compounds
 
-Many molecules contain atoms of different elements.
+Many molecules contain atoms of different elements. These are **molecules of compounds**.
 
-These are molecules of compounds.
+Examples include water, carbon dioxide, methane, ammonia, sugar, and the acetic acid in vinegar.
 
-Examples include:
-
-- Water
-- Carbon dioxide
-- Methane
-- Ammonia
-- Sugar
-- Vinegar's acetic acid
-
-The atoms in each molecule are joined in a specific pattern.
-
-Water is not just any mixture of hydrogen and oxygen. A water molecule has two hydrogen atoms bonded to one oxygen atom.
-
-That arrangement matters.
+The atoms in each molecule are joined in a specific pattern. Water is not just any mixture of hydrogen and oxygen. A water molecule always has two hydrogen atoms bonded to one oxygen atom. That arrangement matters.
 
 ## Chemical Formulas
 
-A **chemical formula** is a shorthand way to show what atoms are in a substance.
+A **chemical formula** is shorthand for what atoms are in a substance.
 
-The formula for water is **H2O**.
-
-This means one water molecule has:
-
-- 2 hydrogen atoms
-- 1 oxygen atom
-
-The formula for carbon dioxide is **CO2**.
-
-This means one carbon dioxide molecule has:
-
-- 1 carbon atom
-- 2 oxygen atoms
+| Substance | Formula | Atoms in one molecule |
+|-----------|---------|----------------------|
+| Water | H2O | 2 hydrogen, 1 oxygen |
+| Carbon dioxide | CO2 | 1 carbon, 2 oxygen |
+| Oxygen gas | O2 | 2 oxygen |
+| Methane | CH4 | 1 carbon, 4 hydrogen |
+| Table sugar (sucrose) | C12H22O11 | 12 carbon, 22 hydrogen, 11 oxygen |
 
 Chemical formulas are like compact recipes for molecules.
 
 ## Subscripts
 
-In a chemical formula, small numbers show how many atoms of an element are present.
+In a chemical formula, small numbers called **subscripts** show how many atoms of an element are present.
 
-These numbers are called **subscripts**.
+In H2O, the 2 belongs to hydrogen — two hydrogen atoms. O has no written subscript, which means one oxygen atom.
 
-In H2O, the 2 belongs to hydrogen. It means there are two hydrogen atoms.
+In CO2, the 2 belongs to oxygen — two oxygen atoms.
 
-O has no written subscript, which means there is one oxygen atom.
-
-In CO2, the 2 belongs to oxygen. It means there are two oxygen atoms.
-
-Reading subscripts carefully is important. H2O and H2O2 are different substances. H2O is water. H2O2 is hydrogen peroxide.
-
-Small differences in formulas can make large differences in properties.
+Read subscripts carefully. **H2O** is water. **H2O2** is hydrogen peroxide — a completely different substance used in some cleaners. Small differences in formulas can mean large differences in properties.
 
 ## Molecular Shape
 
-Molecules have shapes.
+Molecules have shapes. Atoms are not usually lined up in a perfectly straight row unless bonding makes that shape.
 
-Atoms in a molecule are not usually arranged in a perfectly straight line unless the molecule's bonding makes that shape.
+- Water molecules have a **bent** shape.
+- Carbon dioxide molecules are **straight** (linear).
+- Methane molecules are shaped like a tiny pyramid.
 
-Water molecules have a bent shape.
-
-Carbon dioxide molecules are straight, or linear.
-
-Methane molecules are shaped like a tiny pyramid with a triangular base.
-
-Shape matters because it affects how molecules attract one another, dissolve, react, smell, taste, and behave in living things.
-
-Molecules are too small to see with your eyes, but their shapes have large effects.
+Shape matters because it affects how molecules attract one another, dissolve, react, smell, taste, and behave in living things. Molecules are too small to see with your eyes, but their shapes have large effects.
 
 ## Covalent Bonds
 
-Many molecules are held together by **covalent bonds**.
+Many molecules are held together by **covalent bonds** — bonds that form when atoms **share electrons**.
 
-A covalent bond forms when atoms share electrons.
+In a water molecule, hydrogen and oxygen atoms share electrons. Sharing helps the atoms become more stable.
 
-For example, in a water molecule, hydrogen and oxygen atoms share electrons.
+Covalent bonds are common in molecules made from nonmetal elements such as hydrogen, oxygen, nitrogen, carbon, chlorine, and sulfur. Most molecules in living things contain covalent bonds.
 
-Sharing electrons helps the atoms become more stable.
+## Ionic Compounds
 
-Covalent bonds are common in molecules made from nonmetal elements such as hydrogen, oxygen, nitrogen, carbon, chlorine, and sulfur.
+Not every substance made of joined atoms is best described as separate little molecules.
 
-Most of the molecules in living things contain covalent bonds.
+Table salt is made of sodium ions and chloride ions that attract each other because they have opposite charges. Salt is an **ionic compound**. It forms a **crystal lattice** — a repeating pattern of ions — rather than separate salt molecules.
 
-## Ionic Compounds and Molecules
-
-Not every substance made of joined atoms is best described as separate molecules.
-
-Some substances are made of ions arranged in repeating patterns.
-
-Table salt is made of sodium ions and chloride ions. These ions attract each other because they have opposite charges.
-
-Salt is an **ionic compound**.
-
-It is not usually described as being made of separate little salt molecules. Instead, it forms a crystal lattice, a repeating pattern of ions.
-
-This distinction is important later in chemistry.
-
-For now, remember that molecules are groups of atoms bonded together, while some compounds are made of repeating networks of ions.
+For now, remember: **molecules** are groups of atoms bonded together, while some compounds like salt are made of repeating networks of ions.
 
 ## Diatomic Molecules
 
-A **diatomic molecule** is a molecule made of two atoms.
+A **diatomic molecule** is a molecule made of exactly two atoms.
 
-Some important elements naturally occur as diatomic molecules.
+Important examples include hydrogen (H2), nitrogen (N2), oxygen (O2), fluorine (F2), and chlorine (Cl2).
 
-Examples include:
-
-- Hydrogen gas, H2
-- Nitrogen gas, N2
-- Oxygen gas, O2
-- Fluorine gas, F2
-- Chlorine gas, Cl2
-
-Oxygen in the air is mostly O2, not single oxygen atoms floating alone.
-
-Nitrogen in the air is mostly N2.
-
-These paired atoms are stable enough to be common in nature.
-
-## Molecules and Properties
-
-The properties of a substance depend partly on its molecules.
-
-Water is a liquid at room temperature.
-
-Oxygen is a gas at room temperature.
-
-Table sugar is a solid at room temperature.
-
-Gasoline evaporates easily.
-
-Olive oil flows slowly compared with water.
-
-Perfume molecules can travel through air and reach your nose.
-
-These differences come from the kinds of atoms present, how they are bonded, the shapes of the molecules, and the attractions between molecules.
+Oxygen in the air is mostly O2. Nitrogen is mostly N2. These paired atoms are stable enough to be common in nature — which is why your cells can use oxygen from each breath.
 
 ## Attractions Between Molecules
 
-Molecules can attract one another.
+Molecules can attract one another. These attractions are usually **weaker** than the chemical bonds holding atoms together inside a molecule — but they are still very important.
 
-These attractions are usually weaker than the chemical bonds holding atoms together inside a molecule.
+They help explain why water is a liquid at room temperature, why sugar dissolves in water, why oil and water separate, and why some substances evaporate easily.
 
-Still, attractions between molecules are very important.
+If molecules attract strongly, the substance may have a higher boiling point. If they attract weakly, the substance may evaporate more easily.
 
-They help explain why water is liquid at room temperature, why sugar dissolves in water, why oil and water separate, and why some substances evaporate easily.
-
-If molecules attract one another strongly, the substance may have a higher boiling point.
-
-If molecules attract weakly, the substance may evaporate more easily.
-
-## Water Molecules
+## Water — The Molecule That Runs the World
 
 Water is one of the most important molecular substances on Earth.
 
-Each water molecule has two hydrogen atoms bonded to one oxygen atom.
+Each water molecule has two hydrogen atoms bonded to one oxygen atom: **H2O**.
 
-Its formula is H2O.
-
-Water molecules have a bent shape and uneven charge distribution. This makes water molecules attract one another strongly.
-
-These attractions help give water its high surface tension, its ability to dissolve many substances, and its unusually high boiling point for such a small molecule.
+Water molecules have a bent shape and uneven charge distribution, so they attract one another strongly. These attractions help give water its high surface tension, its ability to dissolve many substances, and its unusually high boiling point for such a small molecule.
 
 Water molecules are small, but their behavior shapes oceans, weather, cells, rivers, clouds, and life.
 
-## Carbon Dioxide Molecules
+## Oxygen and Carbon Dioxide
 
-Carbon dioxide is a gas made of molecules with one carbon atom and two oxygen atoms.
+**Oxygen gas** is made of O2 molecules — two oxygen atoms bonded together. Humans and many animals need oxygen for **respiration**, the process cells use to release energy from food. Oxygen also supports combustion, which is why pure oxygen tanks must be handled carefully around flames.
 
-Its formula is CO2.
+**Carbon dioxide** (CO2) has one carbon atom and two oxygen atoms per molecule. It is produced when animals breathe out, when fuels burn, and when many living things decompose. Plants use carbon dioxide during photosynthesis. It can dissolve in water — which is why fizzy drinks bubble — and it is an important greenhouse gas in the atmosphere.
 
-Carbon dioxide is produced when animals breathe out, when fuels burn, and when many living things decompose.
+## Sugar, Smell, and Taste
 
-Plants use carbon dioxide during photosynthesis.
+Sugar is made of molecules. Table sugar (**sucrose**) has the formula C12H22O11 — carbon, hydrogen, and oxygen in a fixed ratio and arrangement.
 
-Carbon dioxide can dissolve in water, which is why fizzy drinks can contain bubbles of carbon dioxide gas.
+Sugar tastes sweet because its molecules fit certain receptors on your tongue. Sugar dissolves in water because water molecules can attract and surround sugar molecules.
 
-It is also an important greenhouse gas in the atmosphere.
-
-## Oxygen Molecules
-
-Oxygen gas is made of O2 molecules.
-
-Each oxygen molecule has two oxygen atoms bonded together.
-
-Humans and many animals need oxygen for respiration, the process cells use to release energy from food.
-
-Oxygen also supports combustion.
-
-Pure oxygen can make fires burn more intensely, so oxygen tanks must be handled carefully.
-
-Oxygen atoms are also found in many compounds, including water, carbon dioxide, sugars, rocks, and living tissues.
-
-## Sugar Molecules
-
-Sugar is made of molecules.
-
-One common sugar is sucrose, the table sugar used in many foods.
-
-Sucrose has the formula C12H22O11.
-
-That means one sucrose molecule contains carbon, hydrogen, and oxygen atoms in a specific ratio.
-
-Sugar tastes sweet because its molecules fit certain receptors on your tongue.
-
-Sugar dissolves in water because water molecules can attract and surround sugar molecules.
-
-Molecular shape and attraction help explain taste and dissolving.
-
-## Smell and Molecules
-
-Smells come from molecules.
-
-When you smell oranges, pine trees, smoke, popcorn, or wet soil, molecules from those materials enter the air and reach your nose.
-
-Special receptors in your nose respond to different molecular shapes and properties.
-
-Your brain interprets those signals as smells.
-
-This is why a tiny amount of a strong-smelling substance can be noticed from far away.
-
-Molecules can travel through gases by diffusion.
+**Smells come from molecules too.** When you smell popcorn, pine trees, smoke, or wet soil, molecules from those materials enter the air and reach your nose. Special receptors respond to different molecular shapes. Your brain interprets those signals as smells. That is why a tiny amount of a strong-smelling substance can be noticed from far away — molecules travel through gases by **diffusion**.
 
 ## Molecules in Living Things
 
 Living things depend on molecules.
 
-Important biological molecules include:
+Important biological molecules include water, sugars, fats, proteins, DNA, vitamins, and hormones.
 
-- Water
-- Sugars
-- Fats
-- Proteins
-- DNA
-- Vitamins
-- Hormones
-
-Proteins help build structures and control chemical reactions in cells.
-
-DNA stores genetic information.
-
-Fats store energy and form cell membranes.
-
-Sugars provide energy and building materials.
+- **Proteins** help build structures and control chemical reactions in cells.
+- **DNA** stores genetic information.
+- **Fats** store energy and form cell membranes.
+- **Sugars** provide energy and building materials.
 
 Life is organized chemistry, and chemistry depends on molecules.
 
-## Large Molecules
+## Large Molecules and Polymers
 
-Some molecules are small, like water or oxygen.
+Some molecules are small, like water or oxygen. Others are enormous.
 
-Others are very large.
+A **macromolecule** is a very large molecule. Proteins, DNA, starch, and many plastics are macromolecules. They may contain hundreds, thousands, or even millions of atoms. Their size and shape let them do complicated jobs — a protein's shape helps determine what it does in a cell.
 
-A **macromolecule** is a very large molecule.
+A **polymer** is a large molecule made of many repeating smaller units called **monomers**.
 
-Proteins, DNA, starch, and many plastics are macromolecules.
+Many plastics are polymers. Natural rubber is a polymer. Starch and cellulose in plants are polymers made from sugar units. Proteins are polymers made from amino acids. Polymers can be flexible, strong, stretchy, sticky, smooth, tough, or lightweight depending on their structure — which is why a bike tire, a protein muscle fiber, and a plastic water bottle feel so different even though all are made of molecules.
 
-Macromolecules may contain hundreds, thousands, or even millions of atoms.
+## Molecular Motion and States of Matter
 
-Their size and shape allow them to do complicated jobs.
+As you learned in the chapters on solids, liquids, and gases, **molecules are always moving**.
 
-For example, a protein's shape helps determine what it does in a cell.
+- In a **solid**, molecules mostly vibrate in place.
+- In a **liquid**, molecules can slide past one another.
+- In a **gas**, molecules move freely and spread far apart.
 
-## Polymers
-
-A **polymer** is a large molecule made of many repeating smaller units.
-
-The smaller units are called monomers.
-
-Many plastics are polymers.
-
-Natural rubber is a polymer.
-
-Starch and cellulose in plants are polymers made from sugar units.
-
-Proteins are polymers made from amino acids.
-
-Polymers can be flexible, strong, stretchy, sticky, smooth, tough, or lightweight depending on their molecular structure.
-
-## Molecular Motion
-
-Molecules are always moving.
-
-In a solid, molecules mostly vibrate in place.
-
-In a liquid, molecules can slide past one another.
-
-In a gas, molecules move freely and spread far apart.
-
-Heating a substance generally makes its molecules move faster.
-
-Cooling a substance generally makes its molecules move more slowly.
+Heating generally makes molecules move faster. Cooling generally slows them down.
 
 Molecular motion helps explain temperature, melting, freezing, evaporation, boiling, diffusion, and pressure.
 
@@ -377,154 +204,78 @@ Molecules help explain changes of state.
 
 When ice melts, water molecules do not stop being water molecules. They gain enough energy to move past one another more freely.
 
-When water evaporates, some water molecules escape from the liquid surface into the air as gas.
+When water evaporates, some water molecules escape from the liquid surface into the air as gas. When water vapor condenses, water molecules slow down and come together as liquid droplets.
 
-When water vapor condenses, water molecules slow down and come together as liquid droplets.
-
-In these physical changes, the molecules remain water molecules.
-
-The arrangement and motion change, but the chemical identity stays the same.
+In these **physical changes**, the molecules remain water molecules. The arrangement and motion change, but the chemical identity stays the same.
 
 ## Chemical Reactions
 
-In a chemical reaction, atoms are rearranged into new substances.
+In a **chemical reaction**, atoms are rearranged into new substances. Chemical bonds break and new bonds form.
 
-Chemical bonds break and new bonds form.
-
-For example, hydrogen and oxygen can react to form water.
-
-Methane can burn in oxygen to form carbon dioxide and water.
-
-Vinegar and baking soda react to form new substances, including carbon dioxide gas.
+For example, hydrogen and oxygen can react to form water. Methane can burn in oxygen to form carbon dioxide and water. Vinegar and baking soda react to form new substances, including carbon dioxide gas.
 
 The atoms are not destroyed in ordinary chemical reactions. They are rearranged into different molecules or compounds.
 
 ## Conservation of Atoms
 
-In ordinary chemical reactions, atoms are conserved.
+In ordinary chemical reactions, **atoms are conserved** — the same atoms present before the reaction are still present after, though joined in new ways.
 
-That means the same atoms present before the reaction are still present after the reaction.
-
-They may be joined in new ways.
-
-This is why chemical equations must be balanced. A balanced equation shows the same number of each type of atom on both sides.
-
-For example, if carbon atoms are present before a reaction, those carbon atoms must be found in the products after the reaction.
+This is why chemical equations must be **balanced**. A balanced equation shows the same number of each type of atom on both sides. If carbon atoms are present before a reaction, those carbon atoms must appear in the products afterward.
 
 Molecules can change, but atoms are not casually lost.
 
-## Mixtures of Molecules
+## Mixtures and Solutions
 
-Many materials are mixtures of molecules.
+Many materials are **mixtures** of molecules.
 
-Air is a mixture of nitrogen molecules, oxygen molecules, carbon dioxide molecules, water vapor molecules, and other gases.
+Air is a mixture of nitrogen molecules, oxygen molecules, carbon dioxide molecules, water vapor, and other gases. Lemonade is a mixture of water molecules, sugar molecules, acids, and flavors.
 
-Lemonade is a mixture of water molecules, sugar molecules, acids, flavors, and other substances.
+In a mixture, different substances are physically combined, not chemically joined into one fixed formula. Mixtures can often be separated by physical methods.
 
-Gasoline is a mixture of many different fuel molecules.
-
-In a mixture, different substances are physically combined, not chemically joined into one fixed formula.
-
-Mixtures can often be separated by physical methods.
-
-## Solutions
-
-A **solution** is an evenly mixed mixture.
-
-Solutions often involve molecules or ions spread evenly through a liquid.
-
-In sugar water, sugar molecules are spread among water molecules.
-
-In salt water, sodium ions and chloride ions are spread among water molecules.
-
-The substance being dissolved is the solute.
-
-The substance doing the dissolving is the solvent.
-
-At the molecular level, dissolving means particles become separated and surrounded by particles of the solvent.
+A **solution** is an evenly mixed mixture. In sugar water, sugar molecules spread among water molecules. The substance being dissolved is the **solute**. The substance doing the dissolving is the **solvent**. At the molecular level, dissolving means particles become separated and surrounded by solvent particles.
 
 ## Molecular Models
 
-Scientists use models to represent molecules.
+Scientists use models to represent molecules because molecules are too small to see directly.
 
 Common models include:
 
-- Ball-and-stick models
-- Space-filling models
-- Structural formulas
-- Computer models
+- **Ball-and-stick models** — atoms as balls, bonds as sticks
+- **Space-filling models** — show how much space atoms take up
+- **Structural formulas** — show atoms and bonds on paper
+- **Computer models** — used in research and design
 
-Ball-and-stick models show atoms as balls and bonds as sticks.
-
-Space-filling models show how much space atoms take up in a molecule.
-
-No model is perfect, but each helps show something useful.
-
-Models help scientists think about shapes, bonds, reactions, and properties.
-
-## Chemical Symbols and Formulas
-
-Chemical symbols are short names for elements.
-
-H means hydrogen.
-
-O means oxygen.
-
-C means carbon.
-
-N means nitrogen.
-
-Na means sodium.
-
-Cl means chlorine.
-
-Chemical formulas use these symbols to show the atoms in a molecule or compound.
-
-Learning formulas lets you read some of the language of chemistry.
+No model is perfect, but each helps show something useful — shape, bonds, reactions, or properties.
 
 ## Same Atoms, Different Arrangements
 
-Sometimes substances can have the same kinds and numbers of atoms but different arrangements.
+Sometimes substances can have the same kinds and numbers of atoms but different arrangements. These are called **isomers**.
 
-These substances can have different properties.
-
-For example, some molecules have the same formula but different shapes or arrangements of atoms. These are called **isomers**.
-
-The idea is similar to using the same letters to make different words.
-
-Listen and silent use the same letters, but they mean different things.
-
-In chemistry, arrangement matters.
+The idea is like using the same letters to make different words. *Listen* and *silent* use the same letters but mean different things. In chemistry, arrangement matters.
 
 ## Molecules and Materials
 
 The behavior of materials depends on their molecules and how those molecules are arranged.
 
-Plastic wrap, rubber bands, cotton, wool, wood, glue, paint, soap, medicines, fuels, and food all depend on molecular structure.
+Plastic wrap, rubber bands, cotton, wood, glue, paint, soap, medicines, fuels, and food all depend on molecular structure. A material's strength, flexibility, melting point, smell, solubility, and flammability can all depend on molecules.
 
-A material's strength, flexibility, melting point, smell, solubility, and flammability can all depend on molecules.
-
-Engineers and chemists design materials by thinking about molecular structure.
-
-This is how people make waterproof fabrics, strong plastics, safer medicines, better batteries, and many other useful materials.
+Engineers and chemists design materials by thinking about molecular structure — waterproof fabrics, strong plastics, safer medicines, better batteries, and lighter sports gear all start with molecular ideas.
 
 ## Common Misconceptions
 
-One mistake is thinking atoms and molecules are the same thing. Atoms are single building blocks; molecules are groups of atoms bonded together.
+One mistake is thinking atoms and molecules are the same thing. **Atoms** are single building blocks; **molecules** are groups of atoms bonded together.
 
 Another mistake is thinking all compounds are made of separate molecules. Some compounds, such as table salt, are made of repeating patterns of ions.
 
-A third mistake is thinking molecules stop moving in solids. Molecules in solids usually vibrate in place.
+A third mistake is thinking molecules stop moving in solids. Molecules in solids usually **vibrate in place**.
 
-A fourth mistake is thinking a chemical formula shows the shape of a molecule. A formula shows which atoms are present and how many, but not always the full shape.
+A fourth mistake is thinking a chemical formula shows the full shape of a molecule. A formula shows which atoms are present and how many — not always the complete 3D shape.
 
-A fifth mistake is thinking substances disappear when they dissolve. Their molecules or ions spread out among solvent particles.
+A fifth mistake is thinking substances disappear when they dissolve. Their molecules or ions spread out among solvent particles — they do not vanish.
 
 ## Molecule Safety
 
-Molecules make up safe substances and dangerous substances.
-
-Water, sugar, and oxygen are made of molecules, but so are poisons, fumes, fuels, acids, and many medicines.
+Molecules make up safe substances and dangerous substances. Water, sugar, and oxygen are made of molecules — but so are poisons, fumes, fuels, acids, and many medicines.
 
 Good safety habits include:
 
@@ -563,23 +314,19 @@ If you remember only one sentence, remember this:
 8. Why is oxygen gas a molecule but not a compound?
 9. What is a chemical formula?
 10. What does the formula H2O mean?
-11. What does the formula CO2 mean?
-12. What are subscripts in chemical formulas?
-13. Why can a small difference in a formula matter?
-14. Why does molecular shape matter?
-15. What is a covalent bond?
-16. How is an ionic compound such as table salt different from a simple molecule?
-17. What is a diatomic molecule?
-18. Give three examples of diatomic molecules.
-19. How can attractions between molecules affect properties?
-20. What are two important facts about water molecules?
-21. What is a macromolecule?
-22. What is a polymer?
-23. How does molecular motion differ in solids, liquids, and gases?
-24. What happens to water molecules when ice melts?
-25. What happens in a chemical reaction?
-26. What does conservation of atoms mean?
-27. How is a mixture different from a compound?
-28. What happens at the particle level when sugar dissolves in water?
-29. Why are molecular models useful?
-30. What are three safety rules for studying substances made of molecules?
+11. What are subscripts in chemical formulas?
+12. Why can a small difference in a formula matter?
+13. Why does molecular shape matter?
+14. What is a covalent bond?
+15. How is table salt different from a simple molecule like water?
+16. What is a diatomic molecule? Give two examples.
+17. How can attractions between molecules affect properties?
+18. What are two important facts about water molecules?
+19. What is a macromolecule? What is a polymer?
+20. How does molecular motion differ in solids, liquids, and gases?
+21. What happens to water molecules when ice melts?
+22. What happens in a chemical reaction?
+23. How is a mixture different from a compound?
+24. What happens at the particle level when sugar dissolves in water?
+25. What are three safety rules for studying substances made of molecules?
+26. In your own words, explain why learning about molecules helps you understand things you can actually see, smell, taste, and use every day.

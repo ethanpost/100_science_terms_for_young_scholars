@@ -1,58 +1,69 @@
 ﻿# Mixture
 
-Open a bag of trail mix. You may find peanuts, raisins, chocolate pieces, seeds, and pretzels all together. Take a handful, and it might not have the same amount of each part as the next handful.
+You pour cereal into a bowl and add milk. You shake a bottle of sports drink before a game. You watch mud settle in a puddle after rain. You sort screws, nails, and washers in a garage tray. You breathe air without thinking about it.
 
-That is a mixture.
+None of those moments look the same. But each one involves a **mixture** — matter made of two or more substances physically combined.
+
+Open a bag of trail mix. One handful might be heavy on peanuts. The next might have more raisins. That is not a mistake. That is what mixtures do.
 
 **A mixture is matter made of two or more substances physically combined.**
 
-Mixtures are everywhere. Air, soil, seawater, lemonade, cereal, granite, salad, paint, milk, smoke, fog, steel, and blood are all mixtures. Understanding mixtures helps explain cooking, cleaning, mining, medicine, weather, water treatment, and many classroom experiments.
+Mixtures are everywhere: air, soil, seawater, lemonade, cereal, granite, salad, paint, milk, smoke, fog, steel, and blood. Understanding mixtures helps explain cooking, cleaning, recycling, mining, medicine, weather, water treatment, and almost every hands-on science activity you will do.
 
-To understand mixtures, we must compare them with pure substances.
+As you learned in the chapters on **matter**, **elements**, **compounds**, and **molecules**, not all matter is the same kind of stuff. Mixtures sit in a special place: they combine substances without locking them into one new chemical formula.
+
+![Mixture](065_Mixture_01.png)
 
 ## Mixtures and Pure Substances
 
 A **pure substance** has a fixed composition.
 
-Elements and compounds are pure substances.
+- **Elements** are pure substances made of only one kind of atom.
+- **Compounds** are pure substances made of two or more elements chemically joined in a fixed ratio.
 
-Pure copper contains only copper atoms.
+Pure copper contains only copper atoms. Pure water contains water molecules in the ratio H2O.
 
-Pure water contains water molecules.
+A **mixture** does not have a fixed composition. One sample of soil may have more sand; another may have more clay. One glass of lemonade may be sweeter than another. One handful of trail mix may contain more raisins than the next.
 
-A mixture does not have a fixed composition.
+| Type | Composition | Example | Can amounts vary? |
+|------|-------------|---------|-------------------|
+| Element | One kind of atom | Gold, oxygen gas | No (for a pure sample) |
+| Compound | Fixed ratio of elements | Water (H2O), salt (NaCl) | No |
+| Mixture | Substances physically combined | Air, trail mix, salt water | Yes |
 
-One sample of soil may have more sand. Another may have more clay. One glass of lemonade may be sweeter than another. One handful of trail mix may contain more raisins than another.
-
-Mixtures can vary.
+Mixtures can vary. That flexibility is one of their defining features.
 
 ## Physically Combined
 
-In a mixture, substances are physically combined.
+In a mixture, substances are **physically combined**.
 
-That means the parts are together, but they are not chemically joined into a new substance.
+That means the parts are together, but they are not chemically joined into one new substance.
 
 The raisins and peanuts in trail mix do not become a new compound.
 
-Salt dissolved in water is spread among the water particles, but the salt and water have not chemically joined into one new compound.
+Salt dissolved in water is spread among the water particles, but the salt and water have not chemically joined into one new substance — you can often recover the salt by evaporation.
 
-Air is a mixture of gases. The nitrogen, oxygen, argon, carbon dioxide, and water vapor are mixed together, not chemically bonded into one air compound.
+Air is a mixture of gases. Nitrogen, oxygen, argon, carbon dioxide, and water vapor are mixed together, not bonded into one "air molecule."
+
+**Physically combined** is the opposite of **chemically joined**. Remember that phrase — it is the key to telling mixtures apart from compounds.
 
 ## Mixtures and Compounds
 
-A mixture is different from a compound.
+A mixture is different from a **compound**.
 
-A **compound** is a pure substance made of two or more elements chemically joined in a fixed ratio.
-
-Water is a compound. It always has hydrogen and oxygen in the ratio H2O.
+A compound is a pure substance made of two or more elements chemically joined in a fixed ratio. Water is always H2O. Table salt is always sodium and chlorine in a fixed pattern.
 
 A mixture has substances physically combined, and the amounts can vary.
 
-Salt water can be very salty or only slightly salty.
+| | Mixture | Compound |
+|---|---------|----------|
+| How parts join | Physically combined | Chemically joined |
+| Composition | Can vary | Fixed ratio |
+| Formula | No single formula | Has a chemical formula |
+| Separation | Often by physical methods | Usually needs chemical change |
+| Properties of parts | Often keep many own properties | New properties, unlike elements |
 
-Air can contain more or less water vapor.
-
-Soil can contain many different amounts of sand, clay, minerals, water, and organic matter.
+Salt water can be very salty or only slightly salty. Air can hold more or less water vapor. Soil can contain different amounts of sand, clay, minerals, water, and organic matter.
 
 Mixtures are flexible in composition. Compounds are fixed.
 
@@ -66,371 +77,124 @@ In sand mixed with iron filings, the iron is still magnetic.
 
 In salt water, the water is still liquid water and the salt can still be recovered by evaporation.
 
-This is different from many compounds. Sodium and chlorine form table salt, whose properties are very different from sodium metal and chlorine gas.
+This is different from many compounds. Sodium and chlorine form table salt, whose properties are very different from reactive sodium metal and poisonous chlorine gas — as you saw in the chapter on **compounds**.
 
 Mixtures combine substances without making a completely new substance by chemical bonding.
 
-## Homogeneous Mixtures
+## Homogeneous and Heterogeneous Mixtures
 
-A **homogeneous mixture** has the same composition throughout.
+Mixtures are often grouped by whether they look the same throughout.
 
-Homogeneous means "same throughout."
+A **homogeneous mixture** has the same composition throughout. *Homogeneous* means "same throughout."
 
-Examples include:
+Examples include salt water, sugar water, air, vinegar, brass, and clear apple juice. If you take a small sample from one part of well-mixed salt water, it should be much like a sample from another part.
 
-- Salt water
-- Sugar water
-- Air
-- Vinegar
-- Brass
-- Clear apple juice
+A **heterogeneous mixture** does not have the same composition throughout. *Heterogeneous* means "different throughout."
 
-If you take a small sample from one part of a well-mixed saltwater solution, it should be much like a sample from another part.
+Examples include trail mix, soil, granite, salad, cereal in milk, muddy water, and concrete. In a heterogeneous mixture, you may be able to see different parts. One scoop of salad may not match the next.
 
-Homogeneous mixtures look uniform.
+| | Homogeneous | Heterogeneous |
+|---|-------------|---------------|
+| Composition | Same throughout | Different throughout |
+| Appearance | Often uniform | Often uneven |
+| Examples | Salt water, air, brass | Trail mix, soil, salad |
 
-## Heterogeneous Mixtures
+One common mistake: thinking a mixture must look uneven. Homogeneous mixtures can look perfectly uniform — even when several substances are present.
 
-A **heterogeneous mixture** does not have the same composition throughout.
+## Solutions, Suspensions, and Colloids
 
-Heterogeneous means "different throughout."
+Not all mixtures behave the same way. Scientists often sort them by particle size and how evenly they spread.
 
-Examples include:
+A **solution** is a homogeneous mixture in which one substance is evenly dissolved in another. Salt water, sugar water, vinegar, and air are solutions. The dissolved substance does not vanish — its particles are spread out too small and too evenly for your eyes to see.
 
-- Trail mix
-- Soil
-- Granite
-- Salad
-- Cereal in milk
-- Muddy water
-- Concrete
+In a solution, the **solute** is the substance being dissolved. The **solvent** is the substance doing the dissolving. In salt water, salt is the solute and water is the solvent. Water is a very common solvent because it dissolves many substances — but not everything. Oil, sand, and many plastics do not dissolve well in water.
 
-In a heterogeneous mixture, you may be able to see different parts.
+A **suspension** has particles spread through a fluid but not dissolved. Muddy water is a suspension. If it sits still, dirt may settle to the bottom. Some liquid medicines are suspensions and must be shaken before use. Suspensions are often cloudy because the particles scatter light.
 
-A scoop of salad may contain lettuce, tomato, carrot, and cucumber in different amounts from another scoop.
+A **colloid** has particles spread throughout another substance, but the particles are small enough that they do not settle quickly. Milk, fog, smoke, whipped cream, mayonnaise, and gelatin are colloids. They sit between solutions and suspensions in particle size.
 
-## Solutions
+| Type | Particle size (idea) | Settles? | Example |
+|------|---------------------|----------|---------|
+| Solution | Very small, dissolved | No | Salt water |
+| Colloid | Medium, stable | Slowly or not | Milk, fog |
+| Suspension | Larger, not dissolved | Often yes | Muddy water |
 
-A **solution** is a homogeneous mixture in which one substance is evenly dissolved in another.
+The next chapter on **solutions** goes deeper into dissolving, concentration, and why "dissolved" does not mean "gone."
 
-Salt water is a solution.
-
-Sugar water is a solution.
-
-Vinegar is a solution.
-
-Air is a solution of gases.
-
-In a solution, the particles are mixed so evenly that the mixture looks the same throughout.
-
-The dissolved substance does not vanish. Its particles are spread out among the particles of the other substance.
-
-## Solute and Solvent
-
-In a solution, the **solute** is the substance being dissolved.
-
-The **solvent** is the substance doing the dissolving.
-
-In salt water, salt is the solute and water is the solvent.
-
-In sugar water, sugar is the solute and water is the solvent.
-
-Water is a very common solvent because it dissolves many substances.
-
-That does not mean water dissolves everything. Oil, sand, and many plastics do not dissolve well in water.
-
-## Suspensions
-
-A **suspension** is a mixture in which particles are spread through a fluid but are not dissolved.
-
-Muddy water is a suspension.
-
-If muddy water sits still, some dirt particles may settle to the bottom.
-
-Orange juice with pulp can behave like a suspension.
-
-Some medicines are suspensions and must be shaken before use.
-
-Suspensions are often cloudy because the particles are large enough to scatter light.
-
-## Colloids
-
-A **colloid** is a mixture with particles spread throughout another substance, but the particles are small enough that they do not settle quickly.
-
-Examples include:
-
-- Milk
-- Fog
-- Smoke
-- Whipped cream
-- Mayonnaise
-- Gelatin
-
-Colloids are between solutions and suspensions in particle size.
-
-Their particles are larger than particles in solutions but smaller or more stable than many suspension particles.
-
-Colloids are common in foods, weather, medicine, and materials.
-
-## Alloys
+## Alloys — Designed Mixtures
 
 An **alloy** is a mixture of a metal with one or more other elements.
 
-Steel is an alloy made mostly of iron with carbon and sometimes other elements.
+Steel is mostly iron with carbon and sometimes other elements. Brass is copper and zinc. Bronze is copper and tin.
 
-Brass is an alloy of copper and zinc.
+Alloys are mixtures, not compounds, because their composition can vary. Different amounts of carbon change steel's strength, hardness, and resistance to rust. Engineers choose alloys the way builders choose lumber — for the job.
 
-Bronze is an alloy of copper and tin.
+Alloys show that mixtures are not just random piles. They can be carefully designed.
 
-Alloys are mixtures, not compounds, because their composition can vary.
+## Mixtures You Meet Every Day
 
-Steel can be made with different amounts of carbon and other elements to change its strength, hardness, flexibility, and resistance to rust.
+### Air
 
-Alloys show that mixtures can be carefully designed.
+Air is a mixture of gases. Dry air near Earth's surface is mostly nitrogen and oxygen, with argon, carbon dioxide, and small amounts of other gases. It can also hold water vapor, dust, pollen, smoke, and tiny droplets.
 
-## Air as a Mixture
+Humid air has more water vapor than dry air. Polluted air has more unwanted particles or gases. The composition changes from place to place and time to time. Air is not empty space, and it is not a single compound.
 
-Air is a mixture of gases.
+### Soil
 
-Dry air near Earth's surface is mostly nitrogen and oxygen.
+Soil is a complex mixture: sand, silt, clay, minerals, water, air, decayed plant and animal matter, and living organisms. Sandy soil drains quickly. Clay soil holds water. Rich garden soil contains organic matter that helps plants grow. Different soils support different kinds of life.
 
-It also contains argon, carbon dioxide, and small amounts of other gases.
+### Seawater
 
-Air can also contain water vapor, dust, pollen, smoke, and tiny droplets.
-
-The composition of air changes from place to place and time to time.
-
-Humid air contains more water vapor than dry air.
-
-Polluted air contains more unwanted particles or gases.
-
-Air is not empty space, and it is not a single compound.
-
-## Soil as a Mixture
-
-Soil is a complex mixture.
-
-It may contain:
-
-- Sand
-- Silt
-- Clay
-- Minerals
-- Water
-- Air
-- Decayed plant and animal matter
-- Living organisms
-
-Different soils have different compositions.
-
-Sandy soil drains quickly.
-
-Clay soil holds water more strongly.
-
-Rich garden soil contains organic matter that helps plants grow.
-
-Soil is a mixture that supports life.
-
-## Seawater as a Mixture
-
-Seawater is a mixture of water and dissolved substances.
-
-It contains dissolved salts, minerals, gases, and tiny living things.
-
-The saltiness of seawater is called **salinity**.
-
-Most of the dissolved salt in seawater is sodium chloride, but many other dissolved substances are present too.
-
-Seawater can be separated into fresh water and salts by processes such as evaporation or distillation.
-
-This shows that mixtures can often be separated physically.
+Seawater is water mixed with dissolved salts, minerals, gases, and tiny living things. The saltiness is called **salinity**. Most dissolved salt is sodium chloride, but many other substances are present too. Seawater can be separated into fresh water and salts by evaporation or distillation — proof that mixtures can often be taken apart physically.
 
 ## Separating Mixtures
 
-Mixtures can often be separated by physical methods.
+Mixtures can often be separated by **physical methods** — without breaking chemical bonds. The best method depends on the properties of the parts.
 
-Useful separation methods include:
+| Method | What it uses | Example |
+|--------|--------------|---------|
+| Sorting | Visible differences | Separating trail mix by hand |
+| Filtering | Hole size | Coffee filter, water filter |
+| Sieving | Particle size | Screen for sand and gravel |
+| Magnetism | Magnetic property | Iron filings from sand |
+| Evaporation | Liquid vs dissolved solid | Salt from salt water |
+| Distillation | Boiling points | Fresh water from salt water |
+| Decanting | Settling | Pouring off clearer water above mud |
+| Chromatography | Different movement speeds | Separating ink dyes on paper |
 
-- Sorting
-- Filtering
-- Sieving
-- Magnetism
-- Evaporation
-- Distillation
-- Decanting
-- Chromatography
+**Sorting** separates parts by size, shape, color, or type — like recycling centers sorting glass, metal, paper, and plastic.
 
-The best method depends on the properties of the parts.
+**Filtering** passes a mixture through material with tiny holes. Coffee grounds stay behind; liquid passes through. Dissolved salt is too small for ordinary filter paper — it passes through with the water.
 
-If one part is magnetic, use a magnet.
+**Sieving** uses holes of a certain size so smaller particles pass through and larger ones stay behind.
 
-If one part dissolves and another does not, use dissolving and filtering.
+**Magnetism** pulls magnetic materials (iron, steel, nickel, cobalt) away from nonmagnetic ones — useful in recycling and simple lab demos.
 
-If liquids boil at different temperatures, distillation may help.
+**Evaporation** removes a liquid so a dissolved solid is left behind, as in salt ponds along the coast.
 
-## Sorting
+**Distillation** boils a liquid, collects the vapor, and condenses it back to liquid — separating substances by boiling point. Distillation requires heat and proper equipment; use it only with adult supervision.
 
-**Sorting** separates parts by visible differences such as size, shape, color, or type.
+**Decanting** carefully pours off liquid after heavier solids have settled — often a step before filtering.
 
-You can sort trail mix by hand.
+**Chromatography** separates mixture parts as they move through a material at different speeds. Paper chromatography with washable marker ink on filter paper can show that black or purple ink is itself a mixture of several dyes. Chromatography is used in chemistry, medicine, food testing, and forensic science.
 
-You can separate coins by value.
+A fourth common mistake: thinking every mixture separates the same way. Match the method to the property — size, magnetism, solubility, boiling point, settling, or movement through a material.
 
-Recycling centers sort glass, metal, paper, and plastic.
+## Mixtures in Cooking, Medicine, and the Environment
 
-Sorting works best when the pieces are large enough to see and handle.
+**Cooking** uses mixtures constantly. Batter mixes flour, liquid, eggs, sugar, and fat. Salad dressing mixes oil, vinegar, and spices. Soup mixes water, vegetables, salt, proteins, and flavors. Some cooking mixtures are solutions; some are suspensions or colloids; some change chemically when heated. Cooking is kitchen chemistry.
 
-It is simple, but it can be powerful.
+**Medicines** may be solutions, suspensions, or creamy mixtures of oils, water, waxes, and active ingredients. Liquid suspensions often must be shaken so each dose is even. Medical mixtures must be prepared carefully — labels, measurements, and instructions matter. Never take or mix medicines without adult supervision.
 
-## Filtering
+The **environment** is full of mixtures: air, soil, river water, seawater, smoke, and fog. Pollution often means harmful substances mixed into air, water, or soil. Cleaning polluted mixtures is hard because unwanted material may be dissolved, suspended, or chemically changed. Environmental scientists use separation methods, testing, and careful chemistry to study and protect water, air, soil, and living things.
 
-**Filtering** separates solids from fluids by passing the mixture through a material with tiny holes.
+## Mixtures Can Change — Safely or Not
 
-A coffee filter separates coffee grounds from liquid coffee.
+Mixtures can be changed without necessarily making new substances. You can stir, shake, dissolve, filter, sort, heat, cool, or evaporate a mixture. Many of those changes are physical.
 
-A water filter can remove some particles from water.
+But mixtures can also contain substances that **react chemically**. Mixing vinegar and baking soda produces new substances, including carbon dioxide gas.
 
-A screen can filter leaves from pool water.
-
-Filtering works when the solid particles are larger than the holes in the filter.
-
-It does not remove substances that are truly dissolved.
-
-Salt dissolved in water passes through ordinary filter paper.
-
-## Sieving
-
-**Sieving** separates solid particles by size.
-
-A sieve or screen has holes of a certain size.
-
-Smaller particles pass through. Larger particles stay behind.
-
-Flour can be sifted.
-
-Sand and gravel can be separated by screens.
-
-Archaeologists use screens to separate small artifacts from soil.
-
-Sieving is useful for mixtures of solids with different particle sizes.
-
-## Magnetism
-
-Magnetism can separate magnetic materials from nonmagnetic materials.
-
-Iron filings can be separated from sand with a magnet.
-
-Recycling centers may use magnets to separate iron and steel from other materials.
-
-This works because iron, steel, nickel, and cobalt are attracted to magnets.
-
-Magnetism is useful when one part of a mixture has a magnetic property and the other parts do not.
-
-## Evaporation
-
-**Evaporation** can separate a dissolved solid from a liquid.
-
-If salt water is left in a shallow dish, the water can evaporate, leaving salt behind.
-
-This method recovers the dissolved solid, but the liquid is lost into the air unless it is captured.
-
-Evaporation is used in salt ponds to produce salt from seawater.
-
-It works because the liquid changes to gas more easily than the dissolved solid.
-
-## Distillation
-
-**Distillation** separates substances by differences in boiling point.
-
-In simple distillation, a liquid is boiled, its vapor is collected, and the vapor is cooled back into liquid.
-
-Distillation can separate fresh water from salt water because water evaporates and condenses, while salt stays behind.
-
-Distillation can also separate some liquid mixtures.
-
-Distillation requires heat and proper equipment, so it should be done only with adult supervision.
-
-## Decanting
-
-**Decanting** means carefully pouring off a liquid from a mixture after heavier solids have settled.
-
-If muddy water sits still, mud may settle at the bottom.
-
-The clearer water above can be poured off carefully.
-
-Decanting does not usually make a liquid perfectly pure, but it can separate much of a solid from a liquid.
-
-It is often used before filtering.
-
-## Chromatography
-
-**Chromatography** is a method for separating parts of a mixture as they move through a material at different speeds.
-
-Paper chromatography can separate colors in some inks.
-
-Put a dot of washable marker ink on filter paper, place the paper in a little water, and the colors may spread upward at different rates.
-
-This shows that black or purple ink may be a mixture of several dyes.
-
-Chromatography is used in chemistry, medicine, food testing, and forensic science.
-
-## Mixtures in Cooking
-
-Cooking uses mixtures constantly.
-
-Batter is a mixture of flour, liquid, eggs, sugar, fat, and other ingredients.
-
-Salad dressing may be a mixture of oil, vinegar, herbs, and spices.
-
-Soup is a mixture of water, vegetables, salt, proteins, fats, and flavors.
-
-Some cooking mixtures are solutions. Some are suspensions. Some are colloids. Some change chemically when heated.
-
-Cooking is kitchen chemistry.
-
-## Mixtures in Medicine
-
-Medicines may be mixtures.
-
-Some liquid medicines are solutions.
-
-Some are suspensions and must be shaken before use.
-
-Creams and ointments can be mixtures of oils, water, waxes, and active ingredients.
-
-Medical mixtures must be carefully prepared so each dose is safe and useful.
-
-This is why medicine labels, measurements, and instructions matter.
-
-Never take or mix medicines without adult supervision.
-
-## Mixtures and the Environment
-
-The environment contains many mixtures.
-
-Air, soil, river water, seawater, smoke, fog, and rock are mixtures.
-
-Pollution often involves harmful substances mixed into air, water, or soil.
-
-Cleaning polluted mixtures can be difficult because the unwanted substance may be dissolved, suspended, or chemically changed.
-
-Environmental scientists use separation methods, testing, and careful chemistry to study and clean mixtures.
-
-Understanding mixtures helps protect water, air, soil, and living things.
-
-## Mixtures Can Change
-
-Mixtures can be changed without necessarily making new substances.
-
-You can stir, shake, dissolve, filter, sort, heat, cool, or evaporate a mixture.
-
-Some changes are physical.
-
-However, mixtures can also contain substances that react chemically.
-
-For example, mixing vinegar and baking soda produces new substances, including carbon dioxide gas.
-
-Not every mixing is safe. Some mixtures can react dangerously, especially household cleaners, acids, bases, fuels, or unknown chemicals.
+Not every mixing is safe. Some mixtures react dangerously — especially household cleaners, acids, bases, fuels, or unknown chemicals. A fifth common mistake is thinking mixing is always harmless. It is not.
 
 ## Common Misconceptions
 
@@ -440,9 +204,9 @@ Another mistake is thinking dissolved substances disappear. They are still prese
 
 A third mistake is thinking mixtures have fixed formulas like compounds. Mixtures can vary in composition.
 
-A fourth mistake is thinking all mixtures can be separated by the same method. Separation depends on the properties of the parts.
+A fourth mistake is thinking all mixtures separate the same way. Separation depends on the properties of the parts.
 
-A fifth mistake is thinking mixing is always safe. Some mixed substances can react dangerously.
+A fifth mistake is thinking mixing is always safe. Some combined substances can react dangerously.
 
 ## Mixture Safety
 
@@ -461,13 +225,13 @@ Good safety habits include:
 - Clean spills with adult guidance.
 - Follow teacher instructions for disposal.
 
-Mixtures can contain safe substances, harmful substances, or substances that become dangerous when combined.
+Mixtures can contain safe substances, harmful substances, or substances that become dangerous when combined. Treat unknown mixtures as unsafe until an adult says otherwise.
 
 ## The Big Idea
 
 A mixture is matter made of two or more substances physically combined.
 
-Mixtures can vary in composition, and their parts usually keep many of their own properties. Mixtures may be homogeneous or heterogeneous, and they include solutions, suspensions, colloids, alloys, air, soil, seawater, foods, medicines, and many environmental materials. Mixtures can often be separated by physical methods such as sorting, filtering, sieving, magnetism, evaporation, distillation, decanting, and chromatography.
+Mixtures can vary in composition, and their parts usually keep many of their own properties. They may be homogeneous or heterogeneous, and they include solutions, suspensions, colloids, alloys, air, soil, seawater, foods, medicines, and environmental materials. Mixtures can often be separated by physical methods such as sorting, filtering, sieving, magnetism, evaporation, distillation, decanting, and chromatography.
 
 If you remember only one sentence, remember this:
 
@@ -479,29 +243,25 @@ If you remember only one sentence, remember this:
 2. What is a pure substance?
 3. Why does a mixture not have a fixed composition?
 4. What does physically combined mean?
-5. How is a mixture different from a compound?
+5. How is a mixture different from a compound? Use the comparison table if it helps.
 6. Why do parts of a mixture often keep their own properties?
 7. What is a homogeneous mixture?
 8. Give three examples of homogeneous mixtures.
 9. What is a heterogeneous mixture?
 10. Give three examples of heterogeneous mixtures.
 11. What is a solution?
-12. What is the solute?
-13. What is the solvent?
-14. What is a suspension?
-15. Why may suspensions need shaking?
-16. What is a colloid?
-17. Give three examples of colloids.
-18. What is an alloy?
-19. Why is air a mixture?
-20. Why is soil a mixture?
-21. What is salinity?
-22. Name six methods for separating mixtures.
-23. What is filtering?
-24. Why can ordinary filtering not remove dissolved salt from water?
-25. What is evaporation useful for in separating mixtures?
-26. What is distillation?
-27. What is decanting?
-28. What is chromatography?
-29. Name two common misconceptions about mixtures.
-30. What are three safety rules for studying mixtures?
+12. What is the solute? What is the solvent?
+13. What is a suspension? Why may suspensions need shaking?
+14. What is a colloid? Give three examples.
+15. What is an alloy? Why is steel an example?
+16. Why is air a mixture?
+17. Why is soil a mixture?
+18. What is salinity?
+19. Name six methods for separating mixtures.
+20. Why can ordinary filtering not remove dissolved salt from water?
+21. What is evaporation useful for when separating mixtures?
+22. What is distillation?
+23. What is chromatography?
+24. Name two common misconceptions about mixtures.
+25. What are three safety rules for studying mixtures?
+26. In your own words, explain why knowing about mixtures helps you understand things you see and do every day — from breakfast to recycling to the air you breathe.

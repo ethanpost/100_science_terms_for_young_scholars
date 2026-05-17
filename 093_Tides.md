@@ -6,17 +6,19 @@ Same beach. Same ocean. Different water level.
 
 That slow rise and fall is a **tide**.
 
-Tides are one of the clearest signs that Earth is not an isolated rock floating alone. The Moon and Sun pull on our planet from across space, and the oceans respond. Surfers, sailors, fishermen, bridge engineers, and anyone who explores tide pools all live by that rhythm — whether they call it "science" or just "check the tide app before we go."
+Tides are one of the clearest signs that Earth is not an isolated rock floating alone. The **Moon** and **Sun** pull on our planet from across space, and the oceans respond. Surfers, sailors, fishermen, bridge engineers, and anyone who explores tide pools all live by that rhythm — whether they call it "science" or just "check the tide app before we go."
 
 **A tide is the regular rise and fall of sea level caused mainly by gravitational forces from the Moon and Sun acting on Earth's oceans, together with Earth's rotation.**
 
 Once you understand tides, you can explain why a kayak launch might be easy at noon and muddy at sunset — and why a storm hitting at the wrong hour can turn a normal high tide into serious flooding.
 
+If you have read the chapters on the **Moon**, **rotation of the Earth**, and **day and night**, you already have half the puzzle. The Moon orbits Earth. Earth spins. Sunlight and gravity both reach across space. Tides are where those ideas meet the water at your feet.
+
 ![Tides](093_Tides_01.png)
 
 ## What a Tide Really Is
 
-When people say **tide**, they usually mean the ocean moving up and down along a coast over hours, not the wind-chop on the surface.
+When people say **tide**, they usually mean the ocean moving up and down along a coast over hours — not the wind-chop on the surface.
 
 Scientists describe a **tide** as a large-scale change in sea level tied to the positions of the Moon, Sun, and Earth — not a single wind wave rolling in.
 
@@ -27,6 +29,12 @@ That matters because:
 - **Storm surge** is extra water piled up by a hurricane or severe storm — dangerous, but a different mechanism.
 
 If you mix those up, you might blame "the tide" for a windy afternoon splash when the real story is gusts — or underestimate flood risk when a storm arrives at **high tide**.
+
+| What you see | How fast it changes | Main cause |
+|--------------|---------------------|------------|
+| **Tide** | Hours | Moon and Sun gravity, Earth's spin, coast shape |
+| **Wind wave** | Seconds | Wind on the surface |
+| **Storm surge** | Hours during a storm | Low pressure and powerful winds |
 
 ## Gravity: The Invisible Rope
 
@@ -44,6 +52,8 @@ You need the honest core:
 
 **The Moon's gravity is the main driver of ocean tides on Earth.**
 
+**Memory trick:** **Moon close, Sun far.** The Sun is much more massive, but the Moon is much closer — and closeness wins for everyday ocean tides.
+
 ## Why the Moon Wins Over the Sun
 
 The Sun is far more massive than the Moon. So why does the Moon matter more for everyday ocean tides?
@@ -57,7 +67,7 @@ Tidal effects depend strongly on distance. The Sun still matters — a lot — b
 | Moon | Smaller than Earth | ~384,000 km (close) | **Main** driver |
 | Sun | Huge | ~150 million km (far) | Important **modifier** |
 
-When the Sun and Moon work together, tides can swing higher and lower. When they partly cancel, tides calm down. That monthly pattern is one of the coolest "hidden calendars" on the planet.
+When the Sun and Moon work together, tides can swing higher and lower. When they partly cancel, tides calm down. That monthly pattern is one of the coolest "hidden calendars" on the planet — and it lines up with **moon phases** you may have studied already.
 
 ## High Tide, Low Tide, and Tidal Range
 
@@ -72,6 +82,12 @@ Some coasts barely notice — a meter or less.
 Others are famous for enormous ranges. The **Bay of Fundy** between New Brunswick and Nova Scotia in Canada can see tidal ranges of about **15 meters** (roughly 50 feet) — tall as a five-story building. Water rushes in and out of narrow bays like a giant bathtub sloshing.
 
 Geography matters. A wide open beach and a narrow funnel-shaped bay do not behave the same even under the same Moon.
+
+| Term | Plain meaning |
+|------|---------------|
+| **High tide** | Water level near its peak for that cycle |
+| **Low tide** | Water level near its minimum for that cycle |
+| **Tidal range** | Typical height difference between high and low |
 
 ## Spring Tides and Neap Tides
 
@@ -90,9 +106,11 @@ When the Moon is at **first quarter** or **third quarter** relative to the Sun�
 
 Surfers and sailors often learn the lunar calendar without thinking about it: certain weeks bring bigger swings at the same harbor.
 
+**Memory trick:** **Spring** tides at **full** and **new** — think "full swing" of the water. **Neap** tides at **quarter** moons — think "nearer to average," smaller swings.
+
 ## Why Many Places Get Two High Tides a Day
 
-Earth **rotates** once about every 24 hours.
+Earth **rotates** once about every 24 hours — the same spin that drives **day and night**.
 
 In a simple two-bulge picture, as Earth spins, a given beach can pass through regions of higher water twice in one rotation — which helps explain why many coasts see roughly **two highs and two lows** per day.
 
@@ -108,6 +126,12 @@ The Moon and Sun set the forcing rhythm. **Local geography** sets the schedule o
 
 That is why two beaches an hour apart can have high tide at different clock times.
 
+| Pattern | Highs per day (roughly) | Lows per day (roughly) | Example region |
+|---------|-------------------------|------------------------|----------------|
+| **Semidiurnal** | 2 | 2 | U.S. Atlantic coast |
+| **Diurnal** | 1 | 1 | Parts of Gulf of Mexico |
+| **Mixed** | 2 (unequal) | 2 (unequal) | Parts of U.S. Pacific coast |
+
 ## Tides Versus Wind Waves and Storm Surge
 
 **Wind waves** are what you see on a breezy afternoon: energy moving through the water, crests forming and breaking, often gone in seconds.
@@ -120,11 +144,17 @@ A **storm surge** is a mound of water pushed by low pressure and powerful winds 
 
 That combo is why emergency managers warn about "storm surge at high tide." Normal high water plus surge plus wind-driven waves can send water blocks inland.
 
+Think of it in layers:
+
+1. **Tide** — slow up-and-down baseline (Moon, Sun, spin, coast).
+2. **Wind waves** — fast ripples on top of that baseline.
+3. **Storm surge** — extra mound from weather, stacked on whatever the tide is doing.
+
 ## Tides in Action: Who Cares?
 
 Tides are not just textbook diagrams. They shape real jobs and adventures.
 
-**Surfers and skimboarders** watch tide charts because shape and depth change how waves break.
+**Surfers and skimboarders** watch tide charts because shape and depth change how waves break. A reef that is perfect at mid tide can be dry rock or mushy soup at the wrong hour.
 
 **Fishermen** know some species move with incoming or outgoing water.
 
@@ -149,6 +179,17 @@ Key ideas:
 - Predictions assume normal weather; storms can push water higher than the table says.
 
 Try this mental habit: before a beach trip, ask **"Are we going at high or low?"** Then plan shoes, access paths, and safety.
+
+Example of what you might see (times and heights vary by place):
+
+| Event | Time | Height (example) |
+|-------|------|------------------|
+| Low tide | 6:12 a.m. | 0.4 m |
+| High tide | 12:38 p.m. | 2.1 m |
+| Low tide | 6:54 p.m. | 0.6 m |
+| High tide | 1:02 a.m. (next day) | 2.3 m |
+
+Always use a table for **your** harbor or beach — not a city an hour away.
 
 ## Life in the Tidal Zone
 
