@@ -24,6 +24,8 @@ The important point is this:
 
 That means magnetism is a non-contact force, just like gravity and electric forces.
 
+![Magnetism](051_Magnetism_01.png)
+
 ## Magnetic Materials
 
 Not every material is attracted to a magnet.

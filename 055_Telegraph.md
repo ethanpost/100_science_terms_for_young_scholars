@@ -44,6 +44,8 @@ This simple on-off action can carry information.
 
 The genius of the telegraph is that a message can be built from nothing more than current on and current off.
 
+![Telegraph](055_Telegraph_01.png)
+
 ## The Telegraph Key
 
 A **telegraph key** is a switch used to send telegraph signals.

@@ -38,6 +38,8 @@ It may also have a **switch** to control the circuit.
 
 For example, a simple flashlight circuit includes batteries, metal conductors, a switch, and a bulb or LED. When the switch closes the path, current flows and the light turns on.
 
+![Circuit](054_Circuit_01.png)
+
 ## The Source
 
 The **source** provides electrical energy to the circuit.

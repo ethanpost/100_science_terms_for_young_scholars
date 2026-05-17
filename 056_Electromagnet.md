@@ -42,6 +42,8 @@ This is the special power of an electromagnet:
 
 **It can be turned on and off.**
 
+![Electromagnet](056_Electromagnet_01.png)
+
 ## Coils
 
 A **coil** is a wire wound into loops.

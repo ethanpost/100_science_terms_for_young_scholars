@@ -37,6 +37,8 @@ The negative terminal is marked with a minus sign: **-**.
 
 For a battery to power a device, both terminals must usually be connected into a circuit. If only one terminal is connected, there is no complete path for current.
 
+![Battery](053_Battery_01.png)
+
 ## Electric Potential Difference
 
 A battery creates an electric potential difference between its terminals.

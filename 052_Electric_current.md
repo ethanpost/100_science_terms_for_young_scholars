@@ -39,6 +39,8 @@ Static electricity is built-up charge.
 
 Electric current is moving charge.
 
+![Electric Current](052_Electric_current_01.png)
+
 ## Current Needs a Path
 
 Electric current does not flow just anywhere. It needs a path.
