@@ -27,6 +27,8 @@ If either part is missing, no scientific work is done on that object.
 
 This is why pushing a sled across grass is work, but pushing a wall that does not move is not work. In both cases you apply a force. Only the sled moves.
 
+![Scientific work vs no motion](011_Work_03.png)
+
 ## Force Is Needed
 
 Work begins with force.
@@ -38,6 +40,8 @@ But force alone is not enough for work. If you hold a heavy book above your head
 Your muscles are using energy inside your body to keep contracting, so the activity is still tiring. But physics is asking a specific question: did a force move the object through a distance?
 
 For the book, the answer is no.
+
+![Force without distance](011_Work_04.png)
 
 ## Distance Is Needed
 
@@ -91,6 +95,8 @@ Use the formula:
 
 You did 36 joules of work on the wagon.
 
+![Work = Force × Distance](011_Work_05.png)
+
 The calculation is simple, but the meaning is important. A larger force does more work if the distance is the same. A longer distance does more work if the force is the same.
 
 ## No Motion, No Work on the Object
@@ -119,6 +125,8 @@ In that case, your upward force does not do work on the suitcase in the scientif
 
 This does not mean carrying the suitcase is easy. Your muscles still use energy to keep the suitcase lifted. But the physics of work on the suitcase is about force acting through distance in the force's direction.
 
+![Direction matters](011_Work_06.png)
+
 ## Work Against Gravity
 
 Gravity pulls objects downward. When you lift an object upward, you do work against gravity.
@@ -144,6 +152,8 @@ When you kick a soccer ball, your foot does work on the ball. The ball gains kin
 When friction slows a sliding box, friction does work too. But it does work in the opposite direction of the motion, changing some of the box's motion energy into heat.
 
 Work is one of the bridges between force and energy.
+
+![Work transfers energy](011_Work_07.png)
 
 ## Positive and Negative Work
 

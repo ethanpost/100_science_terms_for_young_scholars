@@ -38,6 +38,8 @@ The total work can be similar, though real machines also lose some energy to fri
 
 This tradeoff is one of the great lessons of mechanics: machines can make a task more practical, but they cannot create free energy.
 
+![The big tradeoff](014_Simple_Machines_02.png)
+
 ## Mechanical Advantage
 
 The amount a machine multiplies force is called **mechanical advantage**.
@@ -47,6 +49,8 @@ If a machine lets you lift a heavy object with half the force you would normally
 A long lever, a gentle ramp, and a many-rope pulley system can all provide mechanical advantage.
 
 Engineers care about mechanical advantage because different jobs require different designs. Sometimes you want more force. Sometimes you want more speed. Sometimes you want a change in direction. A good machine fits the job.
+
+![Mechanical advantage](014_Simple_Machines_03.png)
 
 ## The Six Classical Simple Machines
 
@@ -95,6 +99,8 @@ In a **third-class lever**, the effort is between the fulcrum and the load. A fi
 
 Your arm is a useful example. When your biceps muscle pulls on your forearm, your elbow acts as the fulcrum. Your hand moves faster and farther than the small movement of the muscle.
 
+![Three classes of levers](014_Simple_Machines_04.png)
+
 ## Wheel and Axle
 
 A **wheel and axle** is a simple machine made of a larger wheel attached to a smaller axle so they turn together.
@@ -126,6 +132,8 @@ A movable pulley can provide mechanical advantage. If the pulley moves with the 
 Several pulleys used together form a **block and tackle**. Sailors, builders, stage crews, and rescue workers use pulley systems to lift or control heavy objects.
 
 Pulleys are common in cranes, elevators, theater curtains, gym equipment, sailboats, wells, and flagpoles.
+
+![Fixed and movable pulleys](014_Simple_Machines_05.png)
 
 ## Inclined Plane
 
@@ -186,6 +194,8 @@ Examples include:
 
 The closer the threads are together, the more turns it takes to move the screw forward a certain distance. This may feel slower, but it can provide greater mechanical advantage and tighter control.
 
+![Wedge and screw](014_Simple_Machines_06.png)
+
 ## Compound Machines
 
 A **compound machine** is a machine made of two or more simple machines working together.
@@ -197,6 +207,8 @@ A wheelbarrow combines a lever with a wheel and axle.
 A bicycle is full of simple machines. The pedals and crank act like levers and a wheel and axle. The wheels reduce friction. The chain and gears transfer motion. The brakes use levers. The screws and bolts hold the parts together.
 
 Most machines around you are compound machines. Simple machines are the building blocks.
+
+![Compound machines](014_Simple_Machines_07.png)
 
 ## Efficiency and Friction
 

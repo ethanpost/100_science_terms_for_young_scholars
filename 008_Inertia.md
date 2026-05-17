@@ -6,6 +6,8 @@ Imagine you are riding in a car with your seat belt fastened. The car is moving 
 
 Nothing strange has happened. You have just felt inertia.
 
+![Sudden stop in a car](008_Inertia_02.png)
+
 Inertia is one of the most important ideas in the science of motion. It explains why moving objects tend to keep moving, why resting objects tend to stay still, why seat belts matter, why a heavy wagon is hard to start, and why a sliding hockey puck does not stop instantly.
 
 Inertia is an object's resistance to changes in motion.
@@ -54,6 +56,8 @@ This is why a classic tablecloth trick can work. If a tablecloth is pulled very 
 
 The dishes are not choosing to stay still. Their inertia resists the sudden change in motion.
 
+![Tablecloth trick and inertia at rest](008_Inertia_03.png)
+
 ## Inertia in Motion
 
 Objects in motion tend to stay in motion.
@@ -64,6 +68,8 @@ A moving object also tends to continue in a straight line. If you swing a small 
 
 This straight-line tendency is part of inertia. To make an object turn, a force must change its direction.
 
+![Ball on a string flies straight when released](008_Inertia_04.png)
+
 ## Seat Belts and Inertia
 
 Seat belts are one of the most important everyday examples of inertia.
@@ -73,6 +79,8 @@ When a car is moving, your body is moving with it. If the car stops suddenly, yo
 A seat belt applies a force to slow your body down with the car. It spreads that force over stronger parts of the body and gives you a better chance of stopping safely.
 
 This is also why loose objects in a car can be dangerous. If the car stops suddenly, a backpack, water bottle, or phone may keep moving forward. Inertia affects objects as well as people.
+
+![How seat belts work with inertia](008_Inertia_05.png)
 
 ## Starting, Stopping, and Turning
 
@@ -104,6 +112,8 @@ An object in motion tends to continue in a straight line. To make it turn, a for
 
 When a car turns left, your body tends to keep moving in its original straight-line path. You may feel pushed toward the right side of the car, but what is really happening is that the car is turning while your body resists the change in direction. The seat and door push on you to make your body turn with the car.
 
+![Inertia and changing direction in a turning car](008_Inertia_06.png)
+
 A planet orbiting the Sun also shows this idea. Earth tends to move forward through space, while the Sun's gravity pulls it inward. The result is a curved path: Earth's orbit.
 
 ## Inertia in Sports
@@ -125,6 +135,8 @@ If an astronaut pushes a tool in a spacecraft, the tool keeps moving until anoth
 Mass still matters in space. A large equipment box may seem weightless, but it still has inertia. It may be difficult to start moving and difficult to stop. Astronauts must be careful with massive objects because they can drift with surprising force.
 
 This shows an important truth: lower weight does not mean lower inertia. Inertia depends on mass, not on where the object is.
+
+![Inertia in space with little friction](008_Inertia_07.png)
 
 ## Common Mistakes About Inertia
 

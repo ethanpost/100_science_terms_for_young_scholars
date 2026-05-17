@@ -87,6 +87,8 @@ Constant speed is useful to imagine, but real motion often changes. A runner may
 
 Even when speed changes, constant speed helps us understand the pattern. It is the simplest case: equal distance in equal time.
 
+![Constant speed vs changing speed](007_Speed_02.png)
+
 ## Average Speed
 
 Average speed describes the total distance traveled divided by the total time taken.
@@ -107,6 +109,8 @@ Instantaneous speed matters when conditions change quickly. A driver needs to kn
 
 Average speed describes the whole trip. Instantaneous speed describes a single moment.
 
+![Average speed and instantaneous speed](007_Speed_03.png)
+
 ## Speed and Velocity
 
 Speed and velocity are closely related, but they are not exactly the same.
@@ -119,6 +123,8 @@ Direction makes velocity more complete. Two trains may both travel at 60 kilomet
 
 This difference becomes important in science because changing direction changes velocity, even when speed stays the same. A race car driving around a circular track may keep the same speed, but its velocity changes because its direction keeps changing.
 
+![Speed vs velocity](007_Speed_04.png)
+
 ## Speed and Acceleration
 
 Acceleration means a change in velocity. Since velocity includes speed, an object accelerates when its speed changes.
@@ -129,6 +135,8 @@ Speed is how fast something moves at a moment or over a trip. Acceleration is ho
 
 It is useful to keep these ideas separate. A car traveling at a steady 60 miles per hour has high speed, but if it is not speeding up, slowing down, or turning, it has no acceleration. A car just beginning to move from rest may have low speed but strong acceleration.
 
+![Speed vs acceleration](007_Speed_05.png)
+
 ## Forces Change Speed
 
 Forces cause changes in motion, including changes in speed.
@@ -138,6 +146,8 @@ A force is a push or a pull. When you push a sled, you may increase its speed. W
 If forces are balanced, an object's speed does not change. A hockey puck sliding on very smooth ice would keep moving at nearly constant speed until friction or another force slowed it.
 
 If forces are unbalanced, speed can change. A stronger push can make an object speed up more. A larger braking force can make it slow down more quickly.
+
+![Forces change speed](007_Speed_06.png)
 
 ## Speed in Falling Objects
 
@@ -188,6 +198,8 @@ A distance-time graph shows how distance changes over time. A steeper line means
 A speed-time graph shows how speed changes over time. If the line rises, the object is speeding up. If the line falls, the object is slowing down. If the line is flat, the object is moving at constant speed.
 
 Graphs turn motion into a picture. They help scientists, engineers, athletes, and students see patterns that might be harder to notice from numbers alone.
+
+![Reading a distance-time graph](007_Speed_07.png)
 
 ## Why Speed Matters
 

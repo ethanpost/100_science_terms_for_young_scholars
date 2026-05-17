@@ -65,6 +65,8 @@ A single fixed pulley usually does not multiply force. If the flag and rope requ
 
 The advantage is direction and control.
 
+![Fixed pulley changes direction](016_Pulley_02.png)
+
 ## The Movable Pulley
 
 A **movable pulley** is attached to the load and moves with it.
@@ -83,6 +85,8 @@ That is the pulley bargain:
 
 **Less force usually means more rope must be pulled.**
 
+![Movable pulley and the force-distance tradeoff](016_Pulley_03.png)
+
 ## Mechanical Advantage
 
 **Mechanical advantage** describes how much a machine multiplies force.
@@ -100,6 +104,8 @@ This rule is a helpful model:
 **Count the rope sections that actually support the moving load.**
 
 Do not count the loose end of the rope unless it is also supporting the load. In many classroom examples, the loose pulling end changes direction or gives you a place to apply effort, but it may not hold up the load.
+
+![Counting rope sections for mechanical advantage](016_Pulley_04.png)
 
 ## Compound Pulleys
 
@@ -126,6 +132,8 @@ The more rope sections supporting the load, the greater the mechanical advantage
 This is why lifting a heavy object with a block and tackle may involve pulling a long length of rope while the object rises only a short distance.
 
 The machine is not cheating nature. It is trading distance for force.
+
+![Compound pulley and block and tackle](016_Pulley_05.png)
 
 ## Direction Matters
 
@@ -191,6 +199,8 @@ You do not need to memorize advanced formulas yet. The main point is simple:
 
 **Pulley systems can change force, direction, distance, and speed.**
 
+![Belt pulleys trade speed for turning force](016_Pulley_06.png)
+
 ## Friction and Efficiency
 
 An ideal pulley would have no friction, no rope stiffness, and no extra weight. Real pulleys are not ideal.
@@ -229,6 +239,8 @@ The calculation shows the main idea clearly:
 
 **Pulleys trade force for distance.**
 
+![Pulleys trade force for distance](016_Pulley_08.png)
+
 ## Safety with Pulleys
 
 Pulleys can lift heavy objects, so they must be used carefully.
@@ -245,6 +257,8 @@ Good safety habits include:
 - Wear eye protection and gloves when appropriate.
 
 A pulley gives control over force. That control must be treated with respect.
+
+![Safety with pulleys](016_Pulley_07.png)
 
 ## Common Misconceptions
 

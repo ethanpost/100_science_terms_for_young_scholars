@@ -57,6 +57,8 @@ Direction matters too. Momentum has direction because velocity has direction. A 
 
 Changing momentum requires force. To stop a moving object, speed it up, slow it down, or turn it, a force must act on it.
 
+![Velocity and momentum](009_Momentum_02.png)
+
 ## Momentum and Force
 
 Momentum changes when a force acts over time.
@@ -67,6 +69,8 @@ Think about catching a baseball. If you catch it with stiff hands, the ball stop
 
 This idea is important in safety design. Airbags, helmets, padded mats, and crumple zones in cars all help increase the time or distance over which a moving person or object slows down. Slowing down more gradually reduces the force.
 
+![Changing momentum over time](009_Momentum_03.png)
+
 ## Collisions
 
 A collision happens when objects hit each other.
@@ -76,6 +80,8 @@ Collisions are all about momentum. When a moving soccer ball hits your foot, the
 In a collision, forces come in pairs. If object A pushes on object B, object B pushes back on object A. This is Newton's third law of motion. The forces are equal in size and opposite in direction, but the results may look different if the objects have different masses.
 
 For example, when a bat hits a baseball, the bat pushes on the ball, and the ball pushes back on the bat. The ball changes motion much more because it has much less mass than the bat and the player's arms.
+
+![Collisions and Newton's third law](009_Momentum_04.png)
 
 ## Conservation of Momentum
 
@@ -89,6 +95,8 @@ If one cart rolls into another, momentum may transfer from the first cart to the
 
 This does not mean each object keeps the same momentum. It means the total amount for the system is conserved.
 
+![Conservation of momentum](009_Momentum_05.png)
+
 ## Recoil
 
 Recoil is a good example of momentum conservation.
@@ -98,6 +106,8 @@ Imagine a person standing on a skateboard and throwing a heavy ball forward. The
 The same idea helps explain how rockets move. A rocket pushes hot gases backward at high speed. The gases carry momentum backward, and the rocket gains momentum forward. The rocket does not need to push against air. It moves because of the momentum of the gases it throws backward.
 
 This is one reason rockets can work in space.
+
+![Recoil and rockets](009_Momentum_06.png)
 
 ## Momentum in Sports
 
@@ -118,6 +128,8 @@ A moving car has momentum. A faster car has more momentum than a slower car of t
 At high speed, a vehicle has much more momentum, and stopping requires more force, more time, or more distance. This is why speeding is dangerous and why large vehicles need extra room to stop.
 
 Seat belts, helmets, airbags, and padding do not make momentum disappear. Instead, they help manage the change in momentum. They spread forces over stronger parts of the body or increase the time over which the body slows down.
+
+![Momentum and safety](009_Momentum_07.png)
 
 ## Momentum in Everyday Life
 

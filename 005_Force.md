@@ -54,6 +54,8 @@ In a classroom, force can be measured with a spring scale. A spring scale stretc
 
 Using newtons helps scientists describe forces precisely. Instead of saying "a strong push" or "a gentle pull," they can measure and compare the size of forces.
 
+![Measuring force in newtons](005_Force_07.png)
+
 ## Force Has Size and Direction
 
 A force has both size and direction.
@@ -78,6 +80,8 @@ A book sitting on a table is another example. Gravity pulls the book downward. T
 
 Balanced forces do not mean no forces are acting. They mean the forces cancel each other.
 
+![Balanced forces in a tug-of-war](005_Force_05.png)
+
 ## Unbalanced Forces
 
 Unbalanced forces are not equal and opposite. When forces are unbalanced, an object's motion changes.
@@ -87,6 +91,8 @@ If one tug-of-war team pulls harder than the other, the rope moves toward the st
 Unbalanced forces can cause acceleration. In science, acceleration means any change in velocity. An object accelerates when it speeds up, slows down, or changes direction.
 
 This means a car turning a corner is accelerating even if its speedometer number stays the same, because its direction is changing.
+
+![Unbalanced forces change motion](005_Force_06.png)
 
 ## Force, Mass, and Acceleration
 
@@ -103,6 +109,8 @@ Older students often write Newton's second law of motion this way:
 This means that the force needed depends on both the mass of the object and how much you want its motion to change. More mass requires more force for the same acceleration. More acceleration requires more force for the same mass.
 
 You can feel this when you throw different balls. A tennis ball is easy to throw fast. A bowling ball is not. The bowling ball has more mass, so it requires more force to accelerate.
+
+![More mass needs more force](005_Force_08.png)
 
 ## Weight Is a Force
 

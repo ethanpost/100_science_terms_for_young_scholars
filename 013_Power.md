@@ -50,6 +50,8 @@ If the same amount of work is done in a shorter time, power is greater. If the s
 
 This is why a sprint feels different from a slow walk. Your body may move over the same distance, but sprinting demands a much faster transfer of energy.
 
+![The formula for power](013_Power_02.png)
+
 ## The Unit of Power: The Watt
 
 Power is measured in **watts**, written as **W**.
@@ -63,6 +65,8 @@ Since a joule is the unit of work or energy, a watt is really a rate of energy u
 A small night-light might use only a few watts. A laptop charger may use dozens of watts. A microwave oven may use hundreds or more than a thousand watts. A power station can produce millions or even billions of watts.
 
 The word watt comes from James Watt, a Scottish engineer whose improvements to steam engines helped power factories, mines, ships, and trains.
+
+![The watt](013_Power_03.png)
 
 ## A Simple Power Calculation
 
@@ -85,6 +89,8 @@ Now suppose another boy does the same 600 joules of work in 5 seconds.
 **Power = 120 W**
 
 The second boy did the same work, but he did it twice as fast. His power was twice as great.
+
+![Same work, different power](013_Power_04.png)
 
 ## Same Work, Different Power
 
@@ -111,6 +117,8 @@ Energy is similar to the amount of money. Power is like the rate of spending.
 A battery stores a certain amount of energy. A device connected to it uses that energy at a certain power. A bright flashlight may drain a battery faster than a dim flashlight because it uses energy at a higher rate.
 
 A snack contains chemical energy. Your body can use that energy slowly during a walk or very quickly during a sprint. The energy in the food is an amount. The power of your muscles tells how quickly your body can transfer that energy into motion, heat, and other changes.
+
+![Energy is an amount; power is a rate](013_Power_05.png)
 
 ## Power in the Human Body
 
@@ -154,6 +162,8 @@ Voltage helps push electric charges through a circuit. Current is the flow of el
 
 You do not need to master electricity all at once to understand the big idea: a higher-watt device transfers electrical energy more quickly while it is running.
 
+![Electrical power](013_Power_06.png)
+
 ## Kilowatts and Megawatts
 
 Because one watt is a small unit, larger units are often used.
@@ -185,6 +195,8 @@ For example, if a 1 kW space heater runs for 1 hour, it uses 1 kWh of energy. If
 Electric companies often charge households by the kilowatt-hour because families pay for the total energy they use, not just the power rating of their devices.
 
 This is like paying for the total amount of water used, not just how fast the faucet was running at one moment.
+
+![Kilowatts vs kilowatt-hours](013_Power_07.png)
 
 ## Horsepower
 

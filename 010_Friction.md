@@ -18,6 +18,8 @@ Contact force means the objects must touch. Your shoe touches the ground. A sled
 
 Friction usually acts opposite the direction of motion. If a book slides to the right across a table, friction from the table acts to the left. If a bicycle rolls forward and the brakes are applied, friction acts to slow the wheels.
 
+![Friction opposes motion](010_Friction_02.png)
+
 Friction does not always mean something is already moving. It can also prevent motion from starting. A heavy box may stay still on the floor even when you push it lightly because friction holds it in place.
 
 ## Why Friction Happens
@@ -29,6 +31,8 @@ Even polished surfaces are not perfectly smooth. The smoother the surfaces, the 
 Friction also depends on how hard the surfaces are pressed together. A heavy box is harder to slide than a light box because the heavy box presses more strongly against the floor. The surfaces are squeezed together more, so friction is greater.
 
 This is why dragging an empty backpack across a floor is easier than dragging the same backpack filled with books.
+
+![Why surfaces still have friction](010_Friction_03.png)
 
 ## Static Friction
 
@@ -80,6 +84,8 @@ Friction gives control. It lets surfaces grip each other. It allows motion to st
 
 Brakes are a clear example. Bicycle and car brakes use friction to turn motion into heat and slow the wheels. The faster the vehicle or the heavier the load, the more important good braking friction becomes.
 
+![Brakes use friction](010_Friction_04.png)
+
 ## Friction Can Be a Problem
 
 Friction can also cause trouble.
@@ -98,6 +104,8 @@ People reduce friction when they want objects to move more easily.
 
 Lubricants such as oil and grease reduce friction by placing a slippery layer between surfaces. A bicycle chain works better when properly lubricated. Engines need oil so moving metal parts do not scrape directly against each other.
 
+![Reducing friction in machines](010_Friction_05.png)
+
 Wheels reduce friction by changing sliding motion into rolling motion. Ball bearings reduce friction by allowing parts to roll smoothly instead of slide. Smooth surfaces reduce the tiny catching and scraping between objects.
 
 Streamlined shapes reduce fluid friction. A cyclist crouches low to reduce air resistance. Swimmers wear smooth caps and suits. Airplanes are shaped to move through air efficiently.
@@ -110,6 +118,8 @@ Shoes have tread to grip the ground. Tires have tread to grip roads, especially 
 
 Athletes often rely on friction. Soccer cleats dig into grass. Basketball shoes grip the court. Rock climbers use special shoes and chalk to increase grip. A baseball pitcher uses finger friction to control the ball.
 
+![Increasing friction for grip](010_Friction_06.png)
+
 Increasing friction can improve safety and control, but too much friction may slow movement or cause wear. Engineers and athletes often look for the right amount of friction, not the maximum possible amount.
 
 ## Friction and Heat
@@ -117,6 +127,8 @@ Increasing friction can improve safety and control, but too much friction may sl
 Friction can turn motion energy into thermal energy.
 
 When you rub your hands together, they warm up. When brakes stop a bicycle, the brake pads and wheel can become warm. When a meteor enters Earth's atmosphere, air resistance heats it so much that it may glow brightly.
+
+![Friction and heat](010_Friction_07.png)
 
 This heating happens because friction resists motion. The organized motion of sliding or moving through a fluid is partly changed into the tiny random motion of particles, which we experience as heat.
 

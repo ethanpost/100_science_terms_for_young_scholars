@@ -1,6 +1,6 @@
 ﻿# Motion
 
-![Newton's Laws](006_Motion_01.png)
+![Speed, velocity, acceleration, and more](006_Motion_01.png)
 
 Imagine you are watching a baseball game from the stands. The pitcher throws the ball. It races toward the batter, curves downward, cracks off the bat, and flies high into the outfield. The center fielder sprints back, turns, reaches up, and catches it.
 
@@ -17,6 +17,8 @@ An object is in motion when its position changes compared with a reference point
 A reference point is something you use to tell whether an object has moved. If your desk is the reference point and your pencil rolls away from it, the pencil is in motion. If a car passes a mailbox, the mailbox can be used as the reference point. If a runner moves from the starting line toward the finish line, the starting line helps us describe the runner's motion.
 
 Motion always needs this kind of comparison. A book sitting on your desk is not moving compared with the desk. But the same book is moving compared with the Sun, because Earth is spinning and orbiting the Sun. Motion depends on what you compare it to.
+
+![Reference points and motion](006_Motion_02.png)
 
 This is why scientists describe motion carefully. They ask: Where is the object? What reference point are we using? How is the object's position changing over time?
 
@@ -86,6 +88,8 @@ Unbalanced forces do change motion. A thrown ball changes motion because your ha
 
 This idea is at the heart of motion: objects do not change their motion without a reason. That reason is an unbalanced force.
 
+![Balanced and unbalanced forces](006_Motion_03.png)
+
 ## Inertia
 
 Inertia is an object's resistance to changes in motion.
@@ -95,6 +99,8 @@ An object at rest tends to stay at rest. An object in motion tends to keep movin
 You can feel inertia in a car. When the car starts suddenly, your body tends to remain at rest for a moment, so you feel pushed backward into the seat. When the car stops suddenly, your body tends to keep moving forward, which is why seat belts are so important.
 
 Objects with more mass have more inertia. A bowling ball is harder to start moving than a tennis ball. Once the bowling ball is rolling, it is also harder to stop. Its greater mass gives it greater resistance to changes in motion.
+
+![Inertia resists changes in motion](006_Motion_04.png)
 
 ## Types of Motion
 
@@ -110,6 +116,8 @@ Vibrating motion happens when something moves back and forth around a central po
 
 Motion may be simple or complicated. A rolling wheel, for example, moves forward while also rotating. A thrown football may move forward, rise and fall, spin, and wobble all at once.
 
+![Types of motion](006_Motion_05.png)
+
 ## Relative Motion
 
 Motion can look different depending on where the observer is.
@@ -120,6 +128,8 @@ This is called relative motion. Motion is described compared with a chosen refer
 
 Relative motion explains why passengers on an airplane can walk down the aisle even though the airplane is racing through the sky. Compared with the airplane, the passenger walks slowly. Compared with the ground, the passenger is moving very fast.
 
+![Relative motion depends on the observer](006_Motion_06.png)
+
 ## Graphing Motion
 
 Scientists often use graphs to describe motion.
@@ -129,6 +139,8 @@ A distance-time graph shows how distance changes over time. If the line on the g
 If the line is flat, the object is not moving away from the reference point. Time is passing, but the distance is not changing.
 
 Graphs are useful because they show patterns clearly. Instead of reading many numbers in a table, you can often look at the shape of a graph and tell whether an object was stopped, moving steadily, speeding up, or slowing down.
+
+![Reading a distance-time graph](006_Motion_07.png)
 
 ## Motion in Sports
 

@@ -73,6 +73,8 @@ An object can also store energy by being stretched or squeezed. A stretched rubb
 
 Potential energy can feel hidden because nothing may be moving yet. But the energy is ready.
 
+![Potential energy becomes kinetic energy on a hill](012_Energy_02.png)
+
 ## Gravitational Potential Energy
 
 Gravitational potential energy is stored energy an object has because of its height.
@@ -172,6 +174,8 @@ Nuclear energy can also be used in power plants, where energy from atomic nuclei
 
 For sixth-grade science, the most important idea is this: even the tiny particles that make up matter can contain stored energy.
 
+![Many forms of energy](012_Energy_03.png)
+
 ## Energy Changes Form
 
 Energy often changes from one form to another.
@@ -183,6 +187,8 @@ When you eat breakfast and run across a field, chemical energy in food changes i
 When a ball is thrown upward, kinetic energy changes into gravitational potential energy as the ball rises. When the ball falls, gravitational potential energy changes back into kinetic energy.
 
 When a match burns, chemical energy changes into heat and light.
+
+![Energy transformations in a flashlight](012_Energy_04.png)
 
 These changes are called energy transformations.
 
@@ -202,6 +208,8 @@ When one billiard ball strikes another, some kinetic energy transfers from the f
 
 Energy transfer means energy moves from one object or place to another. Energy transformation means energy changes form. Often both happen at once.
 
+![Energy transfer vs energy transformation](012_Energy_07.png)
+
 ## The Law of Conservation of Energy
 
 One of the most important laws in science is the law of conservation of energy.
@@ -217,6 +225,8 @@ For example, a light bulb is meant to produce light. But it also produces heat. 
 When a bicycle slows down, its kinetic energy does not vanish. Friction in the tires, brakes, chain, and air changes much of the motion energy into heat and sound.
 
 Scientists keep careful track of energy because the total amount remains the same, even when the form changes.
+
+![Energy is not destroyed when a bicycle slows down](012_Energy_05.png)
 
 ## Energy and Efficiency
 
@@ -284,6 +294,8 @@ As it climbs the next hill, kinetic energy changes back into gravitational poten
 Why does the coaster not climb back to a hill exactly as high as the first one without help? Because some energy changes into heat and sound due to friction and air resistance.
 
 The total energy is still conserved, but not all of it remains as useful mechanical energy for motion. Some has spread into the surroundings.
+
+![Energy on a roller coaster](012_Energy_06.png)
 
 ## Energy Is Measured in Joules
 

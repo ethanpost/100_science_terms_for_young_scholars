@@ -64,6 +64,8 @@ In science class, you may measure mass with a balance. A balance compares the ma
 
 A balance works well for mass because it compares matter against matter. If you took a balance to the Moon, both sides would be pulled by the Moon's gravity in the same way. The balance would still compare masses correctly.
 
+![Measuring mass with a balance](004_Mass_03.png)
+
 ## Mass and Inertia
 
 Mass does more than tell us how much matter an object contains. It also tells us how difficult it is to change the object's motion.
@@ -75,6 +77,8 @@ An object with more mass has more inertia. That means it is harder to start movi
 Imagine an empty shopping cart. It is easy to push and easy to stop. Now imagine the same cart filled with heavy bags of dog food, canned soup, and watermelons. The cart has more mass, so it has more inertia. It takes more effort to get it moving, and once it is rolling, it takes more effort to stop.
 
 The same idea appears in sports. A baseball is easier to throw than a bowling ball because the baseball has less mass. A soccer ball is easier to stop with your foot than a rolling medicine ball. More mass means more resistance to changing motion.
+
+![Mass and inertia](004_Mass_04.png)
 
 ## Mass and Force
 
@@ -90,6 +94,8 @@ You do not need to solve difficult problems with this formula yet, but you shoul
 
 That is why a toy car can be flicked across a table with one finger, while a real car cannot. The real car has far more mass.
 
+![Same force, different mass](004_Mass_05.png)
+
 ## Mass and Gravity
 
 Mass is also the source of gravity. Every object with mass attracts every other object with mass. You attract Earth, and Earth attracts you. A pencil attracts your desk, and your desk attracts the pencil.
@@ -99,6 +105,8 @@ Most everyday objects have gravity so weak that we cannot feel it. Earth, howeve
 The more mass a planet or moon has, the stronger its gravity tends to be. This is one reason Jupiter has much stronger gravity than the Moon. Jupiter contains far more matter.
 
 Mass therefore helps explain both sides of gravity. Your mass is the matter gravity pulls on. Earth's mass is the reason Earth pulls so strongly.
+
+![Mass and gravity](004_Mass_07.png)
 
 ## Conservation of Mass
 
@@ -135,6 +143,8 @@ In orbit, astronauts may float and seem weightless. But they still have mass. If
 This is why space crews must be careful. A large object floating in a spacecraft can still be dangerous. If it drifts toward someone, it may be hard to stop because it has mass.
 
 On the Moon, an astronaut could lift a heavy rock more easily than on Earth because the rock weighs less there. But if the astronaut tried to throw the rock or stop it after it was moving, the rock's mass would still matter. The Moon changes weight, not mass.
+
+![Mass in space](004_Mass_06.png)
 
 ## Why Mass Matters
 

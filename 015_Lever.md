@@ -44,6 +44,8 @@ Levers help by rearranging force and distance.
 
 That is why a long crowbar can lift a heavy board. Your hands move the long end of the crowbar down through a larger distance. The short end moves the board up through a smaller distance, but with a larger force.
 
+![Force-distance tradeoff on a lever](015_Lever_02.png)
+
 ## The Lever Arm
 
 The distance from the fulcrum to the point where a force is applied is called the **lever arm**.
@@ -51,6 +53,8 @@ The distance from the fulcrum to the point where a force is applied is called th
 A longer lever arm gives a force more turning effect.
 
 Try opening a door by pushing near the hinges. It is difficult. Now push near the handle. It is much easier. The door is like a lever turning around its hinges. The handle is far from the fulcrum, so your push has a greater turning effect.
+
+![Lever arm and turning effect](015_Lever_03.png)
 
 This turning effect is often called **torque**.
 
@@ -72,6 +76,8 @@ This is the secret of many strong levers:
 
 **Long effort arm, short load arm, greater force at the load.**
 
+![Mechanical advantage on a lever](015_Lever_04.png)
+
 But the opposite can also happen. If the effort is close to the fulcrum and the load is far away, the lever may not multiply force. Instead, it can multiply speed and distance.
 
 That is useful too.
@@ -87,6 +93,8 @@ This is why balance depends on both force and distance from the fulcrum.
 A simple way to say it is:
 
 **Turning effect depends on force and lever arm.**
+
+![Balanced lever on a seesaw](015_Lever_05.png)
 
 This idea is useful in playgrounds, tools, cranes, bridges, and the human body.
 
@@ -159,6 +167,8 @@ Your forearm is a third-class lever. Your elbow is the fulcrum. Your biceps musc
 
 This is excellent for throwing, swinging, reaching, and quick movement.
 
+![Third-class lever in the forearm](015_Lever_07.png)
+
 Examples of third-class levers include:
 
 - Human forearms
@@ -188,6 +198,8 @@ A good memory trick is:
 **Second has Load in the middle.**
 
 **Third has Effort in the middle.**
+
+![The three classes of levers](015_Lever_06.png)
 
 The arrangement changes what the lever is good at. Some levers are best for force. Others are best for speed, distance, direction change, or control.
 
