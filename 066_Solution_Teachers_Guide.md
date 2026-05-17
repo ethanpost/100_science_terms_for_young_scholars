@@ -7,9 +7,10 @@
 Students should be able to:
 
 - Define a solution as a homogeneous mixture in which one substance is evenly dissolved in another.
-- Identify solute, solvent, dissolving, homogeneous mixture, concentration, dilution, solubility, saturated solution, unsaturated solution, and supersaturated solution.
+- Connect solutions to the mixture chapter: distinguish solutions from suspensions and colloids.
+- Identify solute, solvent, dissolving, homogeneous mixture, concentration, dilute, concentrated, solubility, saturated solution, unsaturated solution, and supersaturated solution.
 - Explain that dissolved substances are still present as particles spread through the solvent.
-- Describe how temperature, stirring, and particle size can affect dissolving.
+- Describe how temperature, stirring, particle size, and surface area affect dissolving rate and solubility.
 - Recognize liquid, gas, and solid solutions, including salt water, sugar water, air, soda, and alloys.
 - Explain electrolytes and why ionic solutions can conduct electricity.
 - Describe separation methods for solutions, including evaporation, distillation, and crystallization.
@@ -48,17 +49,18 @@ Students should be able to:
 28. **Distillation** separates substances by differences in boiling point by boiling, collecting vapor, and condensing it.
 29. Misconceptions may include thinking solutions must be liquids, thinking dissolved substances disappear, thinking all mixtures are solutions, thinking stirring always lets more solute dissolve, or thinking clear liquids are always pure.
 30. Answers may include not tasting solutions, not smelling unknown solutions directly, not mixing household chemicals without instruction, wearing goggles when needed, keeping solutions away from electrical devices, using heat only with supervision, labeling containers, washing hands, cleaning spills with adult guidance, and following disposal instructions.
+31. Answers may vary. A strong answer should connect solutions to a familiar example (sports drink powder dissolving, pool chemicals, ocean saltiness, medicine doses, cooking, or soda bubbles) and explain that dissolved particles are still present and spread evenly.
 
 ### Activity Suggestions
 
 1. **Solute and Solvent Models**
-   Students make labeled diagrams of salt water and sugar water, identifying solute, solvent, and solution.
+   Students make labeled diagrams of salt water and sugar water, identifying solute, solvent, and solution. Compare with the chapter illustration.
 
 2. **Dissolved Does Not Mean Gone**
    Dissolve salt in water, then evaporate a small amount in a dish over time to recover salt crystals. Discuss particle spreading and recovery.
 
 3. **Dissolving Rate Test**
-   Compare sugar cubes, granulated sugar, and crushed sugar in equal water samples. Students observe how particle size affects dissolving speed.
+   Compare sugar cubes, granulated sugar, and crushed sugar in equal water samples. Students observe how particle size and surface area affect dissolving speed.
 
 4. **Temperature and Solubility**
    Compare how much sugar dissolves in warm water versus cool water. Use safe warm water only and keep amounts controlled.
@@ -67,20 +69,25 @@ Students should be able to:
    Use food coloring in water to make dilute and concentrated solutions. Students compare color intensity as a model for concentration.
 
 6. **Saturated Solution Challenge**
-   Students add salt or sugar gradually to water until no more dissolves. They identify evidence of saturation.
+   Students add salt or sugar gradually to water until no more dissolves. They identify evidence of saturation and distinguish saturation from dissolving rate.
 
 7. **Gas in Solution**
    Compare cold and warm soda or sealed and opened soda. Students observe carbon dioxide bubbling out and connect pressure and temperature to gas solubility.
 
 8. **Solution, Suspension, Colloid Review**
-   Compare sugar water, muddy water, and milk or gelatin. Students classify each and explain particle size, settling, and appearance.
+   Compare sugar water, muddy water, and milk or gelatin. Students classify each using the chapter table and explain particle size, settling, and appearance.
+
+9. **Separation Methods Comparison**
+   After dissolving salt in water, discuss why filtering fails, then model evaporation in a shallow dish. If equipment allows, demonstrate distillation with adult supervision only.
 
 ### Teaching Notes
 
 - Keep the central definition visible: **a solution is an evenly mixed homogeneous mixture**.
-- Emphasize that dissolved particles are still present.
-- Use solute and solvent language consistently.
-- Separate dissolving rate from solubility; stirring and crushing often affect speed, not the final amount that can dissolve.
+- Link back to chapter 065 (Mixture): solutions are one type of mixture; not all mixtures are solutions.
+- Emphasize that dissolved particles are still present — evaporation demos are worth the wait.
+- Use solute and solvent language consistently in every example.
+- Separate **dissolving rate** from **solubility**: stirring, crushing, and heating often affect speed, not always the final amount that can dissolve.
+- Use the saturated / unsaturated / supersaturated table when students confuse "still dissolving" with "cannot dissolve more."
 - Clarify that solutions can be gases or solids, not only liquids.
 - Treat clear liquids as unknown unless labeled; clear does not mean pure or safe.
 - Do not allow students to taste solutions during science activities.
