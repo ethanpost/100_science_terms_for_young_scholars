@@ -1,5 +1,7 @@
 ﻿# Echo
 
+![Echo](047_Echo_01.png)
+
 Imagine standing near a canyon wall and shouting, "Hello!" A moment later, the canyon seems to answer back: "Hello!" No person is hiding in the rocks. Your own sound has traveled to the wall, bounced off, and returned to your ears.
 
 That returning sound is an echo.

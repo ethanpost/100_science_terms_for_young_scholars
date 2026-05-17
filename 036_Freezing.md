@@ -1,5 +1,7 @@
 ﻿# Freezing
 
+![Freezing](036_Freezing_01.png)
+
 Imagine placing a tray of water into a freezer. At first the water sloshes as a liquid. Later, it becomes hard, clear ice that keeps the shape of the tray. The water did not disappear. It changed state.
 
 The liquid became a solid.

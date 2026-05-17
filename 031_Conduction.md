@@ -1,5 +1,7 @@
 ﻿# Conduction
 
+![Conduction](031_Conduction_01.png)
+
 Imagine placing a metal spoon into a mug of hot cocoa. At first only the end of the spoon in the cocoa is hot. After a short time, the handle warms too, even though the handle never touched the cocoa.
 
 Thermal energy traveled through the spoon.
