@@ -44,6 +44,8 @@ If the same force is concentrated on a smaller area, pressure increases.
 
 This simple formula explains a surprising number of everyday events.
 
+![The pressure formula](023_Pressure_02.png)
+
 ## Units of Pressure
 
 Force is often measured in **newtons**.
@@ -80,6 +82,8 @@ Now suppose the same 100-newton force is concentrated on an area of only 0.5 squ
 
 The force stayed the same, but the pressure increased because the area became smaller.
 
+![Same force, different pressure](023_Pressure_03.png)
+
 ## High Pressure and Low Pressure
 
 High pressure means a force is concentrated strongly on an area.
@@ -103,6 +107,8 @@ A needle has a sharp point. A small push can produce high pressure at the tip, a
 A thumbtack has a broad head and a sharp point. Your thumb pushes on the broad head, which keeps the pressure on your thumb low. The sharp point presses into the wall with high pressure.
 
 This is clever design: low pressure where your hand touches, high pressure where the tool must enter material.
+
+![Sharp tools and clever pressure](023_Pressure_04.png)
 
 ## Pressure in Solids
 
@@ -140,6 +146,8 @@ Deep-sea animals also face great pressure. Their bodies are adapted to those con
 
 The deeper the liquid, the greater the pressure.
 
+![Pressure increases with depth](023_Pressure_05.png)
+
 ## Pressure in Gases
 
 Gases also exert pressure.
@@ -175,6 +183,8 @@ When an airplane climbs or descends, outside air pressure changes. If the pressu
 Swallowing, yawning, or gently chewing can help equalize the pressure.
 
 This is not magic. It is air pressure changing around your body.
+
+![Ears and changing air pressure](023_Pressure_06.png)
 
 ## Air Pressure and Weather
 
@@ -219,6 +229,8 @@ This is similar to other machines:
 **Greater force usually comes with greater input distance.**
 
 Hydraulics are powerful because they can move heavy loads smoothly and with control.
+
+![Hydraulic systems and Pascal's principle](023_Pressure_07.png)
 
 ## Floating and Pressure
 

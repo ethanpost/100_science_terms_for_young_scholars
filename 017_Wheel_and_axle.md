@@ -31,6 +31,8 @@ On a wagon, the wheels are the large round parts, and the axle is the rod passin
 
 Once you understand that wheel and axle turn together, you can recognize this machine in many places.
 
+![The two main parts](017_Wheel_And_Axle_02.png)
+
 ## Wheel And Axle and Work
 
 In science, **work** is done when a force moves an object through a distance in the direction of the force.
@@ -54,6 +56,8 @@ Rolling usually creates much less friction. A wheel touches the ground at a smal
 This is why wagons, bicycles, carts, wheelchairs, suitcases, skateboards, and cars use wheels. The wheels do not remove the weight of the load, but they make the load easier to move.
 
 If you have ever dragged a heavy backpack and then rolled a suitcase, you have felt the difference between sliding friction and rolling motion.
+
+![Rolling instead of sliding](017_Wheel_And_Axle_03.png)
 
 ## The Axle
 
@@ -81,6 +85,8 @@ A simple way to say it is:
 
 **Large wheel, small axle, greater turning force at the axle.**
 
+![Mechanical advantage](017_Wheel_And_Axle_04.png)
+
 ## Turning Effect and Radius
 
 The distance from the center of a circle to its edge is called the **radius**.
@@ -92,6 +98,8 @@ A larger wheel gives your hand a longer radius. A longer radius gives the same f
 This is why a wide doorknob is easier to turn than a very tiny knob. It is also why a long wrench is easier to use than a short wrench, though a wrench is usually discussed as a lever. In both cases, applying force farther from the turning point increases turning effect.
 
 For wheel and axle machines, the important comparison is usually the radius of the wheel and the radius of the axle.
+
+![Radius and torque](017_Wheel_And_Axle_05.png)
 
 ## A Simple Wheel And Axle Calculation
 
@@ -117,6 +125,8 @@ This is a simplified model because real machines have friction, but it shows the
 
 **A larger wheel compared with the axle can multiply force.**
 
+![Mechanical advantage calculation](017_Wheel_And_Axle_06.png)
+
 ## Speed Advantage
 
 A wheel and axle can also work the other way.
@@ -132,6 +142,8 @@ For example, in many vehicles, turning parts inside the machine eventually make 
 The tradeoff is familiar:
 
 **More speed or distance usually means less force advantage.**
+
+![Speed advantage](017_Wheel_And_Axle_07.png)
 
 ## Wheels on Vehicles
 

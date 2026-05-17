@@ -44,6 +44,8 @@ A seesaw works in a related way. The board balances when the turning effects on 
 
 Balance is not magic. It depends on where the weight is and where the support is.
 
+![Balancing on a support point](021_Center_of_gravity_02.png)
+
 ## Finding the Center of Gravity
 
 For a uniform object with a simple shape, the center of gravity is often easy to find.
@@ -57,6 +59,8 @@ The center of gravity of a solid ball is at its center.
 But many objects are not uniform. A hammer has a heavy metal head and a lighter handle, so its center of gravity is closer to the head. A baseball bat has more mass near the barrel than near the handle, so its center of gravity is not exactly in the middle.
 
 The center of gravity shifts toward the heavier part.
+
+![Center of gravity shifts toward heavier parts](021_Center_of_gravity_05.png)
 
 ## The Hanging Test
 
@@ -72,6 +76,8 @@ The center of gravity is near the place where the lines cross.
 
 This works because a hanging object settles with its center of gravity as low as possible, directly below the point of support.
 
+![The hanging test](021_Center_of_gravity_03.png)
+
 ## Line of Gravity
 
 The **line of gravity** is an imaginary vertical line straight down from the center of gravity.
@@ -83,6 +89,8 @@ If the line of gravity falls outside the base of support, the object tends to ti
 Picture a tall book standing on a table. As long as its center of gravity is above its bottom face, it can stand. Tip it far enough, and the line of gravity moves beyond the edge of the base. Then gravity pulls it over.
 
 This idea explains why some things are stable and others are easy to topple.
+
+![Line of gravity and base of support](021_Center_of_gravity_04.png)
 
 ## Base of Support
 
@@ -111,6 +119,8 @@ A low, wide toy block is stable. A tall, narrow tower is less stable.
 
 This is why racing cars are low and broad, why heavy furniture may tip if loaded badly, and why a person carrying a heavy backpack may lean forward to stay balanced.
 
+![Low and wide versus high and narrow](021_Center_of_gravity_08.png)
+
 ## High and Low Centers of Gravity
 
 A high center of gravity makes tipping easier.
@@ -134,6 +144,8 @@ If you carry a heavy suitcase in one hand, you may lean the other way. That lean
 When you climb a hill, you lean forward. When you walk down a steep slope, you may lean backward slightly or bend your knees for control.
 
 Your brain and muscles constantly adjust your body so the line of gravity stays within your base of support.
+
+![Leaning to stay balanced](021_Center_of_gravity_07.png)
 
 ## Center of Gravity in Sports
 
@@ -190,6 +202,8 @@ Think of a ring or a doughnut. Its center of gravity is near the center of the h
 A horseshoe-shaped object may also have a center of gravity in empty space between its arms.
 
 This may seem strange at first, but it makes sense. The center of gravity is the balance point of the whole shape, not necessarily a piece of matter you can touch.
+
+![Center of gravity outside the object](021_Center_of_gravity_06.png)
 
 ## Changing Shape Changes Center of Gravity
 

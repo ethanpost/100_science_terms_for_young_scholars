@@ -80,6 +80,8 @@ Try thinking about a tower of blocks. If the tower leans only a little, the line
 
 This simple idea explains many accidents and many clever designs.
 
+![Center of gravity, base of support, and line of gravity](022_Balance_02.png)
+
 ## Turning Effects and Torque
 
 Balance is not only about straight-line forces. It is also about turning.
@@ -110,6 +112,8 @@ The boys have different weights, but the turning effects are equal.
 
 This kind of balance is called **rotational equilibrium**. It means the turning effects are balanced, so the object does not start rotating.
 
+![Balanced torques on a seesaw](022_Balance_03.png)
+
 ## Static Balance
 
 **Static balance** means an object is balanced while at rest.
@@ -131,6 +135,8 @@ Walking is dynamic balance. With every step, your body begins to fall forward, a
 A bicycle is easier to balance when moving than when standing still. The rider steers, shifts weight, and makes tiny corrections. The spinning wheels also help with control, though steering and body position matter greatly.
 
 Dynamic balance is active. It is not frozen stillness. It is controlled motion.
+
+![Static and dynamic balance](022_Balance_04.png)
 
 ## Stable Balance
 
@@ -166,6 +172,8 @@ A wheel on a level axle may also show neutral balance if its center of gravity s
 
 Neutral balance does not pull the object back to the old position or make it fall farther away. It simply allows a new balanced position.
 
+![Stable, unstable, and neutral balance](022_Balance_05.png)
+
 ## Balance in the Human Body
 
 Your body balances by using bones, muscles, joints, eyes, inner ears, and nerves.
@@ -177,6 +185,8 @@ When you stand, your body is not perfectly still. It sways slightly. Your nervou
 This is why balancing with eyes closed is harder. One source of information has been removed.
 
 Balance is a skill your body practices every day.
+
+![How the human body stays balanced](022_Balance_06.png)
 
 ## Balance in Sports
 
@@ -215,6 +225,8 @@ If one side is heavier, it tips down.
 Because the distances from the support are equal, the side with greater weight has greater turning effect. If the arms were unequal, then distance would also have to be considered.
 
 Balance scales show that measurement can come from equilibrium.
+
+![Balance scales and boat loading](022_Balance_07.png)
 
 ## Boats and Balance
 

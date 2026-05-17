@@ -36,6 +36,8 @@ The **tip** is the end that begins entering the material.
 
 Some screws have sharp pointed tips for wood. Others have flatter ends for machine parts. Some are designed to cut their own path, while others fit into already-made threads.
 
+![The main parts of a screw](019_Screw_02.png)
+
 ## The Inclined Plane Hidden in a Screw
 
 The easiest way to understand a screw is to imagine a ramp wrapped around a cylinder.
@@ -47,6 +49,8 @@ Each turn moves the screw a small distance forward.
 This is why screws are powerful. A long twisting motion around the outside becomes a short forward motion into the material. The screw trades distance for force.
 
 The screwdriver handle travels in a large circle, but the screw moves forward only a little with each turn. That small forward motion can create a large force.
+
+![The inclined plane hidden in a screw](019_Screw_03.png)
 
 ## Screws and Work
 
@@ -62,6 +66,8 @@ This is the main bargain:
 
 That tradeoff makes screws excellent for fastening, lifting, pressing, and adjusting.
 
+![Trading circular motion for forward force](019_Screw_04.png)
+
 ## Threads and Pitch
 
 The **pitch** of a screw is the distance the screw moves forward in one complete turn.
@@ -75,6 +81,8 @@ Fine threads usually give greater mechanical advantage because the effort is spr
 Coarse threads move faster because each turn advances the screw farther. They are useful in wood screws and other jobs where speed and grip in softer material matter.
 
 Neither type is always best. The right thread depends on the job.
+
+![Fine pitch versus coarse pitch](019_Screw_05.png)
 
 ## Mechanical Advantage
 
@@ -111,6 +119,8 @@ Real screws have a lot of friction, so the actual result is much less than this 
 The calculation shows the main idea:
 
 **A screw can turn a long circular motion into a short, powerful forward motion.**
+
+![Ideal mechanical advantage](019_Screw_06.png)
 
 ## Why Screws Hold
 
@@ -172,6 +182,8 @@ Many turns of the handle produce a small upward motion, but with enough force to
 
 Screw lifts and screw presses use the same principle. They are slow, powerful, and controllable.
 
+![A screw jack lifting a car](019_Screw_07.png)
+
 ## Screws That Press and Clamp
 
 A vise uses a screw to press two jaws together.
@@ -191,6 +203,8 @@ An **Archimedes' screw** is a machine used to lift water or other loose material
 This device was used in ancient times and is still used in some pumps, irrigation systems, and machines that move grain, coal, or plastic pellets.
 
 The same spiral idea appears in augers, which are screw-like tools for boring holes or moving material.
+
+![Archimedes' screw](019_Screw_08.png)
 
 ## Screws in Everyday Life
 

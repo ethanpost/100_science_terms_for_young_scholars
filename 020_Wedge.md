@@ -44,6 +44,8 @@ A wedge is often described as a moving inclined plane.
 
 Picture a ramp. If the ramp stays still and a box moves up it, the ramp is an inclined plane. But if the sloping surface itself moves into the box, wood, soil, or another material, it acts as a wedge.
 
+![Inclined plane vs wedge](020_Wedge_02.png)
+
 When a wedge moves forward, its sloping sides push material sideways.
 
 This is why an axe splits wood. The blade moves downward into the log, but the sloping sides push the wood pieces apart.
@@ -53,6 +55,8 @@ This is why a knife cuts food. The edge enters first, and the sides of the blade
 The important idea is:
 
 **A wedge changes a force in one direction into forces that push outward.**
+
+![Forward force becomes sideways force](020_Wedge_03.png)
 
 ## Wedges and Work
 
@@ -68,6 +72,8 @@ This is the wedge bargain:
 
 That tradeoff makes wedges useful for cutting, splitting, piercing, lifting, and holding.
 
+![The wedge bargain](020_Wedge_04.png)
+
 ## Sharpness and Force
 
 A sharp wedge has a very thin edge.
@@ -77,6 +83,8 @@ When the same force is concentrated on a smaller area, the pressure is greater. 
 That is why a sharp knife cuts better than a dull knife. The sharp knife concentrates force along a narrow edge. A dull knife spreads the same force over a wider area, so it may crush or tear instead of cutting cleanly.
 
 An axe, chisel, needle, nail, and knife all use narrow tips or edges to concentrate force.
+
+![Sharp vs dull wedge](020_Wedge_05.png)
 
 But sharpness is not the only thing that matters. The wedge also needs the right angle, strength, material, and surface finish for the job.
 
@@ -122,6 +130,8 @@ Real wedges have friction and may bend, crush, or chip material, so the actual r
 
 **Long and thin usually means less force is needed, but more distance is required.**
 
+![Mechanical advantage of a wedge](020_Wedge_06.png)
+
 ## A Simple Wedge Calculation
 
 Suppose a wedge is 15 centimeters long and 5 centimeters thick at the back.
@@ -151,6 +161,8 @@ Scissors combine levers and wedges. The handles and pivot act like levers, while
 Saw teeth are tiny wedges arranged in a row. Each tooth removes a small bit of material as the saw moves back and forth.
 
 Many cutting tools are really wedge systems.
+
+![Scissors combine levers and wedges](020_Wedge_07.png)
 
 ## Splitting Wedges
 
@@ -185,6 +197,8 @@ A doorstop is a wedge. When pushed under a door, it jams between the door and th
 Shims are small wedges used in building and repair work. A carpenter may slide a shim under a cabinet, doorframe, or piece of furniture to level it or hold it in position.
 
 Wedges can also lock parts tightly in place. In these cases, friction is helpful because it prevents the wedge from slipping out.
+
+![Holding wedges](020_Wedge_08.png)
 
 ## Lifting Wedges
 

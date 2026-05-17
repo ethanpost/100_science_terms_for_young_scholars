@@ -26,6 +26,8 @@ The result is a net upward force.
 
 That net upward force is the buoyant force.
 
+![Pressure and buoyancy](024_Buoyancy_02.png)
+
 ## Buoyant Force
 
 The **buoyant force** is the upward force from a fluid on an object.
@@ -52,6 +54,8 @@ Displacement is important because the amount of fluid pushed aside determines th
 
 The more fluid an object displaces, the greater the upward buoyant force.
 
+![Displacement](024_Buoyancy_04.png)
+
 ## Archimedes' Principle
 
 A famous rule about buoyancy is called **Archimedes' principle**.
@@ -70,6 +74,8 @@ If it weighs exactly 10 newtons, it can remain balanced in the fluid.
 
 Archimedes' principle explains both simple floating toys and enormous ships.
 
+![Archimedes' principle](024_Buoyancy_05.png)
+
 ## A Simple Buoyancy Calculation
 
 Suppose a block in water displaces water that weighs 30 newtons.
@@ -87,6 +93,8 @@ If the block weighs 30 newtons, the forces are balanced. The block can remain su
 The key question is:
 
 **How does the object's weight compare with the weight of the fluid it displaces?**
+
+![Balancing weight and buoyant force](024_Buoyancy_03.png)
 
 ## Floating
 
@@ -128,6 +136,8 @@ But an object made of dense material can still float if its overall shape includ
 
 That is why a steel ship can float even though a small solid steel ball sinks.
 
+![Why a steel ship floats](024_Buoyancy_06.png)
+
 ## Average Density
 
 The **average density** of an object includes all its parts, including air spaces.
@@ -157,6 +167,8 @@ Submarines have special tanks called ballast tanks. When the tanks contain more 
 To rise, the submarine forces water out of the ballast tanks with compressed air. This lowers the average density again.
 
 The submarine does not change the density of steel. It changes the amount of water and air inside the whole vessel.
+
+![Submarines and neutral buoyancy](024_Buoyancy_07.png)
 
 ## Neutral Buoyancy
 
