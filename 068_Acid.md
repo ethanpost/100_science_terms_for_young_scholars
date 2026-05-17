@@ -1,40 +1,38 @@
 ﻿# Acid
 
-Bite into a lemon. The sharp sour taste makes your mouth pucker. That sourness comes from acids. Vinegar, oranges, apples, yogurt, and many fizzy drinks also contain acids.
+You bite into a lemon after a game and your whole face scrunches. You pour vinegar on baking soda and foam shoots up the bowl. You crack open a cold soda and taste that sharp tang. You hear a coach warn swimmers not to get pool chemicals in their eyes.
 
-But acids are not only in food. Your stomach uses acid to help digest food. Rain can become more acidic when pollution enters the air. Batteries can contain dangerous acids. Scientists use acids carefully in laboratories and industry.
+Different moments — same chemistry idea.
 
 **An acid is a substance that produces hydrogen ions in water or donates protons in chemical reactions.**
 
-Acids can be mild and familiar, or strong and dangerous. Understanding acids helps explain taste, digestion, cleaning, rust, rocks, batteries, pollution, medicine, and chemical reactions.
+Acids can be mild and familiar, or strong and dangerous. They help explain sour taste, digestion, cleaning, rust, rocks, batteries, pollution, medicine, and countless chemical reactions. Understanding acids is one of the keys to real chemistry.
 
-To understand acids, we must begin with solutions.
+As you learned in the chapter on **solutions**, many acids are studied dissolved in water. As you learned in the chapter on **compounds**, most acids are pure substances made of two or more elements joined in fixed ratios.
+
+![Acid](068_Acid_01.png)
 
 ## Acids in Water
 
-Many acids are studied as solutions in water.
+Many acids are studied as **solutions** in water.
 
 A **solution** is a homogeneous mixture in which one substance is evenly dissolved in another.
 
-When some acids dissolve in water, they produce hydrogen ions.
-
-A **hydrogen ion** is often written as H+.
+When some acids dissolve in water, they produce **hydrogen ions**, often written as **H+**.
 
 The more hydrogen ions an acidic solution has, the more acidic it is.
 
-This does not mean every acid is safe just because it is dissolved in water. Some acid solutions are very dangerous.
+This does not mean every acid solution is safe. Some acid solutions are very dangerous even though they look like clear water.
 
 ## Protons and Acids
 
-In chemistry, a hydrogen ion, H+, is basically a proton.
+In chemistry, a hydrogen ion (H+) is basically a **proton**.
 
-That is because an ordinary hydrogen atom has one proton and one electron. If it loses its electron, only the proton remains.
+An ordinary hydrogen atom has one proton and one electron. If it loses its electron, only the proton remains.
 
-This is why acids are sometimes described as proton donors.
+That is why acids are sometimes described as **proton donors**.
 
 A **proton donor** is a substance that can give a proton, or H+, to another substance.
-
-This definition helps chemists understand acid reactions that are more advanced than simple sour foods.
 
 For this chapter, remember:
 
@@ -44,74 +42,50 @@ For this chapter, remember:
 
 Many weak acids taste sour.
 
-Lemons contain citric acid.
+| Acid | Where you find it |
+|------|-------------------|
+| Citric acid | Lemons, oranges, sports drinks |
+| Acetic acid | Vinegar, pickles |
+| Malic acid | Apples, green candy |
+| Lactic acid | Yogurt, sourdough, tired muscles |
+| Carbonic acid | Fizzy drinks |
 
-Vinegar contains acetic acid.
+Sour taste can be a clue that food contains acid. In science, though, taste is **not** a safe test.
 
-Apples contain malic acid.
-
-Yogurt contains lactic acid.
-
-Fizzy drinks contain carbonic acid and often other acids.
-
-Sour taste can be a clue that a food contains acid, but taste is not a safe test in science.
-
-Never taste an unknown substance to find out whether it is an acid.
+**Never taste an unknown substance** to find out whether it is an acid. Unknown acids may be poisonous, corrosive, or harmful.
 
 ## Acids Are Compounds
 
-Most acids are chemical compounds.
+Most acids are chemical **compounds** — pure substances made of two or more elements chemically joined in a fixed ratio.
 
-A **compound** is a pure substance made of two or more elements chemically joined in a fixed ratio.
+| Acid | Elements involved |
+|------|-------------------|
+| Hydrochloric acid | Hydrogen, chlorine |
+| Sulfuric acid | Hydrogen, sulfur, oxygen |
+| Nitric acid | Hydrogen, nitrogen, oxygen |
+| Acetic acid | Carbon, hydrogen, oxygen |
 
-Hydrochloric acid contains hydrogen and chlorine.
-
-Sulfuric acid contains hydrogen, sulfur, and oxygen.
-
-Nitric acid contains hydrogen, nitrogen, and oxygen.
-
-Acetic acid contains carbon, hydrogen, and oxygen.
-
-The atoms and bonds in an acid determine how it behaves.
-
-## Common Acids
-
-Many acids have familiar names.
-
-Examples include:
-
-- Citric acid in lemons and oranges
-- Acetic acid in vinegar
-- Carbonic acid in fizzy drinks
-- Lactic acid in yogurt and tired muscles
-- Hydrochloric acid in stomach acid
-- Sulfuric acid in some batteries
-- Nitric acid in laboratories and industry
-- Ascorbic acid, also called vitamin C
-
-These acids are not all equally strong or equally safe.
-
-The acid in an orange is not the same danger as the acid in a car battery.
+The atoms and bonds in an acid determine how it behaves. The acid in an orange is not the same danger as the acid in a car battery.
 
 ## Strong and Weak Acids
 
-Acids can be strong or weak.
+Acids can be **strong** or **weak**.
 
-A **strong acid** separates almost completely into ions in water.
+| Term | Meaning |
+|------|---------|
+| **Strong acid** | Separates almost completely into ions in water |
+| **Weak acid** | Separates only partly into ions in water |
 
-A **weak acid** separates only partly into ions in water.
+Hydrochloric acid is a strong acid. Acetic acid in vinegar is a weak acid.
 
-Hydrochloric acid is a strong acid.
+**Strong and weak do not mean concentrated and dilute.**
 
-Acetic acid in vinegar is a weak acid.
-
-Strong and weak do not mean concentrated and dilute.
+| Idea | What it describes |
+|------|-------------------|
+| **Strength** | How completely the acid forms ions in water |
+| **Concentration** | How much acid is dissolved in a certain amount of solution |
 
 A weak acid can be concentrated. A strong acid can be diluted.
-
-Strength describes how completely the acid forms ions in water.
-
-Concentration describes how much acid is dissolved in a certain amount of solution.
 
 ## Concentrated and Dilute Acids
 
@@ -121,11 +95,9 @@ A **dilute** acid solution has less acid compared with the amount of solution.
 
 Diluting an acid means adding solvent, usually water, to lower its concentration.
 
-Dilute acids can still be dangerous depending on the acid and amount.
+Dilute acids can still be dangerous depending on the acid and amount. Concentrated acids are often very dangerous. They can burn skin, damage eyes, react with metals, destroy cloth, or release harmful fumes.
 
-Concentrated acids are often very dangerous. They can burn skin, damage eyes, react with metals, destroy cloth, or release harmful fumes.
-
-Only trained adults should handle strong or concentrated acids.
+**Only trained adults should handle strong or concentrated acids.**
 
 ## The pH Scale
 
@@ -133,47 +105,37 @@ Scientists use the **pH scale** to describe how acidic or basic a solution is.
 
 The pH scale usually runs from 0 to 14.
 
-On this scale:
-
-- pH less than 7 is acidic
-- pH 7 is neutral
-- pH greater than 7 is basic
-
-Pure water is close to pH 7 at room temperature.
-
-Lemon juice has a pH below 7.
-
-Soap solution often has a pH above 7.
+| pH range | Type of solution | Examples |
+|----------|------------------|----------|
+| Below 7 | Acidic | Lemon juice, vinegar, stomach acid |
+| 7 | Neutral | Pure water (at room temperature) |
+| Above 7 | Basic | Soap solution, baking soda in water |
 
 The pH scale helps compare solutions more carefully than just saying "sour" or "slippery."
 
 ## pH Is Logarithmic
 
-The pH scale is not an ordinary counting scale.
+The pH scale is not an ordinary counting scale. It is **logarithmic**.
 
-It is logarithmic.
+A change of **1 pH unit** represents a **tenfold** change in acidity.
 
-That means a change of 1 pH unit represents a tenfold change in acidity.
+- pH 3 is ten times more acidic than pH 4
+- pH 2 is one hundred times more acidic than pH 4
 
-A solution with pH 3 is ten times more acidic than a solution with pH 4.
-
-A solution with pH 2 is one hundred times more acidic than a solution with pH 4.
-
-You do not need advanced mathematics yet. Just remember that small pH number changes can mean large acidity changes.
+You do not need advanced mathematics yet. Just remember: **small pH number changes can mean large acidity changes.**
 
 ## Indicators
 
 An **indicator** is a substance that changes color depending on acidity or basicity.
 
-Indicators help detect acids and bases.
+Indicators help detect acids and bases without tasting or guessing.
 
-Litmus paper is a common indicator.
+**Litmus paper** is a common indicator:
 
-Blue litmus paper turns red in an acid.
+- Blue litmus paper turns **red** in an acid
+- Red litmus paper stays **red** in an acid
 
-Red litmus paper stays red in an acid.
-
-Universal indicator can show a range of colors for different pH values.
+**Universal indicator** can show a range of colors for different pH values.
 
 Indicators are useful because many acids and bases look like plain water.
 
@@ -181,13 +143,12 @@ Indicators are useful because many acids and bases look like plain water.
 
 Some natural substances can act as indicators.
 
-Red cabbage juice is a common classroom example.
+**Red cabbage juice** is a common classroom example. It changes color in acidic and basic solutions.
 
-It changes color in acidic and basic solutions.
-
-In acidic solutions, red cabbage indicator often turns pink or red.
-
-In basic solutions, it may turn greenish, bluish, or yellowish depending on the strength.
+| Solution type | Red cabbage indicator often looks |
+|---------------|-----------------------------------|
+| Acidic | Pink or red |
+| Basic | Greenish, bluish, or yellowish (depending on strength) |
 
 Natural indicators are useful for safe demonstrations with household substances, but they still require teacher guidance.
 
@@ -195,103 +156,69 @@ Natural indicators are useful for safe demonstrations with household substances,
 
 Some acids react with metals.
 
-When an acid reacts with certain metals, hydrogen gas may be produced.
+When an acid reacts with certain metals, **hydrogen gas** may be produced and the mixture may bubble or fizz.
 
 For example, hydrochloric acid can react with zinc to produce hydrogen gas and a zinc compound.
 
-This reaction can bubble or fizz.
+Not all metals react the same way. Gold is very unreactive with most acids. Magnesium and zinc react more easily.
 
-Not all metals react with acids in the same way.
-
-Gold is very unreactive with most acids. Magnesium and zinc react more easily.
-
-Acid-metal reactions can produce flammable hydrogen gas, so they require careful safety controls.
+Acid-metal reactions can produce **flammable hydrogen gas**, so they require careful safety controls. This is not a casual garage experiment.
 
 ## Acids and Carbonates
 
-Acids react with carbonates to produce carbon dioxide gas.
+Acids react with **carbonates** to produce **carbon dioxide gas**.
 
-Carbonates are compounds containing the carbonate group.
-
-Calcium carbonate is found in chalk, limestone, marble, seashells, coral, and eggshells.
+Carbonates are compounds containing the carbonate group. **Calcium carbonate** is found in chalk, limestone, marble, seashells, coral, and eggshells.
 
 When vinegar reacts with chalk or eggshell, bubbles of carbon dioxide can form.
 
-This is a safer classroom way to observe an acid reaction when done with mild vinegar and teacher guidance.
+That fizzing reaction is one of the safest classroom ways to observe an acid in action — when done with mild vinegar and teacher guidance.
 
-Geologists use acid tests to identify carbonate minerals.
+Geologists also use acid tests to identify carbonate minerals in the field.
 
 ## Acids and Bases
 
-Acids and bases often react with each other.
+Acids and **bases** often react with each other.
 
-A **base** is a substance that can accept protons or produce hydroxide ions in water.
+A **base** is a substance that can accept protons or produce hydroxide ions in water. (You will study bases in the next chapter.)
 
-When an acid and a base react, they can neutralize each other.
+When an acid and a base react, they can **neutralize** each other. This is called **neutralization**.
 
-This kind of reaction is called **neutralization**.
-
-Many neutralization reactions produce water and a salt.
+Many neutralization reactions produce water and a **salt**.
 
 For example, hydrochloric acid and sodium hydroxide can react to form water and sodium chloride.
 
-Neutralization is important in medicine, agriculture, cleaning, and environmental protection.
+Neutralization matters in medicine, agriculture, cleaning, and environmental protection.
 
 ## Salts
 
 In chemistry, a **salt** is an ionic compound often formed from an acid-base reaction.
 
-Table salt, sodium chloride, is one example.
-
-But chemistry has many salts besides the salt on food.
+Table salt (sodium chloride) is one example — but chemistry has many salts besides the salt on food.
 
 Calcium carbonate, copper sulfate, potassium nitrate, and magnesium chloride are also salts.
 
-When acids react with bases, salts can form.
-
-The word salt in chemistry is broader than ordinary table salt.
+When acids react with bases, salts can form. The word **salt** in chemistry is broader than ordinary table salt.
 
 ## Stomach Acid
 
-Your stomach contains hydrochloric acid.
+Your stomach contains **hydrochloric acid**.
 
-This acid helps break down food and helps kill many harmful microbes.
-
-The stomach lining is protected by mucus and other defenses.
+This acid helps break down food and helps kill many harmful microbes. The stomach lining is protected by mucus and other defenses.
 
 If stomach acid irritates the wrong places, it can cause pain or health problems.
 
-Antacids are medicines that contain mild bases. They can neutralize some excess stomach acid.
+**Antacids** are medicines that contain mild bases. They can neutralize some excess stomach acid.
 
 Never take medicine without adult guidance.
-
-## Acids in Food
-
-Many foods contain acids.
-
-Citric acid gives lemons and oranges their tart taste.
-
-Acetic acid gives vinegar its sharp flavor.
-
-Lactic acid gives yogurt and sourdough some of their tang.
-
-Carbonic acid forms when carbon dioxide dissolves in water, helping make fizzy drinks tart.
-
-Ascorbic acid is vitamin C.
-
-Food acids can add flavor, help preserve foods, and affect texture.
 
 ## Acid Rain
 
 **Acid rain** is rain, snow, fog, or other precipitation that is more acidic than normal because of pollution.
 
-Burning fossil fuels can release sulfur dioxide and nitrogen oxides into the air.
+Burning fossil fuels can release sulfur dioxide and nitrogen oxides into the air. These gases can react with water and oxygen to form acids.
 
-These gases can react with water and oxygen to form acids.
-
-Acid rain can harm lakes, forests, soils, buildings, and statues.
-
-It can dissolve minerals and damage stone, especially limestone and marble.
+Acid rain can harm lakes, forests, soils, buildings, and statues. It can dissolve minerals and damage stone — especially limestone and marble.
 
 Reducing air pollution helps reduce acid rain.
 
@@ -299,111 +226,63 @@ Reducing air pollution helps reduce acid rain.
 
 Acids can react with some rocks and minerals.
 
-Limestone and marble contain calcium carbonate.
+Limestone and marble contain calcium carbonate. Acids can dissolve calcium carbonate and produce carbon dioxide gas.
 
-Acids can dissolve calcium carbonate and produce carbon dioxide gas.
+That is why acid rain can damage marble statues and limestone buildings.
 
-This is why acid rain can damage marble statues and limestone buildings.
-
-It is also one way caves can form. Slightly acidic groundwater can slowly dissolve limestone underground.
-
-Over long periods, tiny chemical reactions can shape huge landscapes.
+It is also one way **caves** form. Slightly acidic groundwater can slowly dissolve limestone underground. Over long periods, tiny chemical reactions can shape huge landscapes.
 
 ## Acids in Batteries
 
 Some batteries contain acids.
 
-Lead-acid car batteries contain sulfuric acid.
-
-Sulfuric acid is strong and dangerous.
-
-It can burn skin, damage eyes, and react with materials.
+**Lead-acid car batteries** contain **sulfuric acid** — strong and dangerous. It can burn skin, damage eyes, and react with many materials.
 
 Car batteries also store large amounts of electrical energy.
 
-Never open, tip, or tamper with a car battery.
-
-Battery acid is a serious hazard, not a classroom material.
+**Never open, tip, or tamper with a car battery.** Battery acid is a serious hazard, not a classroom material.
 
 ## Acids in Industry
 
-Acids are used in many industries.
+Acids are used in many industries. They help make fertilizers, plastics, medicines, metals, dyes, cleaners, paper, and batteries.
 
-They help make fertilizers, plastics, medicines, metals, dyes, cleaners, paper, and batteries.
+| Acid | Industrial use |
+|------|----------------|
+| Sulfuric acid | One of the most widely produced industrial chemicals |
+| Nitric acid | Fertilizers, explosives |
+| Hydrochloric acid | Metal cleaning, chemical manufacturing |
 
-Sulfuric acid is one of the most widely produced industrial chemicals in the world.
-
-Nitric acid is used in fertilizers and explosives.
-
-Hydrochloric acid is used in metal cleaning and chemical manufacturing.
-
-Industrial acids are useful because they react strongly, but that same reactivity makes them dangerous.
+Industrial acids are useful because they react strongly. That same reactivity makes them dangerous in the wrong hands.
 
 ## Acids and Cleaning
 
 Some cleaners contain acids.
 
-Mild acidic cleaners can help remove mineral deposits, rust stains, and hard-water scale.
-
-Vinegar can dissolve some mineral buildup because it contains acetic acid.
+Mild acidic cleaners can help remove mineral deposits, rust stains, and hard-water scale. Vinegar can dissolve some mineral buildup because it contains acetic acid.
 
 Stronger acidic cleaners can be dangerous and must be used only as directed by adults.
 
-Acidic cleaners should never be mixed with other cleaners unless the label and an adult trained in safety say it is safe.
-
-Mixing cleaners can release poisonous gases.
+**Never mix acidic cleaners with other cleaners** unless the label and a trained adult say it is safe. Mixing cleaners can release poisonous gases.
 
 ## Acids and Teeth
 
 Acids can affect teeth.
 
-Tooth enamel is a hard mineral surface.
+**Tooth enamel** is a hard mineral surface. Acids from foods, drinks, or bacteria in the mouth can slowly weaken enamel.
 
-Acids from foods, drinks, or bacteria in the mouth can slowly weaken enamel.
-
-Sugary foods can feed bacteria that produce acids.
-
-This can lead to tooth decay.
+Sugary foods can feed bacteria that produce acids. That can lead to **tooth decay**.
 
 Good tooth care includes brushing, flossing, drinking water, and limiting frequent sugary or acidic snacks.
 
-Your mouth is a small chemistry lab, and your teeth are part of the experiment.
+Your mouth is a small chemistry lab. Your teeth are part of the experiment — treat them like equipment worth protecting.
 
 ## Organic and Inorganic Acids
 
-Some acids are organic compounds.
+Some acids are **organic** — they contain carbon. Citric acid, acetic acid, lactic acid, and ascorbic acid (vitamin C) are organic acids.
 
-Organic acids contain carbon.
+Some acids are **inorganic**. Hydrochloric acid, sulfuric acid, and nitric acid are inorganic acids.
 
-Citric acid, acetic acid, lactic acid, and ascorbic acid are organic acids.
-
-Some acids are inorganic.
-
-Hydrochloric acid, sulfuric acid, and nitric acid are inorganic acids.
-
-Both kinds can be useful, and both can be dangerous depending on concentration and conditions.
-
-The name does not tell you everything about safety.
-
-## Acid Strength and Safety
-
-The danger of an acid depends on several things:
-
-- Acid strength
-- Concentration
-- Amount
-- Temperature
-- Contact time
-- What it touches
-- Whether fumes are produced
-
-A small amount of weak acid in food can be safe.
-
-A concentrated strong acid can be extremely dangerous.
-
-Even weak acids can irritate eyes or damaged skin.
-
-Safety depends on context.
+Both kinds can be useful. Both can be dangerous depending on concentration and conditions. The name does not tell you everything about safety.
 
 ## Diluting Acids
 
@@ -413,23 +292,21 @@ In professional laboratories, the rule is:
 
 **Add acid to water, not water to acid.**
 
-This is because mixing acid and water can release heat. If water is poured into concentrated acid, it may splash dangerously.
+Mixing acid and water can release heat. If water is poured into concentrated acid, it may splash dangerously.
 
-Students should not dilute strong acids themselves.
-
-This rule is included so you understand why trained adults follow careful procedures.
+Students should not dilute strong acids themselves. This rule is here so you understand why trained adults follow careful procedures.
 
 ## Common Misconceptions
 
-One mistake is thinking all acids are extremely dangerous. Some acids in foods are mild, but unknown acids must still be treated carefully.
+One mistake is thinking **all acids are extremely dangerous**. Some acids in foods are mild, but unknown acids must still be treated carefully.
 
-Another mistake is thinking all acids can be identified by taste. Tasting unknown substances is unsafe and not scientific.
+Another mistake is thinking acids can be **identified by taste**. Tasting unknown substances is unsafe and not scientific.
 
-A third mistake is thinking acid strength and concentration mean the same thing. Strength describes ion formation; concentration describes how much acid is dissolved.
+A third mistake is confusing **strength with concentration**. Strength describes ion formation; concentration describes how much acid is dissolved.
 
-A fourth mistake is thinking pH changes are small because the numbers are close. The pH scale is logarithmic, so one unit is a tenfold change.
+A fourth mistake is thinking **pH changes are small** because the numbers look close. The pH scale is logarithmic — one unit is a tenfold change.
 
-A fifth mistake is thinking neutralization always makes a solution perfectly safe. The products, heat, leftover acid or base, and concentration still matter.
+A fifth mistake is thinking **neutralization always makes a solution perfectly safe**. The products, heat, leftover acid or base, and concentration still matter.
 
 ## Acid Safety
 
@@ -454,7 +331,7 @@ If acid gets on skin or in eyes, tell an adult immediately and rinse with plenty
 
 An acid is a substance that produces hydrogen ions in water or donates protons in reactions.
 
-Acids can be weak or strong, dilute or concentrated, natural or industrial. They often taste sour in foods, turn blue litmus red, have pH values below 7, react with some metals and carbonates, and can neutralize bases to form salts and water. Acids are important in digestion, food, rocks, weathering, batteries, industry, cleaning, medicine, and the environment, but they must be handled carefully.
+Acids can be weak or strong, dilute or concentrated, natural or industrial. They often taste sour in foods, turn blue litmus red, have pH values below 7, react with some metals and carbonates, and can neutralize bases to form salts and water. Acids matter in digestion, food, rocks, weathering, batteries, industry, cleaning, medicine, and the environment — but they must be handled carefully.
 
 If you remember only one sentence, remember this:
 
@@ -468,27 +345,29 @@ If you remember only one sentence, remember this:
 4. Why is a hydrogen ion often described as a proton?
 5. What does it mean to call an acid a proton donor?
 6. Why is taste not a safe test for acids?
-7. Give four examples of common acids.
+7. Give four examples of common acids and where they are found.
 8. What is the difference between a strong acid and a weak acid?
 9. What is the difference between a concentrated acid and a dilute acid?
-10. What does the pH scale measure?
-11. What pH values are acidic?
-12. What pH is neutral?
-13. Why is the pH scale called logarithmic?
-14. What is an indicator?
-15. What happens to blue litmus paper in an acid?
-16. What natural indicator is often used in classrooms?
-17. What gas may be produced when some acids react with metals?
-18. What gas is produced when acids react with carbonates?
-19. What is neutralization?
-20. What is a salt in chemistry?
-21. What acid is found in the stomach?
-22. How can antacids help with excess stomach acid?
-23. What is acid rain?
-24. How can acid rain harm buildings or statues?
-25. What dangerous acid is found in lead-acid car batteries?
-26. Why can acids be useful in industry?
-27. How can acids affect teeth?
-28. What is the laboratory rule for diluting acids?
-29. Name two common misconceptions about acids.
-30. What are three safety rules for working with acids?
+10. What is the difference between acid strength and acid concentration?
+11. What does the pH scale measure?
+12. What pH values are acidic?
+13. What pH is neutral?
+14. Why is the pH scale called logarithmic?
+15. What is an indicator?
+16. What happens to blue litmus paper in an acid?
+17. What natural indicator is often used in classrooms?
+18. What gas may be produced when some acids react with metals?
+19. What gas is produced when acids react with carbonates?
+20. What is neutralization?
+21. What is a salt in chemistry?
+22. What acid is found in the stomach?
+23. How can antacids help with excess stomach acid?
+24. What is acid rain?
+25. How can acid rain harm buildings or statues?
+26. What dangerous acid is found in lead-acid car batteries?
+27. Why can acids be useful in industry?
+28. How can acids affect teeth?
+29. What is the laboratory rule for diluting acids?
+30. Name two common misconceptions about acids.
+31. What are three safety rules for working with acids?
+32. In your own words, explain why understanding acids helps you make sense of something you use, eat, or see often — from sports drinks to batteries to caves.
