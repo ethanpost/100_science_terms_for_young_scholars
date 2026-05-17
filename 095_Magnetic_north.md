@@ -1,5 +1,7 @@
 ﻿# Magnetic north
 
+![Magnetic north](095_Magnetic_north_01.png)
+
 The orienteering finish line is 800 meters ahead — straight through the pines. You are in second place. Your compass needle locks onto north. You set a bearing of **45°** (northeast), pick a tall birch as your target, and run.
 
 Twenty minutes later, the birch is behind you, but there is no orange flag. No cheering. No tape. Just more trees and a creek that is not on your map.
@@ -13,8 +15,6 @@ You may have been following the wrong kind of north.
 **Magnetic north is the north direction a compass shows, based on Earth's magnetic field at your location.**
 
 That sounds simple. In practice, it saves trips — or ruins them — depending on whether you know what your compass is really telling you.
-
-![Magnetic north](095_Magnetic_north_01.png)
 
 ## Earth's Magnetic Field
 

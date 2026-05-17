@@ -1,5 +1,7 @@
 ﻿# Moon
 
+![Moon](084_Moon_01.png)
+
 You walk home after a late game. Streetlights glow below, but above the rooftops something else catches your eye — a bright disk sharp enough to throw a thin shadow across the sidewalk. Last week that same object was only a curved slice, like someone had taken a bite out of it.
 
 It did not shrink. It did not grow wings. It changed because of **where it is in space** and **how sunlight hits it**.
@@ -9,8 +11,6 @@ The Moon is familiar, but it is not simple. It is a rocky world with craters, an
 **The Moon is Earth's natural satellite, a rocky world that orbits Earth and reflects sunlight.**
 
 It does not make its own light. It shines because sunlight bounces off its surface and travels to your eyes — the same reason Jupiter looks bright in the night sky, as you will see in the chapter on **planets**.
-
-![Moon](084_Moon_01.png)
 
 ## Earth's Companion in Space
 

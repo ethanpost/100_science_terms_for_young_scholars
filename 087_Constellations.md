@@ -1,5 +1,7 @@
 ﻿# Constellations
 
+![Constellations](087_Constellations_01.png)
+
 You are at a lake house after everyone else has gone to bed. No streetlights. No Wi‑Fi worth mentioning. Just black sky and more stars than you thought existed.
 
 Your cousin dares you to find north without a phone. You laugh — then realize you have no idea where to start.
@@ -15,8 +17,6 @@ Suddenly the sky is not chaos. It is a map — and you are learning to read it.
 **A constellation is an official region of the sky, usually named for a pattern of stars, animal, object, or legendary figure as seen from Earth.**
 
 Long ago, people used these patterns to tell stories, mark seasons, remember directions, and organize the night. Today astronomers still use constellations — not as magic, but as a coordinate system for the heavens.
-
-![Constellations](087_Constellations_01.png)
 
 ## Your Brain Is a Pattern Machine
 

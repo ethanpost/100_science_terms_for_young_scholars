@@ -1,5 +1,7 @@
 ﻿# Prism
 
+![Prism](043_Prism_01.png)
+
 Imagine holding a triangular piece of glass in a beam of sunlight. On the wall, a small patch of white light spreads into red, orange, yellow, green, blue, indigo, and violet. The glass has not painted the light. It has separated colors that were already there.
 
 That piece of glass is a prism.
@@ -19,8 +21,6 @@ When light passes from air into glass, it slows down. When it leaves glass and r
 That bending is called **refraction**.
 
 A prism uses refraction in a controlled way.
-
-![Prism](043_Prism_01.png)
 
 ## Refraction in a Prism
 

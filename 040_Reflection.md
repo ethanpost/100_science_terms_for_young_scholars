@@ -1,5 +1,7 @@
 ﻿# Reflection
 
+![Reflection](040_Reflection_01.png)
+
 Imagine standing in front of a mirror before school. You lift your right hand, and the image seems to lift its left. You smile, and the image smiles back. The mirror is not creating a second boy behind the glass. It is bouncing light in a very orderly way.
 
 That bouncing of light is reflection.
@@ -33,8 +35,6 @@ The ray bouncing away is called the **reflected ray**.
 An imaginary line drawn perpendicular to the surface at the point where the ray hits is called the **normal**.
 
 These three ideas, incident ray, reflected ray, and normal, help describe reflection clearly.
-
-![Reflection](040_Reflection_01.png)
 
 ## The Law of Reflection
 

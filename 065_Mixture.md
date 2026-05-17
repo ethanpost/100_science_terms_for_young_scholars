@@ -1,5 +1,7 @@
 ﻿# Mixture
 
+![Mixture](065_Mixture_01.png)
+
 You pour cereal into a bowl and add milk. You shake a bottle of sports drink before a game. You watch mud settle in a puddle after rain. You sort screws, nails, and washers in a garage tray. You breathe air without thinking about it.
 
 None of those moments look the same. But each one involves a **mixture** — matter made of two or more substances physically combined.
@@ -11,8 +13,6 @@ Open a bag of trail mix. One handful might be heavy on peanuts. The next might h
 Mixtures are everywhere: air, soil, seawater, lemonade, cereal, granite, salad, paint, milk, smoke, fog, steel, and blood. Understanding mixtures helps explain cooking, cleaning, recycling, mining, medicine, weather, water treatment, and almost every hands-on science activity you will do.
 
 As you learned in the chapters on **matter**, **elements**, **compounds**, and **molecules**, not all matter is the same kind of stuff. Mixtures sit in a special place: they combine substances without locking them into one new chemical formula.
-
-![Mixture](065_Mixture_01.png)
 
 ## Mixtures and Pure Substances
 

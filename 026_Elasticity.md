@@ -1,5 +1,7 @@
 ﻿# Elasticity
 
+![Elasticity](026_Elasticity_01.png)
+
 Imagine pulling back a rubber band between your fingers. It stretches longer and longer. When you let go, it snaps back toward its original shape. Now imagine bending a paper clip back and forth. At first it bends a little, but soon it stays bent or breaks.
 
 The rubber band and the paper clip do not respond to force in the same way.
@@ -49,8 +51,6 @@ An object behaves **inelastically** if it does not fully return to its original 
 Clay is mostly inelastic. If you press your thumb into clay, the dent remains. A paper clip bent too far may stay bent. A crushed soda can does not pop back to its original shape.
 
 Most real materials are not perfectly elastic or perfectly inelastic. They may behave elastically for small forces and inelastically for larger forces.
-
-![Elasticity](026_Elasticity_01.png)
 
 ## The Elastic Limit
 

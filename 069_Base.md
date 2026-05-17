@@ -1,5 +1,7 @@
 ﻿# Base
 
+![Base](069_Base_01.png)
+
 You finish washing your hands after working on a greasy bike chain. The soap feels slick between your fingers. That slipperiness is a clue: soap is a base.
 
 At a science fair, someone pours vinegar into a cup of baking soda. The mixture fizzes and bubbles like a mini volcano. Baking soda is a base. The vinegar is an acid. When they meet, they neutralize each other.
@@ -9,8 +11,6 @@ After a spicy meal, an antacid tablet can calm an upset stomach. The tablet cont
 Bases are everywhere—in soap, cleaners, baking soda, antacids, soil treatments, factories, and your own body. Some are mild and useful. Others are so strong they can burn skin or damage eyes on contact.
 
 **A base is a substance that can accept protons or produce hydroxide ions in water.**
-
-![Base](069_Base_01.png)
 
 To understand bases, it helps to remember their chemical partner: acids.
 

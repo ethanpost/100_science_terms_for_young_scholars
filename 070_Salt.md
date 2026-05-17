@@ -1,5 +1,7 @@
 ﻿# Salt
 
+![Salt](070_Salt_01.png)
+
 You shake crystals onto hot fries. You taste the ocean after wiping out on a bodyboard. You watch road crews spread white grains on an icy sidewalk so cars do not slide. You crack open a sports drink after a long practice and read "electrolytes" on the label.
 
 Different moments — same chemistry idea.
@@ -11,8 +13,6 @@ When most people hear **salt**, they picture the white shaker on the kitchen tab
 Salts show up in oceans, rocks, soil, food, medicine, batteries, fireworks, caves, shells, bones, and living cells. Some are safe in small amounts. Some are poisonous. Some dissolve easily in water. Some barely dissolve at all.
 
 As you learned in the chapters on **acids** and **bases**, many salts form when acids and bases **neutralize** each other. As you learned in the chapter on **crystals**, many salts grow as solids with repeating ion patterns. This chapter ties those ideas together.
-
-![Salt](070_Salt_01.png)
 
 ## Salts Are Ionic Compounds
 

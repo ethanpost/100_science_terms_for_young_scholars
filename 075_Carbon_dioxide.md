@@ -1,5 +1,7 @@
 ﻿# Carbon dioxide
 
+![Carbon dioxide](075_Carbon_dioxide_01.png)
+
 You crack open a cold soda after practice. The hiss is loud. Bubbles race up the glass. You take a sip and feel that sharp, tingly bite on your tongue.
 
 Sprint the last lap of a mile and bend over, gasping. Your breathing speeds up — not only because you need more **oxygen**, but because your cells are pouring out **carbon dioxide** as a waste product.
@@ -15,8 +17,6 @@ You cannot see carbon dioxide doing its everyday jobs. You cannot smell much of 
 Its chemical formula is **CO2**. That small molecule connects breathing, photosynthesis, burning fuel, fizzy drinks, dry ice fog, limestone caves, and Earth's climate. Carbon dioxide is necessary for life. It is also powerful — and sometimes dangerous when too much builds up in the wrong place.
 
 As you learned in the chapter on **carbon**, carbon is element number 6 and a master builder of molecules. As you learned in the chapters on **compounds** and **molecules**, atoms can bond in fixed ratios to form new substances with new properties. Carbon dioxide is one of carbon's most important compounds — and one of the most talked-about gases in science today.
-
-![Carbon dioxide](075_Carbon_dioxide_01.png)
 
 ## CO2 at a Glance
 

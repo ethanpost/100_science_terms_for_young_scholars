@@ -1,5 +1,7 @@
 ﻿# Center of gravity
 
+![Center of Gravity](021_Center_of_gravity_01.png)
+
 Imagine balancing a ruler on one finger. If your finger is too far to the left, the ruler tips right. If your finger is too far to the right, the ruler tips left. But there is one spot where the ruler rests evenly, almost as if all its weight is gathered above your finger.
 
 That balancing spot helps reveal the ruler's center of gravity.
@@ -31,8 +33,6 @@ The **center of gravity** is the point where gravity's pull on the object can be
 Near Earth's surface, where gravity is nearly the same from one side of an ordinary object to the other, the center of mass and center of gravity are usually in the same place. For most classroom examples, you can treat them as the same point.
 
 The distinction matters more in advanced physics, astronomy, and very large objects where gravity may not be the same everywhere.
-
-![Center of Gravity](021_Center_of_gravity_01.png)
 
 ## Balance
 

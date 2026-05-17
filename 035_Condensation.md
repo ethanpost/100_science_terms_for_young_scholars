@@ -1,5 +1,7 @@
 ﻿# Condensation
 
+![Condensation](035_Condensation_01.png)
+
 Imagine carrying a cold glass of lemonade outside on a warm, humid day. After a few minutes, tiny drops of water appear on the outside of the glass. The glass is not leaking. The water came from the air.
 
 Invisible water vapor in the air cooled near the glass and changed into liquid droplets.
@@ -21,8 +23,6 @@ You cannot see water vapor itself. When you see fog, mist, clouds, or the white 
 Condensation happens when water vapor changes back into liquid water.
 
 This usually occurs when moist air cools or when water vapor touches a cool surface.
-
-![Condensation](035_Condensation_01.png)
 
 ## Particles Losing Energy
 

@@ -1,5 +1,7 @@
 ﻿# Poles
 
+![Poles](099_Poles_01.png)
+
 You are watching a flight tracker on your phone. A plane heading from New York to Hong Kong does not fly in a straight line across a flat map. It curves north over the Arctic — closer to the top of the world than you expected.
 
 Why? Because the shortest path on a sphere often passes near the **poles**.
@@ -13,8 +15,6 @@ Earth spins like a top. Every top has two ends where the spin axis pokes through
 **The poles are the two points where Earth's axis of rotation meets Earth's surface: the North Pole and the South Pole.**
 
 They are not edges you can fall off. They are pivot points where latitude lines shrink to nothing, seasons go extreme, and science camps drill ice that is older than the pyramids.
-
-![Poles](099_Poles_01.png)
 
 ## What the Poles Are
 

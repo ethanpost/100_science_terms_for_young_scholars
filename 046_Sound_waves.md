@@ -1,5 +1,7 @@
 ﻿# Sound waves
 
+![Sound Waves](046_Sound_waves_01.png)
+
 Imagine plucking a guitar string. The string shakes back and forth so quickly that it becomes a blur. A moment later, you hear a note. The string's motion has disturbed the air, and that disturbance has traveled to your ear.
 
 That traveling disturbance is a sound wave.
@@ -21,8 +23,6 @@ These vibrations push and pull on nearby air particles.
 The air particles then push and pull on neighboring particles, and the disturbance travels outward.
 
 The vibrating object does not usually travel all the way to your ear. The energy of the vibration travels through the medium.
-
-![Sound Waves](046_Sound_waves_01.png)
 
 ## Sound Needs a Medium
 

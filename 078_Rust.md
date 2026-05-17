@@ -1,5 +1,7 @@
 ﻿# Rust
 
+![Rust](078_Rust_01.png)
+
 You lean your bike against the shed after a muddy ride. Rain drips off the frame. A week later you grab the chain for a ride — and your fingers come away gritty. Orange-brown flakes cling to the metal. The chain feels stiff, almost crunchy.
 
 In the garage, an old wrench on the workbench has the same reddish coating. Outside, the metal gate at the end of the driveway looks rough and weak where the paint chipped years ago. After a snowy winter, white road salt has crusted the family car's wheel wells. By spring, little orange spots are spreading under the paint.
@@ -11,8 +13,6 @@ That reddish-brown material is **rust**.
 Rust is one of the most familiar chemical changes in everyday life. It damages cars, bridges, tools, ships, pipes, fences, machinery, and buildings. Rust may seem slow and quiet, but over time it can destroy strong metal — and badly rusted railings, ladders, or chains can fail when you need them most.
 
 As you learned in the chapter on **oxidation**, oxidation is a chemical process in which a substance loses electrons or combines with oxygen. **Rusting is slow oxidation of iron.** This chapter zooms in on that one familiar enemy: rust.
-
-![Rust](078_Rust_01.png)
 
 ## Rust Happens to Iron
 

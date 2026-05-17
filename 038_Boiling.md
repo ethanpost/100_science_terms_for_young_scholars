@@ -1,5 +1,7 @@
 ﻿# Boiling
 
+![Boiling](038_Boiling_01.png)
+
 Imagine a pot of water sitting on a stove. At first the water is still. Then tiny bubbles appear on the bottom. Soon the bubbles grow, rise, burst at the surface, and the whole pot rolls and steams.
 
 The liquid water is changing into gas throughout the pot.
@@ -23,8 +25,6 @@ When a liquid boils, particles throughout the liquid gain enough energy to becom
 The gas forms bubbles inside the liquid. These bubbles rise and escape at the surface.
 
 For water, the gas form is called **water vapor**.
-
-![Boiling](038_Boiling_01.png)
 
 ## Boiling and Evaporation
 

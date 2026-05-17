@@ -1,5 +1,7 @@
 ﻿# Speed
 
+![Motion](007_Speed_01.png)
+
 Imagine two boys racing across a field after a loose soccer ball. Both start at the same line. One reaches the ball in six seconds. The other arrives three seconds later, breathing hard and laughing. They both traveled the same distance, but one covered that distance in less time.
 
 The faster runner had greater speed.
@@ -50,8 +52,6 @@ In science class, meters per second is often useful. A student walking across a 
 In everyday life, people often use miles per hour or kilometers per hour for vehicles. A car on a city street might travel 25 miles per hour. A highway car may travel 60 miles per hour. A passenger airplane travels hundreds of miles per hour.
 
 The words "per second" or "per hour" are important. They tell the time part of the comparison.
-
-![Motion](007_Speed_01.png)
 
 ## Calculating Speed
 

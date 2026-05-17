@@ -1,5 +1,7 @@
 ﻿# Inclined Plane
 
+![Inclined Plane](018_Inclined_Plane_01.png)
+
 Imagine that a heavy crate must be loaded into the back of a truck. If you try to lift it straight up, you may not even get it off the ground. But if someone places a strong board from the ground to the truck bed, the crate can be pushed up the board instead.
 
 The crate did not become lighter. The board changed how the lifting work was done.
@@ -23,8 +25,6 @@ Suppose a box must be raised 1 meter from the ground to a platform. Lifting it s
 The ramp does not destroy the work. It rearranges the work.
 
 This is why a long, gentle ramp feels easier than a short, steep ramp. The longer ramp gives you more distance over which to apply your force, so the force needed at any moment is smaller.
-
-![Inclined Plane](018_Inclined_Plane_01.png)
 
 ## Inclined Planes and Work
 

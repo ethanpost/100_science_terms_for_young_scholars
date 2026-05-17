@@ -1,5 +1,7 @@
 ﻿# Color spectrum
 
+![Color Spectrum](044_Color_spectrum_01.png)
+
 Imagine sunlight passing through a prism and spreading across a wall. A beam that looked white becomes a band of red, orange, yellow, green, blue, indigo, and violet. The colors were not painted onto the wall by the glass. They were hidden together inside the white light.
 
 That band of colors is a color spectrum.
@@ -9,8 +11,6 @@ That band of colors is a color spectrum.
 The color spectrum helps explain rainbows, prisms, sunsets, the blue sky, colored objects, stage lights, screens, stars, and the way scientists study the chemical makeup of distant objects.
 
 Color is not merely decoration. It is information carried by light.
-
-![Color Spectrum](044_Color_spectrum_01.png)
 
 ## Visible Light
 

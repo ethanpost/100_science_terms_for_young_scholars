@@ -1,5 +1,7 @@
 # Mass
 
+![Mass](004_Mass_01.png)
+
 Imagine two boxes sitting on a table. One is empty. The other is filled with books, a baseball glove, a water bottle, and a pair of muddy sneakers. From the outside, the boxes may look almost the same. But if you try to push them, lift them, or stop them from sliding, you will quickly discover that they are not the same at all.
 
 The full box has more mass.
@@ -17,9 +19,6 @@ Matter is anything that has mass and takes up space. Your desk, your pencil, the
 An object with more matter has more mass. A bowling ball has more mass than a tennis ball. A full suitcase has more mass than an empty one. A large dog has more mass than a small puppy.
 
 Mass tells us how much "stuff" is in something. That simple phrase is useful, but a good science student should go one step deeper: mass also tells us how strongly an object resists changes in motion.
-
-![Mass](004_Mass_01.png)
-
 
 ## Mass Is Not the Same as Size
 

@@ -1,5 +1,7 @@
 ﻿# Radiation
 
+![Radiation](033_Radiation_01.png)
+
 Imagine standing near a campfire on a cold evening. You feel warmth on your face even though you are not touching the fire. The air between you and the flames may be moving, but the warmth can reach you even across empty space.
 
 The heat is traveling as waves.
@@ -23,8 +25,6 @@ Radiation is different. It can travel through empty space.
 This is why the Sun can warm Earth even though space between the Sun and Earth is mostly empty. There is no giant metal rod conducting heat from the Sun to Earth, and there is no air current carrying heat across space.
 
 Energy travels from the Sun as electromagnetic radiation.
-
-![Radiation](033_Radiation_01.png)
 
 ## Electromagnetic Waves
 

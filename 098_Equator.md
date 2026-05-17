@@ -1,10 +1,10 @@
 ﻿# Equator
 
+![Equator](098_Equator_01.png)
+
 Cut Earth into a northern half and a southern half like an apple sliced evenly through its stem.
 
 The knife's cut is the **equator**.
-
-![Equator](098_Equator_01.png)
 
 ## What the Equator Is
 

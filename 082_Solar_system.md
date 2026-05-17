@@ -1,5 +1,7 @@
 ﻿# Solar System
 
+![Solar system](082_Solar_system_01.png)
+
 You are lying on the hood of a car after a late game, looking up. The sky looks calm — a few stars, maybe the Moon, and sometimes a steady point of light that does not twinkle the way stars do. That steady light might be Jupiter, millions of kilometers away, shining because sunlight bounced off it and traveled to your eyes.
 
 The sky looks frozen. It is not.
@@ -11,8 +13,6 @@ You are not standing on a still platform. You are riding a planet inside an enor
 **The solar system is the Sun and all the objects held by its gravity, including planets, dwarf planets, moons, asteroids, comets, meteoroids, dust, and spacecraft.**
 
 It is our neighborhood in space — the place where Earth lives.
-
-![Solar system](082_Solar_system_01.png)
 
 ## The Sun Runs the Neighborhood
 

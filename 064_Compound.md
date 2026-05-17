@@ -1,5 +1,7 @@
 ﻿# Compound
 
+![Compound](064_Compound_01.png)
+
 You crack open a soda and watch bubbles race upward. You sprinkle salt on fries after a game. You mix baking soda and vinegar for a fizzing volcano demo. You breathe out after a hard sprint and plants later use what you released.
 
 None of those moments look the same. But each one involves **compounds** — pure substances made when atoms of different elements join in a fixed ratio.
@@ -13,8 +15,6 @@ That is the power of compounds.
 Compounds make up water, sugar, salt, carbon dioxide, baking soda, chalk, rust, vinegar, many medicines, many plastics, and most of the substances in your body. Chemistry is largely the study of how elements form compounds and how compounds change.
 
 As you learned in the chapter on **atoms**, matter is built from tiny particles. As you learned in the chapter on **molecules**, atoms can bond into groups. As you learned in the chapter on **elements**, each element is one kind of atom. **Compounds** are what you get when different elements join chemically — new substances with new properties.
-
-![Compound](064_Compound_01.png)
 
 ## Elements Join Chemically
 

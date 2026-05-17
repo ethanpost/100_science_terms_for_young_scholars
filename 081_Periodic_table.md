@@ -1,5 +1,7 @@
 ﻿# Periodic Table
 
+![Periodic Table](081_Periodic_table_01.png)
+
 Walk into almost any science classroom and you will see a huge chart on the wall — a grid of boxes, symbols, and numbers that looks mysterious at first.
 
 Then you notice the connections. The silicon in a gaming PC sits in the same neighborhood as the carbon in pencil graphite and the oxygen you just breathed out after gym class. The iron in a bike frame, the copper in phone chargers, the sodium and chlorine that make table salt, and the helium in some party balloons all have addresses on that same chart.
@@ -11,8 +13,6 @@ The periodic table is not random wallpaper. It is one of the most useful maps in
 It does not map countries or roads. It maps the building blocks of matter.
 
 As you learned in the chapter on **elements**, an element is a pure substance made of only one kind of atom. As you learned in the chapter on **atoms**, every atom has a nucleus with protons and neutrons, plus electrons around it. The periodic table shows how those atoms sort into families — and how chemists predict what they will do.
-
-![Periodic Table](081_Periodic_table_01.png)
 
 ## A Messy Pile vs. a Smart Map
 

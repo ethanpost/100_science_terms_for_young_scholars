@@ -1,5 +1,7 @@
 ﻿# Element
 
+![Element](063_Element_01.png)
+
 You flip a gold coin. You breathe after a sprint. You tap the aluminum frame of a bike. You sharpen a pencil and leave a gray streak on paper. You smell smoke from a campfire.
 
 None of those moments look the same. But each one involves **elements** — pure kinds of matter built from one type of atom.
@@ -11,8 +13,6 @@ Gold looks like gold whether it is shaped into a coin, a ring, or a tiny flake. 
 Elements are the basic chemical building blocks of matter. Everything from stars to stones, oceans to oak trees, game controllers to your own body is made from elements joined or mixed in different ways.
 
 As you learned in the chapter on **atoms**, atoms are tiny building blocks. As you learned in the chapter on **molecules**, atoms can bond into larger groups. **Elements** are the "letters" of chemistry — the pure kinds of atoms that everything else is built from.
-
-![Element](063_Element_01.png)
 
 ## Elements and Atoms
 

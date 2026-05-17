@@ -1,5 +1,7 @@
 ﻿# Combustion
 
+![Combustion](076_Combustion_01.png)
+
 You strike a match to light a backyard grill. A dirt bike coughs and roars down the street. At a birthday party, wax drips down a candle while the flame dances steady. On your screen, a rocket climbs on a pillar of orange fire.
 
 Different scenes. Same chemistry underneath.
@@ -11,8 +13,6 @@ In every case, a **fuel** is reacting fast with **oxygen**, and energy pours out
 Combustion cooks food, warms homes, powers engines, launches rockets, and runs much of modern life. It also starts wildfires, fills rooms with smoke, and creates real danger when it is not controlled. Understanding combustion means understanding both power and risk.
 
 As you learned in the chapter on **oxygen**, oxygen does not burn by itself — but it **supports** combustion. As you learned in the chapters on **carbon** and **carbon dioxide**, many fuels are carbon-rich, and complete burning often produces **CO₂**. Combustion is a **chemical change**: atoms rearrange into new substances. The next chapter on **oxidation** will show that combustion is fast oxidation — chemistry you can often see and feel.
-
-![Combustion](076_Combustion_01.png)
 
 ## Fire Is a Chemical Reaction
 

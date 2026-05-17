@@ -1,5 +1,7 @@
 ﻿# Revolution of the Earth
 
+![Revolution of the Earth](089_Revolution_of_the_Earth_01.png)
+
 Last June you stayed outside until nine o'clock and still had light for one more throw. Last December the same clock said dinner time, but the sky was already purple and the field lights were buzzing on.
 
 Same backyard. Same you. Different sky.
@@ -13,8 +15,6 @@ While you slept through winter break, grinded a new game over summer, went to ca
 Revolution is quieter than sunrise and sunset. You cannot watch one full orbit in a single evening. But over weeks and months, its effects show up everywhere: changing seasons, longer or shorter days, different constellations at night, and the calendar on your phone.
 
 As you learned in the chapter on the **Sun**, our star sits at the center of the solar system and holds Earth in orbit with gravity. Revolution is how Earth keeps that yearly appointment.
-
-![Revolution of the Earth](089_Revolution_of_the_Earth_01.png)
 
 ## Revolution at a Glance
 

@@ -1,12 +1,12 @@
 ﻿# Oxygen
 
+![Oxygen](071_Oxygen_01.png)
+
 Take a deep breath. You cannot see the gas entering your lungs, but part of that air is oxygen. Your body needs it every minute. A candle flame needs it too. Rusting iron uses it slowly. Plants release it into the air.
 
 Oxygen is quiet, invisible, and absolutely important.
 
 **Oxygen is a chemical element, usually found as a gas, that is essential for respiration and supports combustion.**
-
-![Oxygen](071_Oxygen_01.png)
 
 Oxygen is one of the most important elements on Earth. It is in the air, water, rocks, rust, living things, and many compounds. It helps animals release energy from food, helps fires burn, and joins with many elements in chemical reactions.
 

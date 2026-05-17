@@ -1,5 +1,7 @@
 ﻿# Thermometer
 
+![Thermometer](029_Thermometer_01.png)
+
 Imagine waking up feeling hot, tired, and achy. Your forehead feels warm, but your hand cannot tell exactly how warm. Your mother places a thermometer under your tongue or near your forehead. A few seconds later, the number appears.
 
 Now you know more than "warm." You know a measured temperature.
@@ -37,8 +39,6 @@ Hands compare heat flow, not exact temperature.
 A thermometer is better because it responds in a predictable way and uses a scale.
 
 Science depends on measurements that can be repeated and compared.
-
-![Thermometer](029_Thermometer_01.png)
 
 ## Liquid Thermometers
 

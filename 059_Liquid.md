@@ -1,5 +1,7 @@
 ﻿# Liquid
 
+![Liquid](059_Liquid_01.png)
+
 You squeeze a sports bottle and water shoots into your mouth. Rain pools in a puddle after practice. Chain lube drips onto a bike gear. Sweat beads on your forehead and helps cool you down when it evaporates.
 
 None of those liquids keep the shape of the container they came from. Pour the same water into a tall cup, a wide bowl, or a narrow flask, and the shape changes each time.
@@ -13,8 +15,6 @@ That is one of the key ideas about liquids.
 Liquids are everywhere in the world you actually use. They include water, sports drinks, milk, juice, oil, vinegar, rain, blood, sap, gasoline, ink, liquid soap, brake fluid, and engine oil. Liquids flow through rivers, pipes, veins, engines, oceans, and kitchens. They cool your body, power machines, shape weather, and carry nutrients through living things.
 
 To understand liquids, you must look smaller — at how their particles behave.
-
-![Liquid](059_Liquid_01.png)
 
 ## Liquids Are Matter
 

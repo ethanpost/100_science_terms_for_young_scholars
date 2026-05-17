@@ -1,5 +1,7 @@
 ﻿# Stars
 
+![Stars](086_Stars_01.png)
+
 You are lying on a dock after everyone else has gone inside. No streetlights. No phone screen. Just black sky and thousands of sharp points of light.
 
 One star above the trees does not blink. Your cousin says it is a planet. You squint. It is steady, yes — but so are several real stars. The app on your phone finally settles the argument: **Arcturus**, an orange giant hundreds of times more luminous than the Sun, its light left that star about 37 years ago and only now reached your eyes.
@@ -11,8 +13,6 @@ That is the weird part about stars. They look like quiet pinpricks. They are not
 Stars light the night. They build the elements that make planets and people. They gather in galaxies. They live, change, and die on scales that make human history look like a blink. And one star is close enough that you feel its heat on your skin every day.
 
 That star is the Sun.
-
-![Stars](086_Stars_01.png)
 
 ## The Sun Is a Star
 

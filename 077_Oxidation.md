@@ -1,5 +1,7 @@
 ﻿# Oxidation
 
+![Oxidation](077_Oxidation_01.png)
+
 You leave your bike leaned against the shed after a rainy week. When you finally grab it for a ride, the chain feels gritty. Orange-brown flakes cling to the metal. In the garage, an old wrench on the workbench has the same reddish coating. That evening you light a campfire, and the wood blazes bright. You slice an apple for a snack, set half on the counter, and twenty minutes later the cut side has turned an ugly brown.
 
 Three different scenes. Three different speeds. One big idea connects them all.
@@ -7,8 +9,6 @@ Three different scenes. Three different speeds. One big idea connects them all.
 **Oxidation is a chemical process in which a substance loses electrons or combines with oxygen.**
 
 Oxidation explains rust on bikes and bridges, burning fuel in engines and campfires, tarnish on silver coins, brown apples in lunch bags, the energy your muscles use during a game, batteries in a flashlight, bleach in a laundry room, and corrosion on ships and stadium railings. Sometimes oxidation destroys things. Sometimes it powers them. Sometimes it is happening quietly inside your own cells right now.
-
-![Oxidation](077_Oxidation_01.png)
 
 ## Oxygen and Oxidation
 

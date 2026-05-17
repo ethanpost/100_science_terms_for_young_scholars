@@ -1,5 +1,7 @@
 ﻿# Chemical reaction
 
+![Chemical reaction](079_Chemical_reaction_01.png)
+
 You pour vinegar into a cup of baking soda. Foam shoots up the sides. Bubbles hiss and pop. Your lab partner yelps and steps back — then grins.
 
 Same afternoon, different scene: you leave a wet wrench on the workbench. A week later, reddish-brown flakes cling to the steel. In the evening you light a candle. Wax melts, the wick glows, and smoke drifts toward the ceiling. Saturday morning, bread dough rises in a warm bowl and bakes into something that smells completely different from flour and water.
@@ -11,8 +13,6 @@ Four ordinary moments. Four different speeds. One big idea ties them together.
 Chemical reactions cook food, digest meals, power batteries, burn fuels, form rust, clean stains, grow plants, make medicines, harden cement, and keep your body alive. **Chemistry** is the study of matter and the changes it undergoes — and chemical reactions are at the heart of that story.
 
 As you learned in the chapters on **atom**, **molecule**, **compound**, and **mixture**, matter is built from tiny pieces that can join and separate. As you learned in the chapters on **combustion** and **oxidation**, some reactions release energy fast; others creep along for days. This chapter is the map: what counts as a chemical reaction, how to tell it apart from a physical change, and how scientists describe reactions with equations and names.
-
-![Chemical reaction](079_Chemical_reaction_01.png)
 
 ## How to Read This Chapter
 

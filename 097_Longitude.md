@@ -1,5 +1,7 @@
 ﻿# Longitude
 
+![Longitude](097_Longitude_01.png)
+
 Your squad is dropping into a battle-royale map. The ping says **42° N, 87° W** — Chicago suburbs. You parachute in. Your cousin in London loads the **same latitude** (**51° N** vs **42° N** is close enough that they joke you are "on the same line") and thinks you are practically neighbors.
 
 You are not.
@@ -11,8 +13,6 @@ Latitude put you on the same north–south "rung" of the ladder. You are still t
 Ship captains, pilots, GPS satellites, rescue helicopters, weather satellites, and every online map you touch use longitude every day. Miss it by a few degrees at sea and you might miss an island — or run aground. Get it right and you can land on a runway in fog, find a lost hiker in the woods, or sync a global tournament so every team logs in at the same instant.
 
 As you learned in the chapter on **latitude**, north–south position comes from the equator. Longitude completes the picture.
-
-![Longitude](097_Longitude_01.png)
 
 ## The Question Longitude Answers
 

@@ -1,5 +1,7 @@
 ﻿# Climate
 
+![Climate](101_Climate_01.png)
+
 Your travel team flies to a regional tournament in a city you have never visited. The coach texts: *Pack light — it is summer.* You show up in shorts. Day one is brutal: humid, 95°F, practice feels like running through a wet towel.
 
 Day two a cold front rolls in. Wind. Rain. Everyone is shivering in the locker room. That is **weather** — the atmosphere doing whatever it wants this week.
@@ -11,8 +13,6 @@ If you had asked, *What is this place usually like across the whole year?* — w
 Scientists usually describe climate using **averages and records over decades**, not one afternoon at the park.
 
 You already met **weather** in the last chapter: sun, wind, rain, and storms changing hour by hour and day by day. Climate is the bigger picture — what a place is **built for** over many years.
-
-![Climate](101_Climate_01.png)
 
 ## Climate at a Glance
 

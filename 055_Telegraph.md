@@ -1,5 +1,7 @@
 ﻿# Telegraph
 
+![Telegraph](055_Telegraph_01.png)
+
 Imagine needing to send urgent news from New York to Chicago in the year 1830. There are no telephones, no radios, no text messages, and no internet. A letter must travel by horse, coach, boat, or train. Important news may take days or weeks to arrive.
 
 Then imagine a wire stretched across the land. A person taps a key in one city, and a clicking machine in another city responds almost instantly.
@@ -43,8 +45,6 @@ When the operator releases the key, the circuit opens. The current stops.
 This simple on-off action can carry information.
 
 The genius of the telegraph is that a message can be built from nothing more than current on and current off.
-
-![Telegraph](055_Telegraph_01.png)
 
 ## The Telegraph Key
 

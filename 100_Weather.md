@@ -1,5 +1,7 @@
 ﻿# Weather
 
+![Weather](100_Weather_01.png)
+
 Saturday morning you check your phone. The forecast says clear until noon — perfect for a pickup game at the park. By 1:30 the sky has turned steel gray. Wind rips napkins off the picnic table. Your friend texts: *Game off. Lightning.*
 
 Two hours earlier the same air felt calm and warm.
@@ -13,8 +15,6 @@ Weather is what you feel on your skin during cross-country practice. It is what 
 Weather can flip quickly. A sunny morning can become a stormy afternoon. A dry week can end in a downpour. That is normal. The atmosphere is always in motion.
 
 You already know the **Sun** heats Earth, that **rotation** gives you day and night, and that **revolution** carries you around the Sun once a year. You know **seasons** change how strongly sunlight hits your hemisphere. You know water exists as **liquid** and **gas** in the world around you. This chapter ties those ideas together: **weather is what the moving air and water above you are doing right now.**
-
-![Weather](100_Weather_01.png)
 
 ## Weather at a Glance
 

@@ -1,5 +1,7 @@
 ﻿# Conservation of Matter
 
+![Conservation of Matter](080_Conservation_of_matter_01.png)
+
 Picture a late-night campfire. You feed in sticks and watch the flames climb. By morning the wood is mostly gone. Only ash and a few charred chunks remain.
 
 A friend shrugs. "The fire ate it. Nothing left."
@@ -13,8 +15,6 @@ Where did the wood go? What did it become? Did the matter vanish — or did it c
 Matter can change shape, state, or identity. It can melt, freeze, dissolve, burn, rust, bubble, or react. But in ordinary changes, the atoms are still there. They may be rearranged, spread out, or carried away as invisible gases — but they have not simply disappeared.
 
 That idea changes how you read the world. A shrinking candle, a fizzing soda, rust on a bike chain, steam from a pot, and even the food you eat all follow the same rule: **matter changes form, place, or arrangement; it does not vanish.**
-
-![Conservation of Matter](080_Conservation_of_matter_01.png)
 
 ## Matter Means Stuff
 

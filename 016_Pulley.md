@@ -1,5 +1,7 @@
 ﻿# Pulley
 
+![Pulleys](016_Pulley_01.png)
+
 Imagine that you and a friend are trying to lift a heavy bucket from the bottom of a deep well. If you simply grab the rope and pull straight up, your arms must do all the lifting. But if the rope runs over a wheel at the top of the well, the job suddenly feels more natural. You can pull down on the rope while the bucket rises up.
 
 The bucket did not become lighter. The pulley changed how the force was used.
@@ -140,8 +142,6 @@ On a sailboat, pulleys let sailors pull ropes from useful positions rather than 
 In a theater, pulleys let stagehands raise curtains, lights, and scenery from safe places.
 
 Changing direction may not sound as impressive as lifting a huge load, but it often makes a job possible, safe, and controlled.
-
-![Pulleys](016_Pulley_01.png)
 
 ## Pulleys in Elevators and Cranes
 

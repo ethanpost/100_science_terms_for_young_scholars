@@ -1,5 +1,7 @@
 ﻿# Tides
 
+![Tides](093_Tides_01.png)
+
 You show up at the beach at 7 a.m. with a skimboard. The water is almost at the dunes — perfect for a long run and a fast slide. You come back at 4 p.m. and the same stretch of sand is a football field wide. The waves break far from where you stood this morning.
 
 Same beach. Same ocean. Different water level.
@@ -13,8 +15,6 @@ Tides are one of the clearest signs that Earth is not an isolated rock floating 
 Once you understand tides, you can explain why a kayak launch might be easy at noon and muddy at sunset — and why a storm hitting at the wrong hour can turn a normal high tide into serious flooding.
 
 If you have read the chapters on the **Moon**, **rotation of the Earth**, and **day and night**, you already have half the puzzle. The Moon orbits Earth. Earth spins. Sunlight and gravity both reach across space. Tides are where those ideas meet the water at your feet.
-
-![Tides](093_Tides_01.png)
 
 ## What a Tide Really Is
 

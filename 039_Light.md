@@ -1,5 +1,7 @@
 ﻿# Light
 
+![Light](039_Light_01.png)
+
 Imagine walking into a dark room and switching on a lamp. Suddenly the desk, books, chair, and doorway appear. The objects were already there, but now light from the lamp travels to them, bounces off, and enters your eyes.
 
 Light lets you see.
@@ -21,8 +23,6 @@ Light can travel through empty space. That is why sunlight can travel from the S
 Light is part of the larger family of electromagnetic radiation, which also includes radio waves, microwaves, infrared radiation, ultraviolet radiation, X-rays, and gamma rays.
 
 Visible light is the small part of that family that human eyes can see.
-
-![Light](039_Light_01.png)
 
 ## The Electromagnetic Spectrum
 

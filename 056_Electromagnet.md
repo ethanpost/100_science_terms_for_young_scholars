@@ -1,5 +1,7 @@
 ﻿# Electromagnet
 
+![Electromagnet](056_Electromagnet_01.png)
+
 Pick up a small nail. By itself, it may not attract paper clips. Now wrap insulated wire around it, connect the wire to a battery for a short time, and something surprising happens. The nail can become magnetic.
 
 Disconnect the battery, and the magnetism mostly disappears.
@@ -41,8 +43,6 @@ When the current stops, the nail loses most of its magnetism.
 This is the special power of an electromagnet:
 
 **It can be turned on and off.**
-
-![Electromagnet](056_Electromagnet_01.png)
 
 ## Coils
 

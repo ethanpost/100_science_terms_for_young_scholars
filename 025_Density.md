@@ -1,5 +1,7 @@
 ﻿# Density
 
+![Density](025_Density_01.png)
+
 Imagine holding a baseball in one hand and a ball of foam the same size in the other. They take up about the same amount of space, but the baseball feels much heavier.
 
 The difference is not volume. It is how much matter is packed into that volume.
@@ -44,8 +46,6 @@ If an object has a lot of mass packed into a small volume, it has high density.
 If an object has little mass spread through a large volume, it has low density.
 
 This is why a small rock may feel heavier than a much larger sponge.
-
-![Density](025_Density_01.png)
 
 ## Units of Density
 

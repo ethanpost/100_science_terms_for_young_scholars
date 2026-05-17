@@ -1,5 +1,7 @@
 ﻿# Melting
 
+![Melting](037_Melting_01.png)
+
 Imagine holding an ice cube in your hand. At first it is hard and slippery. Soon your fingers feel cold, drops of water appear, and the sharp corners soften. The ice is changing into liquid water.
 
 Your hand is giving thermal energy to the ice.
@@ -23,8 +25,6 @@ In a liquid, particles are still close together, but they can move around one an
 When a solid melts, its particles gain enough energy to break out of their fixed arrangement and move more freely.
 
 The substance becomes liquid.
-
-![Melting](037_Melting_01.png)
 
 ## Adding Thermal Energy
 

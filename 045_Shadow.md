@@ -1,5 +1,7 @@
 ﻿# Shadow
 
+![Shadow](045_Shadow_01.png)
+
 Imagine walking outside on a sunny afternoon. Beside you on the ground is a dark shape that moves when you move. Raise your arm, and the dark shape raises its arm too. Your shadow is not a thing you can pick up. It is a place where your body has blocked sunlight.
 
 That is the secret of every shadow.
@@ -21,8 +23,6 @@ When light from a source travels toward an object, the object may block some of 
 That darker region is the shadow.
 
 If light did not travel mostly in straight lines, shadows would not have clear shapes.
-
-![Shadow](045_Shadow_01.png)
 
 ## Blocking Light
 

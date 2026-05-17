@@ -1,5 +1,7 @@
 ﻿# Acid
 
+![Acid](068_Acid_01.png)
+
 You bite into a lemon after a game and your whole face scrunches. You pour vinegar on baking soda and foam shoots up the bowl. You crack open a cold soda and taste that sharp tang. You hear a coach warn swimmers not to get pool chemicals in their eyes.
 
 Different moments — same chemistry idea.
@@ -9,8 +11,6 @@ Different moments — same chemistry idea.
 Acids can be mild and familiar, or strong and dangerous. They help explain sour taste, digestion, cleaning, rust, rocks, batteries, pollution, medicine, and countless chemical reactions. Understanding acids is one of the keys to real chemistry.
 
 As you learned in the chapter on **solutions**, many acids are studied dissolved in water. As you learned in the chapter on **compounds**, most acids are pure substances made of two or more elements joined in fixed ratios.
-
-![Acid](068_Acid_01.png)
 
 ## Acids in Water
 

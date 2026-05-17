@@ -1,5 +1,7 @@
 ﻿# Power
 
+![Power](013_Power_01.png)
+
 Imagine two boys are carrying identical boxes of sports equipment up the same staircase.
 
 One boy walks slowly and carefully. Step by step, he reaches the top in one minute. The other boy bounds up the stairs in fifteen seconds, sets down his box, and grins as if he has just won a race.
@@ -27,8 +29,6 @@ Power connects these ideas to time.
 If work tells how much energy was transferred, power tells how quickly that transfer happened.
 
 A slow elevator and a fast elevator may lift the same passenger to the same floor. If the passenger's weight and height lifted are the same, the work is the same. But the fast elevator has greater power because it does the work in less time.
-
-![Power](013_Power_01.png)
 
 ## The Formula for Power
 

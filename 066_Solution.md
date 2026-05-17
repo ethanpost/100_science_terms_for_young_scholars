@@ -1,5 +1,7 @@
 ﻿# Solution
 
+![Solution](066_Solution_01.png)
+
 You shake a sports drink before a game and the powder vanishes into the liquid. You watch pool chlorine dissolve in a bucket of water. You crack open a cold soda and bubbles rush out. You swim in the ocean and taste salt on your lips even though the water looks clear.
 
 None of those moments look the same. But each one involves a **solution** — a homogeneous mixture in which one substance is evenly dissolved in another.
@@ -13,8 +15,6 @@ That is the power of a solution.
 Solutions are everywhere: salt water, sugar water, vinegar, lemonade, air, brass, soda, medicine, ocean water, and many fluids in your body. Understanding solutions helps explain cooking, oceans, plants, blood, cleaning, medicine, pollution, and chemistry.
 
 As you learned in the chapter on **mixtures**, matter can combine physically without forming a new compound. A solution is a special kind of mixture — the kind where dissolved particles are spread so evenly that the mixture looks uniform throughout.
-
-![Solution](066_Solution_01.png)
 
 ## A Solution Is a Mixture
 

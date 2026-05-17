@@ -1,5 +1,7 @@
 ﻿# Refraction
 
+![Refraction](041_Refraction_01.png)
+
 Imagine placing a pencil in a clear glass of water. From the side, the pencil seems to bend or break at the water's surface. You know the pencil is still straight, but your eyes tell you something strange is happening.
 
 The pencil has not bent. The light from the pencil has bent.
@@ -23,8 +25,6 @@ When light passes from one material into another, its speed changes.
 If light enters the new material at an angle, this change in speed can make the light change direction.
 
 That change in direction is refraction.
-
-![Refraction](041_Refraction_01.png)
 
 ## The Normal Line
 

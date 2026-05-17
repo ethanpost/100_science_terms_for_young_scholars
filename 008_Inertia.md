@@ -1,5 +1,7 @@
 ﻿# Inertia
 
+![Newton's First Law of Motion](008_Inertia_01.png)
+
 Imagine you are riding in a car with your seat belt fastened. The car is moving smoothly down the road. Suddenly, the driver brakes. Your body seems to lurch forward. Then, when the car starts again, you feel pressed backward into the seat.
 
 Nothing strange has happened. You have just felt inertia.
@@ -41,8 +43,6 @@ Think of an empty wagon and a wagon loaded with bricks. The empty wagon is easy 
 The same idea appears in sports. A tennis ball is easy to throw and easy to stop. A bowling ball is much harder to throw and much harder to stop because it has more mass.
 
 More mass means more resistance to changes in motion.
-
-![Newton's First Law of Motion](008_Inertia_01.png)
 
 ## Inertia at Rest
 

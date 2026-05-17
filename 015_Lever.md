@@ -1,5 +1,7 @@
 ﻿# Lever
 
+![Lever](015_Lever_01.png)
+
 Imagine that a large rock is sitting beside a trail. You try to lift it with your hands, but it will not budge. Then someone slides a strong stick under one edge of the rock and places a smaller stone under the stick as a support. He pushes down on the far end of the stick. Slowly, the heavy rock rises.
 
 The stick did not make the rock lighter. It changed how the force was applied.
@@ -29,8 +31,6 @@ The **load** is the object or resistance the lever is trying to move.
 Picture a seesaw. The support in the middle is the fulcrum. A boy pushing down on one end provides the effort. The other boy being lifted is the load.
 
 Once you know these three parts, you can understand almost any lever.
-
-![Lever](015_Lever_01.png)
 
 ## Levers and Work
 

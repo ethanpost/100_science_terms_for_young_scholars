@@ -1,5 +1,7 @@
 ﻿# Force
 
+![A force is a push or a pull](005_Force_04.png)
+
 Imagine a soccer ball resting on the grass. It will not suddenly leap into the goal by itself. But if you kick it, the ball shoots forward. If the goalkeeper catches it, the ball stops. If another player bumps it from the side, its path changes.
 
 Each of those moments involves a force.
@@ -154,7 +156,7 @@ Newton's third law says that forces come in pairs. When one object pushes on ano
 
 You will study these laws more deeply later, but the beginning idea is simple: forces explain changes in motion.
 
-![Force_01](005_Force_01.png)
+![Newton and the laws of motion](005_Force_01.png)
 
 ## Why Force Matters
 

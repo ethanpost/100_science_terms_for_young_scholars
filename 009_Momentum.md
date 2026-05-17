@@ -1,5 +1,7 @@
 ﻿# Momentum
 
+![Inertia vs Momentum](009_Momentum_01.png)
+
 Imagine a tennis ball rolling slowly across the floor. You can stop it with one finger. Now imagine a bowling ball rolling at the same speed. You would not want to stop that with one finger. The two balls may be moving equally fast, but the bowling ball has much more mass, so it is much harder to stop.
 
 Now imagine the tennis ball moving very fast, perhaps fired from a tennis ball machine. It is still not as massive as the bowling ball, but its speed now makes it harder to stop than before.
@@ -44,8 +46,6 @@ If two objects move with the same velocity, the object with more mass has more m
 This is why large moving objects deserve respect. A slow-moving ship can be very difficult to stop because it has enormous mass. A train moving through a station cannot stop instantly, even if the engineer applies the brakes, because the train's mass gives it great momentum.
 
 Mass does not have to be enormous to matter. A full backpack swinging from your shoulder has more momentum than an empty backpack swinging at the same speed.
-
-![Inertia vs Momentum](009_Momentum_01.png)
 
 ## Velocity and Momentum
 

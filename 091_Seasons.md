@@ -1,5 +1,7 @@
 ﻿# Seasons
 
+![Seasons](091_Seasons_01.png)
+
 In October you zip a hoodie over your jersey and jog through leaves that crunch under your cleats. In July you are dripping sweat at the pool after a pickup game, searching for shade. In February you scrape frost off the windshield before dawn practice — same field, same bus stop, completely different sky.
 
 Same planet. Same Sun. Completely different feel outside.
@@ -13,8 +15,6 @@ They are not random moods of the sky. They are patterns — temperature, storms,
 Once you understand why seasons happen, you can explain why evening practice in June still has light while the same time in December feels dark early — and why a cousin in Australia might be wearing a swimsuit on Christmas while you are in a coat.
 
 You already know Earth's **rotation** gives you day and night (chapter on **rotation of the Earth**) and Earth's **revolution** carries you around the Sun once a year (chapter on **revolution of the Earth**). This chapter connects those motions to the **year's rhythm** — the tilted axis that makes summer hot, winter cold, and your sports schedule feel like a different planet.
-
-![Seasons](091_Seasons_01.png)
 
 ## Seasons at a Glance
 

@@ -1,5 +1,7 @@
 ﻿# Eclipse
 
+![Eclipse](092_Eclipse_01.png)
+
 You are outside at recess when someone shouts, "Look up!" The Sun looks wrong — like something took a curved bite out of it. The air cools. Shadows on the pavement sharpen into thin crescents, as if a thousand tiny moons are hiding in the tree leaves. A teacher hands out stiff cardboard glasses with dark film and says, "Do not stare without these — not even for a second."
 
 Or maybe it is a clear night after a late game. The full Moon rises over the bleachers, bright as a stadium light. An hour later it is dimmer. Then copper-red, hanging in the sky like a coin dipped in rust. Your team stops arguing about the score and just watches.
@@ -13,8 +15,6 @@ Once you know which object is in the middle and which shadow falls where, eclips
 **An eclipse is an event where one astronomical body moves into another's shadow, or passes in front of another from a viewer's perspective, changing how light reaches us.**
 
 On Earth, the two eclipses you notice most are **solar eclipses** and **lunar eclipses**. The names sound alike. The setups are completely different — and mixing them up is like confusing rotation with revolution. Fix that one mistake and the whole topic clicks.
-
-![Eclipse](092_Eclipse_01.png)
 
 ## Two Shadow Stories — Do Not Mix Them Up
 

@@ -1,5 +1,7 @@
 ﻿# Battery
 
+![Battery](053_Battery_01.png)
+
 Pick up a flashlight, a game controller, a phone, or a remote-control car. Each one can work without being plugged into the wall because it carries a small store of energy inside it.
 
 That store of energy is usually a battery.
@@ -36,8 +38,6 @@ On many batteries, the positive terminal is marked with a plus sign: **+**.
 The negative terminal is marked with a minus sign: **-**.
 
 For a battery to power a device, both terminals must usually be connected into a circuit. If only one terminal is connected, there is no complete path for current.
-
-![Battery](053_Battery_01.png)
 
 ## Electric Potential Difference
 

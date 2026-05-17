@@ -1,5 +1,7 @@
 ﻿# Lens
 
+![Lenses](042_Lens_01.png)
+
 Imagine holding a magnifying glass over a small ant on the sidewalk. The ant suddenly appears larger, sharper, and easier to study. The glass has not changed the ant. It has changed the path of the light coming from the ant.
 
 That shaped piece of glass is a lens.
@@ -21,8 +23,6 @@ Light changes speed when it moves from air into glass or plastic. If the surface
 A lens is not magic. It is controlled refraction.
 
 By shaping transparent material carefully, people can make light rays come together, spread apart, or form images.
-
-![Lenses](042_Lens_01.png)
 
 ## The Shape of a Lens
 

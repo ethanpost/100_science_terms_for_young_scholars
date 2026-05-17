@@ -1,5 +1,7 @@
 ﻿# Energy
 
+![Energy](012_Energy_01.png)
+
 Imagine you are standing at the top of a hill with a sled. The snow is smooth. Your boots crunch at the edge. For one quiet second, nothing seems to be happening.
 
 Then you push off.
@@ -15,8 +17,6 @@ You might say, "Gravity pulled it." That is true. You might say, "The hill made 
 At the top of the hill, the sled and rider had stored energy because they were high above the ground. As they slid downward, that stored energy became motion energy. Some energy also became heat because of friction between the sled and the snow.
 
 Energy is one of the grand ideas in science. It helps explain a falling apple, a running boy, a glowing lamp, a roaring fire, a flying baseball, a winding clock, and the Sun itself.
-
-![Energy](012_Energy_01.png)
 
 ## What Is Energy?
 

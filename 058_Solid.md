@@ -1,5 +1,7 @@
 ﻿# Solid
 
+![Solid](058_Solid_01.png)
+
 You grip a skateboard deck, toss a baseball, tap a phone screen, and bite into an ice cube from a drink. None of them pour through your fingers. None of them spread out to fill a room like air. Each one keeps its own shape and size under ordinary conditions.
 
 These objects are solids.
@@ -9,8 +11,6 @@ These objects are solids.
 Solids are everywhere in the world you actually use. They make up bike frames, cleats, game controllers, fishing lures, tent stakes, drumsticks, wrench handles, skateboard wheels, and the rocks you skip across a pond. They can be hard as diamond, soft as wax, brittle as glass, elastic as a rubber band, strong as steel, or crumbly as dry clay.
 
 To understand solids, you must look smaller — at their particles.
-
-![Solid](058_Solid_01.png)
 
 ## Solids Are Matter
 

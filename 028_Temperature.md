@@ -1,5 +1,7 @@
 ﻿# Temperature
 
+![Temperature](028_Temperature_01.png)
+
 Imagine touching a metal railing and a wooden fence on the same cold morning. The metal may feel much colder than the wood, even though both have been outside in the same air for hours.
 
 Your hand is not a perfect thermometer.
@@ -39,8 +41,6 @@ A thermometer measures temperature. It does not directly measure heat.
 For example, a cup of boiling water has a higher temperature than a bathtub of warm water. But the bathtub may contain more total thermal energy because it has much more water.
 
 Temperature is about average particle energy. Thermal energy also depends on how much matter there is.
-
-![Temperature](028_Temperature_01.png)
 
 ## Thermal Equilibrium
 

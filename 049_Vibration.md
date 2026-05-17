@@ -1,5 +1,7 @@
 ﻿# Vibration
 
+![Vibration](049_Vibration_01.png)
+
 Put your fingers gently on your throat and hum. You can feel something buzzing. Touch the side of a speaker while music is playing softly. You may feel it shaking. Pluck a rubber band, strike a tuning fork, or watch a guitar string after it is picked. In each case, something moves back and forth.
 
 That back-and-forth motion is vibration.
@@ -25,8 +27,6 @@ The resting position is often called the **equilibrium position**.
 **Equilibrium** means a balanced or resting condition.
 
 During vibration, the object keeps moving around that equilibrium position.
-
-![Vibration](049_Vibration_01.png)
 
 ## Oscillation
 

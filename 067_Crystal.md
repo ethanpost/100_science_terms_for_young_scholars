@@ -1,5 +1,7 @@
 ﻿# Crystal
 
+![Crystal](067_Crystal_01.png)
+
 You pour salt on fries and the grains look like plain white dust. You hang a string in hot sugar water and watch rock candy slowly grow. You catch a snowflake on your glove and see six arms before it melts. You tap the screen on a phone or game controller and never think about the tiny crystal inside that helps it keep time.
 
 None of those moments look the same. But each one involves the same hidden idea.
@@ -11,8 +13,6 @@ That hidden order is the power of a crystal. It can produce cube-shaped salt gra
 Crystals are everywhere: salt, sugar, snowflakes, quartz, diamonds, metals, minerals, rocks, computer chips, medicines, and even some parts of living things. They show that the tiny world of atoms, ions, and molecules can create visible order you can actually see — if you know what to look for.
 
 As you learned in the chapter on **solids**, a solid has definite shape and volume. As you learned in the chapter on **solutions**, dissolved particles can leave a liquid and come back together as solids during **crystallization**. This chapter zooms in on the solids whose particles line up in repeating patterns.
-
-![Crystal](067_Crystal_01.png)
 
 ## Crystals Are Solids
 

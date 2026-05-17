@@ -1,5 +1,7 @@
 ﻿# Wheel And Axle
 
+![Wheel And Axle](017_Wheel_And_Axle_01.png)
+
 Imagine trying to drag a heavy wooden box across a rough floor. It scrapes, catches, and fights you every inch of the way. Now imagine placing that box on a cart with wheels. Suddenly the same load rolls forward with far less effort.
 
 The box did not become lighter. The wheels changed the way the load moved against the ground.
@@ -36,8 +38,6 @@ In science, **work** is done when a force moves an object through a distance in 
 A wheel and axle can make work easier, but it does not make work disappear. Like all simple machines, it uses a tradeoff.
 
 Sometimes the wheel and axle lets you use less force by applying that force over a greater distance. Sometimes it makes something move faster by requiring more force. Sometimes it reduces friction so less energy is wasted dragging or sliding.
-
-![Wheel And Axle](017_Wheel_And_Axle_01.png)
 
 The main idea is simple:
 

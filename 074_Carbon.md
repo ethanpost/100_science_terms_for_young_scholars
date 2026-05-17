@@ -1,5 +1,7 @@
 ﻿# Carbon
 
+![Carbon](074_Carbon_01.png)
+
 You sharpen a pencil and leave a gray-black streak on paper. That streak is mostly **graphite** — a form of carbon, not metal lead.
 
 Hold a diamond up to light and it throws back sharp sparkles. Diamond is also carbon. Same element, wildly different look and feel.
@@ -15,8 +17,6 @@ Carbon is everywhere, yet easy to overlook because it hides inside molecules ins
 Carbon forms the backbone of living molecules, fuels, plastics, medicines, foods, and countless materials. It can be soft graphite, hard diamond, invisible carbon dioxide, or part of the DNA inside your cells.
 
 As you learned in the chapter on **elements**, an element is a pure substance made of only one kind of atom. As you learned in the chapter on **atoms**, every atom has a nucleus of protons and neutrons with electrons around it. As you learned in the chapter on **molecules**, atoms can bond into larger groups. Carbon is element number 6 — and one of the greatest "builders" in all of chemistry.
-
-![Carbon](074_Carbon_01.png)
 
 ## Carbon Is an Element
 

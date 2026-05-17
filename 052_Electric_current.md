@@ -1,5 +1,7 @@
 ﻿# Electric current
 
+![Electric Current](052_Electric_current_01.png)
+
 Flip a switch, and a lamp lights the room. Press a button, and a game controller wakes up. Plug in a fan, and its blades begin to spin. Inside each of these ordinary moments, something invisible is moving through wires.
 
 That moving something is electric charge.
@@ -38,8 +40,6 @@ A charged balloon sticking to a wall is an example of static electricity. A flas
 Static electricity is built-up charge.
 
 Electric current is moving charge.
-
-![Electric Current](052_Electric_current_01.png)
 
 ## Current Needs a Path
 

@@ -1,5 +1,7 @@
 ﻿# Friction
 
+![Friction_01](010_Friction_01.png)
+
 Imagine trying to run across a polished ice rink in regular shoes. Your feet slip, your arms fly out, and every step feels uncertain. Now imagine running across a dry sidewalk. Your shoes grip the ground, and you can push yourself forward.
 
 The difference is friction.
@@ -67,8 +69,6 @@ Air resistance is fluid friction from air. It slows a falling leaf, pushes again
 Water resistance is fluid friction from water. A swimmer feels water pushing against his body. A boat must push through water, and the water resists its motion.
 
 Fluid friction depends on the object's shape, speed, and the fluid itself. A streamlined shape moves more easily through air or water. This is why airplanes, racing bicycles, fish, and many boats have smooth shapes that help reduce resistance.
-
-![Friction_01](010_Friction_01.png)
 
 ## Friction Can Help
 

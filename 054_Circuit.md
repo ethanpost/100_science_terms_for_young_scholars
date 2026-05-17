@@ -1,5 +1,7 @@
 ﻿# Circuit
 
+![Circuit](054_Circuit_01.png)
+
 Imagine a toy train track with one missing piece. The engine may be ready, the cars may be lined up, and the power may be on, but the train cannot make a complete trip around the track.
 
 An electric circuit works in a similar way.
@@ -37,8 +39,6 @@ It needs a **load**, which is a device that uses electrical energy.
 It may also have a **switch** to control the circuit.
 
 For example, a simple flashlight circuit includes batteries, metal conductors, a switch, and a bulb or LED. When the switch closes the path, current flows and the light turns on.
-
-![Circuit](054_Circuit_01.png)
 
 ## The Source
 

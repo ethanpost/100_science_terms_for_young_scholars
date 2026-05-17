@@ -1,5 +1,7 @@
 ﻿# Pressure
 
+![Pressure](023_Pressure_01.png)
+
 Imagine stepping onto soft snow in ordinary boots. Your feet may sink deeply. Now imagine wearing snowshoes. You are the same boy, with the same weight, standing on the same snow, but you do not sink nearly as much.
 
 Your weight did not change. The area over which your weight was spread changed.
@@ -25,8 +27,6 @@ The same force can create high pressure if it is concentrated on a small area. T
 This is why a nail point can enter wood but the flat head of the nail does not. The hammer force is carried through the nail to a tiny point, producing high pressure at the tip.
 
 This is also why lying on a bed of many nails can be safer than stepping on one nail. Many nails spread the force over many points. One nail concentrates the force on a tiny area.
-
-![Pressure](023_Pressure_01.png)
 
 ## The Pressure Formula
 

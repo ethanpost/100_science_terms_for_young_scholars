@@ -1,5 +1,7 @@
 ﻿# Simple Machines
 
+![Simple Machines](014_Simple_Machines_01.png)
+
 Imagine that a heavy wooden crate is sitting on the floor of a workshop. You try to lift it straight up, but it barely moves. Then an older student slides a long board onto a low platform, turning the board into a ramp. Together you push the crate up the ramp. It still takes effort, but now the job feels possible.
 
 The ramp did not make the crate lighter. It did not create energy from nowhere. It changed how the work was done.
@@ -11,8 +13,6 @@ That is the power of a simple machine.
 Simple machines are among the oldest and most useful inventions in human history. Long before engines, electricity, computers, or robots, people used levers, ramps, wedges, wheels, pulleys, and screws to move stones, build houses, cut wood, carry water, raise sails, and shape tools.
 
 Simple machines are still everywhere. You use them when you ride a bicycle, open a door, sharpen a pencil, climb stairs, zip a jacket, cut paper, turn a faucet, or raise a flag.
-
-![Simple Machines](014_Simple_Machines_01.png)
 
 ## Work Comes First
 

@@ -1,5 +1,7 @@
 ﻿# Screw
 
+![Screw](019_Screw_01.png)
+
 Imagine trying to fasten two boards together by pushing a smooth metal peg straight into the wood. Unless the wood is very soft, the peg will not go far. Now take a screw, place its point on the wood, and turn it with a screwdriver. With each turn, the screw pulls itself deeper and deeper.
 
 The screw did not remove the hardness of the wood. It changed a turning force into a forward force.
@@ -45,8 +47,6 @@ Each turn moves the screw a small distance forward.
 This is why screws are powerful. A long twisting motion around the outside becomes a short forward motion into the material. The screw trades distance for force.
 
 The screwdriver handle travels in a large circle, but the screw moves forward only a little with each turn. That small forward motion can create a large force.
-
-![Screw](019_Screw_01.png)
 
 ## Screws and Work
 

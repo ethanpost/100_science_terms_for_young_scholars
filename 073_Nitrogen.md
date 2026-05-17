@@ -1,5 +1,7 @@
 ﻿# Nitrogen
 
+![Nitrogen](073_Nitrogen_01.png)
+
 You sprint the last stretch of a mile and bend over, gasping. Your chest burns for oxygen — but most of what you just pulled into your lungs was not oxygen at all. About four out of every five breaths were **nitrogen gas**, going in and coming back out almost unchanged.
 
 Crack open a bag of chips. It feels puffy, almost like a tiny pillow. That is not an accident. Food companies often flush bags with nitrogen gas because it is fairly unreactive and helps keep chips from going stale or getting crushed.
@@ -13,8 +15,6 @@ Then a summer thunderstorm rolls in. Lightning flashes. Thunder cracks. In that 
 Nitrogen is quiet in the atmosphere but powerful in living things, soil, industry, and chemistry. It is one of the key elements of life — and one of the trickiest for organisms to use.
 
 As you learned in the chapter on **elements**, an element is a pure substance made of only one kind of atom. As you learned in the chapter on **molecules**, atoms can bond into larger groups. Nitrogen is element number 7 on the periodic table, and in air it usually travels as **N2** — two nitrogen atoms locked together in an extremely strong bond.
-
-![Nitrogen](073_Nitrogen_01.png)
 
 ## Nitrogen Is an Element
 

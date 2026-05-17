@@ -1,5 +1,7 @@
 ﻿# Pitch
 
+![Pitch](048_Pitch_01.png)
+
 Imagine hearing a tiny bird chirp from a tree and then hearing a large dog bark nearby. The bird's sound seems high. The dog's sound seems low. Both are sounds traveling through air, but your ear and brain can tell they are different.
 
 That highness or lowness is pitch.
@@ -23,8 +25,6 @@ A sound with a high frequency usually has a high pitch.
 A sound with a low frequency usually has a low pitch.
 
 If a string vibrates 440 times per second, it produces a sound with a frequency of 440 Hz.
-
-![Pitch](048_Pitch_01.png)
 
 ## High Pitch and Low Pitch
 

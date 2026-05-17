@@ -1,5 +1,7 @@
 ﻿# Matter
 
+![Matter](057_Matter_01.png)
+
 You pump air into a bicycle tire until it feels firm. You bite into a slice of pizza. You watch steam rise from a bowl of soup. You toss a baseball across the yard. You breathe in and out without thinking about it.
 
 Every one of those moments involves the same basic idea.
@@ -9,8 +11,6 @@ Every one of those moments involves the same basic idea.
 Matter is the stuff of the physical world. Your desk, shoes, water bottle, lunch, and even the air in your lungs are matter. Some matter is hard, like a rock. Some flows, like water. Some spreads out invisibly, like air. Some is living, like muscle. Some is not living, like glass.
 
 If you want to understand chemistry, cooking, weather, machines, medicine, and living things, you must first understand matter.
-
-![Matter](057_Matter_01.png)
 
 ## Mass and Space
 

@@ -1,5 +1,7 @@
 ﻿# Day and Night
 
+![Day and Night](090_Day_and_night_01.png)
+
 You are up at 5:47 a.m. for an away game. The bus windows are black. Then a thin orange line cracks open along the horizon. By the time you reach the field, the sky is blue, the grass is bright, and your water bottle throws a short shadow straight down.
 
 Twelve hours later you are on the same bus heading home. The Sun is a red coin sinking behind the trees. Streetlights click on. Through the window you can barely see the field you played on — just a dark rectangle and a few glowing windows in the distance.
@@ -11,8 +13,6 @@ Your side of Earth turned away from it.
 **Day and night happen because Earth rotates, turning different parts of the planet toward and away from the Sun.**
 
 That daily switch from light to dark is one of the simplest things to notice and one of the most important things to understand in astronomy. You already know *that* Earth spins from the chapter on **rotation of the Earth**. This chapter is about what that spin *feels* like: blue skies, long shadows, stars at night, time zones on your phone, and why summer evenings stay light longer than winter ones.
-
-![Day and Night](090_Day_and_night_01.png)
 
 ## The Sun Lights Half of Earth
 

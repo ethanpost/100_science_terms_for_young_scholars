@@ -1,5 +1,7 @@
 ﻿# Balance
 
+![Balance](022_Balance_01.png)
+
 Imagine standing on one foot with your arms folded. At first you may wobble. Your ankle shifts, your toes press against the floor, and your body makes tiny corrections. Now stretch your arms out to the sides. Suddenly it may feel easier.
 
 Your arms did not make you lighter. They helped you control your balance.
@@ -35,8 +37,6 @@ If two boys pull on opposite ends of a rope with equal force, the rope may stay 
 The same idea applies everywhere. A soccer ball sitting on grass has balanced forces in the vertical direction: gravity pulls down, and the ground pushes up. When a player kicks it, the force from the foot is unbalanced, so the ball accelerates.
 
 Balance and motion are closely connected.
-
-![Balance](022_Balance_01.png)
 
 ## Balance and Gravity
 

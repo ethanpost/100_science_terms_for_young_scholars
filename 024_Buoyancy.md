@@ -1,5 +1,7 @@
 ﻿# Buoyancy
 
+![Buoyancy](024_Buoyancy_01.png)
+
 Imagine pushing an empty plastic bottle under water in a bathtub. The deeper you push it, the more it seems to fight back. Let go, and it shoots upward to the surface.
 
 The bottle is not alive. The water is pushing up on it.
@@ -23,8 +25,6 @@ The bottom of a submerged object is usually deeper than the top. That means the 
 The result is a net upward force.
 
 That net upward force is the buoyant force.
-
-![Buoyancy](024_Buoyancy_01.png)
 
 ## Buoyant Force
 

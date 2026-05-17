@@ -1,5 +1,7 @@
 ﻿# Evaporation
 
+![Evaporation](034_Evaporation_01.png)
+
 Imagine stepping out of a swimming pool on a warm, breezy day. Even though the air is warm, your skin may suddenly feel cold. Water is leaving your skin and becoming water vapor in the air.
 
 As it leaves, it carries energy away from your body.
@@ -25,8 +27,6 @@ Evaporation happens when particles at the surface of a liquid gain enough energy
 For water, the gas form is called **water vapor**.
 
 Water vapor is invisible. The white mist you may see above hot water is usually tiny liquid droplets, not the vapor itself.
-
-![Evaporation](034_Evaporation_01.png)
 
 ## Surface Particles Escape
 

@@ -1,12 +1,12 @@
 ﻿# Hydrogen
 
+![Hydrogen](072_Hydrogen_01.png)
+
 Hydrogen is the lightest element in the universe, but it is not a small idea. It helps make water, powers stars, appears in acids, forms fuels, and is found in nearly every living thing.
 
 You cannot see hydrogen gas in ordinary air. You cannot smell it either. But hydrogen atoms are everywhere: in water, sugar, fats, proteins, wood, gasoline, natural gas, acids, and your own body.
 
 **Hydrogen is the lightest chemical element, with one proton in each atom.**
-
-![Hydrogen](072_Hydrogen_01.png)
 
 Hydrogen is simple in structure but powerful in importance. It is the first element on the periodic table and the most abundant element in the universe.
 

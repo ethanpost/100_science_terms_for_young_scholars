@@ -1,5 +1,7 @@
 ﻿# Work
 
+![Work](011_Work_01.png)
+
 Imagine that your coach asks you to push a heavy tackling sled across the grass. You lean in, your shoes dig into the ground, and the sled grinds forward. That certainly feels like work.
 
 Now imagine pushing just as hard against a brick wall. Your face turns red, your arms ache, and your friends may admire your determination. But the wall does not move.
@@ -24,8 +26,6 @@ In physics, work is done on an object when two things happen:
 If either part is missing, no scientific work is done on that object.
 
 This is why pushing a sled across grass is work, but pushing a wall that does not move is not work. In both cases you apply a force. Only the sled moves.
-
-![Work](011_Work_01.png)
 
 ## Force Is Needed
 

@@ -1,5 +1,7 @@
 ﻿# Latitude
 
+![Latitude](096_Latitude_01.png)
+
 Your coach texts a meet-up spot for summer camp: **"Same latitude as home — just fly south."** You land in São Paulo. The airport is warm, palm trees line the road, and kids are in shorts in July while your cousins back home are in hoodies. Same **latitude band** on the globe — totally different country, language, and longitude.
 
 Or you drop a pin in a survival game: **42.3° N**. The map loads mountains and pine trees. Your friend types **42.3° S** and spawns on a windy coast with penguins. One number flipped from **N** to **S** — opposite side of the planet.
@@ -11,8 +13,6 @@ Or you drop a pin in a survival game: **42.3° N**. The map loads mountains and 
 Pilots, ship captains, search-and-rescue teams, weather forecasters, and the GPS in your phone all use latitude every day. Once you understand it, a map stops being flat decoration and starts being a real locator for anywhere on the planet.
 
 As you learned in the chapter on **rotation of the Earth**, the **equator** is the big east–west belt around Earth's middle. Latitude is how far north or south you are from that belt. The chapter on **longitude** covers the other half of the address — east and west around the globe.
-
-![Latitude](096_Latitude_01.png)
 
 ## Latitude at a Glance
 

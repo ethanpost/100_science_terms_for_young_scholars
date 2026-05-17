@@ -1,8 +1,8 @@
 ﻿# Gravity
 
-Imagine you are standing at the top of a diving board, looking down at the bright blue water below. You know exactly what will happen if you jump: you will fall toward the pool. You do not expect to drift upward into the sky or float sideways into the lifeguard chair. Something invisible, steady, and powerful is pulling you downward. That something is gravity.
-
 ![Gravity pulls you downward](002_Gravity_01.png)
+
+Imagine you are standing at the top of a diving board, looking down at the bright blue water below. You know exactly what will happen if you jump: you will fall toward the pool. You do not expect to drift upward into the sky or float sideways into the lifeguard chair. Something invisible, steady, and powerful is pulling you downward. That something is gravity.
 
 Gravity is one of the most important forces in the universe. It keeps your feet on the ground, pulls raindrops from clouds, guides the Moon around Earth, and holds the planets in their paths around the Sun. Without gravity, life as we know it could not exist.
 

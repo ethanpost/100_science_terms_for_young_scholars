@@ -1,5 +1,7 @@
 ﻿# Weight
 
+![Weight depends on mass and gravity](003_Weight_01.png)
+
 Suppose you step onto a bathroom scale in the morning. The number appears, and you may say, "That is how much I weigh." Now imagine taking the same scale to the Moon. You would still be you. Your bones, muscles, brain, and school shoes would contain the same amount of matter. Yet the scale would show a much smaller number.
 
 How can that be? The answer is that weight is not simply "how much stuff" is in an object. Weight is the measure of how strongly gravity pulls on that object. To understand weight, we must understand the connection between matter, gravity, force, and measurement.
@@ -16,8 +18,6 @@ Weight always depends on two things:
 2. The strength of gravity where the object is located.
 
 If either one changes, the weight changes.
-
-![Weight depends on mass and gravity](003_Weight_01.png)
 
 ## Mass and Weight Are Not the Same
 

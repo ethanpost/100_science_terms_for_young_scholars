@@ -1,5 +1,7 @@
 ﻿# Motion
 
+![Newton's Laws](006_Motion_01.png)
+
 Imagine you are watching a baseball game from the stands. The pitcher throws the ball. It races toward the batter, curves downward, cracks off the bat, and flies high into the outfield. The center fielder sprints back, turns, reaches up, and catches it.
 
 In just a few seconds, you have seen motion in many forms: the ball speeding up, slowing down, changing direction, rising, falling, and stopping. You have also seen the players use their muscles to start, stop, and change their own motion.
@@ -71,8 +73,6 @@ An object accelerates when it speeds up, slows down, or changes direction.
 A bicycle accelerates when the rider pedals harder and speeds up. It also accelerates when the rider squeezes the brakes and slows down. A baseball thrown in a curve accelerates because its direction changes. A planet orbiting the Sun accelerates because its direction is always changing as it follows a curved path.
 
 Acceleration may feel exciting or uncomfortable because your body notices changes in motion. When a car starts quickly, you feel pushed back into the seat. When it stops suddenly, you lurch forward. When it turns sharply, you feel pulled sideways. These feelings are clues that velocity is changing.
-
-![Newton's Laws](006_Motion_01.png)
 
 ## Forces Cause Changes in Motion
 

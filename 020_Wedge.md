@@ -1,5 +1,7 @@
 ﻿# Wedge
 
+![Wedge](020_Wedge_01.png)
+
 Imagine trying to split a thick piece of firewood with your bare hands. You might pull and twist all day and accomplish nothing. Now place the sharp edge of an axe on the end of the log and swing. The blade bites into the wood, and the wood begins to split apart.
 
 The axe did not make the wood weaker. It changed the direction and concentration of the force.
@@ -35,8 +37,6 @@ The **thickness** is how wide the wedge becomes.
 The **length** is how far the wedge stretches from its tip to its back.
 
 A long, thin wedge has a gentle slope. A short, thick wedge has a steep slope.
-
-![Wedge](020_Wedge_01.png)
 
 ## The Moving Inclined Plane
 

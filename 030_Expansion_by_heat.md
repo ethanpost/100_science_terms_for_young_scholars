@@ -1,5 +1,7 @@
 ﻿# Expansion by heat
 
+![Expansion by heat](030_Expansion_by_heat_01.png)
+
 Imagine a metal lid stuck tightly on a glass jar. You run warm water over the lid for a short time, try again, and suddenly the lid turns. The jar did not shrink in your hands like magic. The metal lid expanded slightly when warmed, making it easier to loosen.
 
 That small change is an example of expansion by heat.
@@ -23,8 +25,6 @@ In many materials, this stronger motion causes particles to spread slightly fart
 That is thermal expansion.
 
 When matter cools, particle motion usually decreases, and the material often contracts.
-
-![Expansion by heat](030_Expansion_by_heat_01.png)
 
 ## Thermal Expansion
 

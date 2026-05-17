@@ -1,5 +1,7 @@
 ﻿# Molecule
 
+![Molecule](062_Molecule_01.png)
+
 You crack open a sports drink after practice. You smell smoke from a campfire. You watch bubbles race up through a soda. You breathe hard after a sprint and feel your chest rise and fall.
 
 You cannot see the tiny pieces inside any of those moments, but they are there — billions of them.
@@ -11,8 +13,6 @@ Each sip, each smell, each bubble, and each breath involves **molecules**.
 Molecules make up water, oxygen gas, carbon dioxide, sugar, fats, proteins, plastics, fuels, smells, flavors, and much of your own body. If atoms are the letters of matter, molecules are like words made from those letters.
 
 To understand molecules, start with what you already know about **atoms** — the tiny building blocks from the last chapter.
-
-![Molecule](062_Molecule_01.png)
 
 ## Atoms Join Together
 

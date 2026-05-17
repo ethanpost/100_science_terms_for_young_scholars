@@ -1,5 +1,7 @@
 ﻿# Magnetism
 
+![Magnetism](051_Magnetism_01.png)
+
 Hold a refrigerator magnet near a paper clip. The paper clip jumps up before the magnet even touches it. Bring two bar magnets together one way, and they snap toward each other. Turn one around, and they push apart as if an invisible cushion is between them.
 
 That invisible push or pull is magnetism.
@@ -23,8 +25,6 @@ The important point is this:
 **A magnet affects certain objects around it without needing to touch them.**
 
 That means magnetism is a non-contact force, just like gravity and electric forces.
-
-![Magnetism](051_Magnetism_01.png)
 
 ## Magnetic Materials
 

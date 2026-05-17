@@ -1,5 +1,7 @@
 ﻿# Planets
 
+![Planets](085_Planets_01.png)
+
 You step outside after dinner. The sky is dark enough to count stars. Most of them flicker — tiny sparks scratching at the air. But one bright point near the horizon stays steady, almost stubborn, like it knows something the stars do not.
 
 Your dad says it might be Venus. Your friend swears it is a plane. You open a sky app on your phone and tap the dot. The screen says **Jupiter**.
@@ -15,8 +17,6 @@ That one is Earth.
 **A planet is a large, nearly round object that orbits a star and has cleared most other objects from its orbital path.**
 
 In our solar system, planets orbit the Sun. They do not make their own light. They shine because they reflect sunlight.
-
-![Planets](085_Planets_01.png)
 
 ## Planets Are Worlds
 

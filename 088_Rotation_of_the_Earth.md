@@ -1,5 +1,7 @@
 ﻿# Rotation of the Earth
 
+![Rotation of the Earth](088_Rotation_of_the_Earth_01.png)
+
 You finish a late game, walk off the field, and flop onto the bench. Your legs feel heavy. Your heart is still pounding. Everything around you seems perfectly still — the grass, the bleachers, the parking lot lights.
 
 But you are not still.
@@ -9,8 +11,6 @@ Right now, Earth is spinning. You are riding a planet that turns once about ever
 **Rotation of the Earth is Earth's spin around its axis, which takes about 24 hours and causes day and night.**
 
 That daily spin is one of the most important motions you will ever study. It gives us sunrise and sunset, clocks, time zones, star trails, long afternoon shadows on a basketball court, and the rhythm of every school day. Later in this book, the chapter on **revolution of the Earth** covers Earth's yearly trip around the Sun — a different motion with a different schedule.
-
-![Rotation of the Earth](088_Rotation_of_the_Earth_01.png)
 
 ## Rotation Means Spinning
 

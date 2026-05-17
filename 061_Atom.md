@@ -1,5 +1,7 @@
 ﻿# Atom
 
+![Atom](061_Atom_01.png)
+
 Snap a pencil lead. Crush a piece of chalk. Scratch rust off a bike chain. Every one of those actions breaks matter into smaller pieces — but only down to a point.
 
 If you could keep dividing and dividing, you would eventually reach particles too tiny to see with any ordinary microscope.
@@ -11,8 +13,6 @@ Those particles are **atoms**.
 Atoms are so small that millions of them could fit across the head of a pin. Yet atoms make up the aluminum in a bat, the carbon in a campfire, the iron in your blood, the copper in headphone wires, the oxygen you breathe, the sodium in sports drinks, and the silicon in computer chips.
 
 To understand matter, chemistry, electricity, heat, light, life, and materials, you must understand atoms.
-
-![Atom](061_Atom_01.png)
 
 ## Matter Is Made of Atoms
 

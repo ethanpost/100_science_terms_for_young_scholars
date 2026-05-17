@@ -1,5 +1,7 @@
 ﻿# Heat
 
+![Heat](027_Heat_01.png)
+
 Imagine holding a mug of hot cocoa on a cold morning. At first the mug warms your hands. After a while, the cocoa cools, the mug cools, and your hands feel warmer than before.
 
 Something moved from the hot cocoa and mug into your cooler hands.
@@ -35,8 +37,6 @@ The total energy of all this tiny particle motion is called **thermal energy**.
 Temperature is related to the average motion of the particles. Thermal energy depends on both temperature and the amount of matter.
 
 A bathtub of warm water may contain more thermal energy than a cup of boiling water because the bathtub has much more matter, even though its temperature is lower.
-
-![Heat](027_Heat_01.png)
 
 ## Heat Flows from Hot to Cold
 

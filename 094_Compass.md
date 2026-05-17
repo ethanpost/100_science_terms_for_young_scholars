@@ -1,5 +1,7 @@
 ﻿# Compass
 
+![Compass](094_Compass_01.png)
+
 You are twenty minutes into an orienteering course. Five control flags left. Your legs are burning. The woods all look the same — same pines, same ferns, same brown trail.
 
 Your phone buzzes: **12% battery.** Then the screen goes black.
@@ -13,8 +15,6 @@ Suddenly you are not guessing. You have a tool that talks to something bigger th
 **A compass is a tool that uses Earth's magnetic field to help you find directions, especially north and south, and from those, east and west.**
 
 People have used compasses for centuries to cross oceans, explore deserts, march through forests, and find their way home. Sailors, soldiers, scouts, pilots, search teams, and hikers still rely on them. Even in the age of GPS, a compass is one of the best backups you can carry because it needs **no battery** and **no cell signal.**
-
-![Compass](094_Compass_01.png)
 
 ## What a Compass Does
 

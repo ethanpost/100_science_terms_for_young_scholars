@@ -1,5 +1,7 @@
 ﻿# Static electricity
 
+![Static Electricity](050_Static_electricity_01.png)
+
 Walk across a carpet on a dry winter day, then touch a metal doorknob. Snap! A tiny spark jumps to your finger. Pull a wool hat off your head, and your hair may stand up like it is trying to escape. Rub a balloon on your shirt, and it may stick to a wall.
 
 These are not magic tricks. They are examples of static electricity.
@@ -32,8 +34,6 @@ Two negative charges repel each other.
 A positive charge and a negative charge attract each other.
 
 This rule is at the heart of static electricity.
-
-![Static Electricity](050_Static_electricity_01.png)
 
 ## Atoms and Charge
 
