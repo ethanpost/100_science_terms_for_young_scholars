@@ -8,9 +8,10 @@ Students should be able to:
 
 - Define conduction as heat transfer through direct contact between particles.
 - Explain conduction using particle motion and energy transfer.
+- State that heat naturally moves from warmer matter to cooler matter.
 - Distinguish thermal conductors and thermal insulators.
 - Identify common conductors and insulators.
-- Explain why metals usually conduct heat well.
+- Explain why metals usually conduct heat well, including the role of free electrons.
 - Describe why touch can be misleading when judging temperature.
 - Identify factors that affect conduction rate, including material, temperature difference, thickness, area, and distance.
 - Recognize conduction in cooking, buildings, machines, clothing, the human body, and safety situations.
@@ -24,7 +25,7 @@ Students should be able to:
 4. In solids, particles are packed closely together, so energy can be passed from one particle to the next effectively.
 5. A **thermal conductor** is a material that lets heat move through it easily.
 6. Examples may include copper, aluminum, iron, steel, silver, or other metals.
-7. Metals conduct well because their particles are close together and mobile electrons help carry energy through the material.
+7. Metals conduct well because their particles are close together and mobile free electrons help carry energy through the material.
 8. A **thermal insulator** is a material that slows heat transfer.
 9. Examples may include wood, plastic, rubber, foam, wool, cork, fiberglass, trapped air, carpet, or cloth.
 10. Trapped air slows conduction because air is a poor conductor when it is not moving much.
@@ -72,8 +73,9 @@ Students should be able to:
 ### Teaching Notes
 
 - Keep the core phrase visible: **conduction is heat transfer by direct contact**.
-- Reinforce that heat moves from warmer matter to cooler matter.
+- Reinforce the rule: **hotter to cooler, not the other way around**.
 - Use touch examples carefully; they demonstrate heat flow, not exact temperature.
 - Distinguish conductor from hot object and insulator from heat source.
 - Connect conduction to prior lessons on heat, temperature, thermometers, and expansion.
+- Link machine examples to familiar devices such as laptops, phones, and game consoles.
 - Use safe warm water only; avoid boiling water, flames, and hot metal in student activities.

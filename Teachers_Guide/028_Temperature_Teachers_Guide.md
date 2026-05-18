@@ -27,24 +27,23 @@ Students should be able to:
 7. A **thermometer** is an instrument used to measure temperature.
 8. A liquid thermometer uses liquid that expands when warmed and contracts when cooled. The liquid rises or falls in a narrow tube.
 9. The three most important scales are **Celsius**, **Fahrenheit**, and **Kelvin**.
-10. Celsius is used in science and in most countries for everyday temperatures.
-11. Water freezes at **0 degrees Celsius** and boils at **100 degrees Celsius** under ordinary pressure at sea level.
-12. Water freezes at **32 degrees Fahrenheit** and boils at **212 degrees Fahrenheit** under ordinary pressure at sea level.
-13. Kelvin is used in science, especially physics and chemistry.
-14. **Absolute zero** is the lowest possible temperature, where particles have the least thermal motion allowed by nature.
-15. Use **K = degrees Celsius + 273.15**, or about **degrees Celsius + 273** for classroom estimates.
-16. **Thermal expansion** is the tendency of many materials to expand when heated and contract when cooled.
-17. Examples may include thermometer liquid rising, bridge expansion joints, gaps in sidewalks, railroad track expansion, wires sagging in heat, or jar lids loosening when warmed.
-18. At low temperatures many substances are solid. As temperature rises, solids may melt into liquids, and liquids may boil or evaporate into gases, depending on the substance and pressure.
-19. Heating makes gas particles move faster and collide harder and more often with the container walls, increasing pressure.
-20. Temperature affects air pressure, winds, clouds, storms, dew, frost, snow, fog, and sea breezes. Warm and cool areas help drive weather patterns.
-21. Normal body temperature is about **37 degrees Celsius** or **98.6 degrees Fahrenheit**, though it varies somewhat.
-22. The body cools itself by sweating, sending more blood to the skin, and changing behavior such as seeking shade or drinking water.
-23. Cooking depends on temperature because food changes texture, flavor, safety, and structure at certain temperatures.
-24. Temperature changes can make materials expand, contract, soften, harden, become brittle, or lose strength. Machines and structures must still work safely.
-25. Metal conducts heat away from the hand faster than wood, so it feels colder even if both are at the same temperature.
-26. Answers may include using the correct thermometer, not touching unknown hot or cold objects, using oven mitts, avoiding steam, not heating sealed containers, dressing for weather, and taking fever, heat exhaustion, frostbite, and hypothermia seriously.
-27. Answers may vary. A strong answer should state that temperature measures average particle motion or hotness, while heat is energy moving because of a temperature difference.
+10. Water freezes at **0 degrees Celsius** and boils at **100 degrees Celsius** under ordinary pressure at sea level.
+11. Water freezes at **32 degrees Fahrenheit** and boils at **212 degrees Fahrenheit** under ordinary pressure at sea level.
+12. Kelvin is used in science, especially physics and chemistry. Kelvin values are written as **K** without the word "degrees," such as **300 K**.
+13. **Absolute zero** is the lowest possible temperature, where particles have the least thermal motion allowed by nature.
+14. Use **K = degrees Celsius + 273.15**, or about **degrees Celsius + 273** for classroom estimates.
+15. **Thermal expansion** is the tendency of many materials to expand when heated and contract when cooled.
+16. Examples may include thermometer liquid rising, bridge expansion joints, gaps in sidewalks, railroad track expansion, wires sagging in heat, or jar lids loosening when warmed.
+17. At low temperatures many substances are solid. As temperature rises, solids may melt into liquids, and liquids may boil or evaporate into gases, depending on the substance and pressure.
+18. Heating makes gas particles move faster and collide harder and more often with the container walls, increasing pressure.
+19. Temperature affects air pressure, winds, clouds, storms, dew, frost, snow, fog, and sea breezes. Warm and cool areas help drive weather patterns.
+20. Normal body temperature is about **37 degrees Celsius** or **98.6 degrees Fahrenheit**, though it varies somewhat.
+21. The body cools itself by sweating, sending more blood to the skin, and changing behavior such as seeking shade or drinking water.
+22. Food safety and texture often depend on reaching the correct **internal** temperature, not just heating for a certain time. The outside of food can look done while the center is still undercooked.
+23. Temperature changes can make materials expand, contract, soften, harden, become brittle, or lose strength. Machines and structures must still work safely.
+24. Metal conducts heat away from the hand faster than wood, so it feels colder even if both are at the same temperature.
+25. Answers may include using the correct thermometer, not touching unknown hot or cold objects, using oven mitts, avoiding steam, not heating sealed containers, dressing for weather, and taking fever, heat exhaustion, frostbite, and hypothermia seriously.
+26. Answers may vary. A strong answer should state that temperature measures average particle motion or hotness, while heat is energy moving because of a temperature difference.
 
 ### Activity Suggestions
 

@@ -2,29 +2,33 @@
 
 ![Expansion by heat](030_Expansion_by_heat_01.png)
 
-Imagine a metal lid stuck tightly on a glass jar. You run warm water over the lid for a short time, try again, and suddenly the lid turns. The jar did not shrink in your hands like magic. The metal lid expanded slightly when warmed, making it easier to loosen.
+You have been there: a jar of pickles, a pasta sauce lid, or a jam jar that will not budge. You twist until your hand hurts. Your brother tries. Your dad tries. Nobody wins.
 
-That small change is an example of expansion by heat.
+Then someone runs warm water over the metal lid for thirty seconds. You twist again—and pop. It opens.
+
+The glass did not magically shrink. The lid did not lose weight. The metal **expanded** slightly when warmed, loosening its grip.
+
+That tiny size change is **expansion by heat**.
 
 **Expansion by heat is the tendency of many materials to increase in size when their temperature rises.**
 
-Most solids, liquids, and gases expand when heated and contract when cooled. This effect is usually small, but it matters in thermometers, bridges, railroad tracks, engines, wires, sidewalks, pipes, jars, balloons, weather, and many machines.
+Most solids, liquids, and gases expand when heated and contract when cooled. The change is often too small to see, but it still matters. It can loosen a lid, burst a pipe, buckle a railroad track, sag a power line, lift liquid in a thermometer, crack a sidewalk, change tire pressure, or bend a bimetallic strip in a thermostat.
 
-Expansion by heat is one of those quiet ideas that can break a bridge, loosen a lid, burst a pipe, or make a thermometer work.
+Expansion by heat is a quiet idea with loud consequences.
 
 ## Particles and Expansion
 
-Matter is made of tiny particles, such as atoms and molecules.
+Matter is made of tiny particles—atoms and molecules.
 
-These particles are always moving. In a solid, they mostly vibrate in place. In a liquid, they move around one another. In a gas, they move freely.
+They are always moving. In a **solid**, they mostly vibrate in place. In a **liquid**, they slide past one another. In a **gas**, they move freely.
 
-When matter is heated, its particles usually move more vigorously.
+When matter is heated, particles usually move more vigorously. In many materials, that stronger motion pushes particles slightly farther apart. The material takes up more space.
 
-In many materials, this stronger motion causes particles to spread slightly farther apart. The material takes up more space.
+That is **thermal expansion**.
 
-That is thermal expansion.
+When matter cools, particle motion usually decreases, and the material often **contracts**—shrinks.
 
-When matter cools, particle motion usually decreases, and the material often contracts.
+![Particles spread when heated](030_Expansion_by_heat_02.png)
 
 ## Thermal Expansion
 
@@ -32,232 +36,215 @@ The scientific name for expansion by heat is **thermal expansion**.
 
 **Thermal expansion is the increase in size that often happens when a material is heated.**
 
-Thermal contraction is the decrease in size that often happens when a material is cooled.
+**Thermal contraction** is the decrease in size that often happens when a material is cooled.
 
 Expansion can happen in length, width, height, area, or volume.
 
-A metal rod may become a little longer. A metal plate may become slightly wider and longer. A liquid may take up more volume. A gas may expand greatly if it is allowed to.
+A metal rod may become a little longer. A sidewalk slab may grow slightly wider. A liquid may take up more volume. A gas may expand greatly—if it is allowed to.
 
-The change may be too small to see with your eyes, but it can still be strong enough to matter.
+The change may be invisible, but it can still create real force.
 
-## Solids Expand
+## Solids, Liquids, and Gases
 
-Solids usually expand when heated.
+All three states of matter usually expand when heated—but not equally.
 
-A metal bridge becomes slightly longer on a hot day. A railroad track expands in summer sunlight. A metal ring expands when warmed. A concrete sidewalk can expand in the heat.
+**Solids** expand, but usually the least. Metal bridge decking, railroad rails, concrete, and bike spokes all change size with temperature. Because solid particles are held tightly, they do not spread as much as gas particles can.
 
-The particles in a solid are held in place by strong attractions, so solids do not expand as much as gases. Still, even a tiny expansion can create large forces if the solid is trapped and cannot move.
+**Liquids** expand more noticeably than most solids. That is why liquid thermometers work: warm liquid rises in a narrow tube; cool liquid falls.
 
-This is why engineers leave gaps, joints, and flexible spaces in structures.
+**Gases** expand the most when they are free to spread out. Heat the air in a balloon and the balloon grows. Heat air in a rigid sealed bottle and the gas cannot expand much—so **pressure** rises instead. That is why sealed containers are dangerous when heated.
 
-If there is no room to expand, a solid may bend, buckle, crack, or break.
+![Who expands most?](030_Expansion_by_heat_03.png)
 
-## Liquids Expand
+## A Small Change Can Be a Big Deal
 
-Liquids also usually expand when heated.
+Expansion sounds gentle. It is not always gentle.
 
-This is how many liquid thermometers work. The liquid inside the thermometer expands when warmed and rises in a narrow tube. When cooled, it contracts and falls.
+If a solid can expand freely, it simply grows a little longer or wider. If it is **trapped**—pinned between walls, welded tight, or locked in place—it pushes hard against whatever holds it.
 
-Different liquids expand by different amounts. Alcohol, mercury, water, and oil do not all respond to temperature in the same way.
+Engineers leave **gaps**, **joints**, and **flexible space** so materials can move. Without room, solids may bend, buckle, crack, or break.
 
-Liquids are useful in thermometers because their volume changes can be made visible in a thin tube.
+Remember:
 
-But liquid expansion can also be dangerous. A liquid in a completely full sealed container may push hard on the container when heated.
-
-## Gases Expand
-
-Gases expand much more than solids or liquids when heated, if they are free to expand.
-
-Heat air in a balloon, and the air particles move faster and spread out. If the balloon can stretch, it becomes larger. If the gas is in a rigid sealed container, the gas cannot expand much, so the pressure rises instead.
-
-This is why sealed containers should not be heated unless they are designed for it.
-
-Gases are especially important in weather, engines, hot-air balloons, and pressure systems.
-
-Warm air expands, becomes less dense, and often rises.
+**Tiny expansion + nowhere to go = big trouble.**
 
 ## Expansion and Density
 
 Heating often makes a material expand without adding mass.
 
-If the mass stays the same but the volume increases, the density decreases.
+Same mass, bigger volume → **lower density**.
 
-This is why warm air is usually less dense than cool air. The same amount of air spreads into a larger volume.
+Warm air is usually less dense than cool air. The same amount of air spreads into a larger volume, so it tends to **rise** through cooler, denser air below.
 
-Less dense warm air tends to rise through cooler, denser air. This helps create convection currents, winds, sea breezes, and weather patterns.
+That helps create **convection currents**, winds, sea breezes, and weather patterns. Expansion by heat connects directly to ideas you have seen in chapters on **heat**, **temperature**, and **density**.
 
-Expansion by heat is therefore connected to density, buoyancy, and convection.
+## Liquid Thermometers
 
-## Thermal Expansion in Thermometers
+A liquid thermometer is one of the clearest uses of thermal expansion.
 
-Liquid thermometers are one of the clearest uses of thermal expansion.
+Inside is a liquid sealed in a narrow glass tube. When the liquid warms, it expands. Because the tube is thin, even a small volume increase makes the liquid column rise noticeably. When the liquid cools, it contracts and falls.
 
-Inside the thermometer is a liquid sealed in a narrow tube. When the liquid warms, it expands. Because the tube is narrow, a small increase in liquid volume makes the liquid column rise noticeably.
+Marks on the glass connect column height to temperature. The thermometer works because expansion is **predictable**—not because the liquid gained mass.
 
-When the liquid cools, it contracts, and the column falls.
-
-Marks on the thermometer connect the height of the liquid to temperature readings.
-
-The thermometer works because expansion is predictable.
+Different liquids expand by different amounts. Alcohol, mercury, water, and oil do not all respond the same way.
 
 ## Expansion Joints
 
-An **expansion joint** is a gap or flexible connection that allows a structure to expand and contract safely.
+An **expansion joint** is a gap or flexible connection that lets a structure expand and contract safely.
 
-Bridges often have expansion joints. On a hot day, bridge materials expand. On a cold day, they contract. The joints give the bridge room to change length without cracking or buckling.
+Bridges often have expansion joints. On a hot day, bridge materials grow longer. On a cold day, they shrink. The joint gives the bridge room to change without cracking the deck or buckling supports.
 
-Sidewalks and concrete roads also have grooves or gaps. These help prevent random cracking when concrete expands and contracts.
+Sidewalks and roads have grooves or gaps for the same reason. Pipelines, rails, buildings, and large metal structures may need expansion space too.
 
-Pipelines, rails, buildings, and large metal structures may also need expansion space.
+Good engineering expects materials to move—not to fight temperature forever.
 
-Good engineering expects materials to move.
+![Expansion joint on a bridge](030_Expansion_by_heat_04.png)
 
 ## Railroad Tracks and Buckling
 
-Railroad tracks are long metal rails.
+Railroad tracks are long metal rails—miles of steel in the sun.
 
-In hot weather, the rails expand. If the rails cannot expand safely, they may buckle sideways. A buckled rail is dangerous because it can derail a train.
+In hot weather, rails expand. If they cannot lengthen safely, they may **buckle** sideways, twisting off the straight line. A buckled rail is dangerous. Trains can derail.
 
-Railroad engineers use careful design, strong fasteners, proper gaps or welded-rail techniques, and maintenance to manage expansion.
+Engineers manage expansion with careful design: proper gaps, strong fasteners, welded-rail techniques, and maintenance. Cold weather creates the opposite stress—rails **contract** and can pull tight or open small gaps if not designed well.
 
-Cold weather creates the opposite problem. Rails contract and can create stress or gaps if not designed properly.
+The track looks still. Temperature is always working on it.
 
-The track may look still, but temperature is always working on it.
+![Railroad tracks buckling in heat](030_Expansion_by_heat_05.png)
 
-## Wires and Cables
+## Wires, Cables, and Power Lines
 
 Wires and cables expand and contract with temperature.
 
-Power lines may sag more on hot days because the metal wire expands and becomes longer. In cold weather, the wire contracts and may become tighter.
+On a hot afternoon, metal power lines may **sag** more because the wire lengthens. In winter, the same wire contracts and pulls tighter between poles.
 
-Engineers must hang wires with enough slack to handle both hot and cold conditions. Too much sag can be unsafe. Too much tension can break wires or supports.
+Engineers hang lines with enough slack for both seasons. Too much sag can be unsafe. Too much tension in cold weather can stress towers or break wires.
 
-This is another example of a small material change becoming important on a large scale.
+Long objects make small expansions easier to notice. A wire that grows only a tiny fraction of a percent can still sag several feet over a long span.
 
-Long objects make small expansions easier to notice.
+![Power lines sag on hot days](030_Expansion_by_heat_06.png)
 
-## Jars, Lids, and Everyday Expansion
+## Jars, Lids, and Everyday Life
 
-Thermal expansion appears in ordinary life.
+Thermal expansion shows up in ordinary life all the time.
 
-A metal jar lid may loosen after being warmed because metal often expands more than glass. The lid becomes slightly larger, making it easier to turn.
+- A **metal jar lid** may loosen after warm water because metal often expands more than glass.
+- A **bike tire** may feel harder on a hot pavement ride because the air inside warmed and expanded, raising pressure.
+- A **basketball** may feel softer on a cold morning because cooler gas inside contracts and pressure drops.
+- A **skateboard** or **car** left in the sun: metal parts fit slightly differently hot than cold.
 
-A stuck metal ring may loosen when warmed, though this should be done carefully. A bike tire pressure may rise on a hot day because the air inside warms. A basketball may feel softer in cold weather because the gas pressure drops.
-
-Objects around you are constantly responding to temperature.
-
-Most changes are tiny, but they are real.
+Most changes are tiny. They are still real—and sometimes useful.
 
 ## Bimetallic Strips
 
-A **bimetallic strip** is made from two different metals joined together.
+A **bimetallic strip** is two different metals bonded together.
 
-The two metals expand by different amounts when heated. Because they are joined, the strip bends as temperature changes.
+The metals expand by **different amounts** when heated. Because they are joined, the strip **bends** as temperature changes.
 
-Bimetallic strips have been used in thermostats, thermometers, circuit breakers, and safety devices.
+Bimetallic strips appear in thermostats, some thermometers, circuit breakers, and safety switches. In an old room thermostat, a bending strip could turn the furnace on or off.
 
-In an old thermostat, a bimetallic strip could bend as the room warmed or cooled, turning a heating system on or off.
+Engineers turned unequal expansion from a problem into a **useful signal**.
 
-This device uses a problem, unequal expansion, as a useful signal.
+## Engines, Bikes, and Machines
 
-## Engines and Machines
+Hot machines change size.
 
-Engines become hot when they run.
+In a car engine, metal pistons, cylinders, valves, and bolts expand as they heat. Parts must be designed with tiny clearances so everything fits at **working temperature**, not just in a cold garage.
 
-Metal parts in engines expand as they heat. Pistons, cylinders, valves, bolts, and bearings must be designed with tiny clearances so they fit properly at working temperatures.
+Too tight when hot → rubbing, seizing, leaking. Too loose when hot → power loss and wear.
 
-If parts expand too much, they may rub, seize, leak, or break. If they are too loose when hot, the engine may lose power or wear out quickly.
+The same idea applies to bicycles, lawn mowers, gaming consoles, and laptops. Electronics produce waste heat. Fans and heat sinks move that heat away so parts do not over-expand, warp, or fail.
 
-Machines often need cooling systems, lubricants, and carefully chosen materials to manage heat expansion.
-
-A good machine is designed not just for room temperature, but for the temperatures it will actually face.
+A good machine is designed for the temperatures it will actually face—not just room temperature on a mild day.
 
 ## Water Is Unusual
 
-Most materials contract as they cool.
+Most materials contract as they cool. Water mostly does too—until it nears freezing.
 
-Water does this too at first, but it has an important exception. Water is densest at about 4 degrees Celsius. As it cools below that and freezes, it expands.
+Water is **densest at about 4 °C**. As it cools below that toward freezing, it **expands**. Ice is less dense than liquid water, which is why ice **floats**.
 
-Ice is less dense than liquid water, which is why ice floats.
+That unusual behavior matters enormously:
 
-This unusual expansion matters greatly. If water in cracks freezes, it expands and can split rock or damage roads. If water pipes freeze, the expanding ice can burst the pipes.
+- Water in rock cracks freezes and expands, splitting stone and helping form potholes.
+- Water pipes can burst when ice forms inside.
+- Floating ice insulates lakes and ponds, letting liquid water remain below the surface.
 
-At the same time, floating ice helps insulate lakes and ponds, allowing water below to remain liquid.
+Water breaks the simple rule—and nature depends on the exception.
 
-Water's unusual behavior is one of nature's most important exceptions.
+![Water expands when it freezes](030_Expansion_by_heat_07.png)
 
 ## Expansion and Weather
 
 Expansion by heat helps drive weather.
 
-Sunlight warms Earth's surface unevenly. Warm ground heats the air above it. The warm air expands, becomes less dense, and rises. Cooler air moves in to replace it.
+Sunlight warms Earth's surface unevenly. Warm ground heats the air above it. The warm air expands, becomes less dense, and **rises**. Cooler, denser air sinks and flows in to replace it.
 
-This movement helps create convection currents and winds.
+That movement builds convection currents, winds, clouds, and storms. Sea breezes, afternoon thunderheads, and shifting winds all involve warm air rising and cool air sinking.
 
-Sea breezes, thunderstorms, and many cloud patterns involve warm air rising and cooler air sinking.
-
-Expansion by heat is one reason the atmosphere is always moving.
+The atmosphere is always moving partly because heated air expands.
 
 ## Expansion and Measurement
 
 Thermal expansion can affect measurements.
 
-A metal ruler is slightly longer when hot than when cold. For ordinary schoolwork, this change is usually too small to matter. For precise engineering, machining, or scientific measurement, temperature can be important.
+A metal ruler is slightly longer on a hot day than on a cold one. For everyday schoolwork, the difference is usually too small to matter. For precision machining, laboratories, or spacecraft parts, temperature matters.
 
-Factories and laboratories sometimes control temperature carefully so measurements remain accurate.
+Engineers ask: What temperature was this part at when it was measured? What temperature will it face in use?
 
-When building bridges, engines, spacecraft, or precision tools, engineers must ask: what temperature will the part have when it is measured, and what temperature will it have when it is used?
+Temperature changes dimensions. Serious builders plan for that.
 
-Temperature changes can change dimensions.
+## Expansion Can Create Enormous Force
 
-## Expansion Can Create Force
+Free expansion is gentle. **Blocked** expansion is not.
 
-Expansion may seem gentle, but it can create enormous force if blocked.
+A metal beam that can grow freely simply lengthens a little. The same beam trapped between rigid walls pushes with enormous force as it tries to expand.
 
-If a metal beam expands freely, it simply grows slightly longer. If it is trapped between two rigid walls, it pushes hard as it tries to expand.
+Bridge joints, pipe loops, rail gaps, and concrete grooves exist to give expansion somewhere to go.
 
-This is why bridge joints, pipe loops, rail design, and concrete grooves are important. They give expansion somewhere to go.
+**Freezing water** is another powerful example. Water expands as it freezes. Trapped in a crack or pipe, that expansion can split rock or burst metal.
 
-Freezing water is another powerful example. Water expands as it freezes. If trapped inside rock cracks or pipes, the expansion can split the rock or burst the pipe.
-
-Small changes in size can create large stresses.
+Small change in size. Large stress in the material.
 
 ## Common Misconceptions
 
-One common mistake is thinking expansion by heat means objects become heavier. Usually the mass stays the same. The object takes up more space, so its density may decrease.
+**Mistake 1:** Thinking expansion means the object gained mass. Usually mass stays the same. Volume increases, so density may decrease.
 
-Another mistake is thinking only metals expand. Solids, liquids, and gases usually expand when heated.
+**Mistake 2:** Thinking only metals expand. Solids, liquids, and gases usually expand when heated.
 
-A third mistake is thinking expansion is always visible. Often it is tiny, but still important.
+**Mistake 3:** Thinking expansion is always visible. Often it is microscopic—but still strong enough to buckle rails or burst pipes.
 
-A fourth mistake is thinking expansion is always harmful. It can be useful in thermometers, thermostats, engines, and safety devices.
+**Mistake 4:** Thinking expansion is always bad. It makes thermometers, thermostats, and many safety devices work.
 
-Finally, remember that water has an unusual expansion behavior near freezing.
+**Mistake 5:** Forgetting that water expands when it freezes. That exception shapes weather, geology, plumbing, and life in cold climates.
 
 ## Safety with Expansion by Heat
 
-Thermal expansion can create safety risks.
+Thermal expansion creates real safety risks.
 
-Sealed containers can burst when heated. Hot liquids can expand and overflow. Frozen water can break pipes. Hot metal parts can fit differently than cold ones. Tires and balls can change pressure with temperature.
+- Sealed containers can **burst** when heated.
+- Hot liquids can **expand and overflow**.
+- Frozen water can **break pipes**.
+- Hot metal parts can **fit differently** than cold ones.
+- Tires and sports balls can change **pressure** with temperature.
 
-Good safety habits include:
+Good safety habits:
 
 - Never heat sealed containers unless they are designed for heating.
 - Leave room for liquids to expand when heating them.
 - Be careful opening hot jars, bottles, or containers.
 - Protect water pipes from freezing.
-- Check tire pressure according to instructions, especially with temperature changes.
+- Check tire and ball pressure according to instructions, especially after big temperature swings.
 - Use gloves or tools when handling hot metal parts.
 - Keep face and hands away from steam and hot liquids.
 - Follow laboratory directions when heating glassware or liquids.
 
-Expansion by heat is usually predictable, but it should not be ignored.
+Expansion by heat is predictable. That is why you can plan for it—and why ignoring it is dangerous.
 
 ## The Big Idea
 
 Expansion by heat is the tendency of many materials to increase in size when warmed.
 
-It happens because particles usually move more vigorously and spread farther apart as temperature rises. Solids, liquids, and gases can all expand, though gases usually expand the most. Thermal expansion explains thermometers, bridge joints, railroad tracks, sagging wires, loose jar lids, frozen pipes, weather, and machine design.
+Particles usually move more vigorously and spread slightly farther apart as temperature rises. Solids, liquids, and gases all expand, though gases usually expand the most when free to do so. Thermal expansion explains thermometers, bridge joints, railroad tracks, sagging wires, loose jar lids, burst pipes, weather, and machine design.
 
 If you remember only one sentence, remember this:
 
@@ -267,12 +254,12 @@ If you remember only one sentence, remember this:
 
 1. What is expansion by heat?
 2. What is the scientific name for expansion by heat?
-3. How does heating usually affect the motion of particles?
+3. How does heating usually affect particle motion and spacing?
 4. What is thermal contraction?
 5. In what ways can an object expand?
-6. Why can a small expansion in a solid still be important?
-7. How do liquid thermometers use thermal expansion?
-8. Why do gases often expand more noticeably than solids or liquids?
+6. Why can a small expansion in a solid still be very important?
+7. Which state of matter usually expands the most when heated—and why?
+8. How do liquid thermometers use thermal expansion?
 9. What may happen if a gas is heated in a rigid sealed container?
 10. How can heating affect density?
 11. Why does warm air usually rise?
@@ -281,13 +268,13 @@ If you remember only one sentence, remember this:
 14. Why can railroad tracks buckle in hot weather?
 15. Why do power lines often sag more on hot days?
 16. Why can warming a metal jar lid make it easier to open?
-17. What is a bimetallic strip?
-18. How can a bimetallic strip be useful in a thermostat?
-19. Why must engine designers think about thermal expansion?
-20. What is unusual about water as it freezes?
-21. How can freezing water break rocks or pipes?
-22. How does expansion by heat help drive weather?
-23. Why can temperature matter in precise measurements?
-24. How can blocked expansion create large forces?
+17. What is a bimetallic strip, and why does it bend when heated?
+18. Why must engine and machine designers think about thermal expansion?
+19. What is unusual about water as it freezes?
+20. How can freezing water break rocks or pipes?
+21. How does expansion by heat help drive weather?
+22. Why can temperature matter in precise measurements?
+23. How can blocked expansion create large forces?
+24. Give two examples of thermal expansion in everyday life.
 25. What are three safety rules related to expansion by heat?
 26. In your own words, explain why expansion by heat does not usually mean an object gained mass.

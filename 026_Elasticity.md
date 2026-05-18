@@ -2,15 +2,17 @@
 
 ![Elasticity](026_Elasticity_01.png)
 
-Imagine pulling back a rubber band between your fingers. It stretches longer and longer. When you let go, it snaps back toward its original shape. Now imagine bending a paper clip back and forth. At first it bends a little, but soon it stays bent or breaks.
+Imagine pulling a slingshot back until the bands are stretched tight. Your fingers feel the pull. The bands want to snap forward. When you let go, the pouch flies toward the target and the bands whip back toward their normal shape.
 
-The rubber band and the paper clip do not respond to force in the same way.
+Now imagine bending a paper clip back and forth with pliers. At first it bends a little. After a few bends, it stays crooked. Push too hard, and it may break.
+
+The slingshot bands and the paper clip do not respond to force in the same way.
 
 That difference is part of elasticity.
 
 **Elasticity is the ability of a material or object to return to its original shape after being stretched, squeezed, bent, or twisted.**
 
-Elasticity helps explain rubber bands, springs, trampolines, bows and arrows, diving boards, balls, mattresses, bridges, bones, muscles, car suspensions, and even the way buildings move slightly in strong winds or earthquakes.
+Elasticity helps explain rubber bands, springs, trampolines, bows and arrows, basketballs, bike suspensions, diving boards, mattresses, bridges, bones, muscles, and even the way buildings sway slightly in strong winds or earthquakes.
 
 Elasticity is not only about things that feel rubbery. Metals, wood, plastic, glass, bone, and stone can all be elastic in small amounts.
 
@@ -28,29 +30,33 @@ Deformation can happen in several ways:
 - **Twisting**
 - **Shearing**
 
-Stretching pulls an object longer, like a rubber band.
+Stretching pulls an object longer, like a rubber band on a slingshot.
 
-Compression squeezes an object shorter, like a spring pressed down.
+Compression squeezes an object shorter, like a spring in a bike shock when you land a jump.
 
-Bending curves an object, like a diving board under a jumper.
+Bending curves an object, like a diving board under a jumper or a hockey stick during a slap shot.
 
-Twisting turns one part of an object compared with another, like wringing a towel.
+Twisting turns one part of an object compared with another, like wringing out a wet towel.
 
-Shearing pushes layers sideways past each other, like sliding the top of a deck of cards.
+Shearing pushes layers sideways past each other, like sliding the top card in a deck.
 
 Elasticity describes what happens after the force is removed.
+
+![Five types of deformation](026_Elasticity_02.png)
 
 ## Elastic and Inelastic Behavior
 
 An object behaves **elastically** if it returns to its original shape after the force is removed.
 
-A spring that is gently stretched and released usually returns to its starting length. A rubber ball squashes when it hits the floor and then springs back.
+A spring gently stretched and released usually returns to its starting length. A basketball flattens when it hits the court, then springs back into a round shape.
 
 An object behaves **inelastically** if it does not fully return to its original shape.
 
-Clay is mostly inelastic. If you press your thumb into clay, the dent remains. A paper clip bent too far may stay bent. A crushed soda can does not pop back to its original shape.
+Clay is mostly inelastic. Press your thumb into clay, and the dent stays. A paper clip bent too far may stay bent. A crushed soda can does not pop back to its original shape.
 
 Most real materials are not perfectly elastic or perfectly inelastic. They may behave elastically for small forces and inelastically for larger forces.
+
+![Elastic vs inelastic](026_Elasticity_03.png)
 
 ## The Elastic Limit
 
@@ -63,6 +69,8 @@ The elastic limit is important because it marks the boundary between temporary s
 Engineers must know the elastic limits of materials when designing bridges, airplanes, springs, sports equipment, buildings, and machines.
 
 Good design keeps materials safely within their elastic range during normal use.
+
+![The elastic limit](026_Elasticity_04.png)
 
 ## Hooke's Law
 
@@ -100,6 +108,8 @@ Here, **F** is force, **k** is the spring constant, and **x** is the stretch or 
 
 You do not need advanced algebra to understand the meaning: a stiffer spring needs more force for the same stretch.
 
+![Hooke's law](026_Elasticity_05.png)
+
 ## A Simple Elasticity Calculation
 
 Suppose a spring has a spring constant of 20 newtons per meter.
@@ -132,9 +142,11 @@ This stored energy is called **elastic potential energy**.
 
 When the object returns to its original shape, the stored energy can be released.
 
-That is why a stretched rubber band can fly across a room, a spring can push a toy forward, and a bow can launch an arrow.
+That is why a stretched slingshot can launch a stone, a compressed spring can push a toy car forward, and a drawn bow can send an arrow flying.
 
 Elastic potential energy is energy stored by deformation.
+
+![Elastic potential energy](026_Elasticity_06.png)
 
 ## Springs
 
@@ -146,9 +158,8 @@ Springs are found in:
 
 - Pens
 - Mattresses
-- Car suspensions
+- Car and bike suspensions
 - Door hinges
-- Clocks
 - Scales
 - Toys
 - Trampolines
@@ -188,7 +199,7 @@ Sports use elasticity constantly.
 
 A basketball flattens slightly when it hits the floor, then springs back and bounces. A tennis racket's strings stretch and return, helping send the ball away. A pole vaulter's pole bends and stores energy, then straightens to lift the athlete. A bow stores energy as it bends, then releases it into the arrow.
 
-Running also involves elasticity. Tendons and muscles store and release energy with each stride. Good shoes use elastic materials to cushion impacts and return some energy.
+Running also involves elasticity. Tendons and muscles store and release energy with each stride. Good running shoes use elastic materials to cushion impacts and return some energy.
 
 Athletic movement is not only muscle power. It is also the clever use of elastic materials in the body and equipment.
 
@@ -291,6 +302,8 @@ Good safety habits include:
 - Release stored elastic energy slowly when possible.
 
 Elasticity is useful because it stores and returns energy. That same ability can cause injuries if handled carelessly.
+
+![Safety with elastic objects](026_Elasticity_07.png)
 
 ## The Big Idea
 

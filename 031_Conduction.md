@@ -2,51 +2,61 @@
 
 ![Conduction](031_Conduction_01.png)
 
-Imagine placing a metal spoon into a mug of hot cocoa. At first only the end of the spoon in the cocoa is hot. After a short time, the handle warms too, even though the handle never touched the cocoa.
+Imagine you grab a metal spoon and stick it into a steaming bowl of chili. The bowl end gets hot fast. A minute later, the handle is too hot to hold—even though the handle never touched the chili.
 
 Thermal energy traveled through the spoon.
 
-That kind of heat transfer is conduction.
+That kind of heat transfer is **conduction**.
 
 **Conduction is the transfer of heat through direct contact between particles.**
 
-Conduction explains why a metal pan heats on a stove, why a cold floor chills bare feet, why oven mitts protect hands, why a spoon gets hot in soup, why ice melts faster on metal than on wood, and why insulation helps keep buildings warm or cool.
+Conduction explains why a frying pan heats on a stove, why bare feet hate cold tile, why oven mitts save your skin, why ice melts faster on a metal tray than on a wooden cutting board, and why your gaming laptop needs a heat sink when the fans spin up.
 
 Conduction is one of the three main ways heat moves. The other two are convection and radiation.
+
+![Thermal energy through a metal spoon](031_Conduction_02.png)
 
 ## Heat Moves from Warm to Cool
 
 Heat is thermal energy moving from warmer matter to cooler matter.
 
-In conduction, this movement happens through direct contact.
+In conduction, that movement happens through direct contact.
 
-When a hot object touches a cooler object, faster-moving particles in the warmer object bump into slower-moving particles in the cooler object. Energy is passed along from particle to particle.
+When a hot object touches a cooler object, faster-moving particles in the warmer object bump into slower-moving particles in the cooler object. Energy gets passed along from particle to particle.
 
 The warmer object loses some thermal energy. The cooler object gains some.
 
 This continues until the objects reach the same temperature, or until something keeps adding or removing heat.
 
+Remember the rule:
+
+**Hotter to cooler. Not the other way around.**
+
+![Heat moves from warm to cool](031_Conduction_03.png)
+
 ## Particles Passing Energy
 
-Matter is made of tiny particles, such as atoms and molecules.
+Matter is made of tiny particles—atoms and molecules.
 
-In a solid, particles are packed closely together and mostly vibrate in place. When one part of the solid is heated, the particles there vibrate more strongly.
+In a solid, particles are packed closely together and mostly vibrate in place. When one part of the solid is heated, the particles there vibrate harder.
 
-Those particles jostle their neighbors. The neighbors then jostle their neighbors. In this way, thermal energy travels through the material.
+Those particles jostle their neighbors. The neighbors jostle their neighbors. In this way, thermal energy travels through the material.
 
 This is conduction at the particle level.
 
-No large piece of the solid has to flow from one place to another. The energy is passed along through the material.
+No big chunk of the solid has to slide from one place to another. The energy is passed along through the material.
+
+![Particles passing energy](031_Conduction_04.png)
 
 ## Conduction in Solids
 
 Conduction is especially important in solids.
 
-In solids, particles are close together, so energy can be passed from one particle to the next. Metals conduct heat especially well, but many nonmetals conduct heat poorly.
+In solids, particles sit close together, so energy can hop from one particle to the next. Metals conduct heat especially well. Many nonmetals conduct heat poorly.
 
-A metal nail held in a flame becomes hot along its length. A wooden stick held near a flame may burn at one end while the other end stays cooler for a longer time.
+Hold a metal nail in a flame, and the far end gets hot along the length. Hold a wooden stick near a flame, and one end may char while the other end stays cooler longer.
 
-The difference is not that wood has no particles. The difference is how easily thermal energy moves through the material.
+Wood still has particles. The difference is how easily thermal energy moves through the material.
 
 ## Conductors
 
@@ -62,11 +72,11 @@ Examples include:
 - Steel
 - Silver
 
-This is why cooking pots and pans are often made from metal. The metal conducts heat from the stove to the food.
+That is why cooking pots and pans are often metal. The metal conducts heat from the stove to the food.
 
-Copper and aluminum are especially useful in cookware because they spread heat quickly. Iron and steel are strong and durable, though they may conduct heat differently.
+Copper and aluminum spread heat quickly—useful for even cooking. Iron and steel are strong and durable, though they may conduct heat differently.
 
-Good conductors are useful when you want heat to move.
+Good conductors are useful when you want heat to move on purpose.
 
 ## Why Metals Conduct Well
 
@@ -74,9 +84,9 @@ Metals conduct heat well for two main reasons.
 
 First, their atoms are packed closely, so vibrations can pass energy along.
 
-Second, metals contain electrons that can move through the material. These mobile electrons help carry energy from hotter regions to cooler regions.
+Second, metals contain **free electrons** that can move through the material. These mobile electrons help carry energy from hotter regions to cooler regions.
 
-This is why a metal spoon heats much faster than a wooden spoon in the same pot of soup.
+That is why a metal spoon heats much faster than a wooden spoon in the same pot of soup.
 
 The metal gives thermal energy an easier path.
 
@@ -101,6 +111,8 @@ Oven mitts, winter coats, cooler walls, sleeping bags, house insulation, and pla
 
 An insulator does not create heat or cold. It slows the movement of thermal energy.
 
+![Conductors and insulators](031_Conduction_05.png)
+
 ## Air as an Insulator
 
 Air can be a good insulator when it is trapped and cannot move much.
@@ -111,7 +123,7 @@ The trapped air slows conduction.
 
 Loose moving air can carry heat by convection, but trapped still air is often a useful insulator.
 
-This is why fluffy materials can keep things warm even though the material itself is not hot.
+That is why fluffy materials can keep you warm even though the fluffy stuff itself is not hot.
 
 ## Conduction and Touch
 
@@ -119,15 +131,17 @@ Conduction affects what objects feel like.
 
 A metal chair and a wooden bench in the same cold room may be at the same temperature. But the metal feels colder because it conducts heat away from your skin faster.
 
-Your skin senses heat flow, not temperature alone.
+Your skin senses heat **flow**, not temperature alone.
 
-This is why tile floors feel colder than carpet in winter. The tile conducts heat away from your feet faster, while carpet and trapped air slow heat transfer.
+That is why tile floors feel colder than carpet in winter. Tile conducts heat away from your feet faster. Carpet and trapped air slow heat transfer.
 
-Touch can be misleading. A thermometer gives a better temperature measurement.
+Touch can mislead you. A thermometer gives a better temperature measurement.
+
+![Same temperature, different feel](031_Conduction_06.png)
 
 ## A Simple Conduction Example
 
-Suppose one end of a metal rod is placed in hot water while the other end is in cool air.
+Suppose one end of a metal rod is placed in hot water while the other end sits in cool air.
 
 The end in the hot water warms first. Thermal energy moves by conduction through the metal toward the cooler end.
 
@@ -163,7 +177,7 @@ These factors help engineers design cookware, insulation, clothing, machines, an
 
 Cooking often depends on conduction.
 
-A frying pan conducts heat from the stove to the food. The bottom of a pancake cooks where it touches the hot pan. A potato baked in an oven warms partly because heat conducts inward from its hot outer surface.
+A frying pan conducts heat from the stove to the food. The bottom of a pancake cooks where it touches the hot pan. A baked potato warms partly because heat conducts inward from its hot outer surface.
 
 Some cookware spreads heat evenly. Other cookware may create hot spots.
 
@@ -175,13 +189,13 @@ Cooking is not only about having heat. It is about moving heat into food at the 
 
 Your body gains and loses heat by conduction.
 
-If you sit on cold stone, heat conducts from your body into the stone. If you hold a warm mug, heat conducts from the mug into your hands.
+Sit on cold stone, and heat conducts from your body into the stone. Hold a warm mug, and heat conducts from the mug into your hands.
 
-Water conducts heat away from the body much faster than air. This is why cold water can be dangerous even when the air temperature would not seem extreme.
+Water conducts heat away from the body much faster than air. That is why cold water can be dangerous even when the air temperature does not seem extreme.
 
 Wet clothing also increases heat loss because water conducts heat better than trapped air.
 
-Understanding conduction helps explain why staying dry matters in cold weather.
+Understanding conduction helps explain why staying dry matters in cold weather—and why a quick dip in a cold lake can shock your system even on a mild day.
 
 ## Conduction in Buildings
 
@@ -199,9 +213,11 @@ Good buildings manage heat transfer in several ways at once.
 
 Machines often need careful control of conduction.
 
-Engines, computers, motors, and electrical devices can produce heat. If that heat is not carried away, parts may overheat and fail.
+Engines, computers, motors, and electrical devices produce heat. If that heat is not carried away, parts may overheat and fail.
 
-Metal heat sinks conduct heat away from hot electronic parts. Engine blocks conduct heat to coolant. Radiators conduct heat from hot fluid to metal fins, where air can carry the heat away.
+Metal **heat sinks** conduct heat away from hot electronic parts. Engine blocks conduct heat to coolant. Radiators conduct heat from hot fluid to metal fins, where air can carry the heat away.
+
+Your phone, laptop, or game console may feel warm after heavy use because waste heat must move out through metal, plastic, and air. Fans and heat sinks exist because conduction alone is not always fast enough.
 
 Sometimes engineers want conduction. Sometimes they want insulation.
 
@@ -216,6 +232,8 @@ A pot of soup on a stove is a good example. Heat conducts from the burner into t
 A winter coat also involves several kinds of heat transfer. It slows conduction through trapped air, reduces convection by stopping air movement, and may reduce radiation depending on the materials.
 
 Scientists separate conduction, convection, and radiation to understand them. Nature often uses them together.
+
+![Conduction, convection, and radiation together](031_Conduction_07.png)
 
 ## Common Misconceptions
 

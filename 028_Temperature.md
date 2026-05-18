@@ -2,35 +2,39 @@
 
 ![Temperature](028_Temperature_01.png)
 
-Imagine touching a metal railing and a wooden fence on the same cold morning. The metal may feel much colder than the wood, even though both have been outside in the same air for hours.
+Imagine stepping outside on a freezing morning to grab your bike. You grab the metal handlebar first—and yank your hand back. "Ice!" you think. Then you touch the rubber grip. Same morning air. Same garage. The grip does not feel nearly as brutal.
 
-Your hand is not a perfect thermometer.
+Your hand lied to you.
 
-The metal feels colder because it pulls thermal energy from your hand faster than wood does. The actual temperature of the metal and wood may be nearly the same.
+The metal and rubber may be almost the same temperature. Metal just pulls thermal energy away from your skin faster. That is why it feels colder.
 
 **Temperature is a measure of how hot or cold something is, related to the average motion energy of its particles.**
 
-Temperature helps explain weather reports, fevers, cooking, freezing, boiling, melting, engines, refrigerators, climate, materials, and comfort. It is one of the most common measurements in daily life, but it is also one of the easiest to misunderstand.
+Temperature shows up everywhere: weather apps, fevers, pizza ovens, ice rinks, gaming consoles that overheat, tire pressure on a road trip, and whether your water bottle freezes in your backpack overnight. It is one of the most common measurements in daily life—and one of the easiest to misunderstand.
+
+![Your hand is not a perfect thermometer](028_Temperature_02.png)
 
 ## Particles Are Always Moving
 
-Matter is made of tiny particles, such as atoms and molecules.
+Matter is made of tiny particles—atoms and molecules.
 
-These particles are always moving.
+They never stop moving.
 
-In a solid, particles usually vibrate in place. In a liquid, particles move around one another. In a gas, particles move freely and rapidly.
+In a **solid**, particles mostly vibrate in place. In a **liquid**, they slide past one another. In a **gas**, they zip around freely.
 
-Temperature is related to the average motion energy of these particles.
+Temperature is tied to the **average** motion energy of those particles.
 
-Higher temperature means the particles have greater average motion energy.
+Higher temperature means greater average motion energy.
 
-Lower temperature means the particles have less average motion energy.
+Lower temperature means less average motion energy.
 
-This does not mean every particle in a warm object moves at exactly the same speed. Some move faster, and some move slower. Temperature describes the average.
+Not every particle moves at the same speed. Some are faster. Some are slower. Temperature describes the average.
+
+![Particles and temperature](028_Temperature_03.png)
 
 ## Temperature and Heat
 
-Temperature and heat are closely connected, but they are not the same.
+People mix these up all the time. Scientists do not.
 
 **Temperature** tells how hot or cold something is.
 
@@ -38,259 +42,246 @@ Temperature and heat are closely connected, but they are not the same.
 
 A thermometer measures temperature. It does not directly measure heat.
 
-For example, a cup of boiling water has a higher temperature than a bathtub of warm water. But the bathtub may contain more total thermal energy because it has much more water.
+Here is the classic comparison: a small cup of nearly boiling water has a **higher temperature** than a full bathtub of warm water. But the bathtub can hold **more total thermal energy** because it has far more water—even though each cupful in the tub feels less extreme.
 
-Temperature is about average particle energy. Thermal energy also depends on how much matter there is.
+Temperature is about average particle energy per bit of matter. Total thermal energy also depends on **how much** matter you have.
+
+Remember:
+
+**Temperature tells hotness. Heat tells energy on the move.**
+
+![Temperature is not the same as heat](028_Temperature_04.png)
 
 ## Thermal Equilibrium
 
-When two objects at different temperatures touch, thermal energy moves from the warmer object to the cooler object.
+When two objects at different temperatures touch, thermal energy moves from the warmer one to the cooler one.
 
-The warmer object cools. The cooler object warms.
+The warm object cools. The cool object warms.
 
-Eventually, if nothing else interferes, they reach the same temperature. This condition is called **thermal equilibrium**.
+If nothing else interferes, they eventually reach the **same temperature**. That is **thermal equilibrium**.
 
-At thermal equilibrium, there is no overall heat flow between the objects because their temperatures are equal.
+At thermal equilibrium, there is no overall heat flow between them—their temperatures match.
 
-This is why a cold spoon placed in hot soup warms up, while the soup cools slightly. The spoon and nearby soup move toward the same temperature.
+Drop a cold metal spoon into hot chili and watch: the spoon warms, the chili near the spoon cools a little, and they creep toward the same temperature. Same idea when you hold an ice pack on a sore knee, or when a cold drink warms up in your hand.
+
+![Thermal equilibrium](028_Temperature_05.png)
 
 ## Thermometers
 
 A **thermometer** is an instrument used to measure temperature.
 
-Different thermometers work in different ways.
+Different thermometers work in different ways:
 
-A liquid thermometer uses a liquid that expands when warmed and contracts when cooled. As the liquid expands, it rises in a narrow tube.
+- A **liquid thermometer** uses liquid that expands when warmed and contracts when cooled. The liquid rises or falls in a narrow tube.
+- A **digital thermometer** uses electronic parts that change their electrical behavior with temperature.
+- An **infrared thermometer** detects radiation from a surface and estimates temperature without touching it.
 
-A digital thermometer uses electronic parts that change their electrical behavior with temperature.
+Every thermometer needs a **scale** so the reading means something. Without a scale, "42" on the display is just a number.
 
-An infrared thermometer detects radiation from an object's surface and estimates temperature without touching it.
+## Three Temperature Scales
 
-All thermometers need a scale so the reading has meaning.
+Scientists and weather forecasters use three main scales:
 
-## Temperature Scales
+- **Celsius** — science and most countries for everyday use
+- **Fahrenheit** — everyday weather and body temperature in the United States
+- **Kelvin** — science, especially physics and chemistry
 
-The three most important temperature scales are:
+They mark temperature differently, but all measure the same physical idea: how hot or cold something is.
 
-- **Celsius**
-- **Fahrenheit**
-- **Kelvin**
+### Celsius
 
-The **Celsius** scale is used in science and in most countries for everyday temperatures.
+Water freezes at **0 °C** and boils at **100 °C** under ordinary pressure at sea level.
 
-The **Fahrenheit** scale is used for everyday weather and body temperature in the United States.
+Room temperature is often around **20 to 25 °C**. Normal body temperature is about **37 °C**.
 
-The **Kelvin** scale is used in science, especially physics and chemistry.
+Celsius fits science well because it is based on water's freezing and boiling points and works smoothly with metric units.
 
-Each scale marks temperature differently, but all are measuring the same physical idea: how hot or cold something is.
+### Fahrenheit
 
-## Celsius
+Water freezes at **32 °F** and boils at **212 °F** under ordinary pressure at sea level.
 
-On the Celsius scale, water freezes at **0 degrees Celsius** and boils at **100 degrees Celsius** under ordinary pressure at sea level.
+Room temperature is often around **68 to 77 °F**. Body temperature is about **98.6 °F**.
 
-Room temperature is often around 20 to 25 degrees Celsius.
+One degree Celsius equals 1.8 degrees Fahrenheit. Fahrenheit's smaller steps can feel more precise for everyday weather—why U.S. forecasts often stick with it.
 
-Human body temperature is about 37 degrees Celsius.
+### Kelvin
 
-Celsius is convenient for science because it is based on water's freezing and boiling points and works well with metric units.
+Kelvin starts at **absolute zero**, the lowest possible temperature: **0 K**, equal to **-273.15 °C**.
 
-When you do science experiments, Celsius is usually the best everyday temperature scale to use.
+Kelvin does not use the word "degrees." Write **300 K**, not "300 degrees K."
 
-## Fahrenheit
+Kelvin is useful because it starts where particles have the least possible thermal motion, and it avoids negative numbers in many physics calculations.
 
-On the Fahrenheit scale, water freezes at **32 degrees Fahrenheit** and boils at **212 degrees Fahrenheit** under ordinary pressure at sea level.
+Water freezes at about **273 K** and boils at about **373 K** under ordinary pressure at sea level.
 
-Room temperature is often around 68 to 77 degrees Fahrenheit.
-
-Human body temperature is about 98.6 degrees Fahrenheit.
-
-Fahrenheit uses smaller degree steps than Celsius. A change of 1 degree Celsius equals a change of 1.8 degrees Fahrenheit.
-
-In the United States, weather forecasts commonly use Fahrenheit.
-
-## Kelvin
-
-The Kelvin scale begins at **absolute zero**, the lowest possible temperature.
-
-Absolute zero is **0 kelvin**, which is equal to **-273.15 degrees Celsius**.
-
-Kelvin does not use the word "degrees." A temperature is written as 300 K, not 300 degrees K.
-
-Kelvin is useful in science because it starts at the point where particles have the least possible thermal motion. It also avoids negative numbers in many physics and chemistry calculations.
-
-Water freezes at about 273 K and boils at about 373 K under ordinary pressure at sea level.
+![Three temperature scales](028_Temperature_06.png)
 
 ## Absolute Zero
 
-**Absolute zero** is the lowest possible temperature.
+**Absolute zero** is the bottom of the temperature scale—not just "very cold," but the lowest temperature possible.
 
-At absolute zero, particles have the least thermal motion allowed by nature. They do not have ordinary thermal energy left to give up.
+At absolute zero, particles have the least thermal motion nature allows. They cannot give up ordinary thermal energy they no longer have.
 
-Scientists can get extremely close to absolute zero in special laboratories, but they cannot reach it exactly.
+Scientists can get extremely close in special labs, but they cannot reach absolute zero exactly.
 
-Absolute zero is not just "very cold." It is the bottom of the temperature scale.
-
-Understanding absolute zero helps scientists study atoms, molecules, superconductors, and strange forms of matter.
+Understanding absolute zero helps scientists study atoms, superconductors, and strange forms of matter at the edge of physics.
 
 ## Converting Temperatures
 
-You do not need to memorize every conversion, but a few common temperatures are useful:
+You do not need every formula memorized, but a few anchor points help:
 
-- Water freezes: **0 degrees Celsius = 32 degrees Fahrenheit = 273 K**
-- Room temperature: about **20 to 25 degrees Celsius = 68 to 77 degrees Fahrenheit**
-- Human body temperature: about **37 degrees Celsius = 98.6 degrees Fahrenheit**
-- Water boils: **100 degrees Celsius = 212 degrees Fahrenheit = 373 K**
+| Situation | Celsius | Fahrenheit | Kelvin |
+|-----------|---------|------------|--------|
+| Water freezes | 0 °C | 32 °F | 273 K |
+| Room temperature | ~20–25 °C | ~68–77 °F | — |
+| Body temperature | ~37 °C | ~98.6 °F | — |
+| Water boils | 100 °C | 212 °F | 373 K |
 
-For Celsius and Kelvin, the size of one step is the same. Kelvin is just shifted upward from Celsius:
+For Celsius and Kelvin, one step is the same size. Kelvin is Celsius shifted upward:
 
-**K = degrees Celsius + 273.15**
+**K = °C + 273.15**
 
-For many classroom estimates, students often use:
+For quick classroom estimates:
 
-**K is about degrees Celsius + 273**
+**K ≈ °C + 273**
 
-## Temperature and Expansion
+## Thermal Expansion
 
-Many materials expand when warmed and contract when cooled.
+Most materials **expand** when warmed and **contract** when cooled.
 
-This happens because warmer particles usually move more vigorously and tend to spread a little farther apart.
+Warmer particles usually move more vigorously and spread slightly farther apart. That is **thermal expansion**.
 
-This effect is called **thermal expansion**.
+It shows up in:
 
-Thermometers, bridges, railroad tracks, sidewalks, wires, and metal lids all involve thermal expansion.
+- Liquid thermometers (liquid rises in the tube)
+- Bridge and sidewalk **expansion joints** (room to grow in summer heat)
+- Railroad tracks and power lines (length changes with season)
+- Metal jar lids (a warm lid can loosen enough to twist open)
 
-A tight metal jar lid may loosen when warmed because the metal expands slightly. Bridges and sidewalks may have gaps or joints so they can expand in hot weather without cracking or buckling.
+Temperature changes can change size—and engineers plan for it.
 
-Temperature changes can make materials change size.
+![Thermal expansion](028_Temperature_07.png)
 
 ## Temperature and State of Matter
 
-Temperature helps determine whether matter is solid, liquid, or gas.
+Temperature helps decide whether matter is solid, liquid, or gas.
 
-At low temperatures, many substances are solid because particles do not have enough energy to move freely past one another.
+At low temperatures, many substances are solid—particles lack enough energy to move freely past one another.
 
-At higher temperatures, a solid may melt into a liquid.
+Raise the temperature and a solid may **melt** into a liquid.
 
-At still higher temperatures, a liquid may boil or evaporate into a gas.
+Raise it more and a liquid may **boil** or **evaporate** into a gas.
 
-The temperatures at which these changes happen depend on the substance and the pressure.
+The exact temperatures depend on the substance and the pressure.
 
-Water melts at 0 degrees Celsius and boils at 100 degrees Celsius under ordinary pressure, but iron, oxygen, wax, and salt have very different melting and boiling temperatures.
+Water melts at 0 °C and boils at 100 °C under ordinary pressure—but iron, wax, and oxygen have very different melting and boiling points.
 
 ## Temperature and Pressure
 
-Temperature can affect pressure, especially in gases.
+Temperature strongly affects **pressure**, especially in gases.
 
-When a gas is heated in a closed container, its particles move faster and hit the container walls harder and more often. This can increase pressure.
+Heat a gas in a closed container and its particles move faster. They hit the walls harder and more often. Pressure rises.
 
-This is why sealed containers should not be heated unless they are designed for it. A heated sealed container can burst.
+That is why you should not heat sealed containers unless they are built for it—a heated sealed container can burst.
 
-Tire pressure can also change with temperature. On a cold morning, tire pressure may be lower. After driving or during hot weather, tire pressure may rise.
-
-Temperature, pressure, and particle motion are closely related.
+Tire pressure changes with temperature too. Cold morning air can mean lower pressure. After driving or on a hot afternoon, pressure can climb. Check tires when they are cold for the most accurate reading.
 
 ## Temperature and Weather
 
-Weather reports often begin with temperature because temperature affects so many other weather conditions.
+Weather reports lead with temperature because so much else follows from it.
 
-Warm air can hold more water vapor than cold air. Temperature differences help create pressure differences, winds, clouds, and storms.
+Warm air can hold more water vapor than cold air. Temperature differences drive pressure differences, winds, clouds, and storms.
 
-Large bodies of water change temperature slowly, while land often warms and cools more quickly. This difference helps create sea breezes and affects coastal climates.
+Land warms and cools faster than large bodies of water. That difference helps create **sea breezes** and shapes coastal climates.
 
-Daily temperature changes also affect frost, fog, dew, snow, ice, and thunderstorms.
-
-Temperature is one of the main clues meteorologists use to understand the atmosphere.
+Daily temperature swings affect frost, fog, dew, snow, and thunderstorms. Meteorologists watch temperature like coaches watch the scoreboard—it tells them what the atmosphere is doing next.
 
 ## Temperature and the Human Body
 
-The human body works best near a narrow internal temperature range.
+Your body works best in a narrow internal temperature range.
 
-Normal body temperature is often about 37 degrees Celsius, or 98.6 degrees Fahrenheit, though it varies somewhat from person to person and during the day.
+Normal body temperature is often about **37 °C (98.6 °F)**, though it varies by person and time of day.
 
-If body temperature rises too high, a person may develop heat exhaustion or heatstroke. If it falls too low, hypothermia can occur.
+Too hot: heat exhaustion or heatstroke become risks. Too cold: **hypothermia**.
 
-The body controls temperature by sweating, shivering, changing blood flow to the skin, and changing behavior.
+Your body fights back with sweating, shivering, changing blood flow to the skin, and behavior—shade, water, layers, movement.
 
-Taking temperature with a thermometer can help detect illness because fever is often a sign that the body is fighting infection.
+A thermometer reading during illness matters because **fever** often means your body is fighting infection. Coaches, hikers, and athletes who push hard in heat or cold need the same awareness.
 
 ## Temperature in Cooking
 
 Cooking is controlled temperature.
 
-Food changes when its temperature rises. Proteins change shape, starches soften, water boils away, fats melt, and sugars brown.
+Heat changes food: proteins reshape, starches soften, water boils off, fats melt, sugars brown.
 
-A refrigerator slows the growth of many microbes by keeping food cold. A freezer slows changes even more by keeping water frozen.
+A refrigerator slows microbes by staying cold. A freezer slows change even more by keeping water solid.
 
-An oven, stove, or grill uses higher temperatures to change food's texture, flavor, and safety.
+An oven or grill uses high heat to change texture, flavor, and safety.
 
-Cooking safely often means reaching the right internal temperature, not simply heating for a certain number of minutes.
+Cooking safely often means hitting the right **internal** temperature—not just heating for a set number of minutes. A burger can look done on the outside while the center is still undercooked.
 
 ## Temperature in Engineering
 
-Engineers must design for temperature.
+Engineers design for temperature because materials and machines do not stay the same when hot or cold.
 
-Engines get hot, so they need cooling systems. Electronics can fail if they overheat. Aircraft, bridges, roads, spacecraft, and buildings must survive temperature changes.
+Engines need cooling. Electronics fail when they overheat—ask anyone whose laptop fan sounds like a jet during a long gaming session. Aircraft, bridges, roads, and spacecraft must survive expansion, contraction, and strength changes.
 
-Materials can expand, contract, soften, harden, become brittle, or lose strength as temperature changes.
-
-Engineers ask:
+Good design asks:
 
 - How hot will this part get?
 - How cold might it become?
 - Will it expand or contract?
 - Will it still be strong?
-- How can heat be measured and controlled?
+- How do we measure and control heat?
 
-Temperature is not just a number. It is a design condition.
+Temperature is not just a number on a screen. It is a design condition.
 
 ## Measuring Temperature Carefully
 
-Good temperature measurement requires care.
+Good measurement takes care.
 
-A thermometer should be used correctly for the object or substance being measured. A room thermometer measures air temperature. A cooking thermometer measures food temperature. A medical thermometer measures body temperature.
+Use the right thermometer for the job: room air, food, body, engine coolant. Let the thermometer **equilibrate**—give it time to match what you are measuring. Read the scale carefully. Avoid touching the sensing part with warm fingers if that would skew the reading.
 
-You should allow enough time for the thermometer to adjust. You should read the scale correctly. You should avoid touching the measuring part with your hand if that would warm it.
+**Infrared** thermometers read **surface** temperature. The outside of a baked potato can be scorching while the center is still cool.
 
-Infrared thermometers measure surface temperature, which may not be the same as internal temperature.
-
-Like all measurements, temperature readings can be wrong if the tool is used badly.
+Wrong tool, wrong technique, wrong conclusion.
 
 ## Common Misconceptions
 
-One common mistake is thinking temperature and heat are the same. Temperature is a measure of hotness related to average particle motion. Heat is energy moving from warmer to cooler matter.
+**Mistake 1:** Thinking temperature and heat are the same. Temperature measures hotness (average particle motion). Heat is energy moving because of a temperature difference.
 
-Another mistake is thinking your sense of touch gives exact temperature. Metal and wood at the same temperature can feel different because they conduct heat differently.
+**Mistake 2:** Trusting touch as an exact thermometer. Metal and wood at the same temperature can feel different because they conduct heat at different rates.
 
-A third mistake is thinking cold is a substance that flows. In ordinary situations, thermal energy flows from warmer matter to cooler matter.
+**Mistake 3:** Thinking cold is a substance that flows into warm things. In ordinary situations, thermal energy flows from warmer matter to cooler matter.
 
-A fourth mistake is thinking boiling water is always exactly 100 degrees Celsius. Boiling point depends on pressure, so it changes with altitude and other conditions.
+**Mistake 4:** Assuming water always boils at exactly 100 °C. Boiling point depends on pressure—it is lower on a mountain than at sea level.
 
-A fifth mistake is thinking Kelvin temperatures use degrees. Kelvin values are written simply as K.
+**Mistake 5:** Writing "degrees Kelvin." Kelvin values use **K** only: 300 K, not 300 °K.
 
 ## Safety with Temperature
 
-Temperature matters for safety.
+Temperature can injure even when nothing looks dangerous.
 
-Objects can be dangerously hot or cold even when they do not look unusual. Steam, hot metal, boiling water, dry ice, freezing weather, and overheated engines can all injure people.
+Steam, hot metal, boiling water, dry ice, freezing weather, and overheated engines are all serious hazards.
 
-Good safety habits include:
+Good habits:
 
 - Use the correct thermometer for the job.
 - Do not touch unknown hot or cold objects with bare hands.
 - Use oven mitts or heat-safe gloves when needed.
 - Keep faces and hands away from steam.
 - Do not heat sealed containers.
-- Dress properly for cold or hot weather.
+- Dress for cold or hot weather.
 - Take fever, heat exhaustion, frostbite, and hypothermia seriously.
-- Follow laboratory instructions when measuring very hot or very cold materials.
+- Follow lab instructions for very hot or very cold materials.
 
-Temperature is easy to measure, but its effects can be powerful.
+Temperature is easy to measure. Its effects can be powerful.
 
 ## The Big Idea
 
-Temperature measures how hot or cold something is and is related to the average motion energy of its particles.
+Temperature measures how hot or cold something is—related to the average motion energy of its particles.
 
-It is different from heat, which is thermal energy moving because of a temperature difference. Temperature can be measured with thermometers using Celsius, Fahrenheit, or Kelvin scales. It affects expansion, state changes, pressure, weather, cooking, machines, and living things.
+It is not the same as heat, which is thermal energy moving because of a temperature difference. Thermometers report temperature on Celsius, Fahrenheit, or Kelvin scales. Temperature affects expansion, state changes, pressure, weather, cooking, machines, and living things.
 
 If you remember only one sentence, remember this:
 
@@ -307,21 +298,20 @@ If you remember only one sentence, remember this:
 7. What is a thermometer?
 8. How does a liquid thermometer work?
 9. What are the three most important temperature scales?
-10. What is the Celsius scale commonly used for?
-11. What are the freezing and boiling points of water on the Celsius scale under ordinary pressure?
-12. What are the freezing and boiling points of water on the Fahrenheit scale under ordinary pressure?
-13. What is the Kelvin scale used for?
-14. What is absolute zero?
-15. How do you estimate kelvin from degrees Celsius?
-16. What is thermal expansion?
-17. Give two examples of thermal expansion in everyday life or engineering.
-18. How does temperature affect state of matter?
-19. Why can heating a gas in a sealed container increase pressure?
-20. How can temperature affect weather?
-21. What is normal human body temperature approximately in Celsius and Fahrenheit?
-22. How does the body cool itself when too hot?
-23. Why is temperature important in cooking?
-24. Why must engineers design for temperature changes?
-25. Why can metal feel colder than wood even when both are the same temperature?
-26. What are three safety rules related to temperature?
-27. In your own words, explain why temperature is not the same as heat.
+10. At what temperatures does water freeze and boil on the Celsius scale under ordinary pressure at sea level?
+11. At what temperatures does water freeze and boil on the Fahrenheit scale under ordinary pressure at sea level?
+12. What is the Kelvin scale used for, and how do you write a Kelvin value correctly?
+13. What is absolute zero?
+14. How do you estimate kelvin from degrees Celsius?
+15. What is thermal expansion?
+16. Give two examples of thermal expansion in everyday life or engineering.
+17. How does temperature affect state of matter?
+18. Why can heating a gas in a sealed container increase pressure?
+19. How can temperature affect weather?
+20. What is normal human body temperature approximately in Celsius and Fahrenheit?
+21. How does the body cool itself when too hot?
+22. Why is internal temperature important in cooking, not just cooking time?
+23. Why must engineers design for temperature changes?
+24. Why can metal feel colder than wood even when both are the same temperature?
+25. What are three safety rules related to temperature?
+26. In your own words, explain why temperature is not the same as heat.

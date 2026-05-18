@@ -15,13 +15,14 @@ Students should be able to:
 - Explain calibration, accuracy, precision, response time, and parallax error in age-appropriate terms.
 - Distinguish surface temperature from internal temperature.
 - Apply thermometer safety and correct-use rules.
+- Choose the correct thermometer type for a given measurement task.
 
 ### Answers to Study Questions
 
 1. A **thermometer** is an instrument used to measure temperature.
 2. A thermometer measures **temperature**, or how hot or cold something is.
 3. Heat is thermal energy moving because of a temperature difference. A thermometer measures the temperature of itself after it comes into balance with what it is measuring.
-4. Hands are poor thermometers because they sense heat flow, not exact temperature. Materials at the same temperature can feel different because they conduct heat differently.
+4. Your hand is a poor thermometer because it senses heat flow, not exact temperature. Materials at the same temperature can feel different because they conduct heat differently.
 5. A liquid thermometer uses a liquid sealed in a narrow tube. The liquid expands and rises when warmed and contracts and falls when cooled.
 6. **Thermal expansion** is the tendency of many materials to expand when heated and contract when cooled.
 7. Mercury thermometers are less common because mercury is poisonous if released.
@@ -43,8 +44,9 @@ Students should be able to:
 23. **Response time** is the time a thermometer needs to adjust and settle to the temperature of what it is measuring.
 24. Heat may not have spread evenly through an object. A food, body part, machine, or surface can be warmer outside than inside or cooler inside than outside.
 25. A **thermostat** is a device that helps control temperature, often by turning heating or cooling systems on and off.
-26. Answers may include using the correct thermometer, handling glass carefully, reporting broken thermometers, avoiding mercury, cleaning medical thermometers, keeping probes away from hands in hot food, not pointing infrared lasers at eyes, and recording units clearly.
-27. Answers may vary. A strong answer should state that different thermometers are designed for different ranges, surfaces, bodies, foods, or experiments, and the wrong one can give unsafe or inaccurate results.
+26. Answers may vary. A strong answer should state that different thermometers are designed for different ranges, surfaces, bodies, foods, or experiments, and the wrong one can give unsafe or inaccurate results.
+27. Answers may include using the correct thermometer, handling glass carefully, reporting broken thermometers, avoiding mercury, cleaning medical thermometers, keeping probes away from hands in hot food, not pointing infrared lasers at eyes, and recording units clearly.
+28. Answers may vary. A strong answer should state that a thermometer uses a predictable scale and responds consistently, while touch is affected by heat flow, material, and body condition and cannot give an exact, repeatable temperature.
 
 ### Activity Suggestions
 
@@ -80,3 +82,4 @@ Students should be able to:
 - Explain that infrared thermometers measure surfaces and can be affected by distance, aim, and surface type.
 - Treat mercury as a historical example unless your school has strict handling procedures.
 - Connect measurement habits to real consequences in medicine, cooking, weather, and lab work.
+- Use the chapter's reference table and **Choose the Right Thermometer** section when discussing scale checks and tool selection.
