@@ -2,7 +2,7 @@
 
 ![Freezing](036_Freezing_01.png)
 
-Imagine placing a tray of water into a freezer. At first the water sloshes as a liquid. Later, it becomes hard, clear ice that keeps the shape of the tray. The water did not disappear. It changed state.
+Imagine filling an ice cube tray with water and sliding it into the freezer. At first the water sloshes as a liquid. An hour later, you pull out a tray of hard, clear cubes that keep their shape even when you tip it upside down. The water did not disappear. It changed state.
 
 The liquid became a solid.
 
@@ -10,9 +10,9 @@ That process is freezing.
 
 **Freezing is the change of a liquid into a solid as thermal energy is removed.**
 
-Freezing explains ice cubes, frost, snow, frozen lakes, ice cream, frozen food, burst water pipes, winter roads, glaciers, and why water is unusual compared with many other substances.
+Freezing explains ice cubes, hockey rinks, frost on a window, snow, frozen lakes, ice cream, burst water pipes, black ice on roads, glaciers, and why ice floats instead of sinking. It is one of the major phase changes, or changes of state, in matter.
 
-Freezing is one of the major phase changes, or changes of state, in matter.
+Freezing is quiet work done by moving particles, but it shapes winter sports, weather, geology, food storage, and life in cold places.
 
 ## Liquids and Solids
 
@@ -26,6 +26,8 @@ When a liquid freezes, its particles lose energy and settle into a more fixed ar
 
 The substance becomes solid.
 
+![Liquid vs solid particles](036_Freezing_02.png)
+
 ## Removing Thermal Energy
 
 Freezing happens when thermal energy is removed from a liquid.
@@ -37,6 +39,22 @@ At the freezing point, particles can begin forming a solid structure.
 Energy must continue to leave the substance while freezing happens. During the change, the temperature may stay nearly the same even though energy is still being removed.
 
 That energy is involved in changing the arrangement of particles, not simply lowering temperature.
+
+## Temperature During Freezing
+
+During freezing, temperature can remain nearly constant.
+
+If you cool a cup of water that is already at its freezing point, the temperature often stays near that point while liquid is still turning to solid. The removed energy is being used to freeze the water rather than quickly lowering the temperature.
+
+Once all the liquid has frozen, continued cooling can lower the temperature of the solid.
+
+This is an important idea:
+
+**During a phase change, energy can change state instead of changing temperature.**
+
+That is why a large block of ice can keep a cooler cold for a long time. Energy leaving warm food goes into melting nearby ice, and the temperature stays near the melting and freezing point of water until the ice is gone.
+
+![Temperature during freezing](036_Freezing_03.png)
 
 ## Freezing Point
 
@@ -67,6 +85,8 @@ For a pure substance under the same pressure, freezing and melting happen at the
 Water freezes at 0 degrees Celsius and ice melts at 0 degrees Celsius under ordinary pressure.
 
 Whether freezing or melting happens depends on whether energy is being removed or added.
+
+![Freezing and melting](036_Freezing_04.png)
 
 ## Freezing Releases Energy
 
@@ -118,6 +138,8 @@ This unusual behavior matters greatly for life on Earth. If ice sank, lakes and 
 
 Fish and other aquatic life can survive under the ice in winter.
 
+![Why ice floats](036_Freezing_05.png)
+
 ## Expansion When Water Freezes
 
 Water expands when it freezes.
@@ -131,6 +153,8 @@ If water freezes inside a pipe, the expanding ice can burst the pipe.
 If a full bottle of water freezes, it may crack or bulge.
 
 Water's expansion during freezing is useful in nature but dangerous in buildings and containers.
+
+![Frost wedging and burst pipes](036_Freezing_06.png)
 
 ## Freezing in Weather
 
@@ -156,6 +180,18 @@ Snowflakes show that freezing is not only a change of state. It can also create 
 
 The arrangement of particles matters.
 
+## Ice, Sports, and Winter Fun
+
+Freezing makes many winter activities possible.
+
+A hockey rink or outdoor skating pond works because water froze into a hard, smooth surface. Ski slopes and snowboard runs often depend on snow that formed when water froze in clouds or on the ground.
+
+Snow forts, sledding hills, and snowball fights all depend on frozen water.
+
+Even a simple ice cube tray is a small freezing laboratory. You can watch liquid water become solid ice and learn how shape, temperature, and time matter.
+
+Freezing is not only science in a textbook. It is part of outdoor life in cold weather.
+
 ## Freezing and Food
 
 Freezing helps preserve food.
@@ -168,6 +204,16 @@ When food freezes, water inside it forms ice crystals. Large ice crystals can da
 
 Freezing is useful, but safe food handling still matters.
 
+## Freezing in the Kitchen
+
+Cooking and snacks often depend on freezing.
+
+Ice cream freezes when its mixture loses enough thermal energy in a cold environment. Popsicles, frozen fruit, and ice cubes all form when water or other liquids freeze.
+
+The texture of frozen food matters. Slow freezing in a home freezer can make large ice crystals. Commercial freezers sometimes freeze food faster to keep a smoother texture.
+
+Salt and ice together can make a mixture cold enough to freeze ice cream faster. That is freezing science you can taste.
+
 ## Salt and Freezing Point
 
 Adding salt can lower the freezing point of water.
@@ -179,6 +225,8 @@ Salt spread on icy roads can help ice melt when temperatures are not too low. Th
 Ice cream makers may use salt with ice around a container. The salt lowers the freezing point, making the ice-salt mixture colder than ordinary melting ice. This helps freeze the ice cream mixture.
 
 Salt does not make cold from nothing. It changes the temperature at which water freezes.
+
+![Salt and freezing point depression](036_Freezing_07.png)
 
 ## Freezing and Roads
 
@@ -215,6 +263,25 @@ Freezers use a circulating refrigerant, compression, expansion, and heat transfe
 The freezer keeps food cold by continually removing thermal energy faster than it leaks in from the room.
 
 Cold is not something added. Heat is removed.
+
+![How a freezer works](036_Freezing_08.png)
+
+## Freezing in Everyday Life
+
+Freezing is everywhere.
+
+You see its results when:
+
+- Ice cubes clink in a glass
+- A pond becomes solid enough to skate on
+- Frost patterns appear on a window
+- A water bottle left outside bulges or cracks
+- Snow covers the ground after a storm
+- Food stays preserved in a freezer
+- Pipes burst after a hard freeze
+- Hailstones bounce in a summer storm
+
+Sometimes freezing is helpful. Sometimes it is a problem, such as when ice makes a sidewalk slippery or when frozen pipes flood a house.
 
 ## Common Misconceptions
 
@@ -262,26 +329,29 @@ If you remember only one sentence, remember this:
 1. What is freezing?
 2. How are particles arranged differently in liquids and solids?
 3. What happens to particle motion as a liquid cools?
-4. What is the freezing point?
-5. What is the freezing point of pure water under ordinary pressure in Celsius and Fahrenheit?
-6. How are freezing and melting related?
-7. Why can freezing and melting happen at the same temperature?
-8. Does freezing absorb or release energy?
-9. What is latent heat?
-10. What is supercooling?
-11. What is nucleation?
-12. Why can scratches, dust, or ice crystals help freezing begin?
-13. What is unusual about water as it freezes?
-14. Why does ice float on liquid water?
-15. Why is floating ice important for life in lakes and ponds?
-16. How can freezing water break rocks or pipes?
-17. What is frost wedging?
-18. Give three examples of freezing in weather.
-19. How do snowflakes form?
-20. How does freezing help preserve food?
-21. Why does freezing not make spoiled food safe again?
-22. How does salt affect the freezing point of water?
-23. Why can black ice be dangerous?
-24. How does a freezer keep food frozen?
-25. What are three safety rules related to freezing?
-26. In your own words, explain why freezing is not the same as "adding cold."
+4. Why can temperature stay nearly constant while a liquid is freezing?
+5. What is the freezing point?
+6. What is the freezing point of pure water under ordinary pressure in Celsius and Fahrenheit?
+7. How are freezing and melting related?
+8. Why can freezing and melting happen at the same temperature?
+9. Does freezing absorb or release energy?
+10. What is latent heat?
+11. What is supercooling?
+12. What is nucleation?
+13. Why can scratches, dust, or ice crystals help freezing begin?
+14. What is unusual about water as it freezes?
+15. Why does ice float on liquid water?
+16. Why is floating ice important for life in lakes and ponds?
+17. How can freezing water break rocks or pipes?
+18. What is frost wedging?
+19. Give three examples of freezing in weather.
+20. How do snowflakes form?
+21. Give two examples of winter activities that depend on freezing.
+22. How does freezing help preserve food?
+23. Why does freezing not make spoiled food safe again?
+24. How does salt affect the freezing point of water?
+25. Why can black ice be dangerous?
+26. How does a freezer keep food frozen?
+27. Give four examples of freezing in everyday life.
+28. What are three safety rules related to freezing?
+29. In your own words, explain why freezing is not the same as "adding cold."

@@ -7,15 +7,19 @@
 Students should be able to:
 
 - Define color spectrum as the range of visible colors separated by wavelength.
-- Identify visible light as part of the electromagnetic spectrum.
-- Explain wavelength in age-appropriate terms.
-- List the common visible spectrum order using ROY G. BIV.
-- Explain white light as a mixture of visible colors.
-- Define dispersion, continuous spectrum, line spectrum, absorption, and spectroscope.
-- Explain object color through reflection and absorption.
-- Distinguish additive light mixing from subtractive pigment mixing.
-- Recognize spectra in rainbows, prisms, screens, sky colors, astronomy, and color vision.
-- Apply safety rules for bright light, sunlight, prisms, spectroscopes, and ultraviolet light.
+- Connect visible light to the electromagnetic spectrum and prior chapters on light, radiation, reflection, and refraction.
+- Explain wavelength in age-appropriate terms and use nanometers when describing visible light.
+- List the common visible spectrum order using ROY G. BIV and explain that the spectrum is continuous, not seven sharp blocks.
+- Explain white light as a mixture of visible colors and dispersion as wavelength-dependent bending.
+- Describe how rainbows form in raindrops using refraction, reflection, and dispersion.
+- Distinguish continuous spectra from line spectra and explain elemental “fingerprints.”
+- Describe how spectroscopes and stellar spectra support astronomy.
+- Explain object color through reflection and absorption, including colored light sources.
+- Distinguish additive (RGB light) mixing from subtractive (CMY pigment) mixing.
+- Describe rods, cones, and common color vision differences in design terms.
+- Explain blue sky and sunset colors using scattering.
+- Name infrared and ultraviolet as beyond visible light.
+- Apply safety rules for bright light, sunlight, prisms, spectroscopes, lasers, and UV sources.
 
 ### Answers to Study Questions
 
@@ -28,15 +32,15 @@ Students should be able to:
 7. **ROY G. BIV** helps remember the order of visible spectrum colors.
 8. The spectrum is continuous; colors blend smoothly, and the seven names are a useful tradition rather than sharp natural divisions.
 9. **White light** is usually a mixture of many colors of visible light.
-10. A prism bends different wavelengths by different amounts, spreading white light into separate colors.
+10. A prism bends different wavelengths by different amounts, spreading white light into separate colors that were already present in the light.
 11. **Dispersion** is the spreading of light into colors because different wavelengths bend by different amounts.
-12. A rainbow forms when sunlight refracts, reflects, and disperses inside water droplets, then leaves separated into colors.
+12. A rainbow forms when sunlight refracts, reflects, and disperses inside water droplets, then leaves separated into colors toward the observer.
 13. A **continuous spectrum** contains a smooth range of colors with no large gaps.
 14. A **line spectrum** shows bright lines or dark missing lines at certain wavelengths.
 15. Elements emit or absorb specific wavelengths, making patterns that can identify them.
 16. A **spectroscope** is an instrument that spreads light into a spectrum for study.
 17. Spectra from stars reveal elements, temperature, motion, and other information from the star's light.
-18. A red apple looks red because it reflects much red light and absorbs much of the other visible light.
+18. A red jersey looks red because it reflects much red light and absorbs much of the other visible light.
 19. A blue shirt reflects blue well, but red light contains little blue for it to reflect, so it may look dark.
 20. The additive primary colors of light are **red**, **green**, and **blue**.
 21. Screens use tiny red, green, and blue light sources in different amounts to create many colors.
@@ -60,26 +64,31 @@ Students should be able to:
 3. **White Light Reveal**
    Compare white light before and after a prism or diffraction grating. Students explain why the colors were already in the light.
 
-4. **Light Source Spectra**
+4. **RGB Screen Investigation**
+   Students use a magnifier or photo zoom on a monitor/phone to see red, green, and blue subpixels. Discuss additive mixing.
+
+5. **Light Source Spectra**
    Use a simple spectroscope or images to compare spectra from sunlight, LEDs, fluorescent lights, and incandescent bulbs.
 
-5. **Object Color Cards**
-   Students explain why red, green, white, and black papers appear as they do under white light and colored light.
+6. **Jersey Color Under Colored Light**
+   Hold red, green, and white papers or shirts under white and colored flashlights. Students predict and explain reflection and absorption.
 
-6. **Additive Color Mixing**
-   Use safe colored flashlights or a simulation to mix red, green, and blue light and observe new perceived colors.
+7. **Additive vs. Subtractive Mixing**
+   Compare colored light mixing (simulation or safe flashlights) with paint or marker mixing. Students explain additive versus subtractive behavior.
 
-7. **Pigment vs. Light Mixing**
-   Compare colored light mixing with paint or marker mixing. Students explain additive versus subtractive behavior.
+8. **Rainbow Ray Storyboard**
+   Students sequence cards: sunlight → raindrop → refract → reflect → refract out → spectrum to eye.
 
-8. **Spectrum Safety Scenarios**
+9. **Spectrum Safety Scenarios**
    Present scenarios involving Sun viewing, prisms, lasers, UV lamps, broken glass, and color-only warning labels. Students identify safe actions.
 
 ### Teaching Notes
 
 - Keep the central phrase visible: **color corresponds to visible-light wavelength**.
-- Emphasize that white light often contains many colors mixed together.
-- Avoid teaching the seven colors as hard boundaries; the spectrum is continuous.
-- Connect spectra to prisms, rainbows, stars, object color, and vision.
+- Open with familiar hooks: screens (RGB), rainbows, or a supervised prism demo—then state the formal definition.
+- Emphasize that white light often contains many colors mixed together; prisms **separate**, they do not **create** color.
+- Avoid teaching the seven colors as hard boundaries; the spectrum is **continuous**.
+- Connect to **039 Light**, **033 Radiation**, **040 Reflection**, and **041 Refraction** (dispersion builds on refraction).
 - Use safe light sources only; never let students view the Sun through optical devices.
-- Mention color vision differences when discussing charts, labels, and safety signs.
+- Mention color vision differences when discussing charts, games, maps, and safety signs.
+- Chapter images `044_Color_spectrum_02.png`–`08.png` support key ideas; see `044_Color_spectrum_image_briefs.md` for illustration specs. `01.png` serves as the chapter overview.

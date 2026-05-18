@@ -26,12 +26,12 @@ Students should be able to:
 7. Examples may include warm air rising from a heater, smoke rising from a fire, water circulating in a heated pot, sea breezes, or thermals.
 8. **Forced convection** happens when a fan, pump, or other device moves the fluid.
 9. Examples may include a fan, hair dryer, computer fan, car cooling system, convection oven, air conditioner, or blowing on soup.
-10. Warm air rises near a heater, while cooler air sinks and moves in to replace it, creating circulation.
+10. Warm air rises near a heater or register, while cooler air near the floor moves in to replace it, creating circulation (often with warm air near the ceiling and cooler air low).
 11. Water near the bottom is heated, expands, becomes less dense, and rises. Cooler water sinks and is heated, continuing the cycle.
 12. Land heats faster than water during the day. Warm air over land rises, and cooler air from over the water moves in, creating a sea breeze.
 13. At night, land cools faster than water. Warmer air over the water rises, and cooler air from land moves toward the water.
-14. Warm, moist air rises, expands, and cools. Water vapor can condense into tiny droplets, forming clouds.
-15. **Thermals** are rising columns or regions of warm air.
+14. Warm, moist air rises, expands, and cools. Water vapor can condense into droplets, forming clouds; strong rising motion can build storms.
+15. **Thermals** are rising columns of warm air. Hawks, eagles, and glider pilots can use them to gain height without flapping or using an engine.
 16. Ocean currents move warm and cold water, carrying heat from one region to another.
 17. **Thermohaline circulation** involves ocean water movement caused by differences in temperature and salinity, which affect density.
 18. Slow convection in Earth's mantle helps move heat and is connected to the motion of tectonic plates.
@@ -73,7 +73,9 @@ Students should be able to:
 
 - Keep the core phrase visible: **convection is heat transfer by moving fluid**.
 - Reinforce that liquids and gases are fluids; ordinary solids do not convect like air or water.
-- Connect convection to density: warm fluid usually expands, becomes less dense, and rises.
-- Distinguish natural convection from forced convection with fans and pumps.
+- Connect convection to **expansion by heat** and density: warm fluid usually expands, becomes less dense, and rises.
+- Contrast with **conduction** (particles pass energy; material often stays put) early in the lesson.
+- Distinguish natural convection from forced convection with fans and pumps; use familiar examples (ceiling fan, blowing on soup, gaming-PC fan).
 - Use safe demonstrations; avoid boiling water, open flames, and hot steam in student activities.
-- Link convection to heat, density, buoyancy, weather, oceans, and Earth science.
+- Link convection to density, buoyancy, weather, oceans, cooking, buildings, machine cooling, and Earth science.
+- Image briefs for diagrams 02–07 are in `032_Convection_image_briefs.md`.

@@ -6,45 +6,42 @@
 
 Students should be able to:
 
-- Define light as visible electromagnetic radiation.
-- Identify visible light as part of the electromagnetic spectrum.
+- Define light as visible electromagnetic radiation and connect it to the broader spectrum (including prior work on radiation).
 - Describe light as energy that travels very fast and can move through empty space.
 - Explain shadows, reflection, refraction, scattering, absorption, and transmission.
-- Describe how mirrors and lenses control light.
+- State the law of reflection and describe how mirrors and lenses control light.
 - Explain color as the result of reflected and absorbed visible light.
 - Distinguish transparent, translucent, and opaque materials.
-- Explain basic vision, including the roles of the eye, retina, rods, and cones.
+- Describe basic vision, including the roles of the eye, retina, rods, and cones.
+- Distinguish luminous and illuminated objects.
 - Recognize light in nature, technology, photosynthesis, and safety situations.
 
 ### Answers to Study Questions
 
-1. **Light** is visible electromagnetic radiation, the kind of energy wave the human eye can detect.
-2. Light is the visible part of the electromagnetic spectrum.
+1. **Light** is visible electromagnetic radiation—the kind of energy wave the human eye can detect.
+2. Light is the visible part of the electromagnetic spectrum. It is the same family of waves studied as radiation; radiation chapters emphasize heat transfer (especially infrared), while this chapter emphasizes vision and optics.
 3. Examples include radio waves, microwaves, infrared radiation, visible light, ultraviolet radiation, X-rays, and gamma rays.
 4. Light travels about **300,000 kilometers per second** in empty space.
 5. The Sun is very far away, so even at light's enormous speed, sunlight takes about 8 minutes to reach Earth.
-6. Light travels in straight lines through a uniform material, so rays are useful models of its path.
+6. Light travels in straight lines through a uniform material, so rays are useful models of its path and direction.
 7. A **shadow** is a darker region formed when an object blocks light.
 8. **Reflection** occurs when light bounces off a surface.
-9. The law of reflection says the angle of incidence equals the angle of reflection.
-10. A mirror reflects light in an orderly way so rays appear to come from behind the mirror, forming an image.
+9. The law of reflection says the angle of incidence equals the angle of reflection (measured from the normal).
+10. A **concave** mirror curves inward and can focus light. A **convex** mirror bulges outward, spreads light, and gives a wider field of view.
 11. **Refraction** is the bending of light as it passes from one material into another.
-12. Light from the underwater part of the pencil bends as it passes from water into air, making the pencil appear bent.
-13. A **lens** is a transparent object shaped to bend light.
-14. A convex lens is thicker in the middle and can bring rays together. A concave lens is thinner in the middle and spreads rays apart.
-15. Light enters the eye, is focused by the cornea and lens onto the retina, and signals travel through the optic nerve to the brain.
-16. **Rods** help detect dim light and shades of light and dark. **Cones** help detect color and fine detail in brighter light.
-17. A red shirt looks red because it reflects mostly red light and absorbs much of the other visible light.
-18. A **prism** is a transparent object that can separate white light into colors.
-19. A rainbow forms when sunlight is refracted, reflected, and spread into colors by water droplets in the air.
-20. **Absorption** takes light energy into a material. **Reflection** bounces light away. **Transmission** lets light pass through.
-21. Transparent materials let light pass clearly. Translucent materials let some light through but scatter it. Opaque materials block most light.
-22. **Scattering** happens when light is redirected in many directions by particles or rough surfaces.
-23. The sky looks blue because air molecules scatter shorter blue wavelengths of sunlight more than longer red wavelengths.
-24. **Luminous** objects produce their own light. **Illuminated** objects are visible because they reflect light from another source.
-25. Examples may include cameras, microscopes, telescopes, eyeglasses, fiber-optic cables, lasers, solar panels, screens, projectors, or barcode scanners.
-26. Answers may include never staring at the Sun, using eclipse glasses, not aiming lasers at eyes or vehicles, wearing eye protection for welding, using sunglasses and sunscreen, avoiding powerful lamps, and following experiment instructions.
-27. Answers may vary. A strong answer should state that most objects reflect light from a source such as the Sun or a lamp into our eyes.
+12. Light from the underwater part of the straw bends as it passes from water into air, making the straw appear bent or broken at the surface.
+13. A **lens** is a transparent object shaped to bend light. A convex lens is thicker in the middle and can focus rays; a concave lens is thinner in the middle and spreads rays apart.
+14. Light enters the eye through the cornea and pupil, is focused by the lens onto the retina, and signals travel through the optic nerve to the brain, which interprets them as images.
+15. **Rods** help detect dim light and shades of light and dark. **Cones** help detect color and fine detail in brighter light.
+16. A red jersey looks red because it reflects mostly red light and absorbs much of the other visible light.
+17. A **prism** separates white light into colors because different wavelengths bend by different amounts. A **rainbow** forms when sunlight is refracted, reflected inside, and spread into colors by water droplets.
+18. **Absorption** takes light energy into a material. **Reflection** bounces light away. **Transmission** lets light pass through.
+19. Transparent materials let light pass clearly. Translucent materials let some light through but scatter it. Opaque materials block most light.
+20. **Scattering** redirects light in many directions. The sky looks blue because air molecules scatter shorter blue wavelengths of sunlight more than longer red wavelengths.
+21. **Luminous** objects produce their own light. **Illuminated** objects are visible because they reflect light from another source.
+22. Examples may include cameras, microscopes, telescopes, eyeglasses, fiber-optic cables, lasers, solar panels, screens, projectors, or barcode scanners.
+23. Answers may include never staring at the Sun, using proper eclipse glasses, not aiming lasers at eyes or vehicles, wearing eye protection for welding, using sunglasses and sunscreen, avoiding powerful lamps, and following experiment instructions.
+24. Answers may vary. A strong answer should state that most objects reflect light from a source such as the Sun or a lamp into our eyes; they do not produce visible light themselves.
 
 ### Activity Suggestions
 
@@ -52,13 +49,13 @@ Students should be able to:
    Use a flashlight and objects to explore how shadow size and sharpness change with distance from the light source and screen.
 
 2. **Mirror Reflection Lab**
-   Students use mirrors and drawn rays to test the law of reflection. They compare incoming and outgoing angles.
+   Students use mirrors and drawn rays to test the law of reflection. They compare incoming and outgoing angles relative to the normal.
 
-3. **Refraction Pencil Demo**
-   Place a pencil in a clear cup of water and observe the apparent bend. Students draw light bending at the water-air boundary.
+3. **Refraction Straw or Pencil Demo**
+   Place a straw or pencil in a clear cup of water and observe the apparent bend. Students sketch light bending at the water–air boundary.
 
 4. **Prism or Rainbow Exploration**
-   Use a prism, diffraction grating, or safe video to show white light separating into colors. Students connect this to rainbows.
+   Use a prism, diffraction grating, or safe video to show white light separating into colors. Connect to rainbows and ROYGBIV.
 
 5. **Transparent, Translucent, Opaque Sort**
    Students classify materials such as clear plastic, wax paper, cardboard, glass, cloth, and foil by how they transmit light.
@@ -67,7 +64,7 @@ Students should be able to:
    Use colored paper under white light. Students explain which colors are reflected and which are mostly absorbed.
 
 7. **Eye Model Diagram**
-   Students label cornea, pupil, lens, retina, rods, cones, and optic nerve on a simple eye diagram.
+   Students label cornea, pupil, lens, retina, rods, cones, and optic nerve on a simple eye diagram (match `039_Light_07.png` if available).
 
 8. **Light Safety Scenarios**
    Present situations involving lasers, eclipses, welding, bright lamps, sunlight, and projectors. Students identify risks and safe behavior.
@@ -75,8 +72,8 @@ Students should be able to:
 ### Teaching Notes
 
 - Keep the key idea visible: **we see when light enters the eye**.
-- Connect light to radiation but clarify that visible light is only one part of the electromagnetic spectrum.
+- Link to **033 Radiation** for the electromagnetic spectrum and infrared; clarify that “radiation” in everyday language is not the same as “all radiation is dangerous.”
 - Use ray diagrams simply; arrows show path and direction.
 - Emphasize that color depends on light source, object, and observer.
 - Avoid unsafe demonstrations with lasers, intense lamps, or direct sunlight.
-- Link this chapter to upcoming optics topics such as reflection, refraction, lenses, and color.
+- Image briefs in `039_Light_image_briefs.md` list placements for `_02`–`_08` when illustrations are added.

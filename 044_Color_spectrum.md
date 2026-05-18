@@ -2,45 +2,57 @@
 
 ![Color Spectrum](044_Color_spectrum_01.png)
 
-Imagine sunlight passing through a prism and spreading across a wall. A beam that looked white becomes a band of red, orange, yellow, green, blue, indigo, and violet. The colors were not painted onto the wall by the glass. They were hidden together inside the white light.
+You crank up the brightness on your monitor. White text on a dark background looks crisp. Then you zoom in on a photo—or watch a slow-motion replay of a goal—and the screen is not one flat color at all. It is a grid of tiny **red**, **green**, and **blue** lights, blinking in different amounts. Your brain blends them into millions of colors.
 
-That band of colors is a color spectrum.
+Step outside after a storm. The Sun breaks through. A rainbow arches across the sky—red on the outside, violet on the inside. Nobody painted it. Light did the work.
+
+Hold a glass prism to a window on a sunny day (with an adult supervising). A white beam hits the glass and fans out on the wall: red, orange, yellow, green, blue, indigo, violet. The glass did not invent those colors. They were **already inside** the white light, mixed together.
+
+That spread-out band of colors is a **color spectrum**.
 
 **A color spectrum is the range of visible colors produced when light is separated by wavelength.**
 
-The color spectrum helps explain rainbows, prisms, sunsets, the blue sky, colored objects, stage lights, screens, stars, and the way scientists study the chemical makeup of distant objects.
+The color spectrum explains rainbows, prisms, sunsets, the blue sky, team jerseys, stage lights, phone screens, fireworks, stars, and how scientists figure out what distant objects are made of—without ever touching them.
 
-Color is not merely decoration. It is information carried by light.
+Color is not just decoration. It is **information** carried by light.
+
+You already know **light** from earlier chapters. You know **refraction** bends light when it enters new materials. You know **reflection** bounces light off surfaces. The color spectrum ties those ideas together: different colors of light can bend, scatter, reflect, and absorb in different ways.
 
 ## Visible Light
 
-Light is electromagnetic radiation that human eyes can detect.
+**Light** is electromagnetic radiation—the same family as radio waves, microwaves, infrared, ultraviolet, X-rays, and gamma rays. You met that family in **radiation**.
 
-Visible light is only a small part of the larger **electromagnetic spectrum**, which also includes radio waves, microwaves, infrared radiation, ultraviolet radiation, X-rays, and gamma rays.
+**Visible light** is the small slice of the electromagnetic spectrum your eyes can detect.
 
-Human eyes see visible light as color and brightness.
+Human eyes see visible light as color and brightness. Different colors match different **wavelengths**—the distance from one wave crest to the next.
 
-Different colors of visible light have different wavelengths.
+The **visible spectrum** is the range of wavelengths your eye can see.
 
-The visible spectrum is the range of wavelengths the human eye can see.
+![Visible light on the electromagnetic spectrum](044_Color_spectrum_02.png)
 
 ## Wavelength
 
 A **wavelength** is the distance from one crest of a wave to the next crest.
 
-For visible light, wavelength is very small. It is usually measured in nanometers.
+For visible light, wavelength is tiny. Scientists usually measure it in **nanometers** (nm).
 
 A **nanometer** is one billionth of a meter.
 
-Red light has a longer wavelength than green, blue, or violet light.
+**Red light** has a **longer** wavelength than green, blue, or violet.
 
-Violet light has a shorter wavelength than red light.
+**Violet light** has a **shorter** wavelength than red.
 
-These wavelength differences are one reason light can be separated into colors.
+Those differences are a big reason white light can split into separate colors.
+
+Remember:
+
+**Longer wavelength → toward red. Shorter wavelength → toward violet.**
+
+![Wavelength: red vs violet](044_Color_spectrum_03.png)
 
 ## The Order of the Spectrum
 
-The common order of colors in the visible spectrum is:
+The traditional order of colors in the visible spectrum is:
 
 - **Red**
 - **Orange**
@@ -54,234 +66,212 @@ Many students remember this order with the name:
 
 **ROY G. BIV**
 
-The colors do not actually occur as seven separate blocks in nature. They blend smoothly from one to the next.
+The spectrum in nature is **not** seven separate blocks. Colors **blend smoothly** from one to the next. The seven names are a useful way to talk—not sharp walls in the rainbow.
 
-The names help us talk about the spectrum, but the spectrum itself is continuous.
+![ROY G. BIV and a continuous spectrum](044_Color_spectrum_04.png)
 
 ## White Light
 
-White light is usually a mixture of many colors of visible light.
+**White light** is usually a **mixture** of many visible colors at once.
 
-Sunlight appears white or nearly white to our eyes because it contains many visible wavelengths together.
+Sunlight looks white or nearly white because it contains many wavelengths together.
 
-A white light bulb also emits many wavelengths. When all those colors enter your eye together in the right balance, your brain sees white.
+A white LED or classroom bulb also sends out many wavelengths. When enough of them enter your eye together in the right balance, your brain sees white.
 
-A prism or diffraction grating can spread white light out and reveal the colors inside it.
+A prism, a diffraction grating, or a raindrop can **spread** that mixture apart and show the colors hiding inside.
 
-This is one of the great discoveries of optics:
+That is one of the great discoveries of optics:
 
 **White light can contain a whole spectrum of colors.**
 
 ## Dispersion
 
-**Dispersion** is the spreading of light into colors because different wavelengths bend by different amounts.
+**Dispersion** is the spreading of light into colors because different wavelengths **bend by different amounts**.
 
-In a glass prism, violet light bends more than red light. The colors separate as they leave the prism, forming a spectrum.
+In a glass prism, **violet** bends more than **red**. Colors separate as they leave the prism and form a spectrum.
 
-Dispersion also helps produce rainbows.
+You saw this idea in **refraction**: light changes speed in glass and bends. Dispersion is refraction **plus** the fact that each color bends a little differently.
 
-White sunlight enters raindrops, bends, reflects inside, and bends again as it leaves. The different colors spread out, and a rainbow appears to the observer.
+Dispersion also helps make **rainbows**.
 
-Dispersion reveals the color structure of light.
+Sunlight enters a raindrop, bends, reflects inside, bends again as it leaves, and spreads into colors. Each droplet sends a bit of the spectrum toward your eyes.
+
+Dispersion reveals the **structure** of light—not just that light exists, but that it is built from wavelengths.
+
+![Dispersion in a prism](044_Color_spectrum_05.png)
 
 ## Rainbows
 
 A rainbow is a natural color spectrum.
 
-Raindrops act like tiny prisms and mirrors. Sunlight enters each droplet, refracts, reflects, disperses, and leaves separated into colors.
+Raindrops act like tiny prisms and mirrors. To see one, the Sun is usually **behind** you and rain or mist is **in front** of you.
 
-To see a rainbow, the Sun is usually behind you and rain or mist is in front of you.
+A rainbow is not a solid arch you could touch. It is a pattern of light from millions of droplets. Each person may see a slightly different rainbow because the light reaching each pair of eyes comes from different droplets.
 
-A rainbow is not a solid arch in the sky. It is a pattern of light reaching your eyes from many droplets.
+The outer edge is often **red**; the inner edge is often **violet**—the same wavelength order as a prism spectrum.
 
-Each person may see a slightly different rainbow because the light entering each person's eyes comes from different droplets.
+![How a rainbow forms in a raindrop](044_Color_spectrum_06.png)
 
 ## Continuous Spectra
 
 A **continuous spectrum** contains a smooth range of colors with no large gaps.
 
-Sunlight spread by a prism can produce a nearly continuous visible spectrum.
+Sunlight through a prism, a glowing hot filament, or a rainbow can show a nearly continuous band—colors blending into one another.
 
-An incandescent bulb, a glowing hot object, or a rainbow can also show a continuous range of colors.
-
-In a continuous spectrum, colors blend into one another.
-
-This kind of spectrum often comes from hot, dense objects or broad light sources that emit many wavelengths.
+This kind of spectrum often comes from hot, dense sources that emit many wavelengths at once.
 
 ## Line Spectra
 
-Not all spectra are continuous.
+Not every spectrum is smooth.
 
-A **line spectrum** shows bright lines of certain colors or dark missing lines at certain wavelengths.
+A **line spectrum** shows bright lines at certain colors—or **dark gaps** where wavelengths are missing.
 
-When gases are heated or energized, their atoms can give off light at specific wavelengths. These appear as bright lines.
+When gases are heated or energized, atoms can emit light at specific wavelengths. Those appear as bright lines.
 
-When light passes through a cooler gas, the gas may absorb certain wavelengths. These missing wavelengths appear as dark lines in a continuous spectrum.
+When light passes through a cooler gas, the gas may **absorb** certain wavelengths. Dark lines appear in what would otherwise be a continuous spectrum.
 
-Line spectra are like fingerprints for elements.
+Line spectra are like **fingerprints** for elements. Hydrogen, helium, sodium, and neon each have their own patterns. Scientists use them to identify what is in a flame, a lamp, or a star.
 
-Hydrogen, helium, sodium, neon, and other elements have their own patterns.
+## Spectroscopes and Stars
 
-## Spectroscopes
+A **spectroscope** is an instrument that spreads light into a spectrum so it can be studied. Some use prisms; others use **diffraction gratings**—surfaces with thousands of tiny lines that spread light by wave effects.
 
-A **spectroscope** is an instrument that spreads light into a spectrum so it can be studied.
+Point a simple spectroscope at sunlight, an LED, a fluorescent tube, or a neon sign. The patterns differ. That is how you know sources are not all the same.
 
-Some spectroscopes use prisms. Others use diffraction gratings, which have many tiny lines that spread light by wave effects.
+A star is too far away to sample in a lab. But its light can be spread into a spectrum. Bright and dark lines reveal which elements are in the star's atmosphere. Spectra can also hint at temperature and motion.
 
-A simple spectroscope can show that different light sources have different spectra.
+If spectral lines shift toward **redder** wavelengths, the object may be moving away. If they shift toward **bluer** wavelengths, it may be moving toward us. That idea is the **Doppler effect**—studied more deeply later.
 
-Sunlight, fluorescent lamps, LED lights, neon signs, and incandescent bulbs may produce different patterns.
-
-Scientists use spectroscopes to study light from flames, lamps, stars, galaxies, and gases.
-
-## Spectra and Stars
-
-Spectra let scientists study objects too far away to touch.
-
-A star's light can be spread into a spectrum. Bright and dark lines in that spectrum reveal which elements are present in the star's atmosphere.
-
-Spectra can also tell scientists about temperature, motion, and sometimes magnetic fields.
-
-If spectral lines shift toward redder wavelengths, the object may be moving away. If they shift toward bluer wavelengths, it may be moving toward us. This idea is called the Doppler effect, which is studied more deeply later.
-
-The color spectrum helps make astronomy possible.
+The color spectrum makes **astronomy** possible from Earth.
 
 ## Color and Reflection
 
-Objects appear colored because of the light they reflect and absorb.
+Most things you see do not glow on their own. You see them because light from a source hits them and **reflects** into your eyes.
 
-A red apple looks red because it reflects much red light and absorbs much of the other visible light.
+A red jersey looks red because it **reflects** much red light and **absorbs** much of the other visible colors.
 
-A green leaf reflects much green light and absorbs much red and blue light.
+A green field reflects much green light and absorbs much red and blue.
 
-A white object reflects many colors of visible light.
+A white shirt reflects many colors.
 
-A black object absorbs much visible light and reflects little.
+A black shoe absorbs much visible light and reflects little.
 
-The color you see depends on the light source, the object, and your eye.
+The color you see depends on three things: the **light source**, the **object**, and your **eye**.
+
+![Reflection and absorption on colored objects](044_Color_spectrum_07.png)
 
 ## Color and Absorption
 
 **Absorption** happens when matter takes in light energy.
 
-If an object absorbs a certain color, that color is less likely to reach your eye from the object.
+If an object absorbs a color, less of that color reaches your eye from the object.
 
-This is why a blue shirt may look dark under red light. The shirt reflects blue well, but if the light source supplies little blue light, there is little blue to reflect.
+That is why a blue shirt can look **almost black** under red stage light. The shirt reflects blue well—but if the light has little blue in it, there is little blue to bounce back.
 
-Colored filters work by transmitting some wavelengths and absorbing others.
+Colored filters work the same way: they **transmit** some wavelengths and **absorb** others. A red filter passes much red and blocks much else.
 
-A red filter lets much red light pass but blocks many other colors.
+Color is partly about what is **missing**, not only what is present.
 
-Color is partly about what is missing as well as what is present.
+## Mixing Colored Light (Additive)
 
-## Mixing Colored Light
+Colored **light** mixes differently from **paint**.
 
-Colored light mixes differently from paint.
+The main colors for mixing light are often **red**, **green**, and **blue**—the **additive primary colors**.
 
-The main colors used to mix light are often **red**, **green**, and **blue**. These are called additive primary colors.
+Mix red and green light, and your eye may see **yellow**.
 
-Mix red and green light, and your eye may see yellow.
+Mix red, green, and blue in the right amounts, and your eye may see **white**.
 
-Mix red, green, and blue light in the right amounts, and your eye may see white.
+Phone screens, TVs, stadium boards, and gaming monitors use millions of tiny red, green, and blue emitters. They do not need a separate lamp for every color on screen. They **add** light.
 
-Computer screens, televisions, and phone displays use tiny red, green, and blue light sources to create many colors.
+![RGB pixels on a screen](044_Color_spectrum_08.png)
 
-They do not need a separate lamp for every color. They mix light.
+## Mixing Pigments (Subtractive)
 
-## Mixing Pigments
+**Pigments** and paints work by **absorbing** some colors and reflecting others.
 
-Pigments and paints work by absorbing some colors and reflecting others.
+Mixing pigments usually removes more wavelengths from the reflected light. Mix many paints together and you often get a darker, duller brown or gray—not white.
 
-Mixing pigments usually removes more wavelengths from the reflected light. This is why mixing many paints often produces a darker, duller color.
+Printers often use **cyan**, **magenta**, and **yellow** as subtractive primaries, plus black.
 
-Common subtractive primary colors used in printing are **cyan**, **magenta**, and **yellow**, often with black added.
+**Additive** mixing (light) adds wavelengths. **Subtractive** mixing (pigment) removes them. That is why a screen and a paint set do not behave the same way.
 
-Paint mixing and light mixing are different because pigments subtract wavelengths while lights add wavelengths.
+## The Eye and Color Vision
 
-This is why a computer screen and a paint palette do not mix color in exactly the same way.
+Your **retina** has **rods** and **cones**.
 
-## The Eye and Color
-
-Your retina contains cells called rods and cones.
-
-**Rods** are sensitive in dim light but do not detect color well.
+**Rods** help you see in dim light but do not detect color well.
 
 **Cones** help you see color and fine detail in brighter light.
 
-Most people have three main kinds of cones, sensitive to different ranges of wavelengths. The brain compares signals from these cones to create color perception.
+Most people have three main types of cones, sensitive to different wavelength ranges. Your brain compares their signals to build color perception.
 
-Color is not only in the light. It is also in the way your eye and brain respond to the light.
+Color is not only "in" the light. It is also in how your **eye and brain** respond.
 
-This is why color vision can differ from person to person.
+## Color Blindness and Good Design
 
-## Color Blindness
+Some people have **color vision differences**, often called **color blindness**.
 
-Some people have color vision differences, often called **color blindness**.
+The most common types make it harder to tell **reds** and **greens** apart. It usually does not mean seeing only black and white.
 
-The most common types make it harder to distinguish reds and greens.
-
-Color blindness does not usually mean a person sees only black and white. It often means certain colors are harder to tell apart.
-
-Designers should remember this when making signs, maps, graphs, games, and safety signals.
-
-Good design uses labels, shapes, brightness, and position, not color alone.
+When you design maps, games, graphs, or safety signs, do not rely on **color alone**. Use labels, shapes, brightness, and position too.
 
 ## The Sky and Sunsets
 
-The color spectrum also helps explain the sky.
+The spectrum also explains sky color.
 
-Air molecules scatter shorter blue wavelengths of sunlight more than longer red wavelengths. That scattered blue light reaches your eyes from many directions, making the sky look blue.
+Air molecules **scatter** shorter blue wavelengths of sunlight more than longer red ones. Blue light reaches your eyes from many directions, so the sky looks blue.
 
-At sunrise or sunset, sunlight travels through more atmosphere. Much of the blue light is scattered out of the direct path, leaving more reds, oranges, and yellows to reach your eyes.
+At sunrise or sunset, sunlight travels through more atmosphere. Much blue scatters out of the direct path to your eyes. More reds, oranges, and yellows get through—so the horizon glows.
 
-The colors of the sky are not painted on. They come from light interacting with air.
+The sky is not painted on. It is light interacting with air.
 
 ## Beyond Visible Colors
 
-The visible spectrum is only the part human eyes can see.
+Visible light is only what human eyes detect.
 
-Just beyond red is **infrared radiation**, which we often feel as heat.
+Just beyond red is **infrared radiation**, often felt as heat.
 
-Just beyond violet is **ultraviolet radiation**, which can cause sunburn and help some materials glow.
+Just beyond violet is **ultraviolet radiation**, which can cause sunburn and make some materials glow under black lights.
 
-Other animals can see parts of the spectrum humans cannot. Bees can see ultraviolet patterns on some flowers. Some snakes can sense infrared radiation.
+Other animals see differently. Bees can sense ultraviolet patterns on flowers. Some snakes detect infrared from warm prey.
 
-Human color vision is impressive, but it is not the whole story of light.
+Human color vision is amazing—but it is not the whole story of light.
 
 ## Common Misconceptions
 
-One common mistake is thinking white light has no color. White light often contains many colors mixed together.
+One mistake is thinking **white light has no color**. White light often contains many colors mixed together.
 
-Another mistake is thinking a prism creates the colors. The prism separates colors already present in the light.
+Another mistake is thinking a **prism creates** the colors. The prism **separates** colors already in the light.
 
-Another mistake is thinking the visible spectrum is truly divided into exactly seven colors. The color range is continuous, though seven names are traditional.
+Another mistake is treating the spectrum as exactly **seven** separate bands. It is **continuous**; seven names are tradition.
 
-A fourth mistake is thinking paint colors mix the same way light colors mix. Light mixing is additive; pigment mixing is subtractive.
+A fourth mistake is mixing **paint** the same way you mix **light**. Light mixing is additive; pigment mixing is subtractive.
 
-Finally, remember that color depends on the light source, the object, and the observer.
+Finally, color depends on the **source**, the **object**, and the **observer**—change any one and the color you see can change.
 
 ## Safety with Color and Spectra
 
-Studying color and spectra is usually safe, but bright light can be dangerous.
+Studying color and spectra is usually safe, but **bright light** can hurt your eyes.
 
 Good safety habits include:
 
 - Never look directly at the Sun.
 - Do not look at the Sun through prisms, lenses, binoculars, or spectroscopes.
 - Use teacher-approved light sources for spectrum experiments.
-- Do not aim bright lights or lasers at eyes.
+- Do not aim bright lights or lasers at anyone's eyes.
 - Use proper eye protection for intense light sources.
-- Be careful with glass prisms, bulbs, and spectroscope parts.
-- Avoid ultraviolet lamps unless handled by trained adults with proper protection.
+- Handle glass prisms, bulbs, and spectroscope parts carefully.
+- Avoid ultraviolet lamps unless trained adults provide proper protection.
 - Do not rely on color alone for safety signals if color vision differences may matter.
 
-Light carries energy. Strong light must be respected.
+Light carries energy. Strong light deserves respect.
 
 ## The Big Idea
 
 The color spectrum is the range of visible colors separated by wavelength.
 
-White light can contain many colors mixed together. Prisms, raindrops, and spectroscopes can spread light into a spectrum. Spectra help explain rainbows, object colors, sky colors, screens, pigments, color vision, and the chemistry of stars.
+White light can hold many colors at once. Prisms, raindrops, and spectroscopes can spread light into a spectrum. Spectra explain rainbows, object color, sky color, screens, pigments, vision, and the chemistry of distant stars.
 
 If you remember only one sentence, remember this:
 
@@ -306,7 +296,7 @@ If you remember only one sentence, remember this:
 15. Why can line spectra act like fingerprints for elements?
 16. What is a spectroscope?
 17. How can spectra help scientists study stars?
-18. Why does a red apple look red?
+18. Why does a red jersey look red?
 19. Why might a blue shirt look dark under red light?
 20. What are the additive primary colors of light?
 21. How do screens use red, green, and blue light?

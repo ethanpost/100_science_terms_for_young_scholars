@@ -42,8 +42,9 @@ Students should be able to:
 23. In salt water, water vaporizes and leaves most salt behind. The vapor can be cooled and condensed into fresh water.
 24. Examples may include geysers, hot springs, underwater volcanic vents, or geothermal steam.
 25. Steam from boiling water can expand and push pistons or spin turbines, helping engines or power plants do work.
-26. Answers may include keeping away from steam, using oven mitts, turning pot handles inward, not overfilling pots, lifting lids away from the face, following pressure cooker instructions, never opening hot radiator caps, and using supervision.
-27. Answers may vary. A strong answer should state that at ordinary pressure, added energy mainly changes liquid water into vapor once boiling begins, so the water stays near its boiling point and boils away faster.
+26. Examples may include a whistling kettle, cooking pasta or ramen, steam on a mirror, a pressure cooker, steam locomotives, geysers, distillation in science class, or boiling coolant in an overheating engine.
+27. Answers may include keeping away from steam, using oven mitts, turning pot handles inward, not overfilling pots, lifting lids away from the face, following pressure cooker instructions, never opening hot radiator caps, and using supervision.
+28. Answers may vary. A strong answer should state that at ordinary pressure, added energy mainly changes liquid water into vapor once boiling begins, so the water stays near its boiling point and boils away faster.
 
 ### Activity Suggestions
 
@@ -70,6 +71,9 @@ Students should be able to:
 
 8. **Boiling Safety Scenarios**
    Present scenarios involving pot handles, steam under lids, pressure cookers, boiling over, hot radiators, and splashing liquid. Students identify safer actions.
+
+9. **Everyday Boiling Hunt**
+   Students list places they see boiling or its effects at home, school, outdoors, or in media. Discuss which examples are helpful and which are hazardous.
 
 ### Teaching Notes
 

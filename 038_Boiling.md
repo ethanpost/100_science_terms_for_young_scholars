@@ -2,15 +2,13 @@
 
 ![Boiling](038_Boiling_01.png)
 
-Imagine a pot of water sitting on a stove. At first the water is still. Then tiny bubbles appear on the bottom. Soon the bubbles grow, rise, burst at the surface, and the whole pot rolls and steams.
+You drop a block of ramen into a pot and crank the stove. At first the water is still. Then tiny bubbles cling to the bottom. Soon the whole pot churns, steam shoots up, and the noodles start to soften. The liquid is turning into gas **throughout** the pot—not just at the top.
 
-The liquid water is changing into gas throughout the pot.
-
-That process is boiling.
+That rolling, bubbling change is boiling.
 
 **Boiling is the change of a liquid into a gas throughout the liquid when vapor bubbles form and rise.**
 
-Boiling explains cooking pasta, making steam, pressure cookers, geysers, distillation, power plants, engines, weather, and why water boils differently on a mountain than at sea level.
+Boiling explains cooking pasta, making steam, pressure cookers, geysers, distillation, power plants, steam engines, weather, and why water boils at a lower temperature on a mountain than at sea level.
 
 Boiling is one of the major phase changes, or changes of state, in matter.
 
@@ -26,6 +24,8 @@ The gas forms bubbles inside the liquid. These bubbles rise and escape at the su
 
 For water, the gas form is called **water vapor**.
 
+![Liquid and gas particles](038_Boiling_02.png)
+
 ## Boiling and Evaporation
 
 Boiling and evaporation both change liquid into gas, but they are not the same.
@@ -34,9 +34,15 @@ Boiling and evaporation both change liquid into gas, but they are not the same.
 
 **Boiling** happens throughout a liquid when vapor bubbles form inside the liquid.
 
-A puddle evaporates after rain. A pot of water boils on a hot stove.
+A puddle after a storm **evaporates**. A pot of water on a hot stove **boils**.
 
-Evaporation can be slow and quiet. Boiling is usually more vigorous and happens when the liquid reaches its boiling point for the surrounding pressure.
+Evaporation can be slow and quiet. Boiling is usually louder and more vigorous, and for water at sea level it happens at about 100 degrees Celsius under ordinary pressure.
+
+Remember the difference:
+
+**Evaporation = surface escape. Boiling = bubbles throughout the liquid.**
+
+![Evaporation vs boiling](038_Boiling_03.png)
 
 ## Boiling Point
 
@@ -50,7 +56,7 @@ or
 
 **212 degrees Fahrenheit**
 
-Different liquids have different boiling points. Alcohol boils at a lower temperature than water. Cooking oil boils at a much higher temperature, though it may smoke or burn before ordinary cooks ever see it boil.
+Different liquids have different boiling points. Rubbing alcohol boils at a lower temperature than water. Cooking oil boils at a much higher temperature, though it may smoke or burn before ordinary cooks ever see it boil.
 
 The boiling point depends on the substance and the pressure around it.
 
@@ -68,6 +74,8 @@ In simple words:
 
 **A liquid boils when vapor bubbles can survive and grow inside it.**
 
+![Vapor bubbles and pressure](038_Boiling_04.png)
+
 ## Pressure and Boiling
 
 Pressure affects boiling.
@@ -80,29 +88,39 @@ This is why cooking can take longer at high altitudes. The water may be boiling,
 
 Lower pressure lowers boiling point. Higher pressure raises boiling point.
 
+![Boiling at sea level vs on a mountain](038_Boiling_05.png)
+
 ## Pressure Cookers
 
-A pressure cooker uses higher pressure to raise the boiling point of water.
+A **pressure cooker** uses higher pressure to raise the boiling point of water.
 
 Inside a pressure cooker, steam is trapped. The pressure increases. Because the pressure is higher, water can become hotter than 100 degrees Celsius before boiling vigorously.
 
-Hotter water and steam cook food faster.
+Hotter water and steam cook food faster. Tough stew meat and dried beans are classic examples.
 
 Pressure cookers must be designed with strong walls, seals, and safety valves. If pressure is not controlled, the cooker can be dangerous.
 
 This is a powerful example of the connection between pressure and boiling.
 
+![How a pressure cooker works](038_Boiling_06.png)
+
 ## Boiling Absorbs Energy
 
 Boiling absorbs energy.
 
-When water reaches its boiling point, adding more heat does not immediately make the water hotter. Instead, much of the added energy is used to change liquid water into water vapor.
+When water reaches its boiling point, adding more heat does not immediately make the water much hotter. Instead, much of the added energy is used to change liquid water into water vapor.
 
 This energy is called **latent heat**.
 
 During boiling at steady pressure, the temperature of the liquid often remains nearly constant until much of the liquid has changed into gas.
 
 That is why a pot of boiling water stays near 100 degrees Celsius at sea level, even if the stove is turned higher. A hotter flame makes it boil away faster, but the liquid water does not rise far above its boiling point under ordinary conditions.
+
+This is an important idea:
+
+**During a phase change, energy can change state instead of changing temperature.**
+
+![Temperature during boiling](038_Boiling_07.png)
 
 ## Bubbles in Boiling Water
 
@@ -116,6 +134,8 @@ They form where water near the heated surface gains enough energy. If the bubble
 
 When they reach the surface, they burst and release water vapor into the air.
 
+Watch a pot closely: the quiet early bubbles are not the same as the rolling boil that follows.
+
 ## Steam and Water Vapor
 
 Water vapor is invisible.
@@ -128,15 +148,19 @@ This is why steam burns can be worse than burns from hot water at the same tempe
 
 The vapor carries energy, and condensation releases more energy onto the skin.
 
+![Invisible vapor vs visible steam](038_Boiling_08.png)
+
 ## Boiling and Cooking
 
-Boiling is common in cooking.
+Boiling is common in cooking—and you have probably used it without calling it science.
 
-People boil water for pasta, rice, potatoes, eggs, vegetables, soups, and drinks. Boiling can cook food, soften materials, dissolve ingredients, and kill many microbes.
+People boil water for pasta, rice, potatoes, eggs, vegetables, soups, and hot drinks. Boiling can cook food, soften materials, dissolve ingredients, and kill many microbes.
+
+A **rolling boil** keeps pasta moving so noodles do not stick together. A **simmer** is gentler—small bubbles rising slowly—useful for soup or sauce.
 
 But boiling is not always the fastest or best cooking method. Some foods become mushy if boiled too long. Some nutrients dissolve into the water. Some flavors change.
 
-At high altitudes, boiling water is cooler, so cooking may take longer.
+At high altitudes, boiling water is cooler, so cooking may take longer. Campers and hikers notice this on mountain trips.
 
 Cooking with boiling water is really cooking with heat transfer and phase change.
 
@@ -156,7 +180,7 @@ The amount of bubbling tells you about heat input and vapor formation, but the w
 
 Boiling water can kill many disease-causing microbes.
 
-This is why boiling is sometimes recommended when water may be unsafe to drink.
+This is why boiling is sometimes recommended when water may be unsafe to drink—on a camping trip, after a storm, or when traveling.
 
 However, boiling does not remove all chemical pollutants, heavy metals, or salt. In some cases, boiling can even concentrate dissolved substances because water evaporates away.
 
@@ -180,7 +204,7 @@ Distillation works because substances can have different boiling points.
 
 Boiling can happen in nature.
 
-Geysers and hot springs are heated by geothermal energy from inside Earth. Water underground becomes hot. In some cases, pressure builds until water and steam burst upward as a geyser.
+**Geysers** and hot springs are heated by geothermal energy from inside Earth. Water underground becomes hot. In some cases, pressure builds until water and steam burst upward as a geyser.
 
 Underwater volcanic vents can heat water to very high temperatures. Deep ocean pressure can keep water from boiling even when it is hotter than 100 degrees Celsius.
 
@@ -190,11 +214,11 @@ Nature uses the same physics as a kitchen pot, but often on a grander scale.
 
 ## Boiling and Engines
 
-Boiling has been used to power machines.
+Boiling has powered machines for centuries.
 
-In a steam engine, water is heated until it becomes steam. The expanding steam pushes pistons or turbines, turning heat energy into motion.
+In a **steam engine**, water is heated until it becomes steam. The expanding steam pushes pistons or turbines, turning heat energy into motion. Historic trains and ships used this idea.
 
-Power plants may use boiling water to make steam that spins turbines and generates electricity.
+**Power plants** may boil water to make steam that spins turbines and generates electricity.
 
 Engines and power plants must control pressure, temperature, and steam carefully.
 
@@ -211,6 +235,23 @@ This is why radiator caps and cooling systems are designed to hold pressure and 
 Never open a hot radiator cap. Hot pressurized liquid and steam can burst out and cause severe burns.
 
 Boiling in a machine is often a warning.
+
+## Boiling in Everyday Life
+
+Boiling is everywhere once you start looking.
+
+You see its results when:
+
+- A kettle whistles on the stove
+- Ramen or pasta cooks in a rolling pot
+- Steam fogs a mirror after a shower
+- A pressure cooker hisses and speeds up dinner
+- Old photos show steam locomotives at a station
+- A geyser erupts in a national park
+- A distillation setup separates salt from water in science class
+- Coolant boils in an overheating engine
+
+Sometimes boiling is helpful. Sometimes it is a hazard—scalding water, steam burns, or boiling over onto a burner.
 
 ## Common Misconceptions
 
@@ -279,5 +320,6 @@ If you remember only one sentence, remember this:
 23. How can distillation separate salt from water?
 24. Give two examples of boiling in nature.
 25. How can boiling water or steam be used in engines or power plants?
-26. What are three safety rules related to boiling?
-27. In your own words, explain why turning the stove higher does not make ordinary boiling water much hotter.
+26. Give four examples of boiling in everyday life.
+27. What are three safety rules related to boiling?
+28. In your own words, explain why turning the stove higher does not make ordinary boiling water much hotter.

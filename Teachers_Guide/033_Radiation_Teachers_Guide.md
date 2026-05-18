@@ -69,11 +69,30 @@ Students should be able to:
 8. **Radiation Safety Scenarios**
    Present scenarios involving sunburn, lasers, microwaves, heat lamps, welding, X-rays, and campfires. Students identify risks and safer behavior.
 
+### Illustrations
+
+Seven diagrams support the chapter (`033_Radiation_01.png` through `033_Radiation_07.png`). Full art direction for illustrators is in **`033_Radiation_image_briefs.md`** at the project root.
+
+| File | Section | What to show |
+|------|---------|----------------|
+| _01 | Opening | Sun or grill warming someone **without contact** (pool/shade hook) |
+| _02 | Radiation does not need matter | Sun → Earth across **empty space**; no rod, no air current across the gap |
+| _03 | Electromagnetic waves | Simplified **spectrum bar** with main bands labeled |
+| _04 | Infrared radiation | Object emitting infrared + **thermal camera** false-color view |
+| _05 | Absorb / reflect / transmit | One ray split into three paths; optional black vs white shirt |
+| _06 | Color and surface | **Black vs white** under the same sun — absorb vs reflect |
+| _07 | Three methods together | **Campfire** with radiation, convection, and conduction labeled (match ch. 031/032 _07 if possible) |
+
+All seven PNGs (`_01`–`_07`) are in the project root. Style matches **031_Conduction** / **032_Convection**: hand-drawn stick-figure explainers with labels and arrows.
+
 ### Teaching Notes
 
 - Keep the central distinction clear: **radiation can travel through empty space**.
+- Contrast early with **conduction** (contact) and **convection** (moving fluid) from chapters 031 and 032.
+- Use the palm-facing-Sun example to show absorption without contact.
 - Reassure students that radiation is a broad word; not all radiation is nuclear or dangerous.
-- Use infrared radiation as the main heat-transfer example.
-- Connect absorption and reflection to color, surface texture, emergency blankets, roofs, and clothing.
+- Use infrared radiation as the main heat-transfer example; thermal cameras make it concrete.
+- Connect absorption and reflection to color, surface texture, emergency blankets, roofs, phones in sun, and clothing.
 - Keep demonstrations safe; avoid intense lamps, lasers, open flames, and direct Sun viewing.
 - Link radiation to prior lessons on heat, temperature, conduction, convection, weather, and climate.
+- Use the **Illustrations** table and `033_Radiation_image_briefs.md` when commissioning or reviewing chapter art.

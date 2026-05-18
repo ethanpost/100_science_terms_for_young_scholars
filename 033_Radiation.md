@@ -2,33 +2,37 @@
 
 ![Radiation](033_Radiation_01.png)
 
-Imagine standing near a campfire on a cold evening. You feel warmth on your face even though you are not touching the fire. The air between you and the flames may be moving, but the warmth can reach you even across empty space.
+You step out of the shade and into full sun at the pool. Same air temperature—but your shoulders heat up fast. You are not touching the Sun. No hot wind is required. Energy is crossing space and air as waves.
 
-The heat is traveling as waves.
-
-That kind of heat transfer is radiation.
+That kind of heat transfer is **radiation**.
 
 **Radiation is the transfer of energy by electromagnetic waves.**
 
-Radiation explains why sunlight warms Earth, why you feel heat from a fire, why black pavement gets hot in summer, why shiny emergency blankets help keep people warm, why night skies can cool the ground, and why astronauts need special protection in space.
+Radiation explains why sunlight warms your skin, why you feel a grill from several feet away, why black asphalt burns bare feet in July, why a shiny emergency blanket helps in cold weather, why frost can form on a clear night, and why astronauts need special shielding in space.
 
-Radiation is one of the three main ways heat moves. The other two are conduction and convection.
+Radiation is one of the three main ways heat moves. The other two are **conduction** and **convection**.
 
 ## Radiation Does Not Need Matter
 
-Conduction needs direct contact between particles.
+**Conduction** needs direct contact between particles. Stick a metal spoon in hot chili and the handle warms—even though it never touched the soup. Particles pass energy along.
 
-Convection needs a moving fluid, such as air or water.
+**Convection** needs a moving fluid. Warm air rises from a radiator; soup swirls in a heated pot. The fluid carries heat.
 
 Radiation is different. It can travel through empty space.
 
-This is why the Sun can warm Earth even though space between the Sun and Earth is mostly empty. There is no giant metal rod conducting heat from the Sun to Earth, and there is no air current carrying heat across space.
+The Sun warms Earth across about 150 million kilometers of near-vacuum. No metal rod conducts heat from the Sun. No air current carries it across space.
 
-Energy travels from the Sun as electromagnetic radiation.
+Energy travels as **electromagnetic radiation**.
+
+Remember:
+
+**Radiation can cross empty space. Conduction and convection cannot.**
+
+![Radiation through empty space](033_Radiation_02.png)
 
 ## Electromagnetic Waves
 
-**Electromagnetic waves** are waves of electric and magnetic fields that can carry energy through space.
+**Electromagnetic waves** are waves of electric and magnetic fields that carry energy through space.
 
 They include:
 
@@ -40,227 +44,241 @@ They include:
 - X-rays
 - Gamma rays
 
-These are all part of the **electromagnetic spectrum**.
+Together they form the **electromagnetic spectrum**.
 
-For heat transfer, infrared radiation is especially important, but visible light and ultraviolet radiation can also warm objects when absorbed.
+You use different parts every day. Radio waves carry music. Microwaves heat leftovers. Visible light lets you read this page. Ultraviolet from the Sun can sunburn skin. Doctors use X-rays to see bones.
+
+For heat transfer, **infrared radiation** matters most—but visible light and ultraviolet can warm or affect materials when absorbed.
+
+![The electromagnetic spectrum](033_Radiation_03.png)
 
 ## Infrared Radiation
 
-**Infrared radiation** is electromagnetic radiation that we often feel as heat.
+**Infrared radiation** is electromagnetic radiation we often feel as heat.
 
-You cannot see infrared radiation with your eyes, but your skin can feel its warming effect when it is strong enough.
+You cannot see it with your eyes, but your skin senses it when it is strong enough.
 
-A campfire, warm stove, hot sidewalk, living body, and heated metal all give off infrared radiation.
+A grill, a heat lamp, sun-baked pavement, your own body, and glowing coals all emit infrared radiation.
 
-Special cameras can detect infrared radiation and create images showing warmer and cooler areas. These are sometimes called thermal images.
+**Thermal cameras** detect infrared and build heat pictures—warmer areas look brighter. Firefighters search for people in smoke. Mechanics hunt hot engine parts. Coaches check for sore muscles. The technology is radiation made visible.
 
-Infrared radiation is a major way warm objects lose energy to their surroundings.
+Infrared is a major way warm objects lose energy to cooler surroundings.
+
+![Infrared radiation and thermal images](033_Radiation_04.png)
 
 ## All Objects Radiate
 
 Every object with a temperature above absolute zero gives off electromagnetic radiation.
 
-Cool objects give off small amounts of mostly infrared radiation. Warm objects give off more. Very hot objects can glow red, orange, yellow, or white because they emit visible light.
+Cool objects emit small amounts—mostly infrared. Warm objects emit more. Very hot objects can **glow** red, orange, yellow, or white because they emit visible light too.
 
-A piece of iron heated in a forge may first glow dull red, then brighter orange or yellow as it becomes hotter.
+Heat metal in a forge and watch the color change: dull red, then orange, then yellow as temperature climbs.
 
-The hotter an object is, the more radiation it gives off, and the more energetic that radiation tends to be.
+The hotter the object, the more radiation it gives off—and the more energetic that radiation tends to be.
 
-This is why temperature and radiation are closely connected.
+Temperature and radiation stay linked.
 
-## Absorption
+## A Simple Radiation Example
 
-When radiation strikes an object, some of the energy may be **absorbed**.
+Stand in sunlight with your palm facing the Sun, then turn your palm away.
 
-Absorbed energy increases the thermal energy of the object, often making it warmer.
+Facing the Sun: absorbed radiation warms your skin.
 
-Sunlight warms your skin because your skin absorbs some of the Sun's radiation. A black shirt warms in sunlight because it absorbs much of the light that strikes it. Dark pavement can become very hot because it absorbs sunlight well.
+Facing away: less direct radiation; your palm cools faster.
 
-Absorption is one reason radiation can heat objects without touching them.
+You did not change the air temperature much. You changed how much radiation you **absorbed**. That is radiation at work—no contact required.
 
-The energy arrives as waves, then becomes thermal energy in the material.
+## Absorption, Reflection, and Transmission
 
-## Reflection
+When radiation hits an object, three things can happen:
 
-Some radiation may be **reflected**.
+- **Absorb** — energy enters the material
+- **Reflect** — energy bounces off
+- **Transmit** — energy passes through
 
-Reflection means the radiation bounces off a surface.
+Often a mix of all three.
 
-Shiny, light-colored, or metallic surfaces often reflect more radiation than dark, dull surfaces. A shiny emergency blanket reflects infrared radiation back toward the body. A white roof reflects more sunlight than a dark roof, helping keep a building cooler.
+### Absorption
 
-Reflection does not make radiation disappear. It changes its direction.
+**Absorbed** radiation becomes thermal energy in the material. The object warms.
 
-Designers use reflection to control heating, cooling, lighting, and safety.
+Sunlight warms your skin because your skin absorbs part of the Sun's radiation. A black shirt in July soaks up visible light and heats up. Dark pavement can become painful to touch.
 
-## Transmission
+Waves arrive; the material gets warmer inside.
 
-Some radiation may be **transmitted**, which means it passes through a material.
+### Reflection
 
-Visible light passes through clear glass. Some infrared radiation passes through certain materials but not others. Ultraviolet radiation may be blocked by glass, sunscreen, clothing, or Earth's atmosphere depending on the type and material.
+**Reflected** radiation bounces off instead of being absorbed.
 
-Materials can absorb, reflect, and transmit different kinds of radiation differently.
+Shiny, light-colored, or metallic surfaces often reflect more than dark, dull ones. A shiny emergency blanket reflects infrared back toward your body. A white roof reflects more sunlight than a black roof, keeping the building cooler.
 
-This is why a window may let visible sunlight enter a room while slowing some other forms of radiation.
+Reflection does not destroy energy—it redirects it.
 
-The behavior depends on both the radiation and the material.
+Engineers use reflection to control heating, cooling, and safety.
 
-## Color and Radiation
+### Transmission
 
-Color affects how much visible light an object absorbs or reflects.
+**Transmitted** radiation passes through a material.
 
-A black object absorbs most visible light that hits it. A white object reflects much of it.
+Visible light passes through clear glass. Some infrared passes through certain plastics or gases; other types are blocked. Sunscreen, clothing, and Earth's atmosphere filter ultraviolet in different ways.
 
-This is why a black shirt often feels hotter than a white shirt in sunlight. The black shirt absorbs more of the Sun's radiation and turns more of it into thermal energy.
+A window can flood a room with sunlight while blocking or slowing other radiation—depending on the glass and the wave type.
 
-Color is not the only factor. Texture, material, thickness, and infrared behavior also matter.
+![Absorption, reflection, and transmission](033_Radiation_05.png)
 
-Still, color is an easy way to see how absorption and reflection can affect temperature.
+## Color and Surface
+
+Color strongly affects how much **visible light** is absorbed or reflected.
+
+Black absorbs most visible light that hits it. White reflects much of it.
+
+That is why a black shirt often feels hotter than a white shirt in the same sun. The black shirt converts more radiation into thermal energy.
+
+Color is not everything. Texture, thickness, and how a surface behaves with **infrared** also matter. A dull dark surface and a shiny dark surface can behave differently. Still, color is the easiest clue in everyday life.
+
+![Black and white surfaces in sunlight](033_Radiation_06.png)
 
 ## Radiation from the Sun
 
-The Sun is Earth's main source of energy.
+The Sun is Earth's main energy source.
 
-Solar radiation travels across space and reaches Earth's atmosphere. Some is reflected back into space by clouds, ice, snow, and bright surfaces. Some is absorbed by the atmosphere, land, and oceans.
+Solar radiation crosses space, enters the atmosphere, and reaches the surface. Clouds, ice, snow, and bright surfaces reflect some back to space. Land, water, and air absorb the rest.
 
-The absorbed energy warms Earth and drives weather, winds, ocean currents, evaporation, photosynthesis, and climate.
+That absorbed energy drives weather, winds, ocean currents, evaporation, photosynthesis, and climate.
 
-Without solar radiation, Earth would be far colder and life as we know it could not continue.
+Without solar radiation, Earth would be frozen and life as we know it could not continue.
 
-Sunlight is not only light for seeing. It is energy for the planet.
+Sunlight is not only for seeing. It powers the living world.
 
 ## Radiation and the Atmosphere
 
-Earth's atmosphere affects radiation.
+Earth's atmosphere filters and traps radiation.
 
-Some incoming solar radiation passes through the atmosphere and warms the surface. Earth's warm surface then gives off infrared radiation. Certain gases in the atmosphere absorb and re-emit some of this infrared radiation.
+Some solar radiation passes through and warms the ground. The warm surface then emits **infrared** radiation upward. Certain gases absorb and re-emit some of that infrared.
 
-This helps keep Earth warmer than it would be without an atmosphere.
+That helps keep Earth warmer than it would be with no atmosphere—a natural **greenhouse effect**.
 
-This process is part of the **greenhouse effect**.
-
-The greenhouse effect is natural and necessary for life. Problems arise when human activities increase greenhouse gases enough to change Earth's climate.
+The greenhouse effect is necessary for life. Problems appear when human activities add enough extra greenhouse gases to change climate over long periods.
 
 ## Greenhouse Gases
 
-**Greenhouse gases** are gases that absorb and re-emit infrared radiation.
+**Greenhouse gases** absorb and re-emit infrared radiation.
 
-Important greenhouse gases include:
+Important examples:
 
 - Water vapor
 - Carbon dioxide
 - Methane
 - Nitrous oxide
 
-These gases do not block all radiation. They interact strongly with certain infrared wavelengths.
+They do not block all radiation. They interact strongly with certain infrared wavelengths.
 
-A greenhouse gas molecule can absorb infrared radiation, gain energy, and later emit radiation in different directions.
+A greenhouse gas molecule can absorb infrared, hold energy briefly, and emit radiation in new directions—including back toward Earth's surface.
 
-This slows the loss of heat from Earth to space.
+That slows heat loss to space.
 
 ## Radiation in Space
 
-Radiation is the main way heat travels through space.
+In space, radiation is king.
 
-In space there is very little matter, so conduction and convection are limited. A spacecraft in sunlight can become hot on the sunlit side, while the shaded side can become very cold.
+There is almost no matter, so **conduction** and **convection** barely help. A spacecraft in sunlight can bake on one side while the shaded side freezes.
 
-Engineers design spacecraft with reflective surfaces, insulation, radiators, heaters, and careful temperature-control systems.
+Engineers use reflective films, insulation, radiators, heaters, and careful orientation.
 
-A **radiator** on a spacecraft gives off infrared radiation to release unwanted heat into space.
+A spacecraft **radiator** dumps waste heat as infrared into space—like sweating, but with waves instead of water.
 
-In space, controlling radiation can be a matter of survival.
+In orbit, managing radiation is survival engineering.
 
-## Radiant Heating and Cooling
+## Warming and Cooling by Radiation
 
-Radiation can warm and cool objects.
+Radiation warms—and helps things cool.
 
-A fire warms you by radiation. A heat lamp warms food or animals. The Sun warms the ground by radiation. A warm sidewalk radiates energy after sunset and gradually cools.
+A campfire warms your face. A heat lamp warms food or animals. The Sun warms the ground. After sunset, a hot sidewalk radiates energy away and slowly cools.
 
-Objects also cool by radiating energy away.
+Objects always exchange radiation with their surroundings. If they radiate more than they absorb, they cool down.
 
-On a clear night, the ground can lose energy by radiation to the cold sky. If the ground cools enough, dew or frost may form.
+On a clear night, the ground can radiate energy to the cold sky. Cool enough, and **dew** or **frost** forms—even when the air a few feet up is not freezing.
 
-Radiation is not only something hot objects send toward us. It is also something objects use to lose energy.
+Radiation is not only what hot things send at you. It is how everything loses energy to the universe.
 
 ## Radiation in Cooking
 
-Cooking often uses radiation.
+Cooking uses radiation constantly.
 
-A toaster uses glowing hot wires to radiate energy into bread. A broiler radiates heat from above. A campfire can roast food by radiation from flames and coals.
+A **toaster** glows hot wires that radiate into bread. A **broiler** radiates from above. Campfire coals radiate into marshmallows on a stick.
 
-Microwave ovens use microwaves, another form of electromagnetic radiation, to make certain molecules in food move more and warm the food.
+A **microwave oven** uses microwaves—another part of the spectrum—to shake water molecules in food and warm it from the inside out.
 
-In an oven, cooking may involve radiation from hot walls, convection from hot air, and conduction inside the food.
-
-Real cooking usually uses several heat-transfer methods at once.
+In a full oven, hot walls radiate, hot air convects, and food conducts heat inward. Real cooking is a team sport for all three methods.
 
 ## Radiation and the Human Body
 
-Your body gives off infrared radiation.
+Your body emits infrared radiation all the time.
 
-That is one reason you can lose heat in a cold room even if the air is still. You radiate energy to cooler surroundings.
+In a cold room you lose heat to the walls and air—not only by conduction and convection at your skin, but by radiating energy outward.
 
-Warm clothing and blankets help reduce heat loss by trapping air and sometimes reflecting some infrared radiation. Emergency blankets are shiny because they reflect infrared radiation back toward the body.
+Thick clothing traps air and slows other heat loss. **Emergency blankets** are shiny because they reflect your infrared radiation back toward you.
 
-Thermal cameras can detect infrared radiation from the body and show warmer and cooler regions.
+Leave a phone in the sun and it heats up from absorbed radiation. Sit near a campfire and your front warms while your back stays cool—radiation from one direction.
 
-Radiation is part of how the body exchanges energy with the environment.
+Your body is always sending and receiving electromagnetic waves.
 
 ## Radiation, Conduction, and Convection Together
 
-Real heat transfer often uses all three methods.
+Real situations blend all three.
 
-At a campfire, radiation warms your face from the glowing fire. Convection carries hot air and smoke upward. Conduction heats a metal poker if one end is in the fire.
+At a campfire: **radiation** warms your face from the flames. **Convection** lifts hot air and smoke. **Conduction** heats a metal poker in the coals—and burns your hand if you grab it.
 
-In a house, sunlight may warm a floor by radiation. The floor then warms the air by conduction at the surface and convection as air moves. The house may lose heat through walls by conduction and through drafts by convection.
+In a sunny room: **radiation** warms the floor. The floor **conducts** to the air at the surface. **Convection** circulates that air through the house.
 
-The three methods are easiest to study separately, but they often work together.
+Scientists separate the three to study them. Nature never separates them.
+
+![Radiation, conduction, and convection together](033_Radiation_07.png)
 
 ## Helpful and Harmful Radiation
 
-Radiation can be helpful.
+Radiation is a broad word—not automatically dangerous.
 
-Sunlight helps plants grow. Infrared lamps can warm animals or food. Medical imaging can use certain forms of radiation. Radio waves carry communication signals. Microwaves can heat food.
+**Helpful:** sunlight for plants and vitamin D; infrared lamps for animals; radio and cell signals; microwave cooking; medical imaging when used properly.
 
-Radiation can also be harmful.
+**Harmful:** too much ultraviolet (sunburn, eye damage); intense infrared burns; high doses of X-rays or gamma rays; mishandled radioactive materials.
 
-Too much ultraviolet radiation from the Sun can damage skin and eyes. X-rays and gamma rays can damage living tissue if exposure is too high. Intense infrared radiation can burn skin.
+The effect depends on **type**, **energy**, **amount**, and **time**.
 
-The effect depends on the type of radiation, the energy, the amount, and the exposure time.
-
-Radiation is not automatically good or bad. It must be understood and controlled.
+Radiation must be understood and controlled—not feared in every form.
 
 ## Common Misconceptions
 
-One common mistake is thinking radiation always means dangerous nuclear radiation. Heat radiation from a fire or the Sun is also radiation, and much of it is infrared or visible light.
+One mistake is thinking **radiation** always means nuclear danger. Heat from a fire or the Sun is radiation too—usually infrared or visible light.
 
-Another mistake is thinking radiation needs air to travel. Radiation can travel through empty space.
+Another mistake is thinking radiation needs air. It does not. It crosses vacuum.
 
-A third mistake is thinking only very hot objects radiate. All objects above absolute zero radiate, though cooler objects radiate less.
+A third mistake is thinking only very hot objects radiate. Everything above absolute zero radiates; cooler objects just radiate less.
 
-A fourth mistake is thinking shiny materials create cold. They do not. They reflect radiation and can slow heating or cooling.
+A fourth mistake is thinking shiny things **create** cold. They reflect radiation and can slow heating or cooling—they do not manufacture coldness.
 
 ## Safety with Radiation
 
-Radiation safety depends on the kind of radiation.
+Safety depends on the type of radiation.
 
-Good safety habits include:
+Good habits include:
 
-- Use sunscreen, shade, hats, and protective clothing in strong sunlight.
+- Use sunscreen, shade, hats, and clothing in strong sunlight.
 - Never stare at the Sun.
 - Wear proper eye protection for welding, intense lamps, or lasers.
-- Keep skin away from heat lamps, broilers, and fires.
-- Follow microwave oven instructions and do not use damaged microwave ovens.
-- Respect warning signs for X-rays, lasers, and other radiation sources.
-- Do not handle unknown radioactive materials.
-- Use emergency blankets and reflective gear properly in cold or survival situations.
+- Keep skin away from heat lamps, broilers, and open flames.
+- Follow microwave instructions; do not use damaged ovens.
+- Respect warning signs for X-rays, lasers, and radioactive materials.
+- Do not handle unknown radioactive substances.
+- Use emergency blankets and reflective gear correctly in cold or survival situations.
 
-Radiation can carry energy across space and into your body. That makes it useful, but also worth respecting.
+Radiation carries energy across space and into your body. That makes it powerful—and worth respecting.
 
 ## The Big Idea
 
 Radiation is energy transfer by electromagnetic waves.
 
-It does not require matter, which is why sunlight can travel through space to Earth. Objects can absorb, reflect, or transmit radiation. Infrared radiation is especially important for heat transfer, but visible light and ultraviolet radiation can also warm or affect materials. Radiation helps explain sunlight, fires, climate, cooking, night cooling, spacecraft, thermal cameras, and safety rules.
+It does not require matter, which is why sunlight reaches Earth through space. Objects absorb, reflect, or transmit radiation. Infrared is central to heat transfer, but visible light and ultraviolet matter too. Radiation explains sunshine, campfires, night frost, climate, cooking, thermal cameras, spacecraft, and everyday safety.
 
 If you remember only one sentence, remember this:
 

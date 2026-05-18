@@ -2,43 +2,47 @@
 
 ![Reflection](040_Reflection_01.png)
 
-Imagine standing in front of a mirror before school. You lift your right hand, and the image seems to lift its left. You smile, and the image smiles back. The mirror is not creating a second boy behind the glass. It is bouncing light in a very orderly way.
+You raise your right hand in the bathroom mirror before school. The image raises its left. You grin—and it grins back. There is no second person trapped behind the glass. The mirror is redirecting light that already exists.
 
-That bouncing of light is reflection.
+That redirecting is **reflection**.
 
 **Reflection is the bouncing of light or other waves off a surface.**
 
-Reflection explains mirrors, shiny water, polished metal, bicycle reflectors, periscopes, headlights on road signs, echoes, glare, and the simple fact that you can see most objects around you. Without reflection, a book, a baseball, or a tree would be invisible unless it made its own light.
+Reflection explains mirrors, shiny puddles after rain, polished bike chrome, reflectors that flash in headlights, periscopes, telescope mirrors, echoes in a canyon, screen glare, and the plain fact that you can see a backpack, a basketball, or a tree. Without reflection, most objects would be invisible unless they made their own light.
 
-Reflection is one of the most important ideas in optics, the study of light.
+Reflection is one of the central ideas in **optics**, the study of light.
 
 ## Seeing by Reflected Light
 
 Most objects do not produce their own light.
 
-The Sun, a lamp, a flame, and a screen can give off light. But a desk, pencil, wall, shoe, or face usually does not produce visible light. You see those objects because light from a source strikes them and reflects into your eyes.
+The Sun, a lamp, a flame, and a screen can give off light. A desk, cleat, wall, or glove usually cannot. You see those things because light from a source hits them and **reflects** into your eyes.
 
-For example, sunlight hits a soccer ball. Some light reflects from the ball into your eyes. Your eyes and brain interpret that reflected light as the ball's shape, color, and position.
+Sunlight strikes a basketball. Some light bounces off the ball and enters your eyes. Your brain turns that reflected light into shape, color, and position.
 
 Seeing ordinary objects depends on reflection.
 
+Remember:
+
+**If it does not glow on its own, you probably see it by reflected light.**
+
+![Seeing by reflected light](040_Reflection_02.png)
+
 ## Light Rays
 
-Scientists often use **light rays** to model reflection.
+Scientists often draw **light rays**—straight arrows showing the path light takes.
 
-A light ray is a straight arrow showing the path light takes.
+The ray traveling **toward** a surface is the **incident ray**.
 
-The ray traveling toward a surface is called the **incident ray**.
+The ray bouncing **away** is the **reflected ray**.
 
-The ray bouncing away is called the **reflected ray**.
+An imaginary line drawn perpendicular to the surface at the point where the ray hits is the **normal**.
 
-An imaginary line drawn perpendicular to the surface at the point where the ray hits is called the **normal**.
-
-These three ideas, incident ray, reflected ray, and normal, help describe reflection clearly.
+These three ideas—incident ray, reflected ray, and normal—make reflection easy to describe on paper.
 
 ## The Law of Reflection
 
-Reflection follows a simple rule:
+Reflection follows one simple rule:
 
 **The angle of incidence equals the angle of reflection.**
 
@@ -46,221 +50,223 @@ The **angle of incidence** is the angle between the incident ray and the normal.
 
 The **angle of reflection** is the angle between the reflected ray and the normal.
 
-If light hits a mirror at 30 degrees from the normal, it reflects away at 30 degrees on the other side of the normal.
+If light hits a flat mirror at 30° from the normal, it leaves at 30° on the other side of the normal.
 
-This rule works for mirrors, shiny metal, still water, and many other reflecting surfaces.
+That rule works for mirrors, still water, polished metal, and many other surfaces.
 
-## A Simple Reflection Calculation
+Angles are always measured from the **normal**, not from the mirror itself.
 
-Suppose a ray of light hits a flat mirror at an angle of 40 degrees from the normal.
+![The law of reflection](040_Reflection_03.png)
+
+## A Quick Check
+
+Suppose a ray hits a flat mirror at **40° from the normal**.
 
 By the law of reflection:
 
 **Angle of reflection = angle of incidence**
 
-So the reflected ray leaves at:
+So the reflected ray leaves at **40° from the normal**.
 
-**40 degrees from the normal**
+If the angle of incidence is 15°, the angle of reflection is 15°.
 
-If the angle of incidence is 15 degrees, the angle of reflection is 15 degrees.
+The math is simple. The idea is powerful:
 
-The numbers are simple, but the idea is powerful:
-
-**Light reflects predictably.**
+**Light reflects in a predictable way.**
 
 ## Regular Reflection
 
-**Regular reflection** happens when light reflects from a smooth surface in an orderly way.
+**Regular reflection** happens when light bounces from a **smooth** surface in an orderly pattern.
 
-A mirror is the best common example. Light rays that arrive in an orderly pattern leave in an orderly pattern. This allows a clear image to form.
+A mirror is the classic example. Rays that arrive in an orderly pattern leave in an orderly pattern. A clear image can form.
 
-Still water, polished metal, glossy glass, and a calm lake can also produce regular reflection.
+Still water, glossy glass, and polished metal can do the same. That is why you see your face in a bathroom mirror—or trees upside down in a calm pond.
 
-Regular reflection is why you can see your face in a mirror or see trees reflected in a quiet pond.
-
-The smoother the surface compared with the wavelength of light, the more orderly the reflection can be.
+The smoother the surface compared with the wavelength of light, the more orderly the bounce can be.
 
 ## Diffuse Reflection
 
-**Diffuse reflection** happens when light reflects from a rough surface in many directions.
+**Diffuse reflection** happens when light bounces from a **rough** surface in many directions.
 
-Most surfaces are rough at a tiny scale, even if they feel smooth to your hand. Paper, cloth, wood, skin, painted walls, and soil all scatter reflected light.
+Most surfaces look smooth to your hand but are rough at a microscopic scale. Paper, cloth, wood, skin, painted walls, and dirt all **scatter** reflected light.
 
-Diffuse reflection does not usually form a clear mirror image, but it is extremely useful. It lets you see objects from many angles.
+Diffuse reflection usually does not make a sharp mirror image—but it is essential. It lets you see objects from many angles.
 
-If a book reflected light only like a mirror, reading it would be difficult. Because paper reflects light diffusely, light from the page spreads in many directions and can enter your eyes from a comfortable position.
+If a textbook reflected only like a mirror, you could read it only from one exact spot. Because paper scatters light, rays leave the page in many directions and reach your eyes from a normal reading position.
 
-Diffuse reflection makes ordinary vision possible.
+Diffuse reflection is not "no reflection." It is reflection spread out.
+
+![Regular and diffuse reflection](040_Reflection_04.png)
 
 ## Mirrors
 
 A **mirror** is a surface that reflects light regularly enough to form an image.
 
-Most household mirrors are made from glass with a thin reflective metal coating behind it. Light passes through the glass, reflects from the metal, and returns to your eyes.
+Most household mirrors use glass with a thin metal coating behind it. Light passes through the glass, reflects from the metal, and returns to your eyes.
 
-A good mirror must be smooth. If the reflective surface is scratched, dusty, or uneven, the image becomes blurry or distorted.
+A good mirror must stay smooth. Scratches, dust, or warping blur or twist the image.
 
-Mirrors do not make light from nothing. They redirect light that already exists.
+Mirrors do not create light. They redirect light that is already there.
 
-This is why a mirror in a completely dark room shows no image.
+That is why a mirror in a completely dark room shows nothing.
 
 ## Plane Mirrors
 
-A **plane mirror** is a flat mirror.
+A **plane mirror** is flat.
 
 The image in a plane mirror appears:
 
 - Upright
 - The same size as the object
-- The same distance behind the mirror as the object is in front
-- Reversed front-to-back, which we often notice as left-right reversal
+- As far behind the mirror as the object is in front
+- Reversed front-to-back—which we often notice as left-right reversal
 
-The image appears behind the mirror because your brain follows the reflected light rays backward in straight lines.
+The image seems to sit behind the glass because your brain traces the reflected rays backward in straight lines.
 
-There is no real object behind the mirror. The image is a **virtual image**, meaning light rays appear to come from that location but do not actually pass through it.
+Nothing real is behind the mirror. The image is a **virtual image**: light rays appear to come from that spot, but they do not actually pass through it.
+
+![Plane mirror and virtual image](040_Reflection_05.png)
 
 ## Curved Mirrors
 
-Not all mirrors are flat.
+Not every mirror is flat.
 
-A **concave mirror** curves inward like the inside of a spoon. It can bring reflected light rays together, or focus them. Concave mirrors can magnify nearby objects and are used in shaving mirrors, makeup mirrors, telescopes, and headlights.
+A **concave mirror** curves inward, like the inside of a spoon. It can bring reflected rays together—**focus** them. Concave mirrors can magnify nearby objects. They appear in makeup mirrors, some headlights, and reflecting telescopes.
 
-A **convex mirror** curves outward like the outside of a spoon. It spreads reflected light rays apart and gives a wider view. Convex mirrors are used in some vehicle side mirrors, store security mirrors, and hallway safety mirrors.
+A **convex mirror** curves outward, like the back of a spoon. It spreads reflected rays apart and shows a **wider** view. Convex mirrors show up on some vehicle side mirrors, store security mirrors, and hallway safety mirrors.
 
-Curved mirrors are useful because they change how reflected rays spread or come together.
+Curved mirrors are useful because they control how reflected light spreads or comes together.
+
+![Concave and convex mirrors](040_Reflection_06.png)
 
 ## Reflection and Images
 
-An **image** is a visual likeness formed when light rays are arranged in a way your eye and brain interpret as coming from an object.
+An **image** is a visual likeness your eye and brain interpret as coming from an object.
 
-Mirrors form images by controlling reflected light.
+Mirrors form images by steering reflected light.
 
-In a plane mirror, reflected rays seem to come from behind the mirror. In a concave mirror, reflected rays may come together to form a real image or spread as if from a larger virtual image, depending on where the object is.
+In a plane mirror, reflected rays seem to come from behind the glass. In a concave mirror, rays may meet to form a **real** image, or spread as if from a larger virtual image—depending on where the object sits.
 
-You do not need advanced optics to remember the main idea:
+You do not need advanced optics for the main idea:
 
 **Images form when reflected or bent light reaches your eyes in an organized pattern.**
 
 ## Periscopes
 
-A **periscope** uses mirrors to let someone see over or around an obstacle.
+A **periscope** uses mirrors to see over or around something in the way.
 
-A simple periscope has two mirrors set at angles. Light from the object reflects from the top mirror, travels down the tube, reflects from the lower mirror, and enters the eye.
+A simple periscope has two mirrors at angles. Light from the scene reflects off the top mirror, travels down a tube, reflects off the lower mirror, and enters the eye.
 
-Periscopes have been used in submarines, trenches, and simple classroom toys.
-
-The periscope works because reflection can redirect light without changing what the light carries about the scene.
+Submarines, trenches, and classroom builds all use the same trick: reflection can **redirect** light without changing the information the light carries about the scene.
 
 Mirrors can guide information as well as energy.
 
 ## Retroreflection
 
-Some reflectors are designed to send light back toward its source.
+Some surfaces are built to send light **back toward its source**.
 
-This is called **retroreflection**.
+That is **retroreflection**.
 
-Bicycle reflectors, road signs, lane markers, and safety clothing often use tiny corner-shaped reflectors or glass beads. When headlights shine on them, much of the light is returned toward the driver.
+Bicycle reflectors, road signs, lane paint, and safety vests often use tiny corner reflectors or glass beads. When car headlights hit them, much of the light returns toward the driver.
 
-This is why road signs and reflectors can appear bright at night.
+That is why a reflector on your bike or backpack can flash bright at night even when little else glows.
 
-Retroreflection is not just ordinary shine. It is reflection designed for safety.
+Retroreflection is engineered for safety—not ordinary shine.
+
+![Retroreflection and periscope](040_Reflection_07.png)
 
 ## Reflection and Color
 
-Color depends strongly on reflection.
+Color depends heavily on reflection.
 
-White light contains many colors. An object appears a certain color because of the colors of light it reflects and absorbs.
+White light contains many colors. An object looks a certain color because of which colors it **reflects** and which it **absorbs**.
 
-A green leaf looks green because it reflects much green light and absorbs much of the other visible light.
+A green jersey looks green because it reflects much green light and absorbs much of the rest.
 
-A red apple reflects much red light. A black object absorbs much visible light and reflects little. A white object reflects many colors of visible light.
+A red helmet reflects much red light. Black gear absorbs much visible light and reflects little. White shoes reflect many colors.
 
-The color you see depends on the light source, the object, and your eyes.
-
-If colored light changes, reflected color can change too.
+The color you see depends on the light source, the object, and your eyes. Change the lighting, and reflected color can change too.
 
 ## Reflection and Glare
 
-**Glare** is bright reflected light that makes seeing uncomfortable or difficult.
+**Glare** is bright reflected light that makes seeing uncomfortable or hard.
 
-Glare can come from sunlight reflecting off water, snow, glass, polished floors, car windshields, or wet roads.
+Glare comes from sunlight on snow, water, glass, wet roads, or car windshields. It is often strong **regular** reflection from a smooth surface.
 
-Glare is often caused by strong regular reflection from a smooth surface.
+Sunglasses, visors, matte finishes, and smart lighting design can cut glare.
 
-Sunglasses, visors, matte surfaces, and careful lighting design can reduce glare.
-
-Glare is not only annoying. It can be dangerous when driving, skiing, boating, or working with bright lights.
+Glare is not only annoying. It can be dangerous when driving, skiing, boating, or working under intense lamps.
 
 ## Reflection in Water
 
 Still water can act like a mirror.
 
-When a lake is calm, light from trees, mountains, or the sky reflects in an orderly way, forming a clear image. When the water is rippled, each small surface is tilted differently, and reflected rays scatter in many directions.
+On a calm lake, light from trees or clouds reflects in an orderly way and forms a clear image. When wind ripples the surface, tiny tilts scatter rays in changing directions.
 
-That is why rippled water gives a broken, shimmering reflection.
+That is why choppy water gives a broken, shimmering reflection.
 
-Water reflections are beautiful, but they also teach physics:
+Water teaches the same lesson as mirrors:
 
-Smooth surfaces reflect orderly images. Rough or moving surfaces scatter light.
+**Smooth surfaces → orderly images. Rough or moving surfaces → scattered light.**
+
+![Glare and water reflection](040_Reflection_08.png)
 
 ## Reflection Beyond Visible Light
 
 Reflection is not only for visible light.
 
-Radio waves can reflect from surfaces and the atmosphere. Sound waves reflect as echoes. Infrared radiation reflects from shiny emergency blankets. Radar uses reflected radio waves to detect aircraft, storms, ships, and speeding cars.
+Sound waves reflect as **echoes**. Radio waves reflect from surfaces and the atmosphere. **Radar** uses reflected radio waves to track aircraft, storms, and speed. Infrared reflects from shiny emergency blankets.
 
-The same basic idea applies:
+The same pattern applies:
 
 **A wave reaches a surface and bounces away.**
 
-Reflection is a wave behavior, not only a mirror trick.
+Reflection is wave behavior—not just a mirror trick.
 
 ## Reflection in Technology
 
-Technology uses reflection in many ways.
+Engineers use reflection everywhere.
 
-Telescopes use mirrors to collect faint light from distant objects. Cameras use mirrors in some designs to direct light to a viewfinder. Fiber-optic cables use internal reflection to guide light along thin strands of glass or plastic.
+Reflecting **telescopes** collect faint starlight with large mirrors. Some cameras use mirrors to steer light to a viewfinder. **Fiber-optic** cables trap light inside glass with internal reflection. Laser scanners, barcode readers, solar cookers, and microscopes all depend on reflection in some form.
 
-Laser scanners, barcode readers, road reflectors, solar ovens, microscopes, and projectors all involve reflection in some way.
-
-Reflection lets engineers guide light, collect light, redirect light, and use light to carry information.
+Reflection lets people guide light, gather light, and use light to carry information.
 
 ## Common Misconceptions
 
-One common mistake is thinking reflection only happens in mirrors. Almost everything you see reflects light.
+One mistake is thinking reflection happens only in mirrors. Almost everything you see reflects light.
 
-Another mistake is thinking rough surfaces do not reflect. They do reflect, but they scatter light in many directions.
+Another mistake is thinking rough surfaces do not reflect. They do—they scatter it.
 
-A third mistake is thinking mirrors reverse left and right in a magical way. A plane mirror reverses front and back; your brain and body position make it seem like left-right reversal.
+A third mistake is thinking mirrors magically flip left and right. A plane mirror reverses **front and back**; your viewpoint makes it feel like left-right reversal.
 
-A fourth mistake is thinking a mirror image is a real object behind the mirror. It is a virtual image formed by reflected light.
+A fourth mistake is thinking the image behind a mirror is a real object. It is a virtual image formed by reflected light.
 
-Finally, remember that reflection can happen with many kinds of waves, not only visible light.
+Finally, remember that echoes and radar show reflection works for many wave types—not only light.
 
 ## Safety with Reflection
 
-Reflected light can be dangerous when it is intense.
+Reflected light can be intense.
 
-Sunlight reflected from snow, water, glass, or metal can hurt eyes or skin. A laser reflected from a mirror can damage vision. Glare from wet roads or windshields can make driving dangerous.
+Sunlight bouncing off snow, water, glass, or metal can harm eyes or skin. A laser reflected from a mirror can damage vision. Glare on wet pavement can hide hazards.
 
-Good safety habits include:
+Good habits include:
 
 - Never aim lasers at mirrors, eyes, faces, vehicles, or aircraft.
-- Wear sunglasses or goggles in bright snow, water, or desert conditions.
-- Do not look at the Sun directly or in a mirror.
-- Use proper eye protection for welding or intense light sources.
-- Reduce glare when driving by keeping windows clean and using visors when appropriate.
-- Be careful with mirrors during light experiments.
-- Avoid reflecting bright light into another person's eyes.
-- Follow teacher instructions when using flashlights, mirrors, or lasers.
+- Wear sunglasses or goggles in bright snow, water, or desert sun.
+- Do not look at the Sun directly—or in a mirror.
+- Use proper eye protection for welding or other intense light.
+- Reduce driving glare: clean windows, use visors when needed.
+- Be careful with mirrors in light labs.
+- Never bounce bright light into someone else's eyes.
+- Follow teacher rules for flashlights, mirrors, and lasers.
 
-Reflection is useful because it redirects light. That same power must be controlled.
+Reflection redirects light. That power has to be controlled.
 
 ## The Big Idea
 
 Reflection is the bouncing of light or other waves off a surface.
 
-The law of reflection says the angle of incidence equals the angle of reflection. Smooth surfaces can produce regular reflection and clear images, while rough surfaces produce diffuse reflection that scatters light. Reflection explains mirrors, color, glare, periscopes, road reflectors, water images, and much of ordinary vision.
+The law of reflection says the angle of incidence equals the angle of reflection. Smooth surfaces give regular reflection and clear images; rough surfaces give diffuse reflection that scatters light. Reflection explains mirrors, color, glare, periscopes, road reflectors, water images, and most of everyday vision.
 
 If you remember only one sentence, remember this:
 
@@ -275,22 +281,23 @@ If you remember only one sentence, remember this:
 5. What is the reflected ray?
 6. What is the normal?
 7. What does the law of reflection say?
-8. If light hits a mirror at 40 degrees from the normal, what is the angle of reflection?
-9. What is regular reflection?
-10. What is diffuse reflection?
-11. Why does a mirror form a clearer image than a sheet of paper?
-12. Why is diffuse reflection useful for reading a book?
-13. What is a plane mirror?
-14. What is a virtual image?
-15. How does a concave mirror differ from a convex mirror?
-16. Give two uses of concave mirrors.
-17. Give two uses of convex mirrors.
-18. How does a periscope use reflection?
-19. What is retroreflection?
-20. Why do road signs and bicycle reflectors appear bright at night?
-21. How is reflection related to color?
-22. What is glare?
-23. Why does rippled water make broken reflections?
-24. Give two examples of reflection involving waves other than visible light.
-25. What are three safety rules related to reflection?
-26. In your own words, explain why rough surfaces still reflect light even though they do not act like mirrors.
+8. Angles in the law of reflection are measured from what line?
+9. If light hits a mirror at 40° from the normal, what is the angle of reflection?
+10. What is regular reflection?
+11. What is diffuse reflection?
+12. Why does a mirror form a clearer image than a sheet of paper?
+13. Why is diffuse reflection useful for reading a book?
+14. What is a plane mirror?
+15. What is a virtual image?
+16. How does a concave mirror differ from a convex mirror?
+17. Give two uses of concave mirrors.
+18. Give two uses of convex mirrors.
+19. How does a periscope use reflection?
+20. What is retroreflection?
+21. Why do bicycle reflectors and road signs appear bright at night?
+22. How is reflection related to color?
+23. What is glare?
+24. Why does rippled water make broken reflections?
+25. Give two examples of reflection involving waves other than visible light.
+26. What are three safety rules related to reflection?
+27. In your own words, explain why rough surfaces still reflect light even though they do not act like mirrors.

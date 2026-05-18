@@ -2,77 +2,87 @@
 
 ![Refraction](041_Refraction_01.png)
 
-Imagine placing a pencil in a clear glass of water. From the side, the pencil seems to bend or break at the water's surface. You know the pencil is still straight, but your eyes tell you something strange is happening.
+You drop a straw into a glass of iced lemonade. From the side, the straw looks broken at the water line—like someone snapped it underwater. You know it is still one straight piece. Your eyes are not lying on purpose. The light from the straw is taking a turn.
 
-The pencil has not bent. The light from the pencil has bent.
+The straw did not bend. The light did.
 
-That bending of light is refraction.
+That bending of light is **refraction**.
 
 **Refraction is the bending of light as it passes from one material into another.**
 
-Refraction explains bent-looking pencils in water, lenses, eyeglasses, cameras, microscopes, telescopes, rainbows, prisms, mirages, swimming pool depth tricks, and how your eye focuses images.
+Refraction explains bent-looking pencils and straws in water, swimming pools that look shallower than they are, fish that seem to float in the wrong spot, lenses in eyeglasses and cameras, magnifying glasses, microscopes, telescopes, rainbows, prisms, mirages on hot roads, and how your eye focuses a sharp image.
 
-Refraction is one of the most important ideas in optics, the study of light.
+Refraction is one of the most important ideas in **optics**, the study of light. In **reflection**, light bounces off a surface. In refraction, light crosses a boundary and changes direction because its speed changes.
 
 ## Light Changes Speed
 
-Light travels extremely fast, but it does not travel at the same speed in every material.
+Light travels extremely fast—about 300,000 kilometers per second in empty space. But it does not travel at the same speed in every material.
 
-Light travels fastest in empty space. It travels more slowly in air, water, glass, plastic, and many other transparent materials.
+It moves fastest in empty space. It moves more slowly in air, water, glass, plastic, and many other transparent materials.
 
 When light passes from one material into another, its speed changes.
 
-If light enters the new material at an angle, this change in speed can make the light change direction.
+If the light hits the boundary at an angle, that speed change can change the light's direction.
 
 That change in direction is refraction.
 
+If light crosses straight along the normal (see below), it may slow down or speed up without bending sideways. Bending is strongest when light arrives at an angle.
+
+![Light slows down entering a denser material](041_Refraction_02.png)
+
 ## The Normal Line
 
-To describe refraction, scientists use an imaginary line called the **normal**.
+To describe refraction clearly, scientists use an imaginary line called the **normal**.
 
-The normal is drawn perpendicular to the surface where light enters or leaves a material.
+The normal is drawn **perpendicular** to the surface where light enters or leaves a material—like a flagpole standing straight up from the ground.
 
 Angles are measured from the normal, not from the surface.
 
-This is similar to reflection, where the normal helps measure the angle of incidence and angle of reflection.
+This matches **reflection**, where the normal helps you measure the angle of incidence and angle of reflection.
 
-In refraction, the normal helps us describe whether light bends toward the normal or away from the normal.
+In refraction, the normal helps you say whether light bends **toward** the normal or **away** from it.
+
+![The normal and refracted light](041_Refraction_03.png)
 
 ## Bending Toward the Normal
 
-When light travels from a material where it moves faster into one where it moves slower, it usually bends toward the normal.
+When light travels from a material where it moves **faster** into one where it moves **slower**, it usually bends **toward** the normal.
 
-For example, light going from air into glass or water slows down. If it enters at an angle, it bends toward the normal.
+For example, light going from air into water or glass slows down. If it enters at an angle, it bends toward the normal.
 
-This is why light from the underwater part of a pencil changes direction as it moves from water to air. Your brain traces the light backward in straight lines, making the pencil appear shifted.
+That is why light from the underwater part of a pencil or straw changes direction as it leaves the water and enters the air. Your brain assumes light traveled in a straight line from the object to your eye. The path was bent—so the object looks shifted.
 
 The object is not where it appears to be.
 
 Refraction changes the path of the light reaching your eyes.
 
+![Bent straw in a glass of water](041_Refraction_04.png)
+
 ## Bending Away from the Normal
 
-When light travels from a material where it moves slower into one where it moves faster, it usually bends away from the normal.
+When light travels from a material where it moves **slower** into one where it moves **faster**, it usually bends **away** from the normal.
 
 For example, light going from water into air speeds up. If it leaves at an angle, it bends away from the normal.
 
-This is why objects underwater may appear closer to the surface than they really are.
+That is why objects underwater often look **closer to the surface** than they really are.
 
-A fish in a pond may not be exactly where it appears. A spear fisherman must aim with refraction in mind.
+A fish in a pond may not be exactly where it appears. A spear fisher—or anyone aiming a net—has to aim **lower** than the fish looks, because refraction lifts the image.
 
 Water and air bend light at their boundary.
 
+![Fish appears higher than its real position](041_Refraction_05.png)
+
 ## Refraction at Straight-On Angles
 
-If light enters a new material straight along the normal, its speed changes but its direction may not bend.
+If light enters a new material straight along the normal, its speed can change but its direction may not bend.
 
-For example, a ray entering glass straight on slows down but keeps going straight.
+A ray entering a glass block head-on slows down but keeps going straight through the middle.
 
-Refraction is most noticeable when light crosses a boundary at an angle.
+Refraction is most noticeable when light crosses a boundary **at an angle**.
 
-This is why some views through glass look normal, while angled views through water, glass, or plastic can look shifted or distorted.
+That is why a window viewed straight on can look normal, while a view through the side of a water glass or a swimming pool can look shifted or stretched.
 
-Speed change always matters, but bending depends on the angle.
+Speed change always matters. Sideways bending depends on the angle.
 
 ## Index of Refraction
 
@@ -82,25 +92,27 @@ The **index of refraction** is a number that describes how much a material slows
 
 A higher index of refraction means light travels more slowly in that material.
 
-Air has an index close to 1. Water is about 1.33. Many kinds of glass are around 1.5, though values vary.
+Air has an index close to 1. Water is about 1.33. Many kinds of glass are around 1.5, though exact values vary.
 
-You do not need to memorize many numbers. The important idea is:
+You do not need to memorize a table of numbers. The important idea is:
 
 **Different transparent materials bend light by different amounts.**
 
 ## Apparent Depth
 
-Refraction can make water look shallower than it is.
+Refraction can make water look **shallower** than it is.
 
-Light from the bottom of a pool bends as it passes from water into air. Your brain assumes the light traveled in a straight line, so the bottom appears higher than it really is.
+Light from the bottom of a pool bends as it passes from water into air. Your brain traces the light backward in a straight line, so the bottom appears **higher** than it really is.
 
 This is called **apparent depth**.
 
-A swimming pool, pond, or clear stream may be deeper than it looks.
+A swimming pool, pond, creek, or clear lake may be **deeper** than it looks from the edge.
 
-Apparent depth is not just an optical trick. It is a safety issue.
+Apparent depth is not just a cool trick. It is a **safety** issue.
 
 Never judge water depth by appearance alone.
+
+![Apparent depth in a swimming pool](041_Refraction_06.png)
 
 ## Lenses
 
@@ -108,23 +120,23 @@ A **lens** is a transparent object shaped to refract light in a useful way.
 
 Lenses are usually made from glass or plastic.
 
-Because their surfaces are curved, different parts of the lens bend light by different amounts. This can bring light rays together or spread them apart.
+Because their surfaces are curved, different parts of the lens bend light by different amounts. That can bring light rays together or spread them apart.
 
-Lenses are used in eyeglasses, magnifying glasses, cameras, microscopes, telescopes, binoculars, projectors, and the human eye.
+Lenses show up in eyeglasses, magnifying glasses, cameras, microscopes, telescopes, binoculars, projectors, and the human eye.
 
-Lenses are controlled refraction.
+Lenses are **controlled** refraction—not random bending.
 
 ## Convex Lenses
 
 A **convex lens** is thicker in the middle than at the edges.
 
-It bends many incoming light rays toward one another. This can bring rays to a focus.
+It bends many incoming light rays toward one another. That can bring rays to a **focus**.
 
 Convex lenses are used in magnifying glasses, cameras, projectors, microscopes, telescopes, and eyes.
 
-If you hold a magnifying glass over small print, the lens bends light so the print appears larger.
+Hold a magnifying glass over small print and the lens bends light so the letters look bigger.
 
-Convex lenses can form real images on screens or virtual images that appear enlarged, depending on where the object is placed.
+Convex lenses can form **real** images on a screen or **virtual** images that look enlarged, depending on where the object is placed.
 
 ## Concave Lenses
 
@@ -132,11 +144,13 @@ A **concave lens** is thinner in the middle than at the edges.
 
 It spreads light rays apart.
 
-Concave lenses are used in some eyeglasses, optical instruments, and devices that need to spread beams of light.
+Concave lenses are used in some eyeglasses and optical devices that need to spread a beam.
 
-They can help correct nearsightedness by spreading incoming light before it reaches the eye's lens.
+They can help correct **nearsightedness** by spreading incoming light before it reaches the eye's own lens.
 
-Convex lenses bring many rays together. Concave lenses spread many rays apart.
+**Convex** lenses tend to bring many rays together. **Concave** lenses tend to spread many rays apart.
+
+![Convex and concave lenses](041_Refraction_07.png)
 
 ## Focus and Focal Point
 
@@ -144,27 +158,29 @@ The **focal point** is the point where light rays meet, or appear to meet, after
 
 The **focal length** is the distance from the lens or mirror to the focal point.
 
-A strong lens bends light more sharply and has a shorter focal length.
+A strong lens bends light more sharply and has a **shorter** focal length.
 
-A weak lens bends light less and has a longer focal length.
+A weak lens bends light less and has a **longer** focal length.
 
 Focusing light is essential for clear images in eyes, cameras, microscopes, and telescopes.
 
-If light does not focus properly, the image appears blurry.
+If light does not focus on the right spot, the image looks blurry.
 
 ## The Eye and Refraction
 
 Your eye uses refraction to see.
 
-Light first bends as it passes through the cornea, the clear outer surface of the eye. It bends again as it passes through the lens.
+Light first bends as it passes through the **cornea**, the clear outer surface of the eye. It bends again as it passes through the **lens**.
 
-Together, the cornea and lens focus light onto the retina at the back of the eye.
+Together, the cornea and lens focus light onto the **retina** at the back of the eye.
 
-If the focus falls properly on the retina, the image is clear. If it falls in front of or behind the retina, vision may be blurry.
+If the focus lands on the retina, the image is sharp. If it lands in front of or behind the retina, vision can be blurry.
 
-Eyeglasses and contact lenses use refraction to adjust the path of light before it enters the eye.
+**Eyeglasses** and **contact lenses** use refraction to adjust the path of light before it enters the eye.
 
 They help the eye focus light where it should go.
+
+![Light focusing in the eye](041_Refraction_08.png)
 
 ## Prisms
 
@@ -172,31 +188,33 @@ A **prism** is a transparent object with flat polished surfaces that refracts li
 
 A triangular glass or plastic prism can bend white light and separate it into colors.
 
-This happens because different colors of light bend by different amounts. Violet light bends more than red light in ordinary glass.
+That happens because different colors of light bend by **different amounts**. Violet light bends more than red light in ordinary glass.
 
 The spreading of light into colors is called **dispersion**.
 
-Prisms show that white light contains many colors.
+Prisms show that white light contains many colors—not just one.
+
+![Prism dispersion and rainbow in a droplet](041_Refraction_09.png)
 
 ## Rainbows
 
-Rainbows are caused by refraction, reflection, and dispersion in water droplets.
+Rainbows are caused by **refraction**, **reflection**, and **dispersion** in water droplets.
 
 Sunlight enters a raindrop and refracts. It reflects inside the droplet. Then it refracts again as it leaves. Different colors bend by different amounts, spreading the sunlight into a spectrum.
 
-To see a rainbow, the Sun is usually behind you and rain or mist is in front of you.
+To see a rainbow, the Sun is usually **behind** you and rain or mist is **in front** of you.
 
-Each water droplet contributes a tiny bit of color to the rainbow you see.
+Each tiny droplet sends a bit of color toward your eyes.
 
-Rainbows are not objects hanging in the sky. They are patterns of light reaching your eyes.
+A rainbow is not a solid object hanging in the sky. It is a pattern of light reaching your eyes.
 
 ## Mirages
 
 A **mirage** is an image or illusion caused by light bending through layers of air at different temperatures.
 
-Hot air near a road can be less dense than cooler air above it. Light bends as it passes through these layers. Your brain may interpret the bent light as coming from the ground, making the road look wet or shiny in the distance.
+Hot air near a road or desert sand is less dense than cooler air above it. Light bends as it passes through those layers. Your brain may interpret the bent light as coming from the ground, making the road look wet or shiny far ahead.
 
-Mirages often appear in deserts or over hot roads.
+Mirages often appear in deserts or over hot pavement in summer.
 
 They are not puddles of water. They are refraction through unevenly heated air.
 
@@ -204,31 +222,31 @@ They are not puddles of water. They are refraction through unevenly heated air.
 
 Refraction is not only for light.
 
-Other waves can refract too, including sound waves and water waves.
+Other waves can refract too—including **sound waves** and **water waves**.
 
-Sound can bend when it passes through air layers at different temperatures. This can make sounds travel farther or seem to come from unusual directions.
+Sound can bend when it passes through air layers at different temperatures. That can make distant thunder or train horns seem to come from an odd direction, or help sound carry farther under certain conditions.
 
-Ocean waves refract as they enter shallower water near shore, changing direction and often becoming more parallel to the beach.
+Ocean waves refract as they enter shallower water near shore. They change direction and often line up more parallel to the beach.
 
-Refraction is a wave behavior.
+Refraction is a **wave** behavior.
 
 ## Common Misconceptions
 
-One common mistake is thinking refraction means reflection. Reflection is bouncing. Refraction is bending as a wave enters a different material or region.
+One common mistake is confusing refraction with **reflection**. Reflection is bouncing. Refraction is bending as a wave crosses into a different material or region.
 
 Another mistake is thinking the object itself changes shape. A pencil in water is still straight; the light path changes.
 
-A third mistake is thinking water is always as shallow as it appears. Refraction can make water look shallower.
+A third mistake is thinking water is always as shallow as it appears. Refraction can make depth look wrong.
 
-A fourth mistake is thinking lenses make images by magic. Lenses work by bending light in controlled ways.
+A fourth mistake is thinking lenses work by magic. Lenses work by bending light in controlled ways.
 
-Finally, remember that different colors can refract by different amounts.
+Finally, remember that different colors can refract by different amounts—that is why prisms and rainbows split white light.
 
 ## Safety with Refraction
 
-Refraction can create safety concerns.
+Refraction can create real safety concerns.
 
-Water can appear shallower than it really is. Lenses can focus sunlight strongly enough to burn paper, leaves, skin, or eyes. Glasses, prisms, and lenses can break. Misjudging underwater positions can be dangerous when diving, swimming, or boating.
+Water can appear shallower than it really is. Lenses can focus sunlight strongly enough to burn paper, leaves, skin, or eyes. Glass prisms and lenses can break. Misjudging where an underwater object is can be dangerous when diving, swimming, snorkeling, or boating.
 
 Good safety habits include:
 
@@ -247,7 +265,7 @@ Refraction is useful, but focused light and misleading appearances can be danger
 
 Refraction is the bending of light as it passes from one material into another.
 
-It happens because light changes speed in different materials. Refraction explains bent-looking pencils, apparent depth, lenses, eyeglasses, cameras, microscopes, telescopes, prisms, rainbows, mirages, and the focusing system of the human eye.
+It happens because light changes speed in different materials. Refraction explains bent-looking straws, apparent depth, lenses, eyeglasses, cameras, microscopes, telescopes, prisms, rainbows, mirages, and the focusing system of the human eye.
 
 If you remember only one sentence, remember this:
 
@@ -260,7 +278,7 @@ If you remember only one sentence, remember this:
 3. What is the normal?
 4. When does light usually bend toward the normal?
 5. When does light usually bend away from the normal?
-6. Why can a pencil look bent in a glass of water?
+6. Why can a straw or pencil look bent in a glass of water?
 7. Why might an underwater object appear closer to the surface than it really is?
 8. What is apparent depth?
 9. What is the index of refraction?

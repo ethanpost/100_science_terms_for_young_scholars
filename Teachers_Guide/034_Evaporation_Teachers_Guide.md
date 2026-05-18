@@ -8,12 +8,12 @@ Students should be able to:
 
 - Define evaporation as the change of a liquid into a gas at the surface.
 - Explain evaporation using particle motion and surface particles.
-- Distinguish evaporation from boiling.
-- Explain evaporative cooling.
-- Identify factors that affect evaporation rate: temperature, surface area, air movement, humidity, and liquid type.
-- Describe evaporation's role in sweating, animal cooling, drying, weather, clouds, and the water cycle.
+- Distinguish evaporation from boiling using the surface-versus-bubbles idea.
+- Explain evaporative cooling and connect it to sweating and sports.
+- Identify and explain five factors that affect evaporation rate: temperature, surface area, air movement, humidity, and liquid type.
+- Describe evaporation's role in the water cycle, clouds, weather, drying, and separating dissolved solids.
 - Explain transpiration and evapotranspiration in age-appropriate terms.
-- Recognize that evaporation can leave dissolved solids behind.
+- Give examples of evaporative cooling in animals and technology.
 - Apply safety rules related to volatile liquids, vapors, heat, and dehydration.
 
 ### Answers to Study Questions
@@ -38,7 +38,7 @@ Students should be able to:
 18. **Transpiration** is the release of water vapor from plant leaves.
 19. Evaporation adds water vapor to the air. When moist air cools, some vapor can condense into tiny droplets or ice crystals, forming clouds.
 20. Evaporation absorbs energy from surfaces. When water vapor later condenses in clouds, energy is released into the air, which can help power storms.
-21. Examples may include puddles drying, wet clothes drying, paint drying, sweat cooling skin, towels drying, hand sanitizer feeling cool, wet hair drying, or salt left from seawater.
+21. Examples may include puddles drying, wet cleats or clothes drying, paint drying, sweat cooling skin, towels drying, hand sanitizer feeling cool, wet hair drying, or salt left from seawater.
 22. An evaporative cooler blows air through wet material. As water evaporates, it carries energy away and cools the air.
 23. The water changes into vapor and leaves, while the dissolved salt does not evaporate under ordinary conditions and remains behind.
 24. Water vapor is invisible gas. Visible mist is made of tiny liquid droplets suspended in air.
@@ -54,10 +54,10 @@ Students should be able to:
    Put equal amounts of water in a shallow dish and a narrow cup. Students predict and observe which evaporates faster.
 
 3. **Evaporative Cooling Demo**
-   Put a small amount of water or rubbing alcohol on the back of a hand or on a thermometer, following safety rules. Observe the cooling effect as it evaporates.
+   Put a small amount of water on the back of a hand and blow on it, following safety rules. Observe the cooling effect. Compare with a humid, still-air condition if possible.
 
-4. **Humidity Scenario Sort**
-   Students compare drying clothes on humid, dry, windy, and still days. They rank evaporation speed and explain why.
+4. **Humidity and Sports Scenario**
+   Students compare how sweat and cooling feel during exercise on humid versus dry days. Rank evaporation speed and explain why hydration matters.
 
 5. **Water Cycle Diagram**
    Students draw evaporation, transpiration, condensation, clouds, precipitation, and collection in a simple water cycle diagram.
@@ -73,9 +73,11 @@ Students should be able to:
 
 ### Teaching Notes
 
-- Keep the central distinction clear: **evaporation happens at the surface; boiling happens throughout the liquid**.
-- Emphasize that water vapor is invisible.
+- Reinforce the surface-versus-boiling distinction: **evaporation = surface escape; boiling = bubbles throughout**.
+- Emphasize that water vapor is invisible; visible mist is liquid droplets.
+- Use the consolidated **Five Things That Control Speed** section as a single anchor for labs and discussion.
+- Connect evaporative cooling to athletics, outdoor work, and hydration so the science feels immediate.
 - Use evaporation as a bridge between particle motion, heat transfer, weather, and the water cycle.
-- Make evaporative cooling concrete with safe, small-scale examples.
+- Make evaporative cooling concrete with safe, small-scale examples (hand water + blowing air).
 - Avoid unsafe volatile liquids in student hands; use teacher demonstrations and good ventilation if any are used.
-- Connect sweating and humid weather to health and hydration.
+- Pair this chapter with the boiling chapter so students compare surface escape with bubble formation.

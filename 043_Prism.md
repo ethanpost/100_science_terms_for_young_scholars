@@ -2,71 +2,83 @@
 
 ![Prism](043_Prism_01.png)
 
-Imagine holding a triangular piece of glass in a beam of sunlight. On the wall, a small patch of white light spreads into red, orange, yellow, green, blue, indigo, and violet. The glass has not painted the light. It has separated colors that were already there.
+You are in a dim room with one bright beam of white light from a lamp or a narrow slit in a window shade. A friend hands you a clear triangular block of glass. You slide it into the beam. Suddenly the white patch on the wall becomes a stripe of red, orange, yellow, green, blue, indigo, and violet—like a tiny rainbow you can hold in your hand.
 
-That piece of glass is a prism.
+The glass did not paint those colors. It pulled apart colors that were already mixed inside the white light.
+
+That triangular piece of glass is a **prism**.
 
 **A prism is a transparent object with flat polished surfaces that bends light.**
 
-Prisms help explain rainbows, color, refraction, optical instruments, binoculars, periscopes, cameras, spectroscopes, and how scientists learn what stars are made of. A prism is simple enough to hold in your hand, but it can reveal hidden information inside light.
+Prisms explain rainbows, the color of light, **refraction**, binoculars, periscopes, cameras, **spectroscopes**, and how astronomers figure out what distant stars are made of. A prism fits in your palm, but it can reveal secrets hidden inside ordinary white light.
 
 ## A Shape That Bends Light
 
 A prism is usually made of glass, plastic, or another transparent material.
 
-Many classroom prisms are triangular. They have flat faces and angled sides. The exact shape can vary, but the key feature is that light enters one face and leaves another at an angle.
+Many classroom prisms are **triangular**. They have flat faces and angled sides. The exact shape can vary—some prisms have four or more faces—but the important idea is the same: light enters one polished face and leaves another at an angle.
 
-When light passes from air into glass, it slows down. When it leaves glass and returns to air, it speeds up again. If the light enters or leaves at an angle, its path bends.
+When light passes from air into glass, it **slows down**. When it leaves glass and returns to air, it **speeds up** again. If the light crosses the boundary at an angle, its path **bends**.
 
-That bending is called **refraction**.
+That bending is **refraction**—the same idea you met in the chapter on refraction, when a straw looks broken in a glass of water.
 
-A prism uses refraction in a controlled way.
+A prism uses refraction on purpose. Its angles are chosen to make bending useful and dramatic.
+
+![Refraction at the faces of a prism](043_Prism_02.png)
 
 ## Refraction in a Prism
 
-Light bends when it passes from one material into another because its speed changes.
+Light bends when it moves from one material into another because its **speed changes**.
 
-When a ray of light enters a glass prism from air, it slows and bends. When it leaves the prism and enters air again, it speeds up and bends again.
+When a ray enters a glass prism from air, it slows and bends. Inside the glass it travels in a straight line until it reaches the second face. When it leaves the prism and enters air again, it speeds up and bends a second time.
 
-The angled faces of a prism make the bending especially noticeable.
+The two angled faces add up. The beam can leave the prism traveling in a **different direction** than it arrived—sometimes noticeably shifted to one side.
 
-This is why a prism can shift the direction of a beam of light.
+That is why a prism can steer a laser dot or a sunbeam across a room without a mirror.
 
-The same basic idea explains why a straw looks bent in water, but a prism is shaped to make the effect useful and dramatic.
+The same physics explains a bent straw in water. A prism is shaped so the effect is strong, repeatable, and easy to study.
+
+![Light enters, travels inside, and exits a prism](043_Prism_03.png)
 
 ## White Light Is a Mixture
 
-White light may look plain, but it usually contains many colors.
+White light may look plain, but it usually contains **many colors**.
 
-Sunlight, for example, contains all the colors of the visible spectrum. When those colors are mixed together, our eyes see white light.
+Sunlight, for example, includes all the colors of the **visible spectrum**. Mixed together, they look white to your eyes.
 
-A prism can separate white light into its colors.
+A prism can **separate** white light into its colors.
 
 This is one of the great lessons of optics:
 
 **White light is not empty of color. It is full of color.**
 
-The prism reveals what the eye normally sees blended together.
+The prism shows what your eyes normally blend into one.
+
+If you only shine **red** light into a prism, you get bent red light—not a full rainbow. The other colors were never there to spread out.
+
+**The prism separates; the light supplies the colors.**
 
 ## Dispersion
 
-**Dispersion** is the spreading of light into different colors because different wavelengths bend by different amounts.
+**Dispersion** is the spreading of light into different colors because different **wavelengths** bend by different amounts.
 
-Red light bends less in a glass prism.
+In a typical glass prism:
 
-Violet light bends more.
+- **Red** light bends **less**.
+- **Violet** light bends **more**.
+- Orange, yellow, green, blue, and indigo fall between them.
 
-The other colors fall between them.
+Because each color bends a slightly different amount, white light spreads into a band called a **spectrum**.
 
-Because each color bends a slightly different amount, white light spreads into a band of colors called a **spectrum**.
+Dispersion is why a prism can paint a rainbow on a wall. It is also why cheap lenses sometimes show colored edges around images—that unwanted color spread is related to the same idea (often called **chromatic aberration** in lenses).
 
-Dispersion is why prisms can make rainbows on walls.
+![Dispersion: violet bends more than red](043_Prism_04.png)
 
 ## The Visible Spectrum
 
 The **visible spectrum** is the range of light colors the human eye can see.
 
-The common order is:
+A common order is:
 
 - Red
 - Orange
@@ -78,149 +90,121 @@ The common order is:
 
 Many people remember this order with the name **ROY G. BIV**.
 
-The colors blend smoothly into one another. The divisions are helpful names, but the spectrum itself is continuous.
+The colors blend smoothly. The names are helpful labels, but the spectrum itself is **continuous**—there are no sharp walls between orange and yellow.
 
-Red light has a longer wavelength than violet light. Violet light has a shorter wavelength and is bent more strongly by many prisms.
+Red light has a **longer wavelength** than violet light. Violet has a **shorter wavelength** and is bent more strongly by many prisms.
 
 ## Prisms and Rainbows
 
 Raindrops can act like tiny prisms.
 
-When sunlight enters a raindrop, it refracts. Some of the light reflects inside the drop. Then the light refracts again as it leaves. Different colors bend by different amounts, so the sunlight spreads into a spectrum.
+When sunlight enters a raindrop, it **refracts**. Some of the light **reflects** inside the drop. Then the light **refracts again** as it leaves. Different colors bend by different amounts, so the sunlight spreads into a spectrum.
 
-That is how a rainbow forms.
+That is how a **rainbow** forms.
 
-To see a rainbow, the Sun is usually behind you, and rain or mist is in front of you.
+To see a rainbow, the Sun is usually **behind** you and rain or mist is **in front** of you.
 
-A rainbow is not a solid object in the sky. It is a pattern of light reaching your eyes from many water droplets.
+A rainbow is not a solid object hanging in the sky. It is a pattern of light reaching your eyes from **many** water droplets, each sending a bit of color your way.
+
+![Rainbow path inside a raindrop](043_Prism_05.png)
 
 ## Newton and the Prism
 
-In the 1600s, Isaac Newton studied light using prisms.
+In the 1600s, Isaac Newton studied light with prisms.
 
-Some people thought a prism somehow colored white light. Newton showed that the colors were already present in white light. He passed sunlight through one prism to spread it into colors, then used another prism to recombine colors into white light.
+Some people thought a prism somehow **colored** white light—like adding dye. Newton showed the colors were **already inside** the white light. He passed sunlight through one prism to spread it into colors, then used a **second prism** to recombine those colors back into white light.
 
-This was a major discovery.
+That experiment was a turning point.
 
-It helped show that white light is a mixture of colors and that color is a property of light, not simply something added by glass.
+It helped prove that white light is a **mixture** of colors and that color is a property of **light**, not something the glass invents.
 
-Prisms helped change the science of light.
+Prisms helped launch modern optics and spectroscopy—the science of reading light to learn about matter.
+
+![Newton's prism experiment: split and recombine](043_Prism_06.png)
 
 ## Total Internal Reflection
 
 Prisms can do more than spread colors.
 
-They can also reflect light inside themselves.
+They can also **reflect** light inside the glass.
 
-When light inside glass hits the glass-air boundary at a steep enough angle, it may reflect completely back into the glass instead of passing out. This is called **total internal reflection**.
+When light inside glass hits the glass–air boundary at a steep enough angle, it may reflect completely back into the glass instead of escaping. This is **total internal reflection**.
 
-Total internal reflection can be very efficient.
+Total internal reflection can be very efficient—almost no light is lost compared with a dusty mirror.
 
-Some optical devices use prisms instead of mirrors because prism reflection can be bright, stable, and protected inside the glass.
+Some optical devices use prisms instead of mirrors because prism reflection is bright, stable, and protected inside the glass.
 
-## Prisms in Binoculars
+![Total internal reflection inside a prism](043_Prism_07.png)
+
+## Prisms in Binoculars and Periscopes
 
 Binoculars often use prisms.
 
-A simple telescope can produce an image that is upside down or reversed. Prisms inside binoculars turn the image the right way and fold the light path so the binoculars can be shorter.
+A simple telescope can produce an image that is upside down or reversed. Prisms inside binoculars **flip** the image upright and **fold** the light path so the binoculars can be shorter and easier to carry.
 
-The light travels through lenses and prisms before reaching your eyes.
+The light travels through lenses and prisms before it reaches your eyes.
 
-Without prisms, many binoculars would have to be longer or would show images in less convenient orientations.
+Without prisms, many binoculars would be longer tubes—or would show images in awkward orientations.
 
-Prisms help make optical instruments compact and useful.
+A **periscope** sends light around a corner. Simple periscopes use mirrors; some instruments use prisms to redirect light by total internal reflection. Submarine periscopes and other devices may combine lenses, mirrors, and prisms to guide images from where light enters to where the eye or sensor needs it.
 
-## Prisms in Periscopes
+Prisms are tools for **steering** light through tight spaces.
 
-A simple periscope can use mirrors, but some optical instruments use prisms to redirect light.
+![Prisms fold the light path in binoculars](043_Prism_08.png)
 
-A prism can bend a light path by reflecting the light internally. This can send the light around a corner or through a compact device.
-
-Submarine periscopes and other instruments may use combinations of lenses, mirrors, and prisms to guide images.
-
-The goal is to move light from where it enters to where the eye or sensor needs it.
-
-Prisms are tools for steering light.
-
-## Spectroscopes
+## Spectroscopes and Absorption Lines
 
 A **spectroscope** is an instrument that spreads light into a spectrum for study.
 
-Some spectroscopes use prisms. Others use diffraction gratings. The purpose is similar: separate light into its component colors or wavelengths.
+Some spectroscopes use prisms. Others use **diffraction gratings** (fine ruled surfaces that also separate colors). The goal is the same: spread light by wavelength so you can read it.
 
 Scientists use spectra to learn about materials.
 
-When elements are heated or energized, they can give off light at specific wavelengths. These patterns can act like fingerprints.
+When elements are heated or energized, they can emit light at specific wavelengths—bright **emission lines** that act like fingerprints.
 
-By studying light from stars, scientists can learn what elements are present, how hot the stars are, and how they are moving.
+When light passes through a cool gas, certain wavelengths may be **absorbed**. If that light is then spread into a spectrum, **dark absorption lines** appear where colors are missing. Different elements absorb different wavelengths.
 
-Prisms helped open the door to reading the chemistry of the universe.
+By studying light from stars, scientists can learn which elements are present, how hot the stars are, and how they are moving.
 
-## Absorption Lines
+Prisms helped open the door to reading the **chemistry of the universe**.
 
-When light passes through a gas, certain colors may be absorbed.
-
-If that light is then spread into a spectrum, dark lines may appear where colors are missing. These are called **absorption lines**.
-
-Different elements absorb different wavelengths.
-
-This means a spectrum can reveal what substances light has passed through.
-
-The dark lines in a spectrum can be as important as the bright colors.
-
-They are clues about atoms.
-
-## Prisms and Color
-
-A prism does not create color from nothing.
-
-It separates colors already present in the light.
-
-If you shine red light into a prism, it does not produce a full rainbow. It bends the red light, but there are no other visible colors to spread out.
-
-If you shine white light into a prism, the prism spreads the colors because the white light contains many wavelengths.
-
-This is an important distinction:
-
-**The prism separates; the light supplies the colors.**
+![Spectrum with absorption lines](043_Prism_09.png)
 
 ## Prisms and Lenses
 
-Prisms and lenses both use refraction.
+Prisms and **lenses** are cousins in the family of refracting tools.
 
-A prism has flat angled surfaces and can bend light in a direction or spread colors.
+Both bend light by refraction.
 
-A lens has curved surfaces and can bring light together or spread it apart to form images.
+A prism has **flat, angled** surfaces. It can shift a beam, spread colors, or redirect light with total internal reflection.
 
-Some lenses can also show color fringes because different colors refract differently. This problem is called **chromatic aberration**.
+A lens has **curved** surfaces. It can bring light together or spread it apart to form **images**.
 
-Optical designers often combine different kinds of glass and lens shapes to reduce unwanted color separation.
+Some lenses show unwanted color fringes because different colors refract differently—that is chromatic aberration. Optical designers combine lens shapes and special glasses to reduce it.
 
-Prisms and lenses are cousins in the family of refracting tools.
+If you understand prisms, you are already on the way to understanding lenses and cameras.
 
-## Everyday Prisms
+## Everyday Prism Effects
 
-You may see prism effects in ordinary life.
+You may see prism-like color without a science-lab triangle.
 
-Sunlight through a cut-glass decoration may make colors on a wall. The edge of a glass, a crystal, a chandelier, or a raindrop may separate light into colors.
+Sunlight through cut glass, a crystal, or a chandelier can throw colored patches on a wall. The edge of a water glass, a raindrop on a window, or a diamond ring can separate light into flashes of color.
 
-Sometimes you see colored fringes through cheap plastic lenses or thick glass.
-
-Oil films, soap bubbles, and compact discs can also show rainbow colors, though those often involve wave effects different from ordinary prism dispersion.
+Oil films, soap bubbles, and compact discs can show rainbow colors too—but those often involve **interference** or **diffraction**, not ordinary prism dispersion. The colors look similar; the physics behind them can differ.
 
 The world is full of hidden color when light is bent, reflected, or spread.
 
 ## Common Misconceptions
 
-One common mistake is thinking a prism adds colors to white light. It does not. It separates colors already in the light.
+One common mistake is thinking a prism **adds** colors to white light. It does not. It **separates** colors already in the light.
 
-Another mistake is thinking every rainbow-like color effect is caused by a prism. Some are caused by diffraction, interference, or scattering.
+Another mistake is thinking every rainbow-like effect is a prism effect. Some involve diffraction, interference, or scattering.
 
-A third mistake is thinking only triangular prisms exist. Prisms can have several shapes, though triangular prisms are common in classrooms.
+A third mistake is thinking only triangular prisms exist. Triangular prisms are common in classrooms, but prisms can have other shapes.
 
-A fourth mistake is thinking refraction and reflection are the same. Refraction bends light as it enters a new material. Reflection bounces light off a surface or boundary.
+A fourth mistake is confusing **refraction** (bending as light enters a new material) with **reflection** (bouncing off a surface or boundary). Prisms use both.
 
-Finally, remember that prisms can redirect light as well as disperse it.
+Finally, remember that prisms can **redirect** light as well as **disperse** it. Binoculars care about direction; spectroscopes care about color spread.
 
 ## Safety with Prisms
 
@@ -237,13 +221,13 @@ Good safety habits include:
 - Wear eye protection if glass or strong light sources are involved.
 - Store prisms where they will not scratch other lenses or be scratched themselves.
 
-The purpose of a prism is to control light. Controlled light should be used thoughtfully.
+The purpose of a prism is to **control** light. Controlled light should be used thoughtfully.
 
 ## The Big Idea
 
 A prism is a transparent object with flat polished surfaces that bends light.
 
-Prisms work by refraction and can separate white light into a visible spectrum because different colors bend by different amounts. They also redirect light in binoculars, periscopes, and scientific instruments. Prisms helped scientists discover that white light contains many colors and that spectra can reveal information about matter.
+Prisms work by **refraction** and can separate white light into a visible **spectrum** because different colors bend by different amounts (**dispersion**). They also redirect light in binoculars, periscopes, and scientific instruments. Prisms helped scientists discover that white light contains many colors and that spectra can reveal information about atoms and stars.
 
 If you remember only one sentence, remember this:
 
@@ -275,5 +259,6 @@ If you remember only one sentence, remember this:
 22. How are prisms and lenses alike?
 23. How are prisms and lenses different?
 24. Give two everyday examples where prism-like color effects may appear.
-25. What are three safety rules for using prisms?
-26. In your own words, explain why a prism can teach us that white light is a mixture.
+25. Name one rainbow-like effect that may **not** be ordinary prism dispersion, and say why.
+26. What are three safety rules for using prisms?
+27. In your own words, explain why a prism can teach us that white light is a mixture.
