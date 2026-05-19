@@ -73,15 +73,18 @@ Students should be able to:
 
 ### Teaching Notes
 
-- Open with pencil streak, diamond sparkle, food, workout breath, or car exhaust before formal definitions — mirrors **Nitrogen**, **Simple Machines**, and **Element** hooks for ages 11–13.
+- Open with the **short pencil / gym breath / lunch** sequence before formal definitions — mirrors **Nitrogen** and **Simple Machines** scene-first hooks for ages 11–13.
+- After the definition, use the line **"You meet carbon when you write, eat, breathe, ride, build, and burn"** as a quick memory anchor.
 - Keep the central idea visible: **carbon is element 6 and a master builder because of four valence electrons and self-bonding**.
+- In the **carbon cycle**, walk through the "one carbon atom on a long trip" story before the pathway table so the loop feels like motion, not a list.
 - Use **diamond vs. graphite** as the chapter's flagship "arrangement matters" example; connect to nitrogen's calm N2 vs. reactive compounds if students read that chapter.
+- In **allotropes**, stress engineers choosing the right form for the job (writing vs. cutting vs. future lightweight gear).
 - Distinguish CO2's **necessary** role in photosynthesis from **excess** atmospheric CO2 and climate — avoid politics; teach mechanism.
 - Treat **organic** as a chemistry term; contrast with grocery "organic" labels briefly if students bring it up.
 - **Do not** teach the full CO2 chapter here; point forward to **075 Carbon dioxide** for depth on air, oceans, dry ice, and confined-space safety.
 - Connect to prior chapters: **elements**, **atoms**, **molecules**, **compounds**, **oxygen**, **hydrogen**, **nitrogen**, **bases**, **salts**, **mixtures**.
 - Link forward to **carbon dioxide**, **combustion**, **oxidation**, **chemical reaction**, **conservation of matter**, and the periodic table.
-- For boys 11–13, favor concrete hooks (pencils, jewelry, pizza, sports breath, archaeology dating, bike frames) over long symbol drills; tables and diagrams over repeated prose.
-- The chapter image reinforces element 6, valence bonding, allotropes, the carbon cycle, and CO danger — use when introducing bonding and cycle sections.
-- Carbon monoxide safety deserves the same seriousness as nitrogen's ammonia/bleach warning: invisible and odorless does not mean harmless.
+- For boys 11–13, favor concrete hooks (pencils, rings, sports breath, carbon-fiber gear, charcoal grills, archaeology dating) over long symbol drills; tables and the chapter image over repeated prose.
+- Chapter images: `074_Carbon_01.png` (overview), `02` (valence electrons / molecular building), `03` (photosynthesis vs. respiration), `04` (carbon cycle journey), `05` (graphite vs. diamond), `06` (CO danger), `07` (radiocarbon dating) — display each when introducing that section.
+- For **carbon monoxide**, start with the closed-garage grill scenario before the formula table; invisible and odorless does not mean harmless.
 - Combustion demos and fossil-fuel discussions: adult supervision, ventilation, and institutional safety procedures only.

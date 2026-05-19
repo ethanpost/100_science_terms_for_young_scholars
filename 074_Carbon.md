@@ -2,19 +2,19 @@
 
 ![Carbon](074_Carbon_01.png)
 
-You sharpen a pencil and leave a gray-black streak on paper. That streak is mostly **graphite** — a form of carbon, not metal lead.
+You grab the last short pencil in the bin — the stub everyone else skipped — and drag it across your notebook. A dark gray streak appears. That streak is not metal. It is **graphite**, a form of **carbon**.
 
-Hold a diamond up to light and it throws back sharp sparkles. Diamond is also carbon. Same element, wildly different look and feel.
+At lunch, someone brags about a ring with a stone that can scratch glass. That stone is **diamond** — also carbon. Same element, wildly different look and feel.
 
-Bite into an apple or a slice of pizza. The sugars, fats, and proteins in your food are built around carbon atoms. So is the wood in a desk, the rubber in sneakers, the plastic on a phone case, and the gasoline that powers many cars.
+After gym you are breathing hard. Part of every exhale is **carbon dioxide** — carbon linked to oxygen, returning to the air. The sugars, fats, and proteins in your lunch were built from carbon atoms too. So is the wood in the bleachers, the rubber on your sneakers, the plastic on your phone case, and the fuel in the bus that brought you to school.
 
-After a hard workout you breathe harder. Part of what you push out is **carbon dioxide** — carbon linked to oxygen, returning to the air.
-
-Carbon is everywhere, yet easy to overlook because it hides inside molecules instead of shouting its name.
+Carbon does not announce itself on a label. It hides inside molecules, doing quiet work that holds living things and modern gear together.
 
 **Carbon is a chemical element with atomic number 6, famous for forming many compounds and serving as a basic element of life.**
 
 Carbon forms the backbone of living molecules, fuels, plastics, medicines, foods, and countless materials. It can be soft graphite, hard diamond, invisible carbon dioxide, or part of the DNA inside your cells.
+
+You meet carbon when you write, eat, breathe, ride, build, and burn. It is element number 6 — one of chemistry's greatest builders.
 
 As you learned in the chapter on **elements**, an element is a pure substance made of only one kind of atom. As you learned in the chapter on **atoms**, every atom has a nucleus of protons and neutrons with electrons around it. As you learned in the chapter on **molecules**, atoms can bond into larger groups. Carbon is element number 6 — and one of the greatest "builders" in all of chemistry.
 
@@ -49,6 +49,8 @@ The electrons that matter most for bonding sit in the outer shell. Carbon has **
 Because carbon has four valence electrons, it can form up to **four covalent bonds** — sharing electrons with hydrogen, oxygen, nitrogen, other carbons, and many more elements.
 
 That bonding ability is the secret behind carbon's importance. Carbon is like a construction set for molecules: it can link into chains, rings, branches, sheets, and giant networks. Few elements can build such variety.
+
+![Four valence electrons](074_Carbon_02.png)
 
 ## Covalent Bonds — Sharing Electrons
 
@@ -95,7 +97,7 @@ Your cells break some of these molecules apart and use them for energy, growth, 
 
 **Glucose**, a common sugar, has the formula **C6H12O6** — six carbons, twelve hydrogens, six oxygens.
 
-During **respiration**, cells use **oxygen** (from the chapter on **oxygen**) to release energy from glucose, producing **carbon dioxide** and water. Carbon moves through your body every day.
+During **respiration**, cells use **oxygen** (from the chapter on **oxygen**) to release energy from glucose, producing **carbon dioxide** and water. Carbon moves through your body every day — from lunch to breath, over and over.
 
 ## Carbon Dioxide — A Molecule With a Huge Job
 
@@ -119,7 +121,7 @@ In plain words: CO2 plus water plus sunlight can become sugar and oxygen. That p
 - **Inputs:** glucose and oxygen
 - **Outputs:** carbon dioxide, water, and usable energy
 
-That is why you breathe in oxygen and breathe out carbon dioxide after exercise.
+That is why you breathe in oxygen and breathe out carbon dioxide after a hard sprint or a long bike ride.
 
 | Process | Who | Carbon dioxide | Oxygen | Energy |
 |---------|-----|----------------|--------|--------|
@@ -128,11 +130,13 @@ That is why you breathe in oxygen and breathe out carbon dioxide after exercise.
 
 Photosynthesis and respiration are connected partners in the carbon cycle — not opposites in a "good vs. bad" sense, but two sides of how carbon and energy move through living things.
 
+![Photosynthesis and respiration](074_Carbon_03.png)
+
 ## The Carbon Cycle
 
 The **carbon cycle** is the movement of carbon through air, water, living things, rocks, soil, and fuels.
 
-Think of it as a loop, not a single path:
+Picture one carbon atom on a long trip. A plant pulls it in as CO2 and locks it into sugar. An animal eats the plant and uses the carbon to build muscle. The animal exhales CO2. Decay or burning may send that carbon back to the air, into the ocean, or into rock over thousands of years. The atom is not destroyed — it **changes form** and **moves**.
 
 | Pathway | What happens |
 |---------|--------------|
@@ -146,6 +150,8 @@ Think of it as a loop, not a single path:
 | **Volcanoes** | Release carbon gases from Earth's interior |
 
 Carbon is not used up. It **changes form** and **moves**. The carbon cycle links life, air, oceans, rocks, fuels, and climate.
+
+![The carbon cycle](074_Carbon_04.png)
 
 ### Carbon in the Ocean
 
@@ -189,7 +195,7 @@ Carbon often looks **black** when it is not bonded into clear crystals.
 | **Soot** | Incomplete burning | Tiny carbon-rich particles in smoke |
 | **Coal** | Ancient plant material compressed over time | A fossil fuel |
 
-These are not always pure carbon, but carbon-rich structures absorb light and look dark. Treat smoke and soot as **unhealthy to breathe**.
+These are not always pure carbon, but carbon-rich structures absorb light and look dark. Treat smoke and soot as **unhealthy to breathe** — whether from a campfire, a car exhaust, or a smoky room.
 
 ## Graphite and Diamond — Same Element, Different Arrangement
 
@@ -207,6 +213,8 @@ That arrangement makes diamond **extremely hard**. Pure diamond is transparent a
 
 **Same element, different structure, very different properties.** Arrangement controls what a material can do — the same lesson you saw with nitrogen compounds that are calm in air but powerful when bonded differently.
 
+![Graphite and diamond](074_Carbon_05.png)
+
 ## Allotropes and Modern Carbon Forms
 
 Different forms of the same element in the same state are called **allotropes**.
@@ -219,22 +227,28 @@ Different forms of the same element in the same state are called **allotropes**.
 | **Fullerenes** | Cage-like molecules | Nanotechnology research |
 | **Carbon nanotubes** | Tiny tubes | Strength, possible future tech |
 
+Engineers do not ask only "Is this carbon?" They ask **which form** fits the job — soft layers for writing, a rigid network for cutting, tiny tubes for future lightweight gear.
+
 Scientists and engineers are still discovering uses for these forms. Carbon is not "finished" as a subject — it is an active frontier.
 
 ## Carbon in Materials and Technology
 
+Pick up a hockey stick, a fishing rod, or a high-end bike frame and you might be holding **carbon fiber** — strong, lightweight carbon engineered for performance.
+
 Carbon shows up in materials you touch every day:
 
 - **Steel** — iron plus a small amount of carbon; more carbon often means harder steel
-- **Carbon fiber** — strong and lightweight
+- **Carbon fiber** — strong and lightweight; used in sports gear, bikes, and aircraft
 - **Plastics** — large carbon-based molecules
 - **Rubber, glues, paints, fuels, medicines** — carbon chemistry throughout
 
 **Activated carbon** traps impurities in water and air filters. **Carbon black** strengthens rubber in tires. Carbon compounds power batteries, electronics, and medical tools.
 
-Modern materials science depends heavily on carbon. If you like building, sports gear, or gadgets, you are already surrounded by carbon engineering.
+Modern materials science depends heavily on carbon. If you like building, sports, or gadgets, you are already surrounded by carbon engineering.
 
 ## Carbon Monoxide — Invisible Danger
+
+Imagine a charcoal grill glowing in a **closed garage** on a cold day. There is no smell of danger, no visible cloud — yet **carbon monoxide** can build up in that space. That is why this gas deserves serious respect.
 
 **Carbon monoxide** has formula **CO** — one carbon, one oxygen.
 
@@ -248,6 +262,8 @@ Unlike CO2, carbon monoxide is **poisonous**. It can form when fuels burn **with
 
 Homes should have **carbon monoxide detectors**. Never run engines, charcoal grills, or fuel-burning heaters in closed garages, tents, or rooms without ventilation. The chapter on **combustion** connects fuel burning to both CO2 and CO.
 
+![Carbon monoxide danger](074_Carbon_06.png)
+
 ## Carbon Isotopes and Radiocarbon Dating
 
 **Isotopes** are atoms of the same element with different numbers of neutrons.
@@ -260,7 +276,9 @@ Homes should have **carbon monoxide detectors**. Never run engines, charcoal gri
 
 **Carbon-14** forms naturally in the atmosphere. Living things take in carbon while alive. After death, new carbon-14 stops arriving, and the C-14 already present slowly decays.
 
-**Radiocarbon dating** measures remaining carbon-14 to estimate the age of once-living materials — wood, bone, cloth, charcoal. Archaeologists and geologists use it to place ancient objects in time. It works only for certain materials and age ranges, but it is one of carbon's coolest detective tools.
+**Radiocarbon dating** measures remaining carbon-14 to estimate the age of once-living materials — wood from an ancient boat, bone from a burial site, cloth from a long-lost camp. Archaeologists and geologists use it to place objects in time. It works only for certain materials and age ranges, but it is one of carbon's coolest detective tools — science turning atoms into history.
+
+![Radiocarbon dating](074_Carbon_07.png)
 
 ## Common Misconceptions
 

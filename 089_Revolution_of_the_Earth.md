@@ -8,6 +8,8 @@ Same backyard. Same you. Different sky.
 
 That shift is not the Sun getting lazy. It is Earth finishing another lap.
 
+![Same backyard, different sky — June vs December](089_Revolution_of_the_Earth_07.png)
+
 While you slept through winter break, grinded a new game over summer, went to camp, and started a new school year, Earth never parked in space. It was racing around the Sun on a giant curved path — about **30 kilometers per second** on average. That is faster than a rifle bullet. You do not feel it because Earth carries you, the air, and everything around you along smoothly — the same reason you do not feel Earth's daily spin, as you learned in the chapter on **rotation of the Earth**.
 
 **Revolution of the Earth is Earth's motion around the Sun, taking about 365 1/4 days and helping create the year and the seasons.**
@@ -84,6 +86,8 @@ There is no giant track in space — no invisible road. Earth is always falling 
 
 Picture tossing a baseball horizontally. Gravity bends the path downward. Throw it fast enough from a tall tower and the ground curves away beneath it — the ball could keep missing the ground. Earth is doing that on a cosmic scale, year after year.
 
+![Gravity plus forward motion bend Earth's path into an orbit](089_Revolution_of_the_Earth_02.png)
+
 ## How Long Is a Year?
 
 A **year** is based on Earth's revolution around the Sun.
@@ -97,6 +101,8 @@ To fix this, we use **leap years**. Most leap years add **February 29**, giving 
 Most years divisible by 4 are leap years. Century years are leap years only if divisible by 400 (so **2000** was a leap year, but **1900** was not). The rules are fussy because Earth's year is not exactly 365.25 days — but the basic reason is simple: **Earth's orbit is not a neat whole number of days.**
 
 Without leap years, seasons would slowly slide through the calendar. Eventually, July would not feel like summer in the Northern Hemisphere — and "back to school in August" would land in a totally different sunlight pattern.
+
+![Leap years add one day every four years to match Earth's 365¼-day orbit](089_Revolution_of_the_Earth_03.png)
 
 ## Earth's Axis Is Tilted
 
@@ -150,6 +156,8 @@ Seasonal temperature is really a team effort: **angle of sunlight + length of da
 
 Try this at home: shine a phone flashlight straight on your hand, then at a steep angle. Same light, different spread — same physics the planet uses all year.
 
+![Direct sunlight packs energy into a smaller area; slanted sunlight spreads it out](089_Revolution_of_the_Earth_04.png)
+
 ## Solstices and Equinoxes
 
 A **solstice** happens twice each year. The name comes from an old idea that the Sun seems to **stand still** for a few days — its noon height barely changes.
@@ -166,6 +174,8 @@ At an equinox, neither hemisphere is tilted strongly toward or away from the Sun
 
 Solstices and equinoxes come from Earth's **tilt and revolution**. The Sun is not changing its own behavior — our view and our lighting change because Earth moves and tilts.
 
+![Solstices and equinoxes mark key points in Earth's yearly orbit](089_Revolution_of_the_Earth_05.png)
+
 ## Why Distance Is Not the Main Cause of Seasons
 
 Many people think summer happens because Earth is **closer** to the Sun.
@@ -181,6 +191,8 @@ If distance were the main cause, the **whole planet** would have summer at the s
 Northern Hemisphere winter happens near perihelion. Northern Hemisphere summer happens near aphelion. The timing does not match a "closer = hotter" story.
 
 Distance has a **small** effect. Earth's **tilted axis** and **revolution** do the heavy work.
+
+![Perihelion and aphelion — closer to the Sun does not mean summer](089_Revolution_of_the_Earth_06.png)
 
 ## The Ecliptic and Seasonal Stars
 
@@ -237,6 +249,8 @@ Earth's average speed around the Sun is about **30 km/s** — roughly **108,000 
 For comparison, a commercial jet might cruise near **900 km/h**. Earth is moving vastly faster, yet you feel nothing because everything around you moves with you at the same steady pace — the same reason you do not feel Earth's daily spin.
 
 The ride is smooth. The speed is real.
+
+![Earth moves about 30 km/s around the Sun — you ride along without feeling it](089_Revolution_of_the_Earth_08.png)
 
 ## Evidence You Can Spot
 

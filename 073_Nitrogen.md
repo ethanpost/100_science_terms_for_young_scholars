@@ -67,6 +67,8 @@ When you inhale, you pull in a great deal of nitrogen. When you exhale, most of 
 
 That fact surprises many people — and it leads to one of the biggest puzzles in biology.
 
+![Nitrogen in dry air](073_Nitrogen_02.png)
+
 ## The Nitrogen Problem
 
 Earth's atmosphere is packed with nitrogen gas. Yet most living things **cannot use N2 directly**.
@@ -77,6 +79,8 @@ Earth's atmosphere is packed with nitrogen gas. Yet most living things **cannot 
 Before most organisms can use nitrogen, it must be changed into compounds such as **ammonia**, **ammonium**, **nitrates**, or **nitrites**.
 
 This conversion is a central part of the **nitrogen cycle** — the movement of nitrogen through air, soil, water, and living things.
+
+![The nitrogen problem — N2 vs usable compounds](073_Nitrogen_03.png)
 
 ## Why Nitrogen Gas Is So Stable
 
@@ -159,6 +163,8 @@ Think of it as a loop, not a vocabulary list:
 
 Nitrogen moves from air → soil compounds → living things → soil → and sometimes back to air. The cycle keeps nitrogen available for life.
 
+![The nitrogen cycle](073_Nitrogen_04.png)
+
 ### Nitrification
 
 **Nitrification** is when soil bacteria change ammonia or ammonium into **nitrites** and **nitrates**.
@@ -197,6 +203,8 @@ In an algal bloom, algae grow explosively, then die. Decomposers break them down
 
 Nitrogen is necessary for life. Too much in the wrong place can cause serious harm. Useful nitrogen must be managed carefully.
 
+![Fertilizer runoff and algal blooms](073_Nitrogen_05.png)
+
 ## The Haber Process — Industry Meets Agriculture
 
 For most of history, usable nitrogen limited how much food farmers could grow. Then chemists solved a huge problem.
@@ -211,6 +219,8 @@ The Haber process made it possible to produce enormous amounts of fertilizer. Th
 
 Powerful inventions often bring both benefits and duties.
 
+![The Haber process — making ammonia for fertilizer](073_Nitrogen_06.png)
+
 ## Important Nitrogen Compounds
 
 ### Ammonia — NH3
@@ -222,6 +232,8 @@ It has a sharp smell and appears in fertilizers, refrigeration, cleaning product
 Ammonia can act as a **base** (as you learned in the chapter on **bases**). Concentrated ammonia is irritating and dangerous. It can harm eyes, skin, and lungs.
 
 **Never smell ammonia directly. Never mix ammonia cleaners with bleach or other cleaners** — the reaction can release poisonous gas.
+
+![Never mix ammonia and bleach](073_Nitrogen_08.png)
 
 ### Nitrates
 
@@ -256,6 +268,8 @@ Cool nitrogen gas to about **-196 °C**, and it becomes **liquid nitrogen** — 
 Uses include freezing biological samples, industrial cooling, and science demonstrations. Liquid nitrogen can cause **severe frostbite** and can **displace oxygen** in closed spaces as it boils away.
 
 Liquid nitrogen is for **trained adults** with proper equipment and ventilation only.
+
+![Liquid nitrogen dangers](073_Nitrogen_07.png)
 
 ## Nitrogen in Explosives — Same Element, Different Arrangement
 

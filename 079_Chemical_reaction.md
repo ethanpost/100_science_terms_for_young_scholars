@@ -54,6 +54,8 @@ When hydrogen and oxygen react to form water, hydrogen and oxygen are reactants 
 
 In a vinegar-and-baking-soda reaction, vinegar and baking soda are reactants. Carbon dioxide and other substances are products. That foaming volcano in a classroom? Real chemistry — new substances forming while gas escapes.
 
+![Reactants and products](079_Chemical_reaction_02.png)
+
 ## Chemical Bonds
 
 A **chemical bond** is an attraction that holds atoms or ions together.
@@ -76,6 +78,8 @@ If no new substance forms, the change may be **physical** instead.
 Melting ice is physical: ice becomes liquid water, but the substance is still water. Dissolving sugar in water is usually physical: sugar molecules spread through water, but sugar and water are still present. **Burning** sugar is chemical: new substances form.
 
 Chemistry asks one sharp question: **Did the matter become a new substance?**
+
+![Chemical change vs physical change](079_Chemical_reaction_03.png)
 
 ## Signs of a Chemical Reaction
 
@@ -102,6 +106,8 @@ These signs are useful — but they are **not perfect proof by themselves**.
 **Precipitates:** A **precipitate** is a solid that forms from a solution during a chemical reaction. Imagine mixing two clear liquids and suddenly seeing a cloudy solid appear. That solid is a product — strong evidence that a new substance formed.
 
 Good scientists use several clues together and ask whether **new substances** actually formed.
+
+![Signs of a chemical reaction — clues, not proof alone](079_Chemical_reaction_04.png)
 
 ## Chemical Equations
 
@@ -137,6 +143,8 @@ The water-forming reaction balances like this:
 
 On the left: 4 hydrogen atoms and 2 oxygen atoms. On the right: the same counts. Balanced equations are a way of keeping track of atoms — they show conservation of matter in symbols.
 
+![Balanced equation and conservation of matter](079_Chemical_reaction_05.png)
+
 ## Coefficients and Subscripts
 
 In chemical equations, numbers matter.
@@ -160,6 +168,8 @@ Chemists group many reactions into families. You do not need to memorize every n
 | **Double replacement** | Parts of two compounds trade places | Many reactions in solution; some form precipitates |
 | **Acid-base (neutralization)** | Acid + base → often water + salt | HCl + NaOH → water + sodium chloride |
 | **Redox** | Electrons transfer (oxidation + reduction) | Rust, batteries, respiration, combustion |
+
+![Synthesis, decomposition, and combustion](079_Chemical_reaction_06.png)
 
 Below is a little more detail on each — with links to chapters you may have already read.
 
@@ -203,6 +213,8 @@ An **exothermic reaction** releases energy to the surroundings. Combustion is ex
 
 An **endothermic reaction** absorbs energy from the surroundings. Some chemical cold packs use endothermic processes. **Photosynthesis** is energy-absorbing overall: plants use light energy to build sugar from carbon dioxide and water. Endothermic reactions can make surroundings cooler — proof that chemical changes do not always release heat.
 
+![Exothermic vs endothermic reactions](079_Chemical_reaction_07.png)
+
 ## Reaction Rate
 
 The **reaction rate** is how fast a chemical reaction happens.
@@ -223,6 +235,8 @@ Wood shavings burn faster than a thick log. Crushed effervescent tablets fizz fa
 A **catalyst** is a substance that speeds up a chemical reaction without being used up. Catalysts help reactions happen more easily. Cars use **catalytic converters** to change harmful exhaust gases into less harmful ones. Industry and medicine depend on catalysts every day.
 
 **Enzymes** are biological catalysts made by living things. They help reactions happen fast enough for life. Digestion uses enzymes to break down food. Cells use enzymes to build molecules, release energy, copy DNA, and remove wastes. Enzymes are usually very specific — one enzyme may work on only one kind of reaction or molecule. Life is a network of controlled chemical reactions; enzymes provide the control.
+
+![Reaction rate and catalysts](079_Chemical_reaction_08.png)
 
 ## Reversible Reactions
 

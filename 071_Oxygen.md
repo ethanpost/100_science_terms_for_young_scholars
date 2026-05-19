@@ -58,6 +58,8 @@ Air also contains argon, carbon dioxide, water vapor, and small amounts of other
 
 This means every breath contains oxygen, but air is not pure oxygen.
 
+![Dry air is mostly nitrogen, about 21% oxygen](071_Oxygen_02.png)
+
 That is fortunate. Pure oxygen can make fires burn much more intensely.
 
 ## Oxygen and Respiration
@@ -89,6 +91,8 @@ Hemoglobin carries oxygen through the bloodstream.
 Your heart pumps this oxygen-rich blood to cells throughout the body.
 
 Cells use oxygen to release energy from food.
+
+![Hemoglobin carries oxygen from lungs to cells](071_Oxygen_03.png)
 
 Without oxygen, the brain and other organs can be harmed quickly.
 
@@ -144,6 +148,8 @@ When food spoils, oxidation can change its color, smell, or flavor.
 
 When a sliced apple turns brown, oxygen is involved in chemical changes on the cut surface.
 
+![Fast oxidation (fire) vs slow oxidation (rust)](071_Oxygen_04.png)
+
 Oxygen is reactive. It joins with many elements and compounds.
 
 ## Oxides
@@ -175,6 +181,8 @@ The oxygen in water is chemically bonded to hydrogen.
 This is different from oxygen gas, O2, dissolved or mixed in air.
 
 Fish do not breathe the oxygen atom locked inside water molecules. They use oxygen gas dissolved in water.
+
+![H2O oxygen is bonded; fish need dissolved O2 gas](071_Oxygen_05.png)
 
 That difference matters.
 
@@ -226,6 +234,8 @@ Oxygen atoms also move through water, carbon dioxide, rocks, minerals, and livin
 
 The **oxygen cycle** is the movement of oxygen through air, water, living things, and rocks.
 
+![The oxygen cycle: photosynthesis, respiration, combustion, and more](071_Oxygen_06.png)
+
 ## Ozone
 
 Ozone is a form of oxygen.
@@ -241,6 +251,8 @@ Ozone near the ground is different. It can be an air pollutant that irritates lu
 The same element can behave differently depending on its molecular form and location.
 
 O2 and O3 are both made of oxygen atoms, but they have different properties.
+
+![O2 in air vs O3: helpful high up, harmful near the ground](071_Oxygen_07.png)
 
 ## Oxygen and the Atmosphere
 
@@ -407,6 +419,8 @@ A fifth mistake is thinking more oxygen is always safer. Concentrated oxygen can
 ## Oxygen Safety
 
 Oxygen is necessary for life, but it must be respected.
+
+![Oxygen tank safety: keep flames, sparks, and oil away](071_Oxygen_08.png)
 
 Good safety habits include:
 

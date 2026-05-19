@@ -22,6 +22,8 @@ Weather satellites and GPS satellites are **artificial** — built by people. Th
 
 The Moon is not a planet. It orbits Earth, not the Sun as its main path. (It does go around the Sun — but only because it is carried along with Earth.) It is not a star either. It is a **moon**: a natural satellite. Mars has two small moons; Jupiter and Saturn have dozens. Earth has one large Moon, and for our planet it matters more than most.
 
+![The Moon is Earth's natural satellite](084_Moon_02.png)
+
 | Fact | About the Moon |
 |------|----------------|
 | Type | Natural satellite (moon) of Earth |
@@ -52,6 +54,8 @@ The side that usually faces us is the **near side**. The side that faces away is
 
 Later chapters on **rotation** and **revolution** explore how spin and orbit work for Earth; the Moon is a perfect classroom example of both happening at once.
 
+![Synchronous rotation — we usually see the same side](084_Moon_03.png)
+
 ## Phases: Reading the Moon Like a Clock
 
 The Moon seems to change shape during the month. Those shapes are **phases**. The Moon itself is not changing shape. The Sun always lights half of it. We see different portions of that sunlit half as the Moon moves around Earth.
@@ -73,6 +77,8 @@ Then the cycle starts again. Crescent moons often hang low near sunrise or sunse
 
 **Memory trick:** "Waxing" sounds like **wax** on a growing candle — the lit part grows. "Waning" sounds like **waning** energy — the lit part shrinks.
 
+![Waxing and waning — the monthly phase cycle](084_Moon_04.png)
+
 ## Eclipses: When the Lineup Is Perfect
 
 Phases are **not** caused by Earth's shadow. Earth's shadow causes **lunar eclipses**, not ordinary phases.
@@ -82,6 +88,8 @@ If the Moon orbits every month, why not an eclipse every month? Because the Moon
 A **solar eclipse** happens at **new moon** when the Moon passes between Earth and the Sun and blocks part or all of the Sun's disk. In a total solar eclipse, the sky can darken and the Sun's corona may appear — but only along a narrow path on Earth. **Never look directly at the Sun during a solar eclipse without proper certified eye protection.** Ordinary sunglasses are not safe. Binoculars and telescopes aimed at the Sun can cause serious eye injury almost instantly.
 
 A **lunar eclipse** happens at **full moon** when Earth passes between the Sun and the Moon and Earth's shadow falls on the Moon. During a total lunar eclipse the Moon can turn coppery red — some sunlight bends through Earth's atmosphere and reaches it while blue light is scattered away. Lunar eclipses are safe to watch with your eyes. They feel like a slow, spooky upgrade to an ordinary full moon.
+
+![Phases vs eclipses — tilted orbit matters](084_Moon_05.png)
 
 ## The Moon's Surface: Not a Smooth Ball
 
@@ -94,6 +102,8 @@ A **crater** is a bowl-shaped hollow, usually from an impact. A fast strike blas
 The dark patches are **maria** (Latin for "seas"). Early astronomers thought they might be water. They are not. They are broad plains of ancient hardened **lava** that filled low basins long ago. The lighter areas are **highlands** — older, rougher, more heavily cratered rock. On a full moon, bright highlands and dark maria are what people sometimes imagine as a "face" on the Moon.
 
 The Moon has mountains, valleys, cliffs, and plains. It is rugged, dusty, and dry — nothing like a smooth ceiling light.
+
+![Craters, maria, and highlands on the Moon](084_Moon_06.png)
 
 ## Almost No Air, Wild Temperatures
 
@@ -108,6 +118,8 @@ The Moon has gravity, but weaker than Earth's — about **one sixth**. If you we
 That weaker gravity still reaches Earth. The Moon's pull on our planet helps create **tides**: the regular rise and fall of sea level. The Sun affects tides too, but the Moon matters more because it is much closer. As Earth rotates, coastlines move through bulges of water — high tide and low tide. Fishermen, sailors, surfers, and anyone launching a boat from a ramp lives with the Moon's schedule.
 
 When Sun, Earth, and Moon line up near new or full moon, tides are especially strong — **spring tides** (the name has nothing to do with the season; water "springs" higher and lower). Near first or third quarter, when Sun and Moon pull at right angles, **neap tides** are milder.
+
+![Weaker gravity on the Moon — stronger tides on Earth](084_Moon_07.png)
 
 ## Why the Moon Matters to Earth
 
@@ -124,6 +136,8 @@ In **1969**, **Apollo 11** landed **Neil Armstrong** and **Buzz Aldrin** on the 
 The Moon is still a target for return missions and possible bases. It is close, harsh, and honest: no atmosphere to hide behind, no weather to smooth over mistakes. Training there is training for harder destinations — Mars, asteroids, and deep space.
 
 If you like engineering, geology, or adventure stories, the Moon is where "impossible" turned into checklist items: land, walk, drive a rover, golf a ball in low gravity, and fly home.
+
+![Apollo 11 — twelve humans have walked on the Moon](084_Moon_08.png)
 
 ## Observing the Moon Safely
 

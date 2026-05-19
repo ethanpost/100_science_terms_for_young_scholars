@@ -24,6 +24,8 @@ If you could ride a spaceship billions of kilometers from the Sun, our star woul
 
 The Sun is special to **us** because it is **our** star. Its light and heat make life on Earth possible. In the wider universe, though, the Sun is a medium-sized, middle-aged star in the Milky Way — one of hundreds of billions in our galaxy alone.
 
+![The Sun is a star — distance makes it look special](086_Stars_02.png)
+
 ## Stars Make Their Own Light
 
 Planets and moons are mirrors. They shine by **reflected** sunlight. They do not run their own fusion engines.
@@ -34,6 +36,8 @@ Deep in a star, gravity squeezes matter until temperature and pressure become ex
 
 When you see starlight, you are seeing energy born in a stellar core — possibly long before you were born.
 
+![Stars manufacture light; planets reflect it](086_Stars_03.png)
+
 ## Plasma: The Fourth State of Matter
 
 You know solids, liquids, and gases. Stars are mostly something else: **plasma**.
@@ -41,6 +45,8 @@ You know solids, liquids, and gases. Stars are mostly something else: **plasma**
 **Plasma** is gas so hot that many electrons break free from their atoms. Charged particles swarm and move freely. Plasma responds strongly to electric and magnetic fields — which is why stars have spots, loops, flares, and storms.
 
 The Sun's surface may look smooth from Earth. Up close it boils. Other stars can be even wilder. Betelgeuse, a red supergiant in Orion, has thrown off huge clouds of material that telescopes can actually photograph. Stars are not calm Christmas lights. They are active, magnetic, churning worlds of plasma.
+
+![Stars are mostly plasma](086_Stars_04.png)
 
 ## Gravity vs. Pressure: The Stellar Tug-of-War
 
@@ -52,6 +58,8 @@ Because fusion in the core releases energy. That energy creates **outward pressu
 
 When fusion strengthens, the star can expand and cool slightly. When fusion weakens, gravity squeezes the core, heats it up, and fusion can ramp up again. Stars are not frozen statues. They are feedback systems — enormous, slow, and powerful.
 
+![A stable star is a tug-of-war in balance](086_Stars_05.png)
+
 ## Nuclear Fusion Is Not a Campfire
 
 People say stars are "burning." They glow. They are hot. But a star is **not** burning the way wood burns in a campfire.
@@ -61,6 +69,8 @@ A campfire is **combustion** — a chemical reaction that needs fuel and oxygen.
 **Nuclear fusion** joins small atomic nuclei into larger ones and converts a tiny amount of mass into energy. In the Sun, hydrogen becomes helium. The energy released is staggering. Fusion is why a star can shine for billions of years instead of fizzling out in an afternoon like a pile of logs.
 
 Remember the difference: **campfire = chemistry. Star = nuclear physics.**
+
+![Stars fuse hydrogen — they don't burn like wood](086_Stars_06.png)
 
 ## Why Stars Do Not Blow Themselves Apart
 
@@ -81,6 +91,8 @@ The nearest star besides the Sun is **Proxima Centauri**, about **4.24 light-yea
 When you look at a star, you are not seeing it **now**. You are seeing light that left that star years, decades, centuries, or longer ago. Arcturus? About 37 years in the past. Some stars in the Big Dipper? Roughly 80 to 120 years. Distant galaxies? Millions or billions of years.
 
 Astronomy is part physics, part history.
+
+![Starlight shows us the past](086_Stars_07.png)
 
 ## Brightness: Nearby vs. Powerful
 
@@ -129,6 +141,8 @@ Stars are born in giant clouds of gas and dust called **nebulae** (one cloud is 
 Gravity pulls a pocket of the cloud together. The gas grows denser and hotter. A young forming star is a **protostar** — not yet a true star, because steady fusion has not started in the core.
 
 When the core becomes hot and dense enough, hydrogen begins fusing into helium. Then a star is born. The leftover disk of material can become planets, moons, asteroids, and comets. Your solar system started in a nebula about 4.6 billion years ago.
+
+![Stars are born in nebulae](086_Stars_08.png)
 
 ## Main Sequence: The Long Stable Chapter
 

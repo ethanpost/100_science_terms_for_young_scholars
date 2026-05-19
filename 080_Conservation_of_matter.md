@@ -38,17 +38,23 @@ A burning candle seems to lose wax. The wax melts, travels up the wick, and reac
 
 Matter did not vanish. It changed form and moved away.
 
+![Candle wax becomes invisible gases](080_Conservation_of_matter_02.png)
+
 ## The Rust Puzzle
 
 Rusting surprises people the opposite way. A rusty nail or bike chain can *gain* mass. How?
 
 Iron reacts with oxygen from the air and water from the environment. Oxygen atoms join iron atoms to form rust. That oxygen came from outside the original metal. The object gains mass because matter from the air became part of the rust.
 
+![Rust can gain mass from oxygen in the air](080_Conservation_of_matter_03.png)
+
 ## Physical Changes: Same Stuff, New Look
 
 A **physical change** does not make a new substance. Melting ice is physical: still water, just liquid. Freeze it again — still water. Crush a can, cut paper, dissolve salt in water — the identity of the substance usually stays the same.
 
 If you melt 50 grams of ice in a sealed container, you should still have 50 grams of water (plus the container). The form changed. The amount of matter did not.
+
+![Melting changes form, not how much matter](080_Conservation_of_matter_04.png)
 
 ## Chemical Changes: New Substances, Same Atoms
 
@@ -78,9 +84,13 @@ When balancing, change **coefficients** (numbers in front of a formula). In 2H�
 
 Balancing is not just a classroom exercise. It respects conservation of matter. If oxygen atoms disappear on paper, the equation cannot describe a real ordinary reaction. Balanced equations help predict how much reactant you need and how much product you get — in labs, factories, medicine, and even industrial cooking.
 
+![Balanced equations respect conservation of matter](080_Conservation_of_matter_05.png)
+
 ## Kitchen and Garage Experiments
 
 **Vinegar and baking soda:** Bubbles are carbon dioxide. In an open cup, gas escapes and the cup may lose mass. In a sealed bag, the bag inflates — but total mass of bag plus contents should stay the same. The gas is still inside.
+
+![Open cup vs sealed bag — track the gas](080_Conservation_of_matter_06.png)
 
 **Fizzy soda:** Before you open the bottle, dissolved carbon dioxide is trapped. Pop the cap and gas rushes out. The bottle may lose a tiny bit of mass. The gas did not disappear; it moved into the air.
 
@@ -97,6 +107,8 @@ These are the same rule in different costumes: track where the matter went.
 **Eating:** Food matter does not vanish inside you. Some atoms build and repair tissue. Some fuel reactions that release energy. You breathe out carbon dioxide, lose water and other wastes, and give off heat. Mass from food becomes body, breath, movement, and waste. Your body is a living rearrangement machine.
 
 **Plants:** A tree looks like it grows from soil, but much of its mass comes from carbon dioxide in the air and water from the ground. During photosynthesis, plants use light energy to turn CO₂ and water into sugars and oxygen. Carbon from the air becomes wood and leaves. **Air can become part of a tree.** That only sounds impossible until you remember air is matter.
+
+![Much of a plant's mass comes from CO₂ in the air](080_Conservation_of_matter_07.png)
 
 ## Why Gases Fooled People for So Long
 
@@ -154,6 +166,8 @@ When matter seems to vanish, ask:
 - Was the system open or closed?
 
 Those questions turn mystery into investigation.
+
+![Ask where the matter went](080_Conservation_of_matter_08.png)
 
 ## Safety and Matter Changes
 

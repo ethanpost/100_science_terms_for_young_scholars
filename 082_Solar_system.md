@@ -90,6 +90,8 @@ The solar system is not eight copies of Earth. It is split into two main groups.
 
 All four outer planets have **rings** and many **moons**. The outer solar system is cold, huge, and full of surprises.
 
+![Inner rocky planets vs outer giant worlds](082_Solar_system_02.png)
+
 ## Mercury: Scorched and Airless
 
 Mercury is closest to the Sun — small, rocky, and cratered.
@@ -105,6 +107,8 @@ Venus is about the same size as Earth but a completely different world.
 Its thick atmosphere is mostly carbon dioxide. Its clouds contain sulfuric acid. Its surface is hotter than Mercury's — even though Mercury is closer to the Sun — because Venus traps heat in an extreme **greenhouse effect**.
 
 Venus is proof that a planet's atmosphere can control its temperature more than its distance from the Sun.
+
+![Venus traps heat — hotter than Mercury](082_Solar_system_03.png)
 
 ## Earth: Home Base
 
@@ -131,6 +135,8 @@ An **asteroid** is a rocky or metallic object orbiting the Sun. Most are much sm
 Movies sometimes show spaceships weaving through crashing rocks. Real life is different. Space is enormous, and asteroids are spread far apart. Spacecraft can cross the belt without dodging rocks every second.
 
 The largest object there is **Ceres**, classified as a **dwarf planet**. Asteroids are leftovers from the early solar system — time capsules from when the planets were forming.
+
+![The asteroid belt is not a rock traffic jam](082_Solar_system_04.png)
 
 ## Jupiter: King of the Planets
 
@@ -190,6 +196,8 @@ Three similar words, three different things:
 
 Meteorites are rare direct samples of space scientists can hold in a lab.
 
+![Meteoroid, meteor, and meteorite](082_Solar_system_05.png)
+
 ## Beyond Neptune: The Cold Storage Zone
 
 Beyond Neptune lies the **Kuiper Belt** — icy bodies, dwarf planets, and other small objects. Pluto is the best-known member. It is like a distant freezer of leftovers from formation.
@@ -216,6 +224,8 @@ Light is fast, but space is bigger. Sunlight takes about **8 minutes** to reach 
 
 Looking far away also means looking into the past. Astronomy is part time machine.
 
+![Sunlight takes about 8 minutes to reach Earth](082_Solar_system_08.png)
+
 ## How the Solar System Formed
 
 About **4.6 billion years ago**, a huge cloud of gas and dust called a **nebula** began to collapse under gravity.
@@ -228,11 +238,15 @@ Farther out it was **cold** — ices could survive and giant planets could pull 
 
 The pattern — rocky inner worlds, giant outer worlds — is a clue written in the layout of the system today.
 
+![From nebula to today's solar system](082_Solar_system_06.png)
+
 ## Quick Connections: Day, Night, Seasons, and Eclipses
 
 **Day and night** come from Earth's **rotation**. The side facing the Sun has day; the side turned away has night. The Sun appears to rise in the east and set in the west because Earth spins west to east — the Sun is not racing around Earth each day.
 
 **Seasons** are caused mainly by Earth's **tilted axis** as Earth **revolves** around the Sun — not mainly by Earth getting closer or farther from the Sun. When the Northern Hemisphere tilts toward the Sun, it gets more direct sunlight and longer days: summer there, winter in the Southern Hemisphere. Six months later, the situation flips.
+
+![Seasons come from Earth's tilted axis](082_Solar_system_07.png)
 
 An **eclipse** happens when one object blocks light from reaching another. In a **solar eclipse**, the Moon passes between Earth and the Sun. In a **lunar eclipse**, Earth passes between the Sun and the Moon. They do not happen every month because the Moon's orbit is slightly tilted.
 

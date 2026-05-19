@@ -41,6 +41,8 @@ Rusting is a kind of oxidation. In rusting, iron atoms **lose electrons** and be
 
 Combustion in a campfire is **fast** oxidation — heat and light in seconds. Rust on a bike chain is **slow** oxidation — damage over days, months, or years. Same big idea, different speed.
 
+![Fast oxidation vs slow oxidation](078_Rust_03.png)
+
 ## What Rust Is Made Of
 
 Rust is not one perfectly simple compound. It is a mixture of **iron oxides** and **hydrated iron oxides** (compounds that include water in their structure).
@@ -59,17 +61,23 @@ Rust usually needs three important things:
 
 Without water, rusting is much slower. Without oxygen, ordinary rusting cannot continue in the same way.
 
+![The three ingredients for rust](078_Rust_02.png)
+
 ## Why Water Matters
 
 Water helps rust form because it allows charged particles to move. Rusting is an **electrochemical process** — it involves chemical reactions and movement of electric charge.
 
 Tiny regions on the iron surface act differently. Some areas lose electrons. Other areas use oxygen and water in reactions. Water helps ions move between these areas. That is why **dry iron rusts much more slowly than wet iron.**
 
+![Why water helps electrochemical rusting](078_Rust_04.png)
+
 ## Why Salt Speeds Rust
 
 **Salt water** often speeds rusting. When salt dissolves in water, it forms ions that help the water **conduct electric charge**. Better charge movement can make the electrochemical rusting process happen faster.
 
 This is why cars may rust faster in areas where roads are salted in winter. It is also why metal near the ocean often rusts faster. Salt does not simply "eat" metal by itself — it **helps rusting reactions proceed.**
+
+![Salt water speeds rust](078_Rust_05.png)
 
 ## Humidity and Rust
 
@@ -83,11 +91,15 @@ Iron metal is strong. Rust is crumbly and weak. When iron turns into rust, the s
 
 Over time, rust can eat deeply into metal, making it thinner and weaker. Rust on bridges, cars, ships, and tools is not just ugly. **It can be dangerous.**
 
+![Strong iron vs weak rust](078_Rust_06.png)
+
 ## Rust Takes Up More Space
 
 Rust often takes up **more space** than the iron it came from. As rust forms, it can expand — cracking paint, splitting concrete around steel bars, loosening bolts, or breaking apart structures.
 
 In **reinforced concrete**, steel bars inside the concrete can rust if water and oxygen reach them. The expanding rust can crack the concrete. Small chemical changes can create large physical damage.
+
+![Rust expansion cracks concrete](078_Rust_07.png)
 
 ## Rust in the Real World
 
@@ -119,6 +131,8 @@ People fight rust by blocking water, blocking oxygen, or using materials that re
 | **Galvanizing** | Zinc barrier + sacrificial protection | Galvanized nails, fences, buckets, pipes |
 | **Stainless steel** | Chromium forms tough surface oxide | Sinks, kitchen tools, medical instruments |
 | **Sacrificial metals** | More reactive metal corrodes first | Zinc or magnesium on ships, pipelines, tanks |
+
+![Ways to prevent rust](078_Rust_08.png)
 
 **No water, much slower rust.** **No oxygen reaching the metal, much slower rust.** But barriers must stay unbroken — if paint chips, rust may begin at the exposed spot. Rust painted over carelessly can continue underneath. Good surface preparation matters.
 

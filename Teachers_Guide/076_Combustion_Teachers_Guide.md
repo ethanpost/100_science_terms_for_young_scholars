@@ -44,6 +44,8 @@ Students should be able to:
 24. Examples: Class A — wood or paper; Class B — gasoline or oil; Class C — electrical wiring; Class K — cooking grease. Accept any two valid class–example pairs.
 25. Misconceptions may include thinking oxygen is fuel, fire destroys matter, small flames are always safe, smoke is only dirty air, or water puts out every fire.
 26. Answers may include never playing with matches or lighters, keeping fuels away from flames, never using grills indoors, maintaining smoke and CO detectors, knowing escape routes, stop-drop-roll, staying low under smoke, leaving quickly, using extinguishers only if trained, and following adult instructions.
+27. **Intake**, **compression**, **combustion** (power), and **exhaust** — in that order.
+28. Gasoline **vapor** mixes easily with air and has high surface area exposed to oxygen and heat; liquid gasoline in the tank is harder to ignite than fumes near a spark or static discharge.
 
 ### Activity Suggestions
 

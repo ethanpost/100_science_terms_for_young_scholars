@@ -62,6 +62,8 @@ The atoms share electrons in **covalent bonds**. You will not draw every electro
 
 Compare CO2 with **O2** (oxygen gas you breathe) and **CO** (carbon monoxide). Three different molecules. Three different stories. Learn the formulas so you do not mix them up.
 
+![CO2 is a linear molecule — one C, two O; not the same as CO](075_Carbon_dioxide_02.png)
+
 ## Carbon Dioxide Is a Gas
 
 At ordinary room temperature and pressure, carbon dioxide is a **gas**.
@@ -125,6 +127,8 @@ Photosynthesis stores energy in carbon compounds such as glucose. It pulls CO2 o
 
 Respiration and photosynthesis are partners in the carbon story. Your body releases CO2; green plants often take it in when light is available.
 
+![Respiration releases CO2; photosynthesis uses it](075_Carbon_dioxide_03.png)
+
 ## The Carbon Cycle — CO2 on the Move
 
 The **carbon cycle** is the movement of carbon through air, water, living things, rocks, soil, and fuels.
@@ -142,6 +146,8 @@ Think of CO2 as one form carbon takes while traveling the loop:
 | **Fossil fuels** | Ancient carbon stored underground; burning releases CO2 fast |
 
 Carbon does not disappear when fuel burns or when you exhale. It changes form and location. CO2 in the air is one stop on a very long journey.
+
+![CO2 moves through the carbon cycle](075_Carbon_dioxide_04.png)
 
 ## Combustion: Fire and Engines
 
@@ -182,6 +188,8 @@ While the can or bottle is sealed, pressure keeps extra gas dissolved in the liq
 Warm soda goes flat faster because gases usually dissolve **less well** in warm liquid. Cold soda holds bubbles longer. That is not magic — it is chemistry you can test in your kitchen with adult permission.
 
 Try this safely with permission: compare a cold sealed soda to a warm one. Open each gently (do not shake first unless your adult says to predict the mess). Which fizzes more? Link bubbles to dissolved CO2 and dropping pressure.
+
+![Open the can — pressure drops and CO2 bubbles out](075_Carbon_dioxide_05.png)
 
 ## Carbonic Acid: The Sharp Taste
 
@@ -232,6 +240,8 @@ At normal air pressure, dry ice does not melt into a puddle. It goes straight fr
 
 Dry ice is **extremely cold** and can cause frostbite. In a closed room, sublimating dry ice can fill the space with CO2 and reduce oxygen. The spooky white "fog" you sometimes see at haunted houses or science demos is **not** CO2 gas itself (the gas is invisible). The fog is mostly tiny **water droplets** cooled by the cold gas.
 
+![Dry ice sublimates; the fog is not CO2 gas](075_Carbon_dioxide_08.png)
+
 Handle dry ice only with **adult supervision**, ventilation, and proper gloves or tongs. Never seal it in a closed container — pressure can build dangerously.
 
 ## The Greenhouse Effect
@@ -243,6 +253,8 @@ They help keep Earth warm enough for liquid water and life. Without them, Earth 
 The problem is **balance**. Adding too much CO2 from burning fossil fuels and other human activities can strengthen the greenhouse effect and contribute to **climate change**.
 
 Carbon dioxide is natural and necessary. **The amount** still matters.
+
+![CO2 traps heat — balance matters](075_Carbon_dioxide_06.png)
 
 ## Where Extra CO2 Comes From
 
@@ -311,6 +323,8 @@ These names sound alike. The compounds are **not** the same.
 **Carbon monoxide** is far more poisonous in small amounts because it binds to hemoglobin and prevents blood from carrying oxygen properly.
 
 Both gases can hurt you — for different reasons. Learn the formulas and the risks.
+
+![Carbon dioxide vs carbon monoxide — different formulas, different dangers](075_Carbon_dioxide_07.png)
 
 ## Common Misconceptions
 

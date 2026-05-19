@@ -31,6 +31,8 @@ In a salt, cations and anions attract each other. Their charges **balance** so t
 
 That is why table salt feels ordinary even though it is made of charged pieces locked in a crystal.
 
+![Cations and anions attract — charges balance to neutral](070_Salt_02.png)
+
 ## Table Salt: The One You Know Best
 
 Table salt is **sodium chloride**.
@@ -65,6 +67,8 @@ In chemistry, a **salt** is any ionic compound made of balanced positive and neg
 
 Some salts are useful in food. Some are used in farming, medicine, or construction. Some are dangerous. **Do not assume a substance is safe because it is called a salt.**
 
+![Chemistry salt is a big family — not just the shaker](070_Salt_03.png)
+
 ## Acids, Bases, and Neutralization
 
 Many salts form when an **acid** and a **base** react.
@@ -80,6 +84,8 @@ Many neutralization reactions produce **water** and a **salt**.
 Example: hydrochloric acid (HCl) plus sodium hydroxide (NaOH) can form water and sodium chloride (NaCl).
 
 The sodium comes from the base. The chloride comes from the acid.
+
+![Neutralization — acid plus base can form water and a salt](070_Salt_04.png)
 
 ### Neutralization Is Not Always "Perfectly Safe"
 
@@ -116,6 +122,8 @@ In sodium chloride, sodium and chloride ions alternate in a lattice that extends
 
 Different salts form different crystal shapes because their ions pack differently. If you studied **crystals** already, you have seen this idea from another angle: the shape you see comes from the arrangement you cannot.
 
+![Crystal lattice — why salt grains often look cube-shaped](070_Salt_05.png)
+
 ## Dissolving Salts
 
 Many salts dissolve in water.
@@ -125,6 +133,8 @@ When sodium chloride dissolves, water molecules pull Na+ and Cl− ions away fro
 The salt has **not** disappeared. It is present as **dissolved ions** — too small to see, but still there.
 
 If the water evaporates, crystals can form again. That is how salt is recovered from seawater in **salt ponds** and how ancient seas left salt deposits behind.
+
+![Dissolved salt has not disappeared — ions spread through water](070_Salt_06.png)
 
 ## Solubility
 
@@ -152,6 +162,8 @@ Pure water conducts poorly. **Salt water** conducts much better because moving i
 Your body uses dissolved salts as electrolytes. Sodium, potassium, calcium, magnesium, chloride, and phosphate ions help nerves, muscles, cells, and body fluids work. Sweat tastes salty because it carries dissolved salts — but tasting sweat is not a science test.
 
 Electrolytes matter. Too much or too little can be harmful. Sports drinks and medical fluids are designed around that balance — not around "more salt is always better."
+
+![Electrolytes — dissolved ions let salt water conduct electricity](070_Salt_07.png)
 
 ## Salts in the Body and Diet
 
@@ -238,6 +250,8 @@ That is why salt is spread on icy roads and sidewalks. Salt does not create heat
 Salt water can stay liquid below 0 °C. The same idea appears in old-fashioned ice-cream makers: ice plus salt can get very cold.
 
 Salt-ice mixtures can injure skin if handled carelessly. Treat them with respect.
+
+![Salt lowers the freezing point of water — de-icing roads](070_Salt_08.png)
 
 ## Hard Water
 

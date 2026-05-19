@@ -28,6 +28,8 @@ Orion is one of the easiest wins. Three bright stars in a straight line form **O
 
 Leo can look like a crouching lion if you learn its main stars. Other constellations are faint and frustrating. Do not try to memorize the whole sky in one night. **Start with bright landmarks. Build from there.**
 
+![Orion's Belt — find the pattern first](087_Constellations_02.png)
+
 ## Same Sky, Different Depths
 
 Here is the twist that changes everything:
@@ -42,6 +44,8 @@ Constellations work like that. One star might be tens of light-years away. Anoth
 
 That is why astronomers say constellations are **regions and directions**, not clubs of neighboring stars.
 
+![Same direction from Earth — not neighbors in space](087_Constellations_03.png)
+
 ## Eighty-Eight Official Sky Regions
 
 Modern astronomers use constellations in a precise way.
@@ -51,6 +55,8 @@ The sky is divided into **88 official constellations**. Each one is not only a s
 That matters when a comet, galaxy, nebula, or planet appears somewhere specific. Astronomers can say it is in Andromeda, Perseus, Taurus, or Gemini. A meteor shower may seem to radiate from a constellation. A planet might hang in Leo one month and Virgo the next.
 
 The bright patterns help you recognize the regions. The official boundaries cover the whole sky, even the faint parts between the famous stars.
+
+![88 official sky regions — like countries on a star map](087_Constellations_04.png)
 
 ## Constellation or Asterism?
 
@@ -103,9 +109,13 @@ The three stars of Orion's Belt form a short straight line. Bright stars above a
 
 Below the belt is **Orion's Sword**. In the sword lies the **Orion Nebula** — a glowing cloud where new stars are forming. With binoculars on a clear night, it can look like a fuzzy patch. Orion teaches pattern, color, star birth, and patience all at once.
 
+![Betelgeuse and Rigel — color hints at temperature](087_Constellations_06.png)
+
 ### The Summer Triangle
 
 In **summer**, look for the **Summer Triangle**: three bright stars from three constellations — **Vega**, **Deneb**, and **Altair**. It is an asterism, not a constellation, but it is huge and hard to miss once you know it.
+
+![The Summer Triangle — three constellations, one landmark](087_Constellations_05.png)
 
 ## Circumpolar Constellations
 
@@ -144,6 +154,8 @@ That is why **Orion** is a famous winter constellation in the Northern Hemispher
 
 Before printed calendars were everywhere, people used the sky as a clock and calendar. Seasonal constellations still work that way if you know what to look for.
 
+![Seasons change which constellations you see at night](087_Constellations_07.png)
+
 ## Navigation Without a Phone
 
 Constellations have guided travelers for a long time.
@@ -155,6 +167,8 @@ The **height of Polaris above the horizon** also tells you roughly your **latitu
 In the Southern Hemisphere there is no equally bright South Star. Navigators often use the **Southern Cross** (in the constellation **Crux**) to help locate south.
 
 Star navigation takes practice, clear weather, and dark skies. City lights and clouds can ruin the lesson in seconds — which is why a dark campsite beats a parking lot for your first real try.
+
+![Pointer stars to Polaris — height marks your latitude](087_Constellations_08.png)
 
 ## Stories Across Cultures
 

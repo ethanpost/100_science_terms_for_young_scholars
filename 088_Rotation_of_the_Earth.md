@@ -24,6 +24,8 @@ As Earth turns, different parts face the Sun. The side facing the Sun has **day*
 
 **Memory trick:** **ROT**ation sounds like **ROT**ating — spinning in place, like a basketball on your fingertip or a player doing a slow spin move before a pass.
 
+![Rotation is spinning around an axis](088_Rotation_of_the_Earth_02.png)
+
 ## Rotation and Revolution
 
 These two words sound similar. They are not the same — and mixing them up is one of the most common mistakes in Earth science.
@@ -63,6 +65,8 @@ Places near the equator travel the farthest during one rotation, so they move fa
 
 For comparison: a fast highway drive might be **120 km/h**. A jet cruise might be **900 km/h**. The equator still wins — and you never feel the race.
 
+![Equator moves fastest; poles spin in place](088_Rotation_of_the_Earth_03.png)
+
 ## Day and Night
 
 Day and night happen because Earth is a **sphere** that rotates.
@@ -75,6 +79,8 @@ The Sun is not actually rising and falling around Earth each day. **Earth is tur
 
 The **Moon** shines by reflected sunlight too. When you see the Moon at night, its phase and position still change with Earth's rotation carrying you to new viewing angles — even though the Moon is also orbiting Earth on a slower schedule.
 
+![Day and night on a rotating sphere](088_Rotation_of_the_Earth_04.png)
+
 ## Sunrise in the East, Sunset in the West
 
 The Sun appears to rise in the **east** and set in the **west** because Earth rotates from **west to east**.
@@ -84,6 +90,8 @@ Picture a merry-go-round turning counterclockwise. Trees outside seem to slide t
 That is why coaches schedule evening practice knowing the Sun will sink behind the west bleachers — and why stargazers who learned the **constellations** chapter know those patterns will crawl westward through the night even though the stars themselves are not racing around Earth once per day.
 
 **Memory trick:** Earth spins **west → east**, so sky objects **appear** to go **east → west** across your view — the opposite direction.
+
+![Earth's spin and the Sun's apparent path](088_Rotation_of_the_Earth_05.png)
 
 ## Noon, Midnight, and Why You Do Not Feel the Spin
 
@@ -96,6 +104,8 @@ If Earth is spinning so fast, why do you not feel it? Because you notice **chang
 Think about riding smoothly on a bus or train at constant speed. You can toss a ball gently in your hands and it behaves normally. You, the ball, the air, and the vehicle move together. Earth's rotation is very steady. The ground, oceans, atmosphere, buildings, and people are carried around together — so Earth does not feel as if it is rushing beneath your feet.
 
 Same reason you can jump on a moving skateboard and land in the same spot: you already share the board's motion.
+
+![Steady shared motion is hard to feel](088_Rotation_of_the_Earth_06.png)
 
 ## The Atmosphere Spins Too
 
@@ -114,6 +124,8 @@ Remember from the chapter on **stars**: each point of light is a distant sun, an
 Near the North Star, **Polaris**, stars seem to circle around the **north celestial pole** — the point in the sky above Earth's North Pole. Polaris is useful because it sits very close to that point and helps you find north. It is **not** the brightest star in the sky; its value is its position.
 
 In the Southern Hemisphere there is no equally famous South Star. Sky watchers use other patterns, such as the Southern Cross, to find south.
+
+![Star trails show Earth's rotation](088_Rotation_of_the_Earth_07.png)
 
 A long-exposure photograph of the night sky can show **star trails** — curved streaks that reveal Earth's rotation in one image.
 

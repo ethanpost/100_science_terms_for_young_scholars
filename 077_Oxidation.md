@@ -42,6 +42,8 @@ This model is not perfect — electrons are not toys, and atoms do not choose to
 
 **Oxidation is the side that loses electrons; reduction is the side that gains them.**
 
+![Oxidation vs reduction — electron trade](077_Oxidation_02.png)
+
 Many students first meet oxidation through oxygen examples like rust and fire. That is the right place to start. The electron definition is the next step because it explains those examples *and* reactions where no oxygen gas is involved at all.
 
 ## Oxidation and Reduction
@@ -76,6 +78,8 @@ Iron rusts much faster when **water** is present. Water helps charged particles 
 
 Oxygen matters. Oxygen plus water — and especially salt — can be brutal on iron.
 
+![Why water and salt speed rusting](077_Oxidation_03.png)
+
 ## Corrosion and Tarnish
 
 **Corrosion** is the gradual destruction of a material by chemical reactions with its environment. Rusting is corrosion of iron. Other metals corrode too: copper can form greenish compounds on statues and roofs; silver can **tarnish**; aluminum forms a thin oxide coating.
@@ -89,6 +93,8 @@ Not all oxidation damage looks like red rust — but the chemistry is related.
 Aluminum reacts quickly with oxygen, but unlike crumbling iron rust, it forms a thin, hard layer of **aluminum oxide** that sticks tightly to the surface. That layer shields the metal underneath from deeper damage.
 
 That is why aluminum holds up in soda cans, aircraft parts, window frames, and outdoor gear. Oxidation is not always destructive in the same way. Sometimes the first layer of oxide is the best defense.
+
+![Aluminum oxide protects; iron rust crumbles](077_Oxidation_04.png)
 
 ## Combustion: Fast Oxidation
 
@@ -109,6 +115,8 @@ The overall process produces carbon dioxide, water, and usable energy for runnin
 Cut an apple, banana, or potato and leave it exposed to air. Oxygen reacts with substances in the damaged cells, often helped by **enzymes**. The result is brown-colored compounds — **enzymatic browning**.
 
 Lemon juice can slow browning because it is acidic and contains **antioxidants** such as vitamin C. Refrigeration slows the reactions too. Pack a sliced apple in a lunch bag without protection and you will see oxidation with your own eyes by recess.
+
+![Enzymatic browning and antioxidants](077_Oxidation_05.png)
 
 ## Rancidity
 
@@ -150,6 +158,8 @@ Protecting a bridge or a bike frame is not just about appearance. Weak metal can
 
 **Stainless steel** is an alloy of iron with chromium and other elements. Chromium helps form a thin, tough oxide layer that resists rust. Sinks, kitchen tools, surgical instruments, and building hardware often use stainless steel. It can still corrode under harsh conditions, but it performs far better than ordinary steel in wet environments.
 
+![Galvanizing — zinc protects iron](077_Oxidation_06.png)
+
 The right material and coating can change how oxidation behaves — from enemy to managed problem.
 
 ## Batteries and Oxidation
@@ -163,6 +173,8 @@ A battery is not a box of magic electricity. It is a controlled chemical system 
 **Bleach** can act as a strong oxidizing agent. It breaks down colored molecules, which is why it whitens fabrics. It can also damage microbes on surfaces. That makes it useful — and hazardous.
 
 Bleach can irritate skin, eyes, and lungs. **Never mix bleach with ammonia or acids**; dangerous gases can form. Useful oxidizers deserve the same caution as fire: powerful tools, not casual experiments.
+
+![Bleach safety — never mix cleaners](077_Oxidation_07.png)
 
 ## Oxidation and Color
 

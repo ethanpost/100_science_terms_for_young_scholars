@@ -65,6 +65,8 @@ A planet:
 
 This is why Pluto is now classified as a **dwarf planet** rather than one of the eight planets. Pluto is round and orbits the Sun, but it has not cleared its orbital path. It shares its region with many similar icy worlds.
 
+![Three rules — orbit, round, cleared path](085_Planets_02.png)
+
 ## Planets Orbit the Sun
 
 An **orbit** is the path one object follows around another object in space.
@@ -74,6 +76,8 @@ Planets orbit the Sun because of **gravity** and motion. The Sun's gravity pulls
 Most planetary orbits are slightly stretched circles called **ellipses** (oval-like shapes). Earth's orbit is almost circular, but not perfectly.
 
 Planets do not all move at the same speed. Mercury, closest to the Sun, completes one orbit in only **88 Earth days**. Neptune, far away, takes about **165 Earth years**. If you lived on Neptune, you might never celebrate a second birthday.
+
+![Gravity pulls in; forward motion curves the path into an orbit](085_Planets_03.png)
 
 ## Rotation and Revolution
 
@@ -86,6 +90,8 @@ Two words matter everywhere in planetary science: **rotation** and **revolution*
 Every planet rotates and revolves, but not the same way. Venus rotates very slowly and backward compared with most planets. Uranus rotates on its side, as if something knocked it over long ago. Jupiter is the largest planet yet spins fastest — a day there lasts only about **10 hours**.
 
 Do not mix the words up. Rotation is spin. Revolution is orbit.
+
+![Rotation is spin; revolution is orbit](085_Planets_04.png)
 
 ## Planets Shine by Reflected Light
 
@@ -118,6 +124,8 @@ Venus is nearly the same size as Earth, so people sometimes call it Earth's twin
 It has a very thick atmosphere made mostly of carbon dioxide. Its clouds contain sulfuric acid. Surface air pressure is crushing. Its surface is hotter than Mercury's, even though Mercury is closer to the Sun.
 
 Why? Venus has an extreme **greenhouse effect**. Sunlight enters the atmosphere, warms the surface, and heat becomes trapped. Venus shows how powerful an atmosphere can be — and why scientists pay close attention to greenhouse gases on Earth.
+
+![Atmosphere can trap heat — Venus is hotter than Mercury](085_Planets_05.png)
 
 ### Earth
 
@@ -189,6 +197,8 @@ In real space, planets are separated by enormous distances. If Earth were a pepp
 
 The solar system is mostly empty space. That is hard to feel from a picture. Scale models — a hallway, a football field, a bike path with markers — show that space is not just big. It is bigger than your imagination first wants to admit.
 
+![Diagrams teach order — real space is huge and not to scale](085_Planets_06.png)
+
 ## Atmospheres: The Invisible Difference
 
 An **atmosphere** is a layer of gases around a planet. Atmospheres matter tremendously. They can trap heat, move heat, make weather, protect a surface, and completely change what a planet is like.
@@ -200,6 +210,8 @@ An **atmosphere** is a layer of gases around a planet. Atmospheres matter tremen
 - **Jupiter through Neptune** — deep atmospheres that grow denser with depth
 
 When you compare planets, do not ask only, "How close is it to the Sun?" Also ask, "What is its atmosphere like?" Venus is the great warning that atmosphere can matter even more than distance.
+
+![Atmosphere thickness changes everything](085_Planets_07.png)
 
 ## Moons and Rings
 
@@ -214,6 +226,8 @@ For many years, textbooks listed Pluto as the ninth planet. Then astronomers dis
 In **2006**, astronomers adopted a definition that placed Pluto in a new category: **dwarf planet**. A dwarf planet is round, orbits the Sun, but has **not** cleared its orbital path.
 
 Pluto did not disappear. It did not become unimportant. It became better understood. Science sometimes changes its categories when new evidence appears. That is not a weakness — it is one of science's strengths.
+
+![Pluto is a dwarf planet — round, but shares its zone with many icy neighbors](085_Planets_08.png)
 
 ## Planets Beyond Our Solar System
 

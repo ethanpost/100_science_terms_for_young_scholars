@@ -22,6 +22,8 @@ Now imagine the same library with shelves, labels, and a catalog. Suddenly you c
 
 The periodic table does that for chemistry. Before scientists understood the patterns, elements felt like a messy pile of facts. Once the table took shape, the elements started to make sense.
 
+![From messy pile to smart map](081_Periodic_table_02.png)
+
 ## Reading One Element Box
 
 Every box on the table is like an ID card for one element. Layouts vary slightly, but most boxes show:
@@ -43,6 +45,8 @@ Every box on the table is like an ID card for one element. Layouts vary slightly
 | Atomic mass | about 12 |
 
 Learn to read one box and you can read the whole chart.
+
+![Every box is an element ID card](081_Periodic_table_03.png)
 
 ## Chemical Symbols — Tiny Codes, Big Meaning
 
@@ -82,6 +86,8 @@ A **proton** is a positively charged particle in the nucleus. Atomic number iden
 
 The modern table is arranged mostly by atomic number — hydrogen (1) first, then helium (2), lithium (3), and so on. That order is not random. It follows proton count, and proton count links to electron patterns that repeat.
 
+![Atomic number counts protons — and defines the element](081_Periodic_table_04.png)
+
 ## What "Periodic" Means
 
 **Periodic** means happening again in a pattern — like days of the week or seasons of the year.
@@ -96,6 +102,8 @@ In the 1800s, scientists knew many elements but did not yet have today's table.
 
 When those elements were discovered later, many predictions were remarkably close. Mendeleev showed that elements are not a random pile. They follow an order worth mapping.
 
+![Mendeleev left gaps — and predicted what would fill them](081_Periodic_table_05.png)
+
 ## Rows Are Periods
 
 Horizontal rows are called **periods**.
@@ -108,6 +116,8 @@ Horizontal rows are called **periods**.
 
 Moving **left to right** across a period, atomic number increases by one each step — one more proton per element. Properties also shift: elements on the left are usually more **metallic**; elements on the right are usually more **nonmetallic**.
 
+![Across a period, properties shift left to right](081_Periodic_table_06.png)
+
 ## Columns Are Groups
 
 Vertical columns are called **groups** or **families**.
@@ -115,6 +125,8 @@ Vertical columns are called **groups** or **families**.
 Elements in the same group often have **similar chemical behavior** because their atoms have similar **outer electron** arrangements. **Electrons** are negatively charged particles around the nucleus. The outer electrons matter most when atoms bond or react.
 
 **Columns often matter more than rows** for chemical similarity. That is one of the table's best secrets.
+
+![Same group — similar outer electrons, similar chemistry](081_Periodic_table_07.png)
 
 ## Major Families at a Glance
 
@@ -216,6 +228,8 @@ The periodic table lists **elements**, not compounds.
 | Iron, oxygen, carbon | Yes | Each is an element |
 
 As you learned in **compounds** and **mixtures**, elements are the alphabet of matter; compounds are words built from that alphabet. The table gives chemists the letters.
+
+![The table lists elements — not compounds](081_Periodic_table_08.png)
 
 ## The Table in Real Life
 
