@@ -28,6 +28,8 @@ When an acid and a base react, they often **neutralize** each other. Their sharp
 
 Acids and bases are best learned together. If you have already studied acids, you are halfway there.
 
+![Acids donate protons; bases accept protons](069_Base_02.png)
+
 ## Hydroxide Ions
 
 Many bases release **hydroxide ions** when they dissolve in water.
@@ -37,6 +39,8 @@ A hydroxide ion is written as **OH-**.
 When sodium hydroxide (NaOH) dissolves in water, it produces sodium ions and hydroxide ions. The more hydroxide ions in a solution, the more basic it tends to be.
 
 Some bases do not start with hydroxide in the formula but still act as bases. **Ammonia** (NH3) can accept a proton from water and produce ammonium ions and hydroxide ions. That is why chemists describe bases in two useful ways: as **proton acceptors** and as substances that can produce hydroxide ions in water.
+
+![Hydroxide ions in water](069_Base_03.png)
 
 ## Basic Solutions and the pH Scale
 
@@ -95,6 +99,8 @@ Students often mix up four different ideas. Keep them separate:
 
 A weak base can be concentrated. A strong base can be diluted. **Strength** describes chemical behavior. **Concentration** describes how much is dissolved.
 
+![Strong vs weak vs concentrated vs dilute](069_Base_04.png)
+
 Concentrated strong bases are among the most dangerous chemicals in a typical home. They can burn skin, damage eyes, dissolve hair, and react violently with grease and oils—including the oils in your skin.
 
 ## Caustic: When "Basic" Means Dangerous
@@ -104,6 +110,8 @@ Some strong bases are called **caustic**—able to burn, corrode, or destroy liv
 Sodium hydroxide is also known as **caustic soda**. Potassium hydroxide is similarly caustic. These substances power through grease, hair, and organic matter. That is why they appear in heavy-duty drain cleaners and industrial processes. It is also why they demand adult handling, goggles, gloves, and careful storage.
 
 If a base contacts skin or eyes, tell an adult immediately and rinse with plenty of water as instructed.
+
+![Caustic bases — chemical burn danger](069_Base_05.png)
 
 ## Bases at Work: Cleaning, Soap, and Grease
 
@@ -127,6 +135,8 @@ Example: hydrochloric acid plus sodium hydroxide can form water and sodium chlor
 
 Neutralization is useful in medicine, industry, and the lab—but it must be controlled. Reactions can release heat, splash, or leave extra acid or base if amounts are not balanced. **Neutral does not always mean harmless.**
 
+![Neutralization — water and salt](069_Base_06.png)
+
 ## Antacids and Your Body
 
 Your stomach produces hydrochloric acid to help digest food. Too much acid can cause discomfort.
@@ -134,6 +144,8 @@ Your stomach produces hydrochloric acid to help digest food. Too much acid can c
 An **antacid** is a medicine containing a mild base—such as calcium carbonate, magnesium hydroxide, or sodium bicarbonate—that neutralizes some excess stomach acid. Use antacids only as directed by an adult or doctor.
 
 Your whole body depends on careful acid-base balance. Blood stays within a narrow pH range. Many enzymes work only at specific pH levels. The pancreas releases basic fluid into the small intestine to help neutralize stomach acid as food moves along. Life runs on chemistry kept in balance.
+
+![Antacids neutralize excess stomach acid](069_Base_07.png)
 
 ## Bases Beyond the Bathroom
 

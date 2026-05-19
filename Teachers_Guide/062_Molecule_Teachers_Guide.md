@@ -79,16 +79,19 @@ Students should be able to:
 
 ### Teaching Notes
 
-- Keep the central idea visible: **a molecule is a bonded group of atoms**.
-- Open with sports drinks, campfires, fizzy drinks, and breathing so the topic feels immediate rather than abstract.
+- Keep the central idea visible: **a molecule is a bonded group of atoms whose arrangement helps determine the substance's properties**.
+- Open with the campfire scene — smoke, sports drink, soda bubbles, and breathing — so the topic feels immediate rather than abstract.
+- Stress early that chemistry is about **how atoms are joined**, not just which atoms are present. Use the diamond/graphite example to show that arrangement changes properties.
 - Stress the difference between atoms and molecules early and often.
 - Use the letters-to-words metaphor consistently; students at this age find it memorable.
 - Clarify that not all compounds are best described as separate molecules; ionic compounds form repeating ion patterns.
 - Teach formulas as information about atom counts, not full pictures of shape.
 - Use the comparison table for water, CO2, O2, and N2 when distinguishing molecules from compounds.
+- Cover diatomic molecules within the "Molecules of Elements" section — do not treat them as a separate topic unless students need review.
 - Use models as tools, while noting they are simplified.
 - Connect molecules back to matter, atoms, solids, liquids, gases, elements, and compounds.
-- Reinforce conservation of atoms before introducing balanced chemical equations later.
-- Link water's bent shape and attractions to observable properties: surface tension, dissolving, boiling point.
+- Reinforce conservation of atoms within the chemical reactions section before introducing balanced chemical equations later.
+- Link water's bent shape and attractions to observable properties: surface tension (insects on ponds), dissolving, boiling point.
+- Use the breath cycle (oxygen in, carbon dioxide out) to connect respiration and photosynthesis at the molecular level.
 - Do not allow students to taste substances during molecule activities, even if common foods are used as model materials.
 - The chapter image reinforces the atoms-as-letters, molecules-as-words idea — use it when introducing formulas and bonding.

@@ -38,7 +38,11 @@ If it contains different substances physically mixed, it is a **mixture**.
 | Air | Mixture | Gases physically combined |
 | Steel | Mixture (alloy) | Iron mixed with carbon and other elements |
 
+![Element, compound, and mixture](063_Element_02.png)
+
 **Important:** Some elements, such as oxygen and nitrogen, commonly exist as **molecules** made of two atoms of the same element. They are still elements because every atom is the same kind.
+
+![Oxygen as O2 — still an element](063_Element_03.png)
 
 ## Atomic Number — An Element's ID
 
@@ -87,6 +91,8 @@ Each element has a **chemical symbol** — a short way to write its name.
 | Two letters (first capital, second lowercase) | He helium, Ca calcium, Fe iron, Na sodium, Cl chlorine |
 
 **Capital letters matter.** CO is not the same as Co. CO means carbon monoxide (a compound). Co is cobalt (an element).
+
+![CO vs Co — capital letters matter](063_Element_04.png)
 
 Chemists around the world use the same symbols so they can understand one another — like a universal shorthand.
 
@@ -149,6 +155,8 @@ Silicon is especially important: it is used in computer chips and solar cells. S
 | Nonmetal | Often dull, poor conductor | Oxygen, carbon, sulfur |
 | Metalloid | In-between | Silicon, boron |
 
+![Metals, nonmetals, and metalloids](063_Element_06.png)
+
 ## Noble Gases
 
 The **noble gases** sit in the far-right group of the periodic table: helium, neon, argon, krypton, xenon, radon.
@@ -170,6 +178,8 @@ Sodium reacts strongly with water. Chlorine is a reactive gas. Fluorine is extre
 Reactive elements must be handled carefully. Some are dangerous in pure form but useful when combined safely in compounds.
 
 For example, sodium metal and chlorine gas are both hazardous alone, but **sodium chloride** is ordinary table salt.
+
+![Reactive elements forming a compound](063_Element_05.png)
 
 ## Elements and Compounds
 
@@ -227,6 +237,8 @@ Gold, silver, and copper are less common but valuable because of their propertie
 **Stars** are made mostly of hydrogen and helium. In hot stellar cores, **nuclear fusion** can join smaller atoms to form larger ones. Many elements heavier than hydrogen and helium were formed in stars or in violent events such as supernovae.
 
 The carbon, oxygen, calcium, and iron in your body were made possible by processes in stars long before Earth existed. You are literally built from star stuff.
+
+![Elements forged in stars](063_Element_07.png)
 
 ## Natural and Synthetic Elements
 

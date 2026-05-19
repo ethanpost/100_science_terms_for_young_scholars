@@ -2,15 +2,17 @@
 
 ![Molecule](062_Molecule_01.png)
 
-You crack open a sports drink after practice. You smell smoke from a campfire. You watch bubbles race up through a soda. You breathe hard after a sprint and feel your chest rise and fall.
+Imagine you are sitting by a campfire after a long day. Smoke drifts toward you and you smell wood burning. You take a sip from a sports drink and taste the sweetness. You crack open a soda and watch bubbles race upward. You breathe hard from running and feel your chest rise and fall.
 
-You cannot see the tiny pieces inside any of those moments, but they are there — billions of them.
+You cannot see the tiny pieces inside any of those moments, but they are there — billions of them, working together in patterns too small for your eyes.
 
 Each sip, each smell, each bubble, and each breath involves **molecules**.
 
 **A molecule is a group of atoms held together by chemical bonds.**
 
-Molecules make up water, oxygen gas, carbon dioxide, sugar, fats, proteins, plastics, fuels, smells, flavors, and much of your own body. If atoms are the letters of matter, molecules are like words made from those letters.
+Molecules make up water, oxygen gas, carbon dioxide, sugar, fats, proteins, plastics, fuels, smells, flavors, and much of your own body. If atoms are the letters of matter, molecules are like words made from those letters — and the arrangement of those letters changes everything.
+
+That is why chemistry is not just about what atoms you have. It is about how they are joined.
 
 To understand molecules, start with what you already know about **atoms** — the tiny building blocks from the last chapter.
 
@@ -22,7 +24,7 @@ Atoms can exist alone, but many atoms join with other atoms. When they join, the
 
 Sometimes two atoms join. Sometimes hundreds or thousands join. Sometimes millions connect in long chains or networks.
 
-The way atoms join helps explain why substances behave differently. Water acts nothing like oxygen gas because its atoms are joined in a different pattern.
+The way atoms join helps explain why substances behave differently. Water acts nothing like oxygen gas because its atoms are joined in a different pattern. Diamond and graphite are both made of carbon atoms, but their atoms are arranged differently — which is why one is hard enough to cut glass and the other leaves a streak on paper.
 
 ## Chemical Bonds
 
@@ -53,9 +55,11 @@ Some molecules are not compounds. Oxygen gas is made of molecules with two oxyge
 | Oxygen gas | O2 | Yes | No | Only oxygen atoms |
 | Nitrogen gas | N2 | Yes | No | Only nitrogen atoms |
 
+![Molecule vs compound](062_Molecule_02.png)
+
 ## Molecules of Elements
 
-Some elements naturally form molecules.
+Some elements naturally form molecules instead of floating as single atoms.
 
 - **Oxygen gas** — O2, two oxygen atoms per molecule
 - **Nitrogen gas** — N2, two nitrogen atoms per molecule
@@ -63,7 +67,9 @@ Some elements naturally form molecules.
 
 These are **molecules of elements**. Atoms are bonded together, but all atoms are the same element.
 
-The air you breathe is mostly nitrogen molecules (N2) and oxygen molecules (O2), not single atoms floating alone.
+A **diatomic molecule** is a molecule made of exactly two atoms. Oxygen (O2), nitrogen (N2), hydrogen (H2), fluorine (F2), and chlorine (Cl2) are important examples.
+
+The air you breathe is mostly nitrogen molecules (N2) and oxygen molecules (O2), not single atoms floating alone. Oxygen in the air is mostly O2 — paired atoms stable enough to be common in nature, which is why your cells can use oxygen from each breath.
 
 ## Molecules of Compounds
 
@@ -73,7 +79,7 @@ Examples include water, carbon dioxide, methane, ammonia, sugar, and the acetic 
 
 The atoms in each molecule are joined in a specific pattern. Water is not just any mixture of hydrogen and oxygen. A water molecule always has two hydrogen atoms bonded to one oxygen atom. That arrangement matters.
 
-## Chemical Formulas
+## Chemical Formulas and Subscripts
 
 A **chemical formula** is shorthand for what atoms are in a substance.
 
@@ -87,8 +93,6 @@ A **chemical formula** is shorthand for what atoms are in a substance.
 
 Chemical formulas are like compact recipes for molecules.
 
-## Subscripts
-
 In a chemical formula, small numbers called **subscripts** show how many atoms of an element are present.
 
 In H2O, the 2 belongs to hydrogen — two hydrogen atoms. O has no written subscript, which means one oxygen atom.
@@ -96,6 +100,8 @@ In H2O, the 2 belongs to hydrogen — two hydrogen atoms. O has no written subsc
 In CO2, the 2 belongs to oxygen — two oxygen atoms.
 
 Read subscripts carefully. **H2O** is water. **H2O2** is hydrogen peroxide — a completely different substance used in some cleaners. Small differences in formulas can mean large differences in properties.
+
+![Read the subscripts](062_Molecule_03.png)
 
 ## Molecular Shape
 
@@ -105,7 +111,9 @@ Molecules have shapes. Atoms are not usually lined up in a perfectly straight ro
 - Carbon dioxide molecules are **straight** (linear).
 - Methane molecules are shaped like a tiny pyramid.
 
-Shape matters because it affects how molecules attract one another, dissolve, react, smell, taste, and behave in living things. Molecules are too small to see with your eyes, but their shapes have large effects.
+Shape matters because it affects how molecules attract one another, dissolve, react, smell, taste, and behave in living things. Molecules are too small to see with your eyes, but their shapes have large effects — including why a tiny change in a smell molecule can make something smell like popcorn instead of rotten eggs.
+
+![Molecular shapes](062_Molecule_04.png)
 
 ## Covalent Bonds
 
@@ -115,6 +123,8 @@ In a water molecule, hydrogen and oxygen atoms share electrons. Sharing helps th
 
 Covalent bonds are common in molecules made from nonmetal elements such as hydrogen, oxygen, nitrogen, carbon, chlorine, and sulfur. Most molecules in living things contain covalent bonds.
 
+![Covalent bond — sharing electrons](062_Molecule_05.png)
+
 ## Ionic Compounds
 
 Not every substance made of joined atoms is best described as separate little molecules.
@@ -123,13 +133,7 @@ Table salt is made of sodium ions and chloride ions that attract each other beca
 
 For now, remember: **molecules** are groups of atoms bonded together, while some compounds like salt are made of repeating networks of ions.
 
-## Diatomic Molecules
-
-A **diatomic molecule** is a molecule made of exactly two atoms.
-
-Important examples include hydrogen (H2), nitrogen (N2), oxygen (O2), fluorine (F2), and chlorine (Cl2).
-
-Oxygen in the air is mostly O2. Nitrogen is mostly N2. These paired atoms are stable enough to be common in nature — which is why your cells can use oxygen from each breath.
+![Water molecule vs salt crystal lattice](062_Molecule_06.png)
 
 ## Attractions Between Molecules
 
@@ -145,7 +149,7 @@ Water is one of the most important molecular substances on Earth.
 
 Each water molecule has two hydrogen atoms bonded to one oxygen atom: **H2O**.
 
-Water molecules have a bent shape and uneven charge distribution, so they attract one another strongly. These attractions help give water its high surface tension, its ability to dissolve many substances, and its unusually high boiling point for such a small molecule.
+Water molecules have a bent shape and uneven charge distribution, so they attract one another strongly. These attractions help give water its high surface tension — the reason some insects can skate across a pond — its ability to dissolve many substances, and its unusually high boiling point for such a small molecule.
 
 Water molecules are small, but their behavior shapes oceans, weather, cells, rivers, clouds, and life.
 
@@ -154,6 +158,8 @@ Water molecules are small, but their behavior shapes oceans, weather, cells, riv
 **Oxygen gas** is made of O2 molecules — two oxygen atoms bonded together. Humans and many animals need oxygen for **respiration**, the process cells use to release energy from food. Oxygen also supports combustion, which is why pure oxygen tanks must be handled carefully around flames.
 
 **Carbon dioxide** (CO2) has one carbon atom and two oxygen atoms per molecule. It is produced when animals breathe out, when fuels burn, and when many living things decompose. Plants use carbon dioxide during photosynthesis. It can dissolve in water — which is why fizzy drinks bubble — and it is an important greenhouse gas in the atmosphere.
+
+Every breath you take connects you to the molecular world: oxygen in, carbon dioxide out.
 
 ## Sugar, Smell, and Taste
 
@@ -198,6 +204,8 @@ Heating generally makes molecules move faster. Cooling generally slows them down
 
 Molecular motion helps explain temperature, melting, freezing, evaporation, boiling, diffusion, and pressure.
 
+![Molecular motion in solids, liquids, and gases](062_Molecule_07.png)
+
 ## Changes of State
 
 Molecules help explain changes of state.
@@ -208,15 +216,13 @@ When water evaporates, some water molecules escape from the liquid surface into 
 
 In these **physical changes**, the molecules remain water molecules. The arrangement and motion change, but the chemical identity stays the same.
 
-## Chemical Reactions
+## Chemical Reactions and Conservation of Atoms
 
 In a **chemical reaction**, atoms are rearranged into new substances. Chemical bonds break and new bonds form.
 
 For example, hydrogen and oxygen can react to form water. Methane can burn in oxygen to form carbon dioxide and water. Vinegar and baking soda react to form new substances, including carbon dioxide gas.
 
 The atoms are not destroyed in ordinary chemical reactions. They are rearranged into different molecules or compounds.
-
-## Conservation of Atoms
 
 In ordinary chemical reactions, **atoms are conserved** — the same atoms present before the reaction are still present after, though joined in new ways.
 

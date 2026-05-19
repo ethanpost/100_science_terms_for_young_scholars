@@ -29,18 +29,19 @@ Students should be able to:
 9. A neutral atom has equal numbers of protons and electrons, so its positive and negative charges balance overall.
 10. An **ion** is an atom or group of atoms with an electric charge. Losing electrons makes it positively charged; gaining electrons makes it negatively charged.
 11. An **element** is a pure substance made of only one kind of atom.
-12. A **molecule** is a group of atoms joined together.
-13. In ionic bonding, electrons are transferred and oppositely charged ions attract. In covalent bonding, atoms share electrons.
-14. A **compound** is a pure substance made of two or more elements chemically joined in a fixed ratio. Examples may include water, carbon dioxide, or table salt (sodium chloride).
-15. Atomic models are useful because atoms are too small to see with ordinary tools, and models help explain evidence and predict behavior.
-16. Thomson discovered the electron.
-17. Rutherford's gold foil experiment showed that atoms have a tiny, dense, positively charged nucleus and that most of the atom is space around it.
-18. The modern model describes electrons in regions where they are likely to be found, not as tiny planets moving on neat circular tracks.
-19. Atoms help explain electric current because electrons can move through some materials, especially metals such as copper and aluminum.
-20. Different elements have different electron arrangements, so when their atoms gain and lose energy they can give off different colors of light — as in fireworks.
-21. A chemical change rearranges atoms and usually involves electrons and bonds. A nuclear change changes the nucleus itself.
-22. Answers may include not tasting unknown substances, not smelling chemicals directly, wearing goggles when required, not mixing chemicals without instruction, washing hands, treating powders and liquids carefully, following heat and glassware rules, disposing of materials properly, and not touching radioactive or unknown materials without supervision.
-23. Answers may vary. A strong answer should connect invisible atoms to visible objects and processes, such as rust on a bike, wires in electronics, breathing, food, materials, electricity, magnets, or fireworks colors.
+12. **Valence electrons** are the electrons farthest from the nucleus. They are involved in bonding and chemical reactions because atoms often change, share, or transfer them.
+13. A **molecule** is a group of atoms joined together.
+14. In ionic bonding, electrons are transferred and oppositely charged ions attract. In covalent bonding, atoms share electrons.
+15. A **compound** is a pure substance made of two or more elements chemically joined in a fixed ratio. Examples may include water, carbon dioxide, or table salt (sodium chloride).
+16. Atomic models are useful because atoms are too small to see with ordinary tools, and models help explain evidence and predict behavior.
+17. Thomson discovered the electron.
+18. Rutherford's gold foil experiment showed that atoms have a tiny, dense, positively charged nucleus and that most of the atom is space around it.
+19. The modern model describes electrons in regions where they are likely to be found, not as tiny planets moving on neat circular tracks.
+20. Atoms help explain electric current because electrons can move through some materials, especially metals such as copper and aluminum.
+21. Different elements have different electron arrangements, so when their atoms gain and lose energy they can give off different colors of light — as in fireworks.
+22. A chemical change rearranges atoms and usually involves electrons and bonds. A nuclear change changes the nucleus itself.
+23. Answers may include not tasting unknown substances, not smelling chemicals directly, wearing goggles when required, not mixing chemicals without instruction, washing hands, treating powders and liquids carefully, following heat and glassware rules, disposing of materials properly, and not touching radioactive or unknown materials without supervision.
+24. Answers may vary. A strong answer should connect invisible atoms to visible objects and processes, such as rust on a bike, wires in electronics, breathing, food, materials, electricity, magnets, or fireworks colors.
 
 ### Activity Suggestions
 

@@ -34,6 +34,8 @@ This even spreading is what makes a solution different from many other mixtures 
 | Colloid | Partly, tiny particles | Slowly or not | Milk, fog |
 | Suspension | No, larger particles | Often yes | Muddy water |
 
+![Solution vs colloid vs suspension](066_Solution_04.png)
+
 ## Homogeneous Means Same Throughout
 
 **Homogeneous** means the same throughout.
@@ -66,6 +68,8 @@ The **solvent** is the substance doing the dissolving.
 
 The solvent is usually the substance present in the larger amount.
 
+![Solute and solvent](066_Solution_02.png)
+
 ## Dissolving
 
 **Dissolving** happens when particles of a solute separate and spread evenly among particles of a solvent.
@@ -91,6 +95,8 @@ If carbon dioxide is dissolved in soda, it can bubble out when the bottle is ope
 **Dissolved** means spread out among solvent particles, not destroyed.
 
 That is why evaporation can recover salt from salt water — proof the salt was there all along.
+
+![Dissolved does not mean gone](066_Solution_03.png)
 
 ## Water as a Solvent
 
@@ -158,6 +164,8 @@ A **supersaturated** solution contains more dissolved solute than it normally sh
 
 If the temperature changes, the amount that can dissolve may change too.
 
+![Saturated vs unsaturated](066_Solution_05.png)
+
 ## Temperature and Solubility
 
 Temperature often affects solubility.
@@ -171,6 +179,8 @@ For gases, the pattern is often different.
 Gases often dissolve better in cold liquids than in warm liquids.
 
 Cold soda usually holds carbon dioxide better than warm soda. Warm soda goes flat faster.
+
+![Temperature and solubility — solids vs gases](066_Solution_06.png)
 
 ## What Affects How Fast Dissolving Happens
 
@@ -259,6 +269,8 @@ Evaporation can separate a dissolved solid from a liquid.
 If salt water is placed in a shallow dish, the water evaporates and salt crystals remain. This happens naturally in salt ponds along coasts.
 
 Evaporation is simple, but the solvent is lost into the air unless it is captured. It works because water changes to gas at ordinary temperatures while salt does not.
+
+![Separating solutions — evaporation and distillation](066_Solution_07.png)
 
 ### Distillation
 

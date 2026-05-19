@@ -42,6 +42,8 @@ Because the pattern repeats, the crystal may grow with flat faces and regular an
 
 The outside shape can give clues about the inside pattern.
 
+![Repeating pattern — floor tiles analogy](067_Crystal_02.png)
+
 ## Crystal Lattice and Unit Cell
 
 A **crystal lattice** is the regular three-dimensional arrangement of particles in a crystal.
@@ -58,6 +60,8 @@ Imagine a brick wall. One brick is not the whole wall, but repeating bricks make
 | **Unit cell** | The smallest repeating piece of the lattice | One tile that repeats |
 
 Unit cells are far too small to see with your eyes. Scientists use models, mathematics, and special instruments to study them. The unit cell helps explain why crystals often have predictable shapes and angles.
+
+![Crystal lattice and unit cell](067_Crystal_03.png)
 
 ### Examples of Different Lattices
 
@@ -97,6 +101,8 @@ Not all solids are crystals.
 Both are solids with definite shape and volume under ordinary conditions. The difference is how the particles are arranged — and that difference affects properties.
 
 Ordinary window glass is usually amorphous, not crystalline. That is a common point of confusion.
+
+![Crystalline vs amorphous solids](067_Crystal_04.png)
 
 ## Ions, Atoms, and Molecules in Crystals
 
@@ -154,6 +160,8 @@ Same element. Different crystal structure. Very different properties.
 
 That is one of the most important lessons in materials science: **arrangement matters**.
 
+![Diamond vs graphite — same element, different structure](067_Crystal_05.png)
+
 ## Snowflakes
 
 Snowflakes are ice crystals.
@@ -207,6 +215,8 @@ A **supersaturated solution** holds more dissolved solute than it normally shoul
 A **seed crystal** is a small crystal used to start or guide crystal growth. Particles from a solution attach to it. Rock candy often starts with sugar crystals on a string or stick. The seed gives dissolved particles a place to begin building the pattern.
 
 Without a seed, crystals can still form, but they may start in many places and grow smaller.
+
+![Seed crystals and crystal growth](067_Crystal_06.png)
 
 ### Cooling Speed and Crystal Size
 

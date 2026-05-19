@@ -86,6 +86,8 @@ Compounds form because atoms or ions bond. Two important kinds at this level:
 
 The kind of bond affects properties such as melting point, hardness, solubility, and whether the compound conducts electricity when melted or dissolved.
 
+![Ionic vs covalent bonding](064_Compound_02.png)
+
 ## Ionic Compounds
 
 An **ionic compound** is made of positive and negative **ions** held together by electric attraction.
@@ -120,6 +122,8 @@ But not every compound is best described as separate little molecules.
 
 Table salt is a compound made of a repeating pattern of sodium and chloride ions — not a bag of tiny NaCl molecules the way a bottle of water holds separate H2O molecules.
 
+![Molecules vs ionic crystal pattern](064_Compound_03.png)
+
 ## Chemical Formulas
 
 A **chemical formula** shows which elements are in a compound and how many atoms or ions are represented.
@@ -143,6 +147,8 @@ In **CO2**: C = carbon, O = oxygen, 2 = two oxygen atoms.
 In **C6H12O6**: 6 carbon, 12 hydrogen, 6 oxygen atoms per molecule.
 
 Formulas are one of chemistry's main languages — not just labels, but information about what is inside and in what ratio.
+
+![Reading chemical formulas](064_Compound_04.png)
 
 ## Properties of Compounds
 
@@ -236,6 +242,8 @@ Compounds form and change in **chemical reactions**. Bonds break and new bonds f
 
 Chemical reactions are how many compounds are made, changed, and broken apart.
 
+![Chemical reaction — atoms rearrange](064_Compound_06.png)
+
 ## Breaking Compounds Apart
 
 Compounds break into simpler substances by **chemical** means — not by simple filtering, sorting, or evaporation alone.
@@ -243,6 +251,8 @@ Compounds break into simpler substances by **chemical** means — not by simple 
 Water can be split into hydrogen and oxygen using electricity (**electrolysis**). Those physical methods work well for many **mixtures**, but separating a **compound** into its elements usually requires chemical change.
 
 That difference is one of the most important ideas in chemistry.
+
+![Separating mixtures vs breaking compounds](064_Compound_05.png)
 
 ## Conservation of Atoms
 

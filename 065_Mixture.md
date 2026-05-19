@@ -47,6 +47,8 @@ Air is a mixture of gases. Nitrogen, oxygen, argon, carbon dioxide, and water va
 
 **Physically combined** is the opposite of **chemically joined**. Remember that phrase — it is the key to telling mixtures apart from compounds.
 
+![Physically combined — salt can be recovered](065_Mixture_02.png)
+
 ## Mixtures and Compounds
 
 A mixture is different from a **compound**.
@@ -121,6 +123,8 @@ A **colloid** has particles spread throughout another substance, but the particl
 
 The next chapter on **solutions** goes deeper into dissolving, concentration, and why "dissolved" does not mean "gone."
 
+![Solution, colloid, and suspension](065_Mixture_03.png)
+
 ## Alloys — Designed Mixtures
 
 An **alloy** is a mixture of a metal with one or more other elements.
@@ -131,6 +135,8 @@ Alloys are mixtures, not compounds, because their composition can vary. Differen
 
 Alloys show that mixtures are not just random piles. They can be carefully designed.
 
+![Alloy — designed metal mixture](065_Mixture_04.png)
+
 ## Mixtures You Meet Every Day
 
 ### Air
@@ -138,6 +144,8 @@ Alloys show that mixtures are not just random piles. They can be carefully desig
 Air is a mixture of gases. Dry air near Earth's surface is mostly nitrogen and oxygen, with argon, carbon dioxide, and small amounts of other gases. It can also hold water vapor, dust, pollen, smoke, and tiny droplets.
 
 Humid air has more water vapor than dry air. Polluted air has more unwanted particles or gases. The composition changes from place to place and time to time. Air is not empty space, and it is not a single compound.
+
+![Air is a mixture of gases](065_Mixture_07.png)
 
 ### Soil
 
@@ -179,6 +187,8 @@ Mixtures can often be separated by **physical methods** — without breaking che
 **Chromatography** separates mixture parts as they move through a material at different speeds. Paper chromatography with washable marker ink on filter paper can show that black or purple ink is itself a mixture of several dyes. Chromatography is used in chemistry, medicine, food testing, and forensic science.
 
 A fourth common mistake: thinking every mixture separates the same way. Match the method to the property — size, magnetism, solubility, boiling point, settling, or movement through a material.
+
+![Separating mixtures — match the method](065_Mixture_05.png)
 
 ## Mixtures in Cooking, Medicine, and the Environment
 
@@ -226,6 +236,8 @@ Good safety habits include:
 - Follow teacher instructions for disposal.
 
 Mixtures can contain safe substances, harmful substances, or substances that become dangerous when combined. Treat unknown mixtures as unsafe until an adult says otherwise.
+
+![Mixture safety](065_Mixture_06.png)
 
 ## The Big Idea
 

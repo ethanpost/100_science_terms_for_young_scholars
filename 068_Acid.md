@@ -38,6 +38,8 @@ For this chapter, remember:
 
 **Acids increase hydrogen ions in water and can donate protons in reactions.**
 
+![Proton donor in water](068_Acid_02.png)
+
 ## Sour Taste
 
 Many weak acids taste sour.
@@ -87,6 +89,8 @@ Hydrochloric acid is a strong acid. Acetic acid in vinegar is a weak acid.
 
 A weak acid can be concentrated. A strong acid can be diluted.
 
+![Strong vs weak vs concentrated vs dilute](068_Acid_03.png)
+
 ## Concentrated and Dilute Acids
 
 A **concentrated** acid solution has a lot of acid dissolved in it.
@@ -123,6 +127,8 @@ A change of **1 pH unit** represents a **tenfold** change in acidity.
 - pH 2 is one hundred times more acidic than pH 4
 
 You do not need advanced mathematics yet. Just remember: **small pH number changes can mean large acidity changes.**
+
+![pH is logarithmic — tenfold change](068_Acid_04.png)
 
 ## Indicators
 
@@ -164,6 +170,8 @@ Not all metals react the same way. Gold is very unreactive with most acids. Magn
 
 Acid-metal reactions can produce **flammable hydrogen gas**, so they require careful safety controls. This is not a casual garage experiment.
 
+![Acid reacting with metal](068_Acid_05.png)
+
 ## Acids and Carbonates
 
 Acids react with **carbonates** to produce **carbon dioxide gas**.
@@ -189,6 +197,8 @@ Many neutralization reactions produce water and a **salt**.
 For example, hydrochloric acid and sodium hydroxide can react to form water and sodium chloride.
 
 Neutralization matters in medicine, agriculture, cleaning, and environmental protection.
+
+![Neutralization — acid and base](068_Acid_06.png)
 
 ## Salts
 
@@ -295,6 +305,8 @@ In professional laboratories, the rule is:
 Mixing acid and water can release heat. If water is poured into concentrated acid, it may splash dangerously.
 
 Students should not dilute strong acids themselves. This rule is here so you understand why trained adults follow careful procedures.
+
+![Add acid to water, not water to acid](068_Acid_07.png)
 
 ## Common Misconceptions
 

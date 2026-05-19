@@ -2,7 +2,7 @@
 
 ![Atom](061_Atom_01.png)
 
-Snap a pencil lead. Crush a piece of chalk. Scratch rust off a bike chain. Every one of those actions breaks matter into smaller pieces — but only down to a point.
+Snap a pencil lead until it crumbles. Scratch gray streaks onto paper. Chip rust off a bike chain with a wire brush. Every one of those actions breaks matter into smaller pieces — but only down to a point.
 
 If you could keep dividing and dividing, you would eventually reach particles too tiny to see with any ordinary microscope.
 
@@ -10,7 +10,7 @@ Those particles are **atoms**.
 
 **An atom is one of the tiny building blocks of matter.**
 
-Atoms are so small that millions of them could fit across the head of a pin. Yet atoms make up the aluminum in a bat, the carbon in a campfire, the iron in your blood, the copper in headphone wires, the oxygen you breathe, the sodium in sports drinks, and the silicon in computer chips.
+Atoms are so small that millions of them could fit across the head of a pin. Yet atoms make up the aluminum in a bat, the carbon in a campfire, the iron in your blood, the copper in headphone wires, the oxygen you breathe, the sodium in sports drinks, and the silicon in the chips inside a game controller.
 
 To understand matter, chemistry, electricity, heat, light, life, and materials, you must understand atoms.
 
@@ -38,7 +38,9 @@ This does not mean matter is empty in the ordinary sense. The forces between par
 
 The smallness of atoms is one reason science is so remarkable. We cannot see individual atoms with our eyes, but we can understand them through evidence, experiments, and models.
 
-## Parts of an Atom
+![Atom size — stadium analogy](061_Atom_02.png)
+
+## Inside an Atom
 
 Atoms are made of smaller particles.
 
@@ -51,6 +53,8 @@ The three main subatomic particles for this chapter are:
 Protons and neutrons are found in the **nucleus**, the tiny, dense center of the atom. Electrons are found outside the nucleus.
 
 Almost all the mass of an atom is in the nucleus. The nucleus is very small compared with the whole atom, but it is extremely important. The number of protons in the nucleus determines what **element** the atom is.
+
+![Parts of an atom](061_Atom_03.png)
 
 ## Protons and Atomic Number
 
@@ -74,7 +78,7 @@ No two different elements have the same atomic number.
 
 Protons help give the nucleus its positive charge. Because protons are positive and electrons are negative, they attract each other by electric force.
 
-## Neutrons
+## Neutrons and Isotopes
 
 A **neutron** is a particle in the nucleus with no electric charge.
 
@@ -83,37 +87,6 @@ Neutrons add mass to the atom and help stabilize many nuclei.
 Atoms of the same element can have different numbers of neutrons. These forms are called **isotopes**.
 
 For example, most carbon atoms have 6 neutrons, but some carbon atoms have 7 or 8 neutrons. They are still carbon because they still have 6 protons.
-
-## Electrons
-
-An **electron** is a negatively charged particle found outside the nucleus.
-
-Electrons are much less massive than protons or neutrons. They are important because they help determine how atoms bond, react, conduct electricity, and form materials.
-
-In a **neutral atom**, the number of electrons equals the number of protons. A neutral carbon atom with 6 protons has 6 electrons. A neutral oxygen atom with 8 protons has 8 electrons.
-
-**Neutral does not mean the atom has no charges.** It means the positive and negative charges balance overall.
-
-## Ions
-
-If an atom gains or loses electrons, it becomes an **ion** — an atom or group of atoms with an electric charge.
-
-- Lose electrons → more protons than electrons → **positively charged**
-- Gain electrons → more electrons than protons → **negatively charged**
-
-For example, a sodium atom can lose one electron and become a positive sodium ion. A chlorine atom can gain one electron and become a negative chloride ion. Oppositely charged ions can attract each other and form compounds such as table salt.
-
-Ions connect directly to static electricity and many chemical reactions you will study later.
-
-## Elements
-
-An **element** is a pure substance made of only one kind of atom.
-
-Oxygen, carbon, iron, and gold are all elements. Each element is defined by its number of protons.
-
-The **periodic table** organizes the elements by atomic number and properties. When you learn about atoms, you are learning the alphabet of matter. Elements are like the letters. Compounds and materials are like words and stories made from those letters.
-
-## Mass Number and Isotopes
 
 The **mass number** is the total number of protons and neutrons in an atom's nucleus.
 
@@ -128,6 +101,35 @@ Both are carbon atoms because both have 6 protons. They are different **isotopes
 
 Carbon-14 has 6 protons and 8 neutrons. Some isotopes are stable. Others are **radioactive**, meaning their nuclei can change and release radiation. Scientists use isotopes in medicine, archaeology, energy, and research — including dating ancient objects and tracing substances inside the body.
 
+## Electrons, Neutrality, and Ions
+
+An **electron** is a negatively charged particle found outside the nucleus.
+
+Electrons are much less massive than protons or neutrons. They are important because they help determine how atoms bond, react, conduct electricity, and form materials.
+
+In a **neutral atom**, the number of electrons equals the number of protons. A neutral carbon atom with 6 protons has 6 electrons. A neutral oxygen atom with 8 protons has 8 electrons.
+
+**Neutral does not mean the atom has no charges.** It means the positive and negative charges balance overall.
+
+If an atom gains or loses electrons, it becomes an **ion** — an atom or group of atoms with an electric charge.
+
+- Lose electrons → more protons than electrons → **positively charged**
+- Gain electrons → more electrons than protons → **negatively charged**
+
+For example, a sodium atom can lose one electron and become a positive sodium ion. A chlorine atom can gain one electron and become a negative chloride ion. Oppositely charged ions can attract each other and form compounds such as table salt.
+
+Ions connect directly to static electricity and many chemical reactions you will study later.
+
+![Neutral atom vs ion](061_Atom_04.png)
+
+## Elements
+
+An **element** is a pure substance made of only one kind of atom.
+
+Oxygen, carbon, iron, and gold are all elements. Each element is defined by its number of protons.
+
+The **periodic table** organizes the elements by atomic number and properties. When you learn about atoms, you are learning the alphabet of matter. Elements are like the letters. Compounds and materials are like words and stories made from those letters.
+
 ## Electrons Around the Nucleus
 
 Electrons are found outside the nucleus in regions often called **shells** or **energy levels**.
@@ -136,17 +138,13 @@ An **energy level** is a region around the nucleus where electrons may be found 
 
 Older diagrams often draw electrons like tiny planets orbiting the nucleus. These pictures are useful for beginners, but real electrons do not move exactly like planets. Modern science describes electrons using **clouds of probability** — regions where electrons are likely to be found.
 
-For this chapter, the important idea is that electrons occupy regions around the nucleus and their arrangement helps determine how atoms behave.
-
-## Valence Electrons
-
 The electrons farthest from the nucleus are especially important. These are called **valence electrons**.
 
 Valence electrons are involved in bonding and chemical reactions. Atoms often react in ways that change, share, or transfer valence electrons.
 
 For example, sodium and chlorine can form salt because sodium tends to lose one electron and chlorine tends to gain one electron. The arrangement of valence electrons helps explain why some elements are very reactive — like sodium — and others are not — like gold.
 
-## Molecules and Chemical Bonds
+## Molecules, Bonds, and Compounds
 
 A **molecule** is a group of atoms joined together.
 
@@ -163,8 +161,6 @@ Two important kinds of bonding are:
 
 Chemical bonds explain why atoms stay together in compounds and molecules.
 
-## Compounds
-
 A **compound** is a pure substance made of two or more elements chemically joined in a fixed ratio.
 
 Water is a compound made of hydrogen and oxygen. Carbon dioxide is a compound made of carbon and oxygen. Table salt is a compound made of sodium and chlorine.
@@ -173,7 +169,9 @@ Compounds can have properties very different from the elements that make them. S
 
 Atoms can become something surprisingly different when they combine.
 
-## Atomic Models
+![Molecules and compounds](061_Atom_05.png)
+
+## How Scientists Picture Atoms
 
 An **atomic model** is a simplified picture or idea used to explain atoms.
 
@@ -181,41 +179,25 @@ Because atoms are too small to see directly with ordinary tools, scientists use 
 
 Scientific models change when new evidence is found. The history of the atom is a story of better and better models.
 
-### Dalton's Atomic Theory
+**John Dalton** (early 1800s) proposed that matter is made of atoms and that atoms of different elements are different. He did not know about protons, neutrons, and electrons, but his ideas helped explain why substances combine in fixed proportions.
 
-In the early 1800s, John Dalton helped develop an important atomic theory. Dalton proposed that matter is made of atoms and that atoms of different elements are different. His ideas helped explain chemical reactions and why substances combine in fixed proportions.
+**J. J. Thomson** (late 1800s) discovered the electron. This showed that atoms were not solid, indivisible balls. Atoms had smaller parts.
 
-Dalton did not know about protons, neutrons, and electrons. Those discoveries came later. Even so, his work was a major step toward modern chemistry.
+**Ernest Rutherford** shot tiny positive particles at thin gold foil. Most passed through, but a few bounced back sharply. His team concluded that atoms have a tiny, dense, positively charged nucleus. Most of the atom is space around that nucleus.
 
-### Thomson and the Electron
+**Niels Bohr** proposed that electrons occupy certain energy levels around the nucleus. Bohr diagrams — electrons drawn on rings around the nucleus — are still useful for learning simple atoms.
 
-J. J. Thomson discovered the electron in the late 1800s. This showed that atoms were not solid, indivisible balls. Atoms had smaller parts.
-
-Thomson knew electrons were negatively charged, so he proposed a model with electrons inside a positively charged material. His model was later replaced, but discovering the electron was a huge breakthrough. It opened the door to understanding electricity, ions, bonding, and atomic structure.
-
-### Rutherford and the Nucleus
-
-Ernest Rutherford and his students performed a famous experiment using thin gold foil. They shot tiny positive particles at the foil. Most passed through, but a few bounced back or changed direction sharply.
-
-This surprised scientists. Rutherford concluded that atoms have a tiny, dense, positively charged nucleus. Most of the atom is space around that nucleus. This experiment changed the model of the atom.
-
-### Bohr's Model
-
-Niels Bohr proposed a model in which electrons occupy certain energy levels around the nucleus. Bohr's model helped explain why atoms absorb and give off specific colors of light.
-
-You may see Bohr diagrams in school, with electrons drawn on rings around the nucleus. These diagrams are useful for learning, especially for simple atoms. Modern atomic theory is more complex, but Bohr's model remains a helpful stepping stone.
-
-### The Modern Atomic Model
-
-The modern atomic model does not show electrons as tiny planets on neat circular tracks. Instead, electrons are described by regions where they are likely to be found — sometimes called electron clouds or **orbitals**.
-
-This model is based on **quantum mechanics**, a branch of physics that studies very small particles. You do not need all the advanced mathematics now.
+The **modern atomic model** describes electrons in regions where they are likely to be found — sometimes called electron clouds or **orbitals**. This model is based on **quantum mechanics**, a branch of physics that studies very small particles. You do not need all the advanced mathematics now.
 
 The important point is this:
 
 **Atoms have a tiny nucleus with protons and neutrons, and electrons occupy regions around it.**
 
-## Atoms and Electricity
+![Atomic models through history](061_Atom_06.png)
+
+## Atoms in the World You Use
+
+### Electricity
 
 Atoms help explain electricity — a topic you have already begun studying.
 
@@ -223,9 +205,7 @@ Electrons have negative charge and can move more easily in some materials than i
 
 Static electricity often happens when electrons transfer from one object to another. Electric current in wires is usually the movement of electrons through a conductor.
 
-Understanding atoms helps explain why electricity works.
-
-## Atoms and Magnetism
+### Magnetism
 
 Atoms also help explain magnetism.
 
@@ -233,7 +213,7 @@ Electrons are connected to tiny magnetic effects. In most materials, these effec
 
 This connects the atom chapter to magnetism and electromagnets. The behavior of tiny particles can create forces large enough to lift paper clips, run motors, and guide compasses.
 
-## Atoms and Light
+### Light and Fireworks
 
 Atoms can absorb and give off light.
 
@@ -241,9 +221,9 @@ When electrons in atoms gain energy, they may move to higher energy levels. When
 
 Different elements give off different patterns of light. Scientists can study these patterns to identify elements in stars, lamps, flames, and distant gases. That is one way we know what the Sun and stars are made of, even though we cannot scoop up a piece of them.
 
-Fireworks use this idea. Different metal atoms in the powder produce different colors when heated.
+Fireworks use this idea. Different metal atoms in the powder produce different colors when heated — strontium for red, copper for blue, sodium for yellow.
 
-## Atoms in Living Things
+### Living Things
 
 Living things are made of atoms.
 
@@ -251,7 +231,7 @@ Your body contains mostly oxygen, carbon, hydrogen, nitrogen, calcium, and phosp
 
 Life depends not on special "living atoms," but on ordinary atoms arranged in extraordinarily organized ways. Chemistry is one of the bridges between matter and life.
 
-## Atoms Are Conserved in Chemical Changes
+### Atoms Are Conserved
 
 In ordinary chemical reactions, atoms are rearranged. They are not created or destroyed.
 
@@ -259,7 +239,7 @@ When hydrogen burns in oxygen to form water, hydrogen atoms and oxygen atoms are
 
 This helps explain the **conservation of matter**. The atoms present before a chemical reaction are still present after the reaction, but they may be joined in new ways.
 
-## Atoms and Nuclear Changes
+### Nuclear Changes
 
 Most chemistry deals with electrons and chemical bonds. The nucleus usually stays the same during ordinary chemical changes.
 
@@ -329,15 +309,16 @@ If you remember only one sentence, remember this:
 9. What does it mean for an atom to be neutral?
 10. What is an ion? What happens when an atom loses electrons? Gains electrons?
 11. What is an element?
-12. What is a molecule?
-13. What is the difference between ionic bonding and covalent bonding?
-14. What is a compound? Give one example.
-15. Why are atomic models useful?
-16. What did Thomson discover?
-17. What did Rutherford's gold foil experiment show?
-18. How is the modern atomic model different from simple planet-like pictures?
-19. How do atoms help explain electric current in metals?
-20. How do atoms help explain why different elements produce different colors in fireworks?
-21. What is the difference between a chemical change and a nuclear change?
-22. What are three safety rules for studying substances and atomic ideas in the classroom?
-23. In your own words, explain why learning about atoms helps you understand things you can actually see and use.
+12. What are valence electrons, and why do they matter?
+13. What is a molecule?
+14. What is the difference between ionic bonding and covalent bonding?
+15. What is a compound? Give one example.
+16. Why are atomic models useful?
+17. What did Thomson discover?
+18. What did Rutherford's gold foil experiment show?
+19. How is the modern atomic model different from simple planet-like pictures?
+20. How do atoms help explain electric current in metals?
+21. How do atoms help explain why different elements produce different colors in fireworks?
+22. What is the difference between a chemical change and a nuclear change?
+23. What are three safety rules for studying substances and atomic ideas in the classroom?
+24. In your own words, explain why learning about atoms helps you understand things you can actually see and use.
