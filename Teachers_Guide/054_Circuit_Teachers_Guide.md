@@ -85,3 +85,6 @@ Students should be able to:
 - Teach series and parallel with physical circuits before moving to diagrams.
 - Watch carefully for accidental short circuits; batteries and wires can heat quickly.
 - Connect circuit troubleshooting to careful scientific reasoning: change one thing, observe, then decide.
+- Use the water-hose analogy for Ohm's law only as a memory aid; remind students that electricity and water are not the same substance.
+- Relate circuits to familiar devices (game controllers, bike lights, phones) so the topic feels practical rather than abstract.
+- Chapter images (`054_Circuit_02.png` through `054_Circuit_09.png`) support open/closed paths, parts, conductors/insulators, schematics, series, parallel, and V = I × R.

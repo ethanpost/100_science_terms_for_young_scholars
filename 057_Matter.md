@@ -2,15 +2,15 @@
 
 ![Matter](057_Matter_01.png)
 
-You pump air into a bicycle tire until it feels firm. You bite into a slice of pizza. You watch steam rise from a bowl of soup. You toss a baseball across the yard. You breathe in and out without thinking about it.
+Pump air into a bicycle tire until it feels rock-hard. Bite into a slice of pizza still hot from the oven. Watch steam curl off a bowl of soup. Toss a baseball across the yard and feel it smack into your glove. Breathe in after sprinting up the stairs.
 
 Every one of those moments involves the same basic idea.
 
 **Matter is anything that has mass and takes up space.**
 
-Matter is the stuff of the physical world. Your desk, shoes, water bottle, lunch, and even the air in your lungs are matter. Some matter is hard, like a rock. Some flows, like water. Some spreads out invisibly, like air. Some is living, like muscle. Some is not living, like glass.
+Matter is the stuff of the physical world. Your desk, shoes, water bottle, lunch, the rubber on your skateboard wheels, and even the air in your lungs are matter. Some matter is hard, like a rock. Some flows, like water. Some spreads out invisibly, like air. Some is living, like muscle. Some is not living, like glass.
 
-If you want to understand chemistry, cooking, weather, machines, medicine, and living things, you must first understand matter.
+If you want to understand chemistry, cooking, weather, machines, medicine, sports equipment, and living things, you must first understand matter.
 
 ## Mass and Space
 
@@ -28,6 +28,12 @@ A brick has mass and takes up space. A cup of water does too. So does the air in
 
 Light is not matter. It is energy. It can travel through space, but it does not have mass in the ordinary way that a stone, book, or puff of air does.
 
+The important point is this:
+
+**If it has mass and takes up space, it is matter.**
+
+![Mass and volume](057_Matter_02.png)
+
 ## Matter Is Made of Particles
 
 Matter may look smooth and solid, but it is made of tiny particles far too small to see with your eyes.
@@ -39,6 +45,8 @@ An **atom** is one of the tiny building blocks of matter.
 A **molecule** is a group of atoms joined together.
 
 Water is made of water molecules. Each water molecule contains atoms of hydrogen and oxygen. The chair you sit on, the air you breathe, and the food you eat are all made of particles arranged in different ways.
+
+![Atoms and molecules](057_Matter_03.png)
 
 ## Atoms
 
@@ -84,6 +92,8 @@ In a liquid, particles are close together but can slide past one another.
 In a gas, particles are far apart and move freely.
 
 The same substance can often change from one state to another. Ice, liquid water, and steam are all water — just in different states.
+
+![Particle arrangement in solids, liquids, and gases](057_Matter_04.png)
 
 ## Solids
 
@@ -137,6 +147,8 @@ Common changes of state include:
 Ice melting into water is a change of state. Water freezing into ice is too. Water vapor condensing on a cold glass is another example.
 
 In these changes, the substance may stay the same kind of matter, but its particles move and arrange themselves differently.
+
+![Changes of state](057_Matter_05.png)
 
 ## Physical Properties
 
@@ -195,8 +207,8 @@ A **chemical change** forms one or more new substances.
 
 Examples include:
 
-- Burning wood
-- Rusting iron
+- Burning wood in a campfire
+- Rusting iron on an old bike chain
 - Baking a cake
 - Cooking an egg
 - Digesting food
@@ -206,6 +218,8 @@ Examples include:
 Signs of a chemical change may include color change, gas formation, heat or light production, odor change, or formation of a solid from liquids.
 
 These signs are clues, not perfect proof by themselves. Boiling water makes bubbles, but that is not a chemical change. The bubbles are water vapor, not a new substance.
+
+![Physical change vs chemical change](057_Matter_06.png)
 
 ## Pure Substances
 
@@ -245,6 +259,8 @@ Salt water is a solution. The salt dissolves in the water and spreads evenly thr
 
 In a solution, the parts may be so evenly mixed that you cannot see them separately. That does not mean the parts vanished. They are still present, just spread out at the particle level.
 
+![Elements, compounds, and mixtures](057_Matter_07.png)
+
 ## Density
 
 **Density** is how much mass is packed into a certain volume.
@@ -254,6 +270,8 @@ Density helps explain why some objects float and others sink.
 A steel nail sinks in water because it is denser than water. A piece of cork floats because it is less dense than water.
 
 Density is not the same as weight. A small piece of lead may weigh less than a large log, but lead is denser because more mass is packed into each unit of volume.
+
+![Density and floating](057_Matter_08.png)
 
 ## Measuring Matter
 
@@ -277,6 +295,8 @@ When wood burns, it may seem to vanish. But the matter becomes gases, ash, smoke
 
 When ice melts, the water is still there. When sugar dissolves, the sugar particles spread through the water. The form changes, but the matter remains.
 
+![Conservation of matter](057_Matter_09.png)
+
 ## Matter and Energy
 
 Matter and energy are related, but they are not the same idea.
@@ -285,29 +305,15 @@ Matter has mass and takes up space. **Energy** is the ability to do work or caus
 
 A hot cup of cocoa contains matter, and it also has thermal energy. A moving baseball is matter, and it also has kinetic energy. Matter can store, transfer, and transform energy, but matter itself is the stuff that has mass and volume.
 
-## Living and Nonliving Matter
+## Matter Everywhere You Look
 
 Living things are made of matter. Plants, animals, fungi, and bacteria are made of atoms and molecules. Your body contains water, proteins, fats, minerals, sugars, salts, and many other kinds of matter.
 
-Nonliving things are also made of matter. Rocks, rivers, clouds, soil, air, metals, and glass are matter. Living matter is organized in special ways that allow life processes, but it is still matter.
+Nonliving things are also made of matter. Rocks, rivers, clouds, soil, air, metals, and glass are matter.
 
-## Matter in the Air
+Air may seem like empty space, but it is matter. Air has mass. Air takes up space. Air can push, flow, heat, cool, and carry water vapor. You can feel moving air as wind. You can see evidence of air when it inflates a balloon. Weigh a ball before and after pumping it with air, and the pumped ball has slightly more mass.
 
-Air may seem like empty space, but it is matter. Air has mass. Air takes up space. Air can push, flow, heat, cool, and carry water vapor.
-
-You can feel moving air as wind. You can see evidence of air when it inflates a balloon. You can weigh a ball before and after pumping it with air and find that the pumped ball has slightly more mass.
-
-Air matters, even when it is invisible.
-
-## Matter at Different Scales
-
-Matter can be studied at many scales.
-
-At the large scale, you can study mountains, oceans, buildings, and planets.
-
-At the everyday scale, you can study cups, coins, food, and tools.
-
-At the tiny scale, you can study grains of salt, drops of water, dust, cells, atoms, and molecules.
+Matter can be studied at many scales. At the large scale, you can study mountains, oceans, buildings, and planets. At the everyday scale, you can study cups, coins, food, and tools. At the tiny scale, you can study grains of salt, drops of water, dust, cells, atoms, and molecules.
 
 A glass of water is a liquid you can drink. It is also a collection of countless water molecules moving and sliding past one another. Good science often connects what you can see with what is happening too small to see.
 
@@ -315,7 +321,7 @@ A glass of water is a liquid you can drink. It is also a collection of countless
 
 Understanding matter helps explain much of daily life.
 
-It explains why ice floats, why metal pans heat well, why balloons expand, why bread rises, why rust forms, why smoke spreads, why salt dissolves, and why some materials are better for building than others.
+It explains why ice floats, why metal pans heat well, why balloons expand, why bread rises, why rust forms on an old wrench, why smoke spreads, why salt dissolves, and why some materials are better for building than others.
 
 Engineers choose materials based on their properties. Doctors study matter in the body. Chemists study how matter changes. Cooks use changes in matter every time they heat, cool, mix, dissolve, freeze, melt, bake, or burn something.
 

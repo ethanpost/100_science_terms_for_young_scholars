@@ -35,6 +35,8 @@ A positive charge and a negative charge attract each other.
 
 This rule is at the heart of static electricity.
 
+![Like charges repel, opposite charges attract](050_Static_electricity_02.png)
+
 ## Atoms and Charge
 
 Everything around you is made of atoms.
@@ -54,6 +56,8 @@ Most atoms normally have equal numbers of protons and electrons, so their positi
 An object with balanced positive and negative charges is **neutral**.
 
 Neutral does not mean it has no charges. It means the charges balance overall.
+
+![Inside an atom](050_Static_electricity_03.png)
 
 ## Electrons Move More Easily
 
@@ -85,6 +89,8 @@ Current electricity is moving charge.
 
 They are related, but they are not the same thing.
 
+![Static vs current electricity](050_Static_electricity_04.png)
+
 ## Charging by Friction
 
 One common way to make static electricity is **charging by friction**.
@@ -98,6 +104,8 @@ The rubbing does not create charge from nothing. It separates charge that was al
 After rubbing, the balloon and the cloth may have opposite charges.
 
 That is why a balloon can attract hair, paper bits, or a wall.
+
+![Charging by friction](050_Static_electricity_05.png)
 
 ## Charging by Contact
 
@@ -128,6 +136,8 @@ The positive side of the wall attracts the negative balloon.
 That is why the balloon can stick to the wall even though the wall was neutral overall.
 
 Induction is charge rearrangement caused by a nearby charged object.
+
+![Charging by induction](050_Static_electricity_06.png)
 
 ## Polarization
 
@@ -219,6 +229,8 @@ It is extremely hot and dangerous.
 
 Thunder is the sound made when lightning rapidly heats air, causing it to expand explosively.
 
+![Lightning is a giant spark](050_Static_electricity_07.png)
+
 ## Static Cling
 
 Static electricity explains static cling in clothes.
@@ -244,6 +256,8 @@ That repulsion makes the hairs spread apart and stand up.
 This is often shown with a Van de Graaff generator, a device that can build up large static charges.
 
 Such demonstrations should only be done with proper equipment and adult supervision.
+
+![Hair standing up](050_Static_electricity_08.png)
 
 ## Why Dry Days Are Sparky
 

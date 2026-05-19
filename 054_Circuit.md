@@ -2,13 +2,15 @@
 
 ![Circuit](054_Circuit_01.png)
 
-Imagine a toy train track with one missing piece. The engine may be ready, the cars may be lined up, and the power may be on, but the train cannot make a complete trip around the track.
+You flip a switch on a desk lamp and the bulb glows. You press a button on a game controller and a character jumps on screen. You plug in a phone charger and the battery icon climbs. You tap a bike light and a bright LED flashes on.
 
-An electric circuit works in a similar way.
+None of that happens by magic.
+
+Inside each device, electric charge travels along a hidden path. If that path is complete, current flows and the device works. If the path is broken, nothing useful happens—no matter how new the battery looks.
 
 **A circuit is a complete path through which electric current can flow.**
 
-Circuits are hidden inside flashlights, phones, computers, doorbells, lamps, cars, radios, watches, refrigerators, robots, and nearly every electrical device. A circuit may be simple enough to build on a desk or tiny enough to fit millions of parts inside a computer chip.
+Circuits are everywhere: flashlights, phones, computers, doorbells, gaming consoles, RC cars, bike lights, watches, refrigerators, robots, and car electrical systems. Some circuits fit on a desk with a few parts. Others pack millions of tiny parts onto a single computer chip.
 
 To understand circuits, we must begin with current.
 
@@ -16,15 +18,17 @@ To understand circuits, we must begin with current.
 
 **Electric current is the flow of electric charge.**
 
-For current to flow steadily, charge needs a complete conducting path. If there is a gap in the path, the current stops.
+For current to flow steadily, charge needs a complete conducting path. If there is a gap anywhere, the current stops.
 
-This is why a flashlight does not work if one battery is facing the wrong way, a wire is loose, or the switch is off.
+That is why a flashlight stays dark when a battery is backward, a wire is loose, or the switch is off.
 
-The battery may still have energy. The bulb may still be good. But without a complete path, the circuit cannot do its job.
+The battery may still hold energy. The bulb may still be good. But without a complete path, the circuit cannot do its job.
 
 The most important rule is simple:
 
 **No complete path, no steady current.**
+
+![Complete path vs broken path](054_Circuit_02.png)
 
 ## Parts of a Simple Circuit
 
@@ -39,6 +43,8 @@ It needs a **load**, which is a device that uses electrical energy.
 It may also have a **switch** to control the circuit.
 
 For example, a simple flashlight circuit includes batteries, metal conductors, a switch, and a bulb or LED. When the switch closes the path, current flows and the light turns on.
+
+![Parts of a simple circuit](054_Circuit_03.png)
 
 ## The Source
 
@@ -56,7 +62,7 @@ The source does not create electrons from nothing. The circuit materials already
 
 A **conductor** is a material that allows electric charge to move easily.
 
-Most circuit wires are made of metal. Copper is especially common because it conducts well, bends easily, and is not as expensive as silver.
+Most circuit wires are made of metal. Copper is especially common because it conducts well, bends easily, and costs less than silver.
 
 Common conductors include:
 
@@ -91,6 +97,8 @@ Good circuits use conductors and insulators together.
 Conductors guide the current.
 
 Insulators guard the current.
+
+![Conductors and insulators](054_Circuit_04.png)
 
 ## The Load
 
@@ -135,6 +143,8 @@ A broken wire, loose battery, burned-out bulb, or disconnected plug can also cre
 
 Open circuits are not always bad. A switch safely opens a circuit on purpose.
 
+![Open circuit vs closed circuit](054_Circuit_05.png)
+
 ## Circuit Diagrams
 
 Scientists, electricians, and engineers often draw circuits using diagrams.
@@ -159,6 +169,8 @@ Schematics help people focus on how the circuit works.
 
 Engineers use schematics to design, build, repair, and explain circuits.
 
+![Circuit symbols and schematic](054_Circuit_06.png)
+
 ## Series Circuits
 
 A **series circuit** has only one path for current.
@@ -172,6 +184,8 @@ In a simple series circuit with two bulbs, current must pass through the first b
 If one bulb is removed or fails, the path is broken and both bulbs go out.
 
 Adding more loads in series usually increases the total resistance. With the same battery, this often makes the current smaller and the bulbs dimmer.
+
+![Series circuit](054_Circuit_07.png)
 
 ## Parallel Circuits
 
@@ -187,13 +201,15 @@ Most home wiring uses parallel circuits. This lets one light turn off while anot
 
 Parallel circuits are useful when devices need to work independently.
 
+![Parallel circuit](054_Circuit_08.png)
+
 ## Series and Parallel Together
 
 Many real circuits are not purely series or purely parallel.
 
 They may contain both series and parallel parts.
 
-For example, a string of lights, a computer board, or a car electrical system may include many branches, switches, sensors, and loads.
+For example, a string of old holiday lights, a computer motherboard, or a car electrical system may include many branches, switches, sensors, and loads.
 
 Engineers break complicated circuits into smaller parts. They ask:
 
@@ -247,6 +263,8 @@ Resistors are used to control current, divide voltage, protect parts, and help c
 
 Resistance can be useful. Without enough resistance, too much current may flow.
 
+![Voltage, current, and resistance](054_Circuit_09.png)
+
 ## Ohm's Law
 
 **Ohm's law** connects voltage, current, and resistance.
@@ -266,6 +284,8 @@ If voltage increases and resistance stays the same, current increases.
 If resistance increases and voltage stays the same, current decreases.
 
 Ohm's law is one of the most useful tools for understanding simple circuits.
+
+Think of it like a water hose: voltage is the water pressure, current is how much water flows, and resistance is how narrow the hose is.
 
 ## Short Circuits
 
@@ -337,7 +357,7 @@ A **direct current circuit**, or **DC circuit**, has current that flows in one o
 
 Battery circuits are usually DC circuits.
 
-Flashlights, remote controls, battery-powered toys, and many electronic devices use DC inside.
+Flashlights, remote controls, battery-powered toys, drones, and many electronic devices use DC inside.
 
 DC circuits are excellent for classroom learning because they can be made safely with low-voltage batteries.
 
@@ -371,7 +391,7 @@ An **LED**, or light-emitting diode, gives off light when current flows through 
 
 A **transistor** can act like a tiny switch or amplifier.
 
-Modern computers contain billions of tiny transistor switches. Their circuits are far smaller than anything a person could wire by hand.
+Modern computers contain billions of tiny transistor switches. Their circuits are far smaller than anything a person could wire by hand—yet they follow the same basic rules: complete paths, open paths, and controlled current.
 
 ## Circuits and Logic
 
@@ -379,11 +399,11 @@ Circuits can do more than light bulbs and spin motors.
 
 They can make decisions.
 
-In computers, circuits represent information using patterns of electrical signals. A signal may stand for a 1 or a 0. Many tiny circuits working together can store numbers, compare values, display images, run games, and send messages.
+In computers and game consoles, circuits represent information using patterns of electrical signals. A signal may stand for a 1 or a 0. Many tiny circuits working together can store numbers, compare values, display images, run games, and send messages.
 
 This means the same basic idea of a closed or open path grows into digital logic.
 
-The simple switch is one ancestor of the modern computer.
+The simple switch on your desk lamp is one ancestor of the processor inside a gaming PC.
 
 ## Energy in Circuits
 
@@ -408,7 +428,7 @@ Energy is not destroyed by the circuit. It changes form and spreads to the surro
 
 ## Troubleshooting Circuits
 
-When a circuit does not work, good thinkers test one thing at a time.
+When a circuit does not work, good thinkers test one thing at a time—like debugging a game or fixing a bike.
 
 They ask:
 

@@ -24,29 +24,17 @@ Solids also take up space. A phone occupies room in your pocket. A stone displac
 
 Because solids have mass and volume, they are matter.
 
-## Definite Shape
+## Definite Shape and Definite Volume
 
-A solid has a **definite shape**.
+A solid has two features that set it apart from liquids and gases under ordinary conditions.
 
-This means it keeps its own shape unless something changes it.
+It has a **definite shape**. It keeps its own shape unless something changes it. A wooden block stays block-shaped on a workbench, in a toolbox, or in your hand. That is different from water, which takes the shape of its container.
 
-A wooden block stays block-shaped whether it sits on a workbench, inside a toolbox, or in your hand.
+It also has a **definite volume**. **Volume** is the amount of space matter takes up. A metal cube takes up the same amount of space on a desk or inside a drawer. That is different from a gas, which spreads out to fill its container.
 
-That is different from a liquid. Water takes the shape of its container. A solid usually does not.
+Of course, solids can be bent, cut, crushed, melted, or broken. Definite shape does not mean unchangeable forever. It means the solid does not flow to fit its container the way a liquid does.
 
-Of course, solids can be bent, cut, crushed, melted, or broken. Definite shape does not mean unchangeable forever. It means the solid does not flow to fit its container under ordinary conditions.
-
-## Definite Volume
-
-A solid also has a **definite volume**.
-
-Volume is the amount of space matter takes up.
-
-A metal cube takes up the same amount of space whether it sits on a desk or inside a drawer.
-
-That is different from a gas. A gas spreads out to fill its container.
-
-Solids usually do not expand to fill all available space.
+![Solid, liquid, and gas compared](058_Solid_02.png)
 
 ## Particles in a Solid
 
@@ -62,13 +50,13 @@ This close packing and limited motion help solids keep their shape and volume.
 
 When a solid is heated, its particles usually vibrate faster. When it is cooled, they usually vibrate more slowly. That particle motion helps explain expansion by heat, contraction by cooling, and melting.
 
-## Crystalline Solids
+![Particles in a solid](058_Solid_03.png)
 
-Some solids have particles arranged in regular repeating patterns.
+## Crystalline and Amorphous Solids
 
-These are called **crystalline solids**.
+Not all solids arrange their particles the same way.
 
-A **crystal** is a solid whose particles are arranged in an orderly pattern.
+Some solids have particles in regular repeating patterns. These are **crystalline solids**. A **crystal** is a solid whose particles are arranged in an orderly pattern.
 
 Examples include:
 
@@ -79,15 +67,9 @@ Examples include:
 - Snowflakes
 - Many metals
 
-The flat faces and sharp angles of many crystals come from the orderly arrangement of particles inside them. Even a tiny grain of salt has a pattern at the particle level.
+The flat faces and sharp angles of many crystals come from the orderly arrangement inside. Even a tiny grain of salt has a pattern at the particle level. Look at sugar crystals through a hand lens — the neat shape is a clue.
 
-Look at sugar crystals through a hand lens. The neat shape is a clue that the particles inside are arranged in a repeating pattern.
-
-## Amorphous Solids
-
-Not all solids have neatly repeating particle patterns.
-
-An **amorphous solid** is a solid whose particles are not arranged in a regular crystal pattern.
+Other solids do not have neatly repeating patterns. An **amorphous solid** is a solid whose particles are not arranged in a regular crystal pattern.
 
 Examples include:
 
@@ -97,9 +79,9 @@ Examples include:
 - Wax
 - Some gels
 
-*Amorphous* means "without shape" in the sense of lacking a regular crystal arrangement.
+*Amorphous* means "without shape" in the sense of lacking a regular crystal arrangement. A glass window is still a solid with definite shape and volume even though its particles are not arranged like a crystal.
 
-An amorphous solid can still have a definite shape and volume. A glass window is a solid even though its particles are not arranged like a crystal.
+![Crystalline vs amorphous](058_Solid_04.png)
 
 ## How Solids Respond to Force
 
@@ -109,9 +91,7 @@ Different solids behave very differently when you push, pull, bend, scratch, or 
 
 **Hardness** is a material's resistance to being scratched or dented.
 
-Diamond is extremely hard. It can scratch many other materials.
-
-Talc is very soft. It can be scratched easily.
+Diamond is extremely hard. Talc is very soft.
 
 Hardness is not the same as strength. Glass is hard because it resists scratching, but it can break easily. Rubber is not very hard, but it can stretch and return to shape.
 
@@ -127,35 +107,21 @@ Some resist being bent or twisted.
 
 Steel is strong in many useful ways, which is why it appears in bridges, bike frames, tools, rails, and machines. But strength depends on shape as well as material. A thin steel wire and a thick steel beam behave differently because they are shaped differently.
 
-### Brittleness
+### Brittleness and Elasticity
 
-A **brittle** solid breaks or shatters without much bending.
+A **brittle** solid breaks or shatters without much bending. Glass, dry spaghetti, chalk, and some ceramics are brittle.
 
-Glass, dry spaghetti, chalk, and some ceramics are brittle.
-
-Brittle materials can still be useful. Glass is transparent and hard. Ceramics can resist heat. Chalk writes on a board.
-
-But brittle materials must be handled carefully because they can crack suddenly.
-
-### Elasticity
-
-**Elasticity** is the ability of a material to return to its original shape after being stretched, squeezed, or bent.
-
-Rubber bands, springs, and some plastics, foams, and metals show elasticity.
+**Elasticity** is the ability of a material to return to its original shape after being stretched, squeezed, or bent. Rubber bands, springs, and some plastics, foams, and metals show elasticity.
 
 Elasticity has limits. Stretch a rubber band too far, and it may snap or stay stretched.
 
 ### Plastic Deformation
 
-Sometimes a solid changes shape and does not return to its original form.
-
-This is called **plastic deformation**.
+Sometimes a solid changes shape and does not return to its original form. This is called **plastic deformation**.
 
 Bend a paper clip slightly, and it may spring back. Bend it too far, and it stays bent.
 
-Clay can be shaped and keep its new form. Metal can be hammered, rolled, or pressed into useful shapes.
-
-Plastic deformation is important in manufacturing. It helps people make coins, cans, car parts, tools, and many other solid objects.
+Clay can be shaped and keep its new form. Metal can be hammered, rolled, or pressed into useful shapes. Plastic deformation is important in manufacturing — coins, cans, car parts, and tools all depend on it.
 
 ### Malleability and Ductility
 
@@ -166,6 +132,8 @@ Some solids can be shaped without breaking.
 **Ductility** is the ability of a material to be drawn into wires.
 
 Gold, aluminum, and copper are malleable. Copper is also ductile, which is one reason it is used for electrical wiring.
+
+![How solids respond to force](058_Solid_05.png)
 
 ## Density of Solids
 
@@ -181,7 +149,9 @@ Some solids float in water, such as cork and many woods. Others sink, such as st
 
 Shape also matters. A steel nail sinks, but a steel ship can float because its shape includes a large volume of air and displaces enough water.
 
-## Melting and Freezing
+![Density and floating](058_Solid_06.png)
+
+## Melting, Freezing, and Particle Motion
 
 A solid can change into a liquid by melting.
 
@@ -193,15 +163,9 @@ During melting, particles gain enough energy to move past one another more freel
 
 Different substances melt at different temperatures. The temperature at which a solid melts is called its **melting point**.
 
-**Freezing** is the opposite of melting.
+**Freezing** is the opposite change — from liquid to solid. Liquid water freezes into ice. Molten metal freezes into solid metal as it cools.
 
-**Freezing** is the change of state from liquid to solid.
-
-Liquid water freezes into ice. Molten metal freezes into solid metal as it cools.
-
-When a liquid freezes, its particles slow down and become held in more fixed positions.
-
-Freezing and melting are usually **physical changes**. The substance changes state, but it does not become a new chemical substance.
+Freezing and melting are usually **physical changes**. The substance changes state, but it does not become a new chemical substance. (You learned more about melting in the chapter on melting.)
 
 ## Expansion and Contraction
 
@@ -217,27 +181,21 @@ Engineers must plan for this. Bridges, railroad tracks, sidewalks, and buildings
 
 On a hot summer day, you may hear railroad tracks click as metal expands. That is particle motion showing up at the scale you can see and hear.
 
-## Conducting Heat
+![Expansion joints](058_Solid_07.png)
 
-Some solids conduct heat well.
+## Heat and Electricity Through Solids
 
-A **thermal conductor** lets heat move through it easily.
+Some solids conduct heat well. A **thermal conductor** lets heat move through it easily.
 
 Metals such as copper, aluminum, and iron are good thermal conductors. That is why many cooking pans are made of metal — and why the metal part of a pan gets hot while you are cooking.
 
-Other solids are poor conductors of heat. These are called **thermal insulators**.
+Other solids are poor conductors of heat. These are called **thermal insulators**. Wood, plastic, rubber, foam, and wool are often better thermal insulators than metals. That is why pan handles may be made of plastic or wood instead of bare metal.
 
-Wood, plastic, rubber, foam, and wool are often better thermal insulators than metals. That is why pan handles may be made of plastic or wood instead of bare metal.
-
-## Conducting Electricity
-
-Some solids conduct electricity well.
-
-Metals are usually good electrical conductors because some of their electrons can move through the solid. Copper and aluminum are commonly used in electrical wires, headphones, chargers, and circuits.
+Some solids conduct electricity well. Metals are usually good electrical conductors because some of their electrons can move through the solid. Copper and aluminum are commonly used in wires, headphones, chargers, and circuits.
 
 Many solids do not conduct electricity well. Rubber, plastic, dry wood, glass, and ceramics are usually electrical insulators. That is why wire coatings, plug covers, and tool handles are often made from them.
 
-Electrical properties matter when choosing materials for wires, plugs, tools, switches, circuits, and safety equipment.
+![Conductors and insulators](058_Solid_08.png)
 
 ## Magnetic Solids
 
@@ -247,7 +205,35 @@ Iron, steel, nickel, and cobalt are common magnetic materials.
 
 Most solids are not strongly magnetic. Wood, plastic, glass, paper, rubber, copper, and aluminum are not strongly attracted to ordinary magnets.
 
-Magnetism is a physical property. Testing whether a solid is magnetic can help identify it or separate it from a mixture. For example, iron filings can be separated from sand with a magnet.
+Magnetism is a physical property. Testing whether a solid is magnetic can help identify a material or separate it from a mixture — for example, pulling iron filings out of sand with a magnet.
+
+## Choosing the Right Solid for the Job
+
+Modern engineering is partly the art of picking the right solid for the job.
+
+A skateboard deck needs stiffness and grip. A helmet needs a hard shell and energy-absorbing foam inside. A fishing rod needs strength without snapping on a big fish. A phone case needs impact resistance. A tent stake needs strength in a thin shape that can be driven into ground.
+
+Good design asks:
+
+- Does it need to be strong, flexible, hard, or soft?
+- Should it conduct or block heat and electricity?
+- Is weight or density important?
+- Will it be bent, hammered, cut, or heated?
+- Is it safe to handle in this form?
+
+Engineers do not ask only whether a material works. They ask whether it works well for that exact task.
+
+## Composite Materials
+
+A **composite material** is made by combining two or more materials to get useful properties.
+
+Plywood is made from layers of wood. Reinforced concrete combines concrete and steel. Fiberglass combines glass fibers with plastic resin. Carbon-fiber parts can be strong and lightweight.
+
+Many modern sports and outdoor products use composites. A carbon-fiber bike frame or fiberglass kayak can be stiff and strong without being as heavy as solid metal.
+
+Composites show that people can design solids with special combinations of strength, weight, flexibility, and durability.
+
+![Composite materials](058_Solid_09.png)
 
 ## Solids in Nature and Technology
 
@@ -259,28 +245,6 @@ Buildings need solid beams, bricks, concrete, nails, screws, and glass. Bikes an
 
 Sports gear, musical instruments, spacecraft, pencils, eyeglasses, and shoes all depend on carefully chosen solids.
 
-Modern engineering is partly the art of choosing the right solid for the job.
-
-## Composite Materials
-
-A **composite material** is made by combining two or more materials to get useful properties.
-
-Plywood is made from layers of wood. Reinforced concrete combines concrete and steel. Fiberglass combines glass fibers with plastic resin. Carbon-fiber materials can be strong and lightweight.
-
-Many modern sports and outdoor products use composites. A carbon-fiber bike frame or fiberglass kayak can be stiff and strong without being as heavy as solid metal.
-
-Composites show that people can design solids with special combinations of strength, weight, flexibility, and durability.
-
-## Identifying Solids by Properties
-
-Scientists often identify solids by studying their properties.
-
-Useful properties include color, shape, hardness, density, magnetism, crystal form, texture, luster, conductivity, and melting point.
-
-No single property always tells the whole story. Many solids may have the same color or similar hardness. But a set of properties can help identify a substance.
-
-This is especially important in geology, chemistry, materials science, and engineering.
-
 ## Physical and Chemical Changes
 
 Solids can undergo many **physical changes**, such as cutting, crushing, grinding, bending, melting, freezing, polishing, or dissolving.
@@ -291,7 +255,13 @@ Solids can also take part in **chemical changes**, such as wood burning, iron ru
 
 In a chemical change, new substances form. Iron rust is not simply iron in a different shape. It is a different substance formed when iron reacts with oxygen and water.
 
-Chemical changes can make solids stronger, weaker, harder, softer, darker, lighter, safer, or more dangerous.
+## Identifying Solids by Properties
+
+Scientists often identify solids by studying their properties.
+
+Useful properties include color, shape, hardness, density, magnetism, crystal form, texture, luster, conductivity, and melting point.
+
+No single property always tells the whole story. Many solids may have the same color or similar hardness. But a set of properties can help identify a substance — especially in geology, chemistry, materials science, and engineering.
 
 ## Common Misconceptions
 

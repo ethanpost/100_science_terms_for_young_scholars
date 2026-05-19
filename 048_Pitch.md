@@ -66,6 +66,8 @@ Loudness depends mostly on amplitude, the size or strength of the vibration.
 
 This distinction is important: high does not mean loud, and low does not mean quiet.
 
+![Pitch is not loudness](048_Pitch_02.png)
+
 ## Frequency and Wavelength
 
 Frequency is connected to wavelength.
@@ -80,6 +82,8 @@ A high note has waves packed closer together. A low note has waves spread farthe
 
 Frequency, wavelength, and wave speed are linked.
 
+![Frequency and wavelength](048_Pitch_03.png)
+
 ## Human Hearing Range
 
 Most young people can hear sounds from about **20 Hz to 20,000 Hz**.
@@ -93,6 +97,8 @@ Sounds below the usual human hearing range are called **infrasound**.
 Sounds above the usual human hearing range are called **ultrasound**.
 
 Human hearing is impressive, but it is not the whole world of sound.
+
+![Human hearing range](048_Pitch_04.png)
 
 ## Ultrasound
 
@@ -133,6 +139,8 @@ A looser string usually makes a lower pitch.
 A thinner, lighter string often makes a higher pitch than a thicker, heavier string of the same length and tension.
 
 This is why guitars, violins, cellos, and pianos have strings of different lengths, thicknesses, and tensions.
+
+![Guitar strings and pitch](048_Pitch_05.png)
 
 ## Air Columns and Pitch
 
@@ -230,6 +238,8 @@ Pitch is only one part of sound.
 
 Timbre gives sound its character.
 
+![Timbre and overtones](048_Pitch_07.png)
+
 ## The Doppler Effect
 
 Pitch can seem to change when a sound source moves.
@@ -241,6 +251,8 @@ When a siren moves toward you, sound waves are squeezed closer together, so the 
 This is why an ambulance siren seems to drop in pitch as it passes you.
 
 The source may be making the same sound, but motion changes the frequency reaching your ears.
+
+![The Doppler effect](048_Pitch_06.png)
 
 ## Pitch and Animals
 

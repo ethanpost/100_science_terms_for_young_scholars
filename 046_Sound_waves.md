@@ -2,13 +2,15 @@
 
 ![Sound Waves](046_Sound_waves_01.png)
 
-Imagine plucking a guitar string. The string shakes back and forth so quickly that it becomes a blur. A moment later, you hear a note. The string's motion has disturbed the air, and that disturbance has traveled to your ear.
+Imagine plucking a guitar string. The string shakes back and forth so fast it becomes a blur. A moment later, you hear a note. The string's motion disturbed the air—and that disturbance traveled to your ear.
 
-That traveling disturbance is a sound wave.
+Or think about the last time you wore headphones. The tiny speaker inside never touched your eardrum. It vibrated, pushed on the air (or your ear cushion), and your brain heard music, game effects, or a friend's voice.
+
+That traveling disturbance is a **sound wave**.
 
 **A sound wave is a vibration that travels through matter and can be detected by the ear.**
 
-Sound waves explain music, speech, echoes, thunder, sonar, musical instruments, hearing, noise, and why explosions can shake windows. Sound is familiar, but it is also a powerful example of how energy can travel through matter.
+Sound waves explain music, speech, echoes in a gym, thunder after lightning, sonar on submarines, bats hunting in the dark, musical instruments, hearing, annoying noise, and why a nearby explosion can rattle a window. Sound is familiar—but it is also one of the clearest examples of how **energy** can move through matter without the source flying across the room.
 
 ## Sound Begins with Vibration
 
@@ -16,13 +18,13 @@ Sound begins when something vibrates.
 
 A **vibration** is a back-and-forth motion.
 
-A guitar string vibrates. A drumhead vibrates. Your vocal cords vibrate when you speak. A bell vibrates when struck. A speaker cone vibrates when music plays.
+A guitar string vibrates. A drumhead vibrates. Your vocal cords vibrate when you speak or yell across a field. A bell vibrates when struck. A phone speaker vibrates when a video plays. Even the ground can vibrate when something heavy drops.
 
-These vibrations push and pull on nearby air particles.
+These vibrations push and pull on nearby particles in the medium—usually air.
 
-The air particles then push and pull on neighboring particles, and the disturbance travels outward.
+Those particles push and pull on their neighbors, and the disturbance spreads outward.
 
-The vibrating object does not usually travel all the way to your ear. The energy of the vibration travels through the medium.
+The vibrating object does not usually travel all the way to your ear. The **energy** of the vibration travels through the medium.
 
 ## Sound Needs a Medium
 
@@ -30,21 +32,23 @@ Sound needs matter to travel through.
 
 The material through which a wave travels is called a **medium**.
 
-Sound can travel through gases, liquids, and solids. It can travel through air, water, wood, metal, rock, and even the ground.
+Sound can travel through gases, liquids, and solids. It moves through air, water, wood, metal, rock, and even the ground under your feet.
 
-Sound cannot travel through a perfect vacuum because there are no particles to vibrate and pass the disturbance along.
+Sound cannot travel through a perfect **vacuum** because there are no particles to vibrate and pass the disturbance along.
 
-This is one major difference between sound and light. Light can travel through empty space. Sound cannot.
+That is a huge difference between sound and light. Light can cross empty space—sunlight reaches Earth through the vacuum of space. Sound cannot. In space, nobody hears you scream (movie explosions with loud booms in space are wrong).
+
+![Sound needs matter](046_Sound_waves_03.png)
 
 ## Sound in Air
 
-Most sounds you hear travel through air.
+Most sounds you hear every day travel through air.
 
-When a drumhead moves outward, it pushes nearby air particles closer together. When it moves inward, it leaves a region where air particles are spread farther apart.
+When a drumhead moves outward, it squeezes nearby air particles closer together. When it moves inward, it leaves a region where particles are spread farther apart.
 
-These crowded and spread-out regions travel through the air as a sound wave.
+Those crowded and spread-out regions travel through the air as a sound wave.
 
-The air particles themselves mostly vibrate back and forth. They do not fly from the drum all the way to your ear.
+The air particles themselves mostly vibrate back and forth. They do **not** fly from the drum all the way to your ear like a swarm of bees.
 
 The wave moves through the air, carrying energy.
 
@@ -60,19 +64,23 @@ As a sound wave moves, compressions and rarefactions travel through the medium.
 
 Your ear detects these pressure changes.
 
-Sound in air is a pressure wave made of repeating compressions and rarefactions.
+Sound in air is a **pressure wave** made of repeating compressions and rarefactions.
+
+![Compressions and rarefactions](046_Sound_waves_02.png)
 
 ## Longitudinal Waves
 
 Sound waves in air are usually **longitudinal waves**.
 
-In a longitudinal wave, particles vibrate back and forth in the same direction the wave travels.
+In a longitudinal wave, particles vibrate back and forth in the **same direction** the wave travels.
 
 If the sound wave travels east, the air particles vibrate east and west.
 
-This is different from a wave on a rope, where the rope may move up and down while the wave travels sideways. That kind is called a transverse wave.
+That is different from a wave on a rope, where the rope may move up and down while the wave travels sideways. That kind is called a **transverse wave**.
 
 Sound in air is longitudinal because the air particles push and pull along the direction the sound travels.
+
+![Longitudinal vs transverse](046_Sound_waves_04.png)
 
 ## Frequency
 
@@ -86,7 +94,7 @@ If a guitar string vibrates 440 times per second, its frequency is 440 Hz.
 
 Frequency is one of the main features of a sound wave.
 
-It is closely related to pitch.
+It is closely related to **pitch**.
 
 ## Pitch
 
@@ -98,9 +106,11 @@ A low-pitched sound has a low frequency.
 
 A whistle has a higher pitch than a bass drum because its vibrations have a higher frequency.
 
-A large drum usually makes a lower sound than a small drum because it vibrates more slowly.
+A large drum usually sounds lower than a small drum because it vibrates more slowly.
 
-Pitch is what lets you tell a high note from a low note.
+Pitch is what lets you tell a high note from a low note—even when both are equally loud.
+
+![High pitch vs low pitch](046_Sound_waves_05.png)
 
 ## Amplitude
 
@@ -108,11 +118,11 @@ Pitch is what lets you tell a high note from a low note.
 
 In sound, greater amplitude means stronger pressure changes.
 
-A sound wave with large amplitude usually sounds louder. A sound wave with small amplitude usually sounds quieter.
+A sound wave with large amplitude usually sounds **louder**. A sound wave with small amplitude usually sounds **quieter**.
 
-If you pluck a guitar string gently, it vibrates with small amplitude and makes a soft sound. If you pluck it harder, it vibrates with larger amplitude and makes a louder sound.
+Pluck a guitar string gently: small amplitude, soft sound. Pluck it hard: larger amplitude, louder sound.
 
-Amplitude is closely related to loudness.
+Amplitude is closely related to loudness—but they are not the same thing (see below).
 
 ## Loudness and Decibels
 
@@ -122,11 +132,13 @@ Loudness depends mostly on amplitude, but it also depends on your ears and the f
 
 Sound level is often measured in **decibels**, written **dB**.
 
-A whisper may be around 30 dB. Normal conversation may be around 60 dB. A loud concert or power tool can be over 100 dB.
+A whisper may be around 30 dB. Normal conversation may be around 60 dB. A loud concert, power tool, or gaming headset cranked up can go over 100 dB.
 
-The decibel scale is not a simple ordinary scale. An increase of 10 dB means a much greater sound intensity.
+The decibel scale is not a simple ordinary scale. An increase of 10 dB means a much greater sound **intensity**.
 
-Very loud sounds can damage hearing.
+Very loud sounds can damage hearing—sometimes permanently.
+
+![Protect your hearing](046_Sound_waves_09.png)
 
 ## Wavelength
 
@@ -144,17 +156,19 @@ For a given speed, higher frequency means shorter wavelength.
 
 ## Speed of Sound
 
-Sound travels at a finite speed.
+Sound travels at a finite speed—it is fast, but not instant.
 
-In air at room temperature, sound travels about **343 meters per second**.
+In air at room temperature, sound travels about **343 meters per second** (about 767 miles per hour).
 
 Sound travels faster in water than in air, and often faster still in solids such as steel.
 
-This is because particles in liquids and solids are closer together and can pass vibrations along efficiently, though the exact speed depends on the material.
+Particles in liquids and solids are closer together and can pass vibrations along efficiently, though the exact speed depends on the material.
 
 You see lightning before you hear thunder because light travels much faster than sound.
 
-Counting seconds between lightning and thunder can help estimate how far away a storm is.
+Counting seconds between the flash and the rumble can help estimate how far away a storm is. Rough rule: divide the seconds by three to get distance in kilometers (or by five for miles)—not perfect, but useful.
+
+![Lightning before thunder](046_Sound_waves_06.png)
 
 ## Sound and Temperature
 
@@ -162,23 +176,25 @@ Temperature affects the speed of sound in air.
 
 Warm air usually lets sound travel faster than cold air because particles move more quickly and pass disturbances along more rapidly.
 
-This can affect how sound bends through the atmosphere and how far it travels.
+This can affect how sound bends through the atmosphere and how far it carries.
 
 On some nights, sound from a road or train may seem to carry farther because temperature layers in the air bend sound waves.
 
-Sound is affected by the medium it travels through.
+Sound is always tied to the medium it travels through.
 
 ## Echoes
 
 An **echo** is a reflected sound.
 
-If you shout near a cliff or large wall, the sound wave travels to the surface, reflects, and returns to your ears. If the reflected sound arrives late enough, you hear it as a separate echo.
+Shout near a cliff, tunnel, empty gym, or large wall. The sound wave travels to the surface, reflects, and returns to your ears. If the reflected sound arrives late enough, you hear it as a separate echo.
 
-Echoes show that sound waves can reflect from surfaces.
+Echoes show that sound waves can **reflect** from surfaces.
 
-Hard, smooth surfaces often reflect sound well. Soft materials, such as thick curtains or carpet, absorb more sound and reduce echoes.
+Hard, smooth surfaces often reflect sound well. Soft materials—thick curtains, carpet, acoustic foam—absorb more sound and reduce echoes.
 
-Echoes are useful in nature and technology.
+Echoes are useful in nature, architecture, and technology.
+
+![Echoes and absorption](046_Sound_waves_07.png)
 
 ## Sonar and Echolocation
 
@@ -194,17 +210,19 @@ Bats and dolphins send out sounds and listen to returning echoes to locate insec
 
 They use sound to "see" their surroundings.
 
+![Sonar and echolocation](046_Sound_waves_08.png)
+
 ## Resonance
 
 **Resonance** happens when an object vibrates strongly at certain natural frequencies.
 
 Push a swing at just the right rhythm, and it goes higher. That is a kind of resonance.
 
-A guitar body resonates with the vibrating strings, making the sound louder and richer. A drum shell and air inside can resonate. A glass may ring at a certain pitch when tapped.
+A guitar body resonates with the vibrating strings, making the sound louder and richer. A drum shell and the air inside can resonate. Tap a glass at the right pitch and it may ring loudly.
 
 Resonance can be useful in musical instruments.
 
-It can also be dangerous if vibrations grow too strong in bridges, buildings, or machines.
+It can also be dangerous if vibrations grow too strong in bridges, buildings, or machines—engineers study resonance carefully.
 
 ## Musical Instruments
 
@@ -220,7 +238,7 @@ That difference in sound quality is called **timbre**.
 
 ## The Human Voice
 
-Your voice begins with vibrating vocal cords in the larynx.
+Your voice begins with vibrating **vocal cords** in the larynx.
 
 Air from your lungs passes through the vocal cords, making them vibrate. Your throat, mouth, tongue, lips, and nasal passages shape the sound into speech or song.
 
@@ -228,15 +246,15 @@ Changing tension in the vocal cords changes pitch.
 
 Changing airflow changes loudness.
 
-The human voice is a living musical instrument.
+The human voice is a living musical instrument—no batteries required.
 
 ## Hearing
 
 Your ear detects sound waves.
 
-Sound waves enter the outer ear and travel down the ear canal to the eardrum. The eardrum vibrates. Tiny bones in the middle ear pass the vibration to the inner ear.
+Sound waves enter the outer ear and travel down the ear canal to the **eardrum**. The eardrum vibrates. Tiny bones in the middle ear pass the vibration to the inner ear.
 
-Inside the cochlea, fluid and tiny hair cells respond to vibrations. These cells send nerve signals to the brain.
+Inside the **cochlea**, fluid and tiny hair cells respond to vibrations. These cells send nerve signals to the brain.
 
 The brain interprets the signals as sound.
 
@@ -255,7 +273,7 @@ Soundproofing often uses several strategies:
 - Seal gaps where air and sound can leak.
 - Reduce vibrations in structures.
 
-A quiet room is designed, not accidental.
+A quiet recording studio or study room is designed, not accidental.
 
 ## Common Misconceptions
 
@@ -263,11 +281,11 @@ One common mistake is thinking sound can travel through empty space. Sound needs
 
 Another mistake is thinking air particles travel from the speaker all the way to your ear. The particles mostly vibrate in place while the wave travels.
 
-A third mistake is thinking pitch and loudness are the same. Pitch depends mostly on frequency. Loudness depends mostly on amplitude.
+A third mistake is thinking **pitch** and **loudness** are the same. Pitch depends mostly on frequency. Loudness depends mostly on amplitude.
 
-A fourth mistake is thinking echoes are new sounds. Echoes are reflected sound waves.
+A fourth mistake is thinking echoes are brand-new sounds made by the cliff. Echoes are **reflected** sound waves—same sound, bounced back.
 
-Finally, remember that sound waves carry energy, not matter from the source to your ear.
+Finally, remember that sound waves carry **energy**, not matter, from the source to your ear.
 
 ## Safety with Sound
 
@@ -275,7 +293,7 @@ Sound can damage hearing if it is too loud or lasts too long.
 
 Good safety habits include:
 
-- Keep headphone volume moderate.
+- Keep headphone and earbud volume moderate.
 - Take breaks from loud music or gaming audio.
 - Wear ear protection around power tools, engines, fireworks, or loud concerts.
 - Move away from painfully loud sounds.

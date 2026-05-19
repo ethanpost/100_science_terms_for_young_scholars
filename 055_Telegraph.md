@@ -62,6 +62,8 @@ With practice, a skilled operator could tap out messages quickly and clearly.
 
 The telegraph key is a fine example of how a simple switch can become a tool for language.
 
+![Telegraph key: press, release, dot, and dash](055_Telegraph_02.png)
+
 ## The Receiver
 
 The receiving end of a telegraph must detect the electrical signal.
@@ -91,6 +93,8 @@ Operators learned to recognize the rhythm of the clicks. They could hear short a
 This was faster than reading marks on paper.
 
 A trained telegraph operator could listen to a clicking sounder and write down the message as it arrived.
+
+![How a sounder turns current into clicks](055_Telegraph_03.png)
 
 ## Morse Code
 
@@ -132,6 +136,8 @@ Without correct timing, the message becomes confusing.
 For example, the same taps could be misunderstood if the pauses are in the wrong places.
 
 Good telegraphy required steady hands, sharp ears, and careful timing.
+
+![Morse code depends on timing and pauses](055_Telegraph_04.png)
 
 ## Information from On and Off
 
@@ -175,6 +181,8 @@ Rain, wind, ice, fallen branches, and broken poles could damage lines.
 
 Maintaining telegraph lines was hard work.
 
+![Telegraph poles, wires, and insulators](055_Telegraph_06.png)
+
 ## The Earth Return
 
 Some telegraph systems used Earth as part of the return path for current.
@@ -202,6 +210,8 @@ The relay could then close a new local circuit with a fresh battery, making a st
 In this way, relays helped messages travel farther.
 
 Relays are still used today in many electrical systems, though modern electronics also use transistors for switching.
+
+![A relay boosts a weak signal for the next leg of the line](055_Telegraph_05.png)
 
 ## Repeaters
 
@@ -273,6 +283,8 @@ The telegraph helped railroads run more safely and efficiently.
 
 In return, railroads helped spread telegraph lines across long distances.
 
+![Railroads and telegraphs grew together](055_Telegraph_07.png)
+
 ## News and Newspapers
 
 The telegraph transformed news.
@@ -316,6 +328,8 @@ Early attempts failed, but success eventually came.
 Before the cable, a message across the Atlantic had to go by ship. After the cable, messages could cross the ocean in minutes.
 
 This was one of the great engineering achievements of the 1800s.
+
+![Laying a telegraph cable under the ocean](055_Telegraph_08.png)
 
 ## Signal Speed
 

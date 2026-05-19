@@ -16,7 +16,7 @@ To understand an electromagnet, we must connect two ideas: electricity and magne
 
 ## Electricity Can Make Magnetism
 
-Electric current is the flow of electric charge.
+**Electric current** is the flow of electric charge.
 
 When electric current flows through a wire, it creates a magnetic field around the wire.
 
@@ -25,6 +25,8 @@ This discovery was one of the great turning points in science. It showed that el
 A straight wire carrying current has a magnetic field around it. The field is not usually strong enough to pick up many objects, but it is real.
 
 If the wire is shaped into a coil, the magnetic field becomes much stronger and more useful.
+
+![Current in a wire creates a magnetic field](056_Electromagnet_02.png)
 
 ## The Simple Electromagnet
 
@@ -44,6 +46,8 @@ This is the special power of an electromagnet:
 
 **It can be turned on and off.**
 
+![Build a simple electromagnet](056_Electromagnet_03.png)
+
 ## Coils
 
 A **coil** is a wire wound into loops.
@@ -62,13 +66,15 @@ The piece of iron inside the coil is called a **core**.
 
 The core helps concentrate and strengthen the magnetic field.
 
-Iron is useful because it is easily magnetized. Inside iron are tiny magnetic regions called domains. When current flows through the coil, the magnetic field helps line up many of these domains.
+Iron is useful because it is easily magnetized. Inside iron are tiny magnetic regions called **domains**. When current flows through the coil, the magnetic field helps line up many of these domains.
 
 The lined-up domains make the iron core act like a magnet.
 
 When the current stops, many of the domains relax back into a less organized arrangement, so the magnetism becomes much weaker.
 
 This is why soft iron is often used for electromagnet cores. It can become magnetic easily and lose most of its magnetism easily.
+
+![The iron core strengthens the field](056_Electromagnet_04.png)
 
 ## Magnetic Poles
 
@@ -100,6 +106,8 @@ More turns of wire can strengthen the field, but very long wire also adds resist
 
 Good engineering means balancing strength, heat, safety, size, cost, and energy use.
 
+![What makes an electromagnet stronger?](056_Electromagnet_06.png)
+
 ## Electromagnets and Switches
 
 Because an electromagnet depends on current, a switch can control it.
@@ -127,6 +135,8 @@ Permanent magnets are simple and need no power supply. They are useful in refrig
 Electromagnets can be turned on and off. Their strength can often be changed. Their poles can be reversed. These features make them especially useful in machines.
 
 Many devices use both permanent magnets and electromagnets together.
+
+![Permanent magnet vs electromagnet](056_Electromagnet_05.png)
 
 ## Electromagnets and Circuits
 
@@ -160,7 +170,7 @@ In a scrapyard crane, electrical energy becomes magnetism and then helps lift he
 
 A **solenoid** is a coil of wire that acts like an electromagnet when current flows through it.
 
-Some solenoids have iron cores. Others have moving iron rods called plungers.
+Some solenoids have iron cores. Others have moving iron rods called **plungers**.
 
 When current flows, the magnetic field pulls the plunger into the coil. This motion can push, pull, unlock, click, or open a valve.
 
@@ -182,59 +192,25 @@ Telegraphs used relays to help weak signals control fresh circuits over long dis
 
 Cars, appliances, machines, and control systems have used relays for many years.
 
-## Doorbells and Buzzers
+![Solenoid and relay](056_Electromagnet_07.png)
 
-Many old-fashioned doorbells and buzzers use electromagnets.
+## Electromagnets at Work
 
-When a button is pressed, a circuit closes and current flows through a coil.
+Electromagnets show up in machines you hear, ride, and use every day.
 
-The electromagnet pulls a metal arm or striker. The striker hits a bell or makes a buzzing sound.
+**Doorbells and buzzers** use electromagnets to pull a metal striker. The striker hits a bell or buzzes rapidly as the circuit opens and closes.
 
-In some buzzers, the motion opens the circuit, stopping the magnet. A spring pulls the arm back, closing the circuit again. This repeats rapidly and makes a buzz.
+**Telegraphs** sent messages long before phones existed. When an operator pressed a key, current flowed through a distant coil, pulled a lever, and made clicks in Morse code.
 
-The sound comes from fast switching and motion controlled by electromagnetism.
+**Scrapyard cranes** use huge electromagnets to lift steel. When the current stops, the load drops. A permanent magnet would be much harder to unload.
 
-## Telegraphs
+**Speakers and headphones** use a coil near a permanent magnet. Changing current in the coil pushes and pulls the cone or diaphragm, vibrating the air into sound.
 
-The telegraph is one of the classic uses of electromagnets.
+**Magnetic locks** hold doors shut while current flows. **Magnetic brakes** on some trains and rides slow motion without ordinary friction alone.
 
-When a telegraph operator pressed a key, current flowed through a distant coil.
+**MRI machines** use very powerful electromagnets to make detailed pictures inside the body. Their magnets are not classroom toys. Hospitals follow strict safety rules because loose metal objects can be pulled dangerously.
 
-The coil became an electromagnet and pulled a lever or sounder.
-
-When the key was released, current stopped and the lever returned.
-
-Short and long signals made clicks that stood for letters in Morse code.
-
-The telegraph showed that electromagnets could turn electrical signals into useful motion far away.
-
-## Scrapyard Cranes
-
-Some scrapyards use large electromagnets to lift steel.
-
-When current flows through the crane's electromagnet, it can attract heavy pieces of iron and steel.
-
-When the current is turned off, the magnet releases the load.
-
-This is much more useful than a permanent magnet for lifting scrap metal. A permanent magnet would be difficult to unload.
-
-An electromagnet lets the crane operator pick up and drop magnetic materials on command.
-
-Such machines are powerful and dangerous. They must be operated only by trained workers.
-
-## Speakers and Headphones
-
-Speakers and headphones use electromagnetism to make sound.
-
-Inside many speakers is a coil of wire near a permanent magnet.
-
-Changing electric current flows through the coil. The coil becomes an electromagnet whose strength and direction keep changing.
-
-The coil is pushed and pulled by the permanent magnet. This motion moves a cone or diaphragm.
-
-The moving cone pushes air back and forth, creating sound waves.
-
-When you hear music from a speaker, you are hearing air moved by a rapidly changing electromagnet.
+![Electromagnets at work](056_Electromagnet_09.png)
 
 ## Electric Motors
 
@@ -256,93 +232,35 @@ A **generator** changes motion into electrical energy.
 
 Generators also depend on electromagnetism.
 
-When a magnet and a coil of wire move relative to each other, voltage can be produced. This process is called electromagnetic induction.
+When a magnet and a coil of wire move relative to each other, voltage can be produced. This process is called **electromagnetic induction**.
 
 Some generators use permanent magnets. Others use electromagnets to create the magnetic field.
 
 Power plants, wind turbines, hydroelectric dams, and some bicycle lights use generators.
 
-Motors use electricity to make motion.
+In a motor, electricity helps make motion.
 
-Generators use motion to make electricity.
+In a generator, motion helps make electricity.
 
 Both belong to the family of electromagnetism.
 
-## Magnetic Locks and Brakes
+![Motor and generator](056_Electromagnet_08.png)
 
-Electromagnets can hold things in place.
+## Heat, Insulated Wire, and Reversing Poles
 
-Some doors use electromagnetic locks. When current flows, a strong electromagnet holds a metal plate and keeps the door locked. When current stops, the door can release.
-
-Electromagnets can also help with braking.
-
-Some trains, elevators, exercise machines, and amusement rides use magnetic braking systems. These systems can slow motion without ordinary friction alone.
-
-In these uses, engineers value control. Magnetism can be made stronger, weaker, on, or off as needed.
-
-## Electromagnets in Medicine
-
-Medicine uses powerful magnetic fields.
-
-MRI machines, which stands for magnetic resonance imaging machines, use very strong magnets to make detailed pictures inside the body.
-
-Many MRI systems use special electromagnets called superconducting magnets. These can produce extremely strong magnetic fields when kept very cold.
-
-MRI machines are valuable, but their magnets are not ordinary classroom magnets. They are powerful enough to pull metal objects dangerously.
-
-Hospitals have strict safety rules for MRI rooms.
-
-## Electromagnets in Science
-
-Scientists use electromagnets to study matter, particles, energy, and materials.
-
-Electromagnets can guide beams of charged particles, separate materials, hold plasma in some fusion research devices, and help with experiments in physics and chemistry.
-
-Because electromagnets can be controlled by changing current, they are useful for careful scientific work.
-
-In laboratories, very strong electromagnets require special cooling, power supplies, and safety procedures.
-
-The classroom nail electromagnet is small, but it teaches the same central idea.
-
-## Heat and Resistance
-
-Wires have resistance.
-
-When current flows through resistance, some electrical energy becomes heat.
+Wires have **resistance**. When current flows through resistance, some electrical energy becomes heat.
 
 In an electromagnet, this heat can become a problem. If too much current flows, the wire, battery, or power supply can overheat.
 
 This is why electromagnets should not be left connected to batteries for too long in classroom experiments.
 
-It is also why real electromagnets are designed with proper wire thickness, cooling, insulation, and power limits.
+Electromagnets usually use **insulated wire**. The metal inside conducts current. The thin coating keeps neighboring loops from touching electrically.
 
-Strong electromagnets are not just stronger versions of simple ones. They require serious engineering.
+If bare wire loops touch in the wrong way, current may take a shortcut instead of traveling through all the turns. That can weaken the electromagnet or create too much current.
 
-## Insulated Wire
+The poles of an electromagnet depend on the direction of current. If the current is reversed, the magnetic field reverses. The north pole becomes the south pole, and the south pole becomes the north pole.
 
-Electromagnets usually use insulated wire.
-
-The metal inside the wire conducts current. The thin coating around the wire keeps neighboring loops from touching electrically.
-
-If bare wire loops touch each other in the wrong way, current may take a shortcut instead of traveling through all the turns of the coil.
-
-That can weaken the electromagnet or create too much current.
-
-Insulation lets many turns of wire sit close together while still guiding current along the intended path.
-
-## Reversing the Poles
-
-The poles of an electromagnet depend on the direction of current.
-
-If the current is reversed, the magnetic field reverses.
-
-The north pole becomes the south pole, and the south pole becomes the north pole.
-
-This is important in motors, speakers, and many control systems.
-
-By changing current direction at the right time, a motor can keep spinning. By changing current rapidly, a speaker can vibrate and make sound.
-
-Control over direction is one of the great advantages of electromagnets.
+This is important in motors, speakers, and many control systems. By changing current direction at the right time, a motor can keep spinning. By changing current rapidly, a speaker can vibrate and make sound.
 
 ## Measuring Electromagnet Strength
 
@@ -409,28 +327,20 @@ If you remember only one sentence, remember this:
 3. What is electromagnetism?
 4. What are five parts or materials often used to build a simple classroom electromagnet?
 5. Why is it useful that an electromagnet can be turned on and off?
-6. What is a coil?
-7. Why does coiling wire strengthen the magnetic field?
-8. What is the core of an electromagnet?
-9. Why is iron often used as the core?
-10. What happens to the poles of an electromagnet if the current direction is reversed?
-11. Name three ways to make an electromagnet stronger.
-12. Why can increasing current be dangerous?
-13. How is an electromagnet different from a permanent magnet?
-14. Why must an electromagnet be part of a closed circuit to work?
-15. What is a solenoid?
-16. What is a relay?
-17. How does a relay use an electromagnet?
-18. How can a doorbell or buzzer use an electromagnet?
-19. How did telegraphs use electromagnets?
-20. Why are electromagnets useful in scrapyard cranes?
-21. How do speakers or headphones use electromagnetism?
-22. What does an electric motor do?
-23. What does a generator do?
-24. How can electromagnets be used in locks or brakes?
-25. Why do MRI rooms need strict safety rules?
-26. Why can heat be a problem in electromagnets?
-27. Why is insulated wire important in an electromagnet coil?
-28. How could students compare the strength of two electromagnets fairly?
-29. Give two common misconceptions about electromagnets.
-30. What are three important safety rules for electromagnet experiments?
+6. What is a coil, and why does coiling wire strengthen the magnetic field?
+7. What is the core of an electromagnet, and why is iron often used?
+8. What happens to the poles of an electromagnet if the current direction is reversed?
+9. Name three ways to make an electromagnet stronger.
+10. Why can increasing current be dangerous?
+11. How is an electromagnet different from a permanent magnet?
+12. Why must an electromagnet be part of a closed circuit to work?
+13. What is a solenoid?
+14. What is a relay, and how does it use an electromagnet?
+15. Give two examples of machines that use electromagnets and explain what the electromagnet does in each.
+16. How do speakers or headphones use electromagnetism?
+17. What does an electric motor do, and what does a generator do?
+18. Why can heat be a problem in electromagnets?
+19. Why is insulated wire important in an electromagnet coil?
+20. How could students compare the strength of two electromagnets fairly?
+21. Give two common misconceptions about electromagnets.
+22. What are three important safety rules for electromagnet experiments?

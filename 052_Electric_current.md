@@ -77,6 +77,8 @@ Insulators are just as important as conductors. The copper wire inside a cord ca
 
 Without insulation, wires could shock people, start fires, or cause short circuits.
 
+![Conductors vs insulators](052_Electric_current_03.png)
+
 ## Circuits
 
 An **electric circuit** is a complete path through which electric current can flow.
@@ -95,6 +97,8 @@ A **closed circuit** is a complete, unbroken path.
 An **open circuit** has a gap or break, so current cannot flow through the whole path.
 
 When you turn a light switch on, you usually close a circuit. When you turn it off, you open the circuit.
+
+![Closed circuit vs open circuit](052_Electric_current_02.png)
 
 ## Batteries
 
@@ -126,6 +130,8 @@ Current is the flow.
 A helpful comparison is water in pipes. Voltage is like water pressure. Current is like the amount of water flowing past a point each second.
 
 The comparison is not perfect, but it is useful.
+
+![Voltage vs current — the water pipe analogy](052_Electric_current_04.png)
 
 ## Amperes
 
@@ -185,6 +191,8 @@ For example, imagine pushing water through a hose. More pressure gives more flow
 
 Ohm's law is simple, but it is powerful. Engineers use it constantly.
 
+![Ohm's law: V = I × R](052_Electric_current_05.png)
+
 ## Series Circuits
 
 A **series circuit** has only one path for current.
@@ -206,6 +214,8 @@ If one branch is broken, current may still flow through the other branches. This
 Most home wiring uses parallel circuits because devices need to work independently.
 
 Parallel circuits are especially useful when many devices must share the same voltage source but turn on and off separately.
+
+![Series circuit vs parallel circuit](052_Electric_current_06.png)
 
 ## Switches
 
@@ -232,6 +242,8 @@ This is why circuits need proper insulation, careful wiring, and protective devi
 In a classroom, a battery connected directly from one terminal to the other with only a wire can create a short circuit. The wire and battery may become hot quickly.
 
 Never short-circuit a battery on purpose.
+
+![Short circuits and safety devices](052_Electric_current_08.png)
 
 ## Fuses and Circuit Breakers
 
@@ -266,6 +278,8 @@ In many countries, household current changes direction many times each second. A
 Do not experiment with household wall outlets. They can deliver dangerous current and voltage.
 
 Classroom circuit work should use safe, low-voltage batteries or approved power supplies.
+
+![Direct current vs alternating current](052_Electric_current_07.png)
 
 ## Electron Flow and Conventional Current
 

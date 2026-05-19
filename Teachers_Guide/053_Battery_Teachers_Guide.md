@@ -35,7 +35,7 @@ Students should be able to:
 16. Batteries produce direct current, or DC.
 17. A **primary battery** is meant to be used and then replaced or recycled; it is not designed for normal recharging.
 18. A **secondary battery** is a rechargeable battery.
-19. Examples may include phones, laptops, tablets, cordless tools, electric toothbrushes, cameras, electric cars, and rechargeable flashlights.
+19. Examples may include phones, laptops, tablets, cordless tools, electric toothbrushes, cameras, electric cars, drones, RC vehicles, and rechargeable flashlights.
 20. Examples may include alkaline, zinc-carbon, lithium-ion, nickel-metal hydride, and lead-acid batteries.
 21. Battery capacity describes how much electric charge a battery can deliver before it is considered drained.
 22. A D battery usually contains more material and stores more energy, so it has greater capacity even if its voltage is the same as a AAA battery.
@@ -76,6 +76,8 @@ Students should be able to:
 
 ### Teaching Notes
 
+- Use the chapter images when discussing the pump analogy, terminals, current, cell anatomy, primary vs rechargeable types, capacity, series vs parallel, and safety.
+- The opening scenarios (camping flashlight, game controller, drone) work well as quick discussion starters before reading.
 - Keep the central idea visible: **a battery changes chemical energy into electrical energy**.
 - Reinforce that batteries provide energy to move charges already present in the circuit.
 - Distinguish voltage from capacity; larger size does not always mean higher voltage.

@@ -28,6 +28,8 @@ The resting position is often called the **equilibrium position**.
 
 During vibration, the object keeps moving around that equilibrium position.
 
+![Motion vs vibration](049_Vibration_02.png)
+
 ## Oscillation
 
 Another word closely related to vibration is **oscillation**.
@@ -86,6 +88,8 @@ Vibration happens because restoring force and inertia work together.
 
 The restoring force pulls the object toward balance. Inertia carries it past balance.
 
+![Restoring force and inertia](049_Vibration_03.png)
+
 ## Amplitude
 
 **Amplitude** is the size of a vibration.
@@ -113,6 +117,8 @@ Frequency is one of the most important measurements of vibration.
 In sound, frequency is closely related to pitch.
 
 High-frequency vibrations usually make high-pitched sounds. Low-frequency vibrations usually make low-pitched sounds.
+
+![Amplitude and frequency](049_Vibration_04.png)
 
 ## Period
 
@@ -146,6 +152,8 @@ Scientists count cycles to measure frequency.
 
 If 50 cycles happen in one second, the frequency is 50 Hz.
 
+![One complete cycle](049_Vibration_05.png)
+
 ## Vibration and Sound
 
 Sound begins with vibration.
@@ -163,6 +171,8 @@ A guitar string vibrates and makes the air around it vibrate, often with help fr
 Your vocal cords vibrate and create sound waves that become speech or song.
 
 No vibration means no sound source.
+
+![Vibration creates sound](049_Vibration_06.png)
 
 ## Vibration Needs Matter for Sound
 
@@ -191,6 +201,8 @@ A guitar body resonates with the strings and helps make the sound louder.
 A wine glass can ring when tapped because it vibrates at natural frequencies.
 
 Resonance can be useful, but it can also be dangerous if vibrations become too large.
+
+![Resonance](049_Vibration_07.png)
 
 ## Natural Frequency
 
@@ -223,6 +235,8 @@ Damping happens because energy is changed into sound, heat, and motion in surrou
 Soft materials can damp vibrations well.
 
 That is why rubber pads, foam, carpets, and shock absorbers can reduce shaking or sound.
+
+![Damping](049_Vibration_08.png)
 
 ## Forced Vibration
 
@@ -311,6 +325,8 @@ Earthquake engineering is partly the science of helping structures survive vibra
 Buildings may use flexible materials, deep foundations, braces, dampers, or base isolators to reduce damaging motion.
 
 Earthquakes remind us that vibration is not always small or harmless.
+
+![Earthquakes and seismometers](049_Vibration_09.png)
 
 ## Measuring Vibration
 

@@ -2,7 +2,7 @@
 
 ![Liquid](059_Liquid_01.png)
 
-You squeeze a sports bottle and water shoots into your mouth. Rain pools in a puddle after practice. Chain lube drips onto a bike gear. Sweat beads on your forehead and helps cool you down when it evaporates.
+You squeeze a sports bottle and water shoots into your mouth. Rain pools in a puddle after practice. Chain lube drips onto a bike gear. Sweat beads on your forehead and helps cool you when it evaporates.
 
 None of those liquids keep the shape of the container they came from. Pour the same water into a tall cup, a wide bowl, or a narrow flask, and the shape changes each time.
 
@@ -12,7 +12,7 @@ That is one of the key ideas about liquids.
 
 **A liquid is a state of matter with a definite volume but no definite shape.**
 
-Liquids are everywhere in the world you actually use. They include water, sports drinks, milk, juice, oil, vinegar, rain, blood, sap, gasoline, ink, liquid soap, brake fluid, and engine oil. Liquids flow through rivers, pipes, veins, engines, oceans, and kitchens. They cool your body, power machines, shape weather, and carry nutrients through living things.
+Liquids are everywhere in the world you actually use. They include water, sports drinks, milk, juice, oil, rain, blood, gasoline, ink, liquid soap, brake fluid, and engine oil. They cool your body, power machines, shape weather, and carry nutrients through living things.
 
 To understand liquids, you must look smaller — at how their particles behave.
 
@@ -54,6 +54,8 @@ Liquids can flow, pour, drip, splash, and spread.
 
 They do not hold their own shape the way solids usually do.
 
+![Definite volume, no definite shape](059_Liquid_02.png)
+
 ## Particles in a Liquid
 
 Liquids are made of tiny particles such as atoms, molecules, or ions.
@@ -79,6 +81,8 @@ In a gas, particles are far apart and move freely. A gas has no definite shape a
 Liquids are in the middle. They are more flexible than solids but more compact than gases.
 
 If you have read the chapter on solids, you already know one side of this comparison. Liquids are the state between a rigid solid and a spread-out gas.
+
+![Solid, liquid, and gas compared](059_Liquid_03.png)
 
 ## Flow
 
@@ -106,7 +110,9 @@ Honey has higher viscosity than water. Molasses has higher viscosity than juice.
 
 Temperature can affect viscosity. Warm honey flows more easily than cold honey because heating lets its particles move more freely.
 
-Viscosity matters in cooking, engines, medicine, painting, lava flows, and many machines. Engineers choose liquids partly by how fast they need to flow.
+Viscosity matters in cooking, engines, medicine, painting, and many machines. Engineers choose liquids partly by how fast they need to flow.
+
+![High viscosity vs low viscosity](059_Liquid_04.png)
 
 ## Surface Tension
 
@@ -139,6 +145,8 @@ Cohesion helps water form drops.
 Adhesion helps water climb slightly up the sides of a glass tube and wet surfaces.
 
 Together, cohesion and adhesion help explain many liquid behaviors.
+
+![Cohesion and adhesion](059_Liquid_05.png)
 
 ## Capillary Action
 
@@ -205,6 +213,8 @@ If liquids do not mix, they may form layers according to density. Denser liquids
 
 A density column made from safe liquids such as corn syrup, colored water, and vegetable oil can show this clearly.
 
+![Oil floats on water](059_Liquid_06.png)
+
 ## Floating and Sinking in Liquids
 
 Objects float or sink in a liquid depending partly on density.
@@ -256,6 +266,8 @@ In a hydraulic brake system, pressing a pedal puts pressure on brake fluid. The 
 
 Hydraulics shows that liquids can do heavy work. A small push at one end can create a large push somewhere else.
 
+![Hydraulic brakes](059_Liquid_07.png)
+
 ## Compressibility
 
 Liquids are usually difficult to compress.
@@ -268,73 +280,23 @@ Liquids do not compress easily because their particles are already close togethe
 
 This is why liquids are useful in hydraulic systems. They can transmit pressure well because they do not simply shrink much when squeezed.
 
-## Evaporation
+## Changing State
 
-**Evaporation** is the change of state from liquid to gas at the surface of a liquid.
+Liquids do not stay liquids forever. They can change into other states of matter.
 
-Water evaporates from puddles, lakes, wet clothes, and skin.
+**Evaporation** is the change from liquid to gas at the surface of a liquid. Sweat evaporating from your skin after a game carries energy away and helps cool you. For more detail, see the chapter on evaporation.
 
-Evaporation can happen below the boiling point.
+**Boiling** is the change from liquid to gas throughout a liquid. Bubbles of water vapor rise through the liquid. Boiling happens at a substance's boiling point under ordinary pressure. Water boils at about 100 degrees Celsius at sea level. For more detail, see the chapter on boiling.
 
-On a warm, dry, windy day, a puddle may disappear faster because more water molecules escape from the surface into the air.
+**Condensation** is the change from gas to liquid. Water droplets on a cold drink form when water vapor in the air cools and condenses.
 
-Evaporation causes cooling. When sweat evaporates from your skin after exercise, it carries energy away and helps cool your body.
+**Freezing** is the change from liquid to solid. Liquid water freezes into ice at 0 degrees Celsius under ordinary conditions. For more detail, see the chapter on freezing.
 
-## Boiling
+**Melting** is the change from solid to liquid. Ice melts into water. Wax and chocolate melt when heated. For more detail, see the chapter on melting.
 
-**Boiling** is the change of state from liquid to gas throughout a liquid.
+Evaporation happens at the surface. Boiling happens throughout the liquid. Melting and freezing are opposite changes at the same temperature for a pure substance.
 
-When water boils, bubbles of water vapor form inside the liquid and rise to the surface.
-
-Boiling happens at a substance's boiling point, if pressure is ordinary and steady.
-
-Water boils at about 100 degrees Celsius at sea level.
-
-At higher elevations, air pressure is lower, so water boils at a lower temperature. That can affect cooking times on a camping trip in the mountains.
-
-Boiling is not the same as evaporation. Evaporation happens at the surface. Boiling happens throughout the liquid.
-
-## Condensation
-
-**Condensation** is the change of state from gas to liquid.
-
-Water droplets on the outside of a cold drink form because water vapor in the air cools and condenses.
-
-Clouds form when water vapor condenses into tiny liquid droplets or ice crystals.
-
-Condensation is part of the water cycle.
-
-It is the opposite of evaporation.
-
-## Freezing
-
-**Freezing** is the change of state from liquid to solid.
-
-Liquid water freezes into ice.
-
-As a liquid cools, its particles move more slowly. If it cools enough, the particles become held in fixed positions and form a solid.
-
-The temperature at which a liquid freezes is its **freezing point**.
-
-For water, the freezing point is 0 degrees Celsius under ordinary conditions.
-
-Freezing is usually a physical change because the substance does not become a new chemical substance.
-
-## Melting
-
-**Melting** is the change of state from solid to liquid.
-
-Ice melts into liquid water.
-
-Wax melts when heated.
-
-Chocolate melts on a warm day.
-
-During melting, particles gain enough energy to move past one another more freely.
-
-Melting and freezing are opposite changes.
-
-The same temperature is often called the melting point or freezing point, depending on which direction the change is happening.
+![Evaporation vs boiling](059_Liquid_08.png)
 
 ## Water: A Special Liquid
 
@@ -348,113 +310,21 @@ Water is also unusual because solid water, ice, is less dense than liquid water.
 
 This matters greatly. If ice sank, lakes and ponds could freeze from the bottom up, making life much harder for many organisms.
 
-## Solutions
+## Solutions, Suspensions, and Mixing
 
-A **solution** is an evenly mixed mixture.
+A **solution** is an evenly mixed mixture. Salt water and sugar water are solutions. In a solution, one substance dissolves in another. The **solute** is dissolved. The **solvent** does the dissolving. In salt water, salt is the solute and water is the solvent.
 
-Many solutions involve liquids.
+A **suspension** is a mixture in which particles are spread through a liquid but not dissolved. Muddy water and paint with pigment are suspensions. The particles may settle unless the mixture is stirred or shaken.
 
-Salt water is a solution. Sugar water is a solution. Vinegar is a solution of acetic acid in water.
+Some liquids do not mix evenly. Liquids that do not mix are called **immiscible**. Oil and water are the familiar example. When shaken together, they may form droplets briefly, but they usually separate again into layers, with oil floating because it is less dense than water.
 
-In a solution, one substance dissolves in another.
+## Liquids in the Real World
 
-The **solute** is the substance being dissolved.
+Living things depend on liquids. Blood carries oxygen and nutrients. Sap moves through plants. Sweat helps cool you during exercise. Tears protect the eyes.
 
-The **solvent** is the substance doing the dissolving.
+Weather depends on liquids too. Rain is liquid water falling from clouds. Fog is made of tiny water droplets near the ground. The water cycle depends on evaporation, condensation, freezing, melting, and precipitation.
 
-In salt water, salt is the solute and water is the solvent.
-
-## Suspensions
-
-Not all mixtures with liquids are solutions.
-
-A **suspension** is a mixture in which particles are spread through a liquid but not dissolved.
-
-Muddy water is a suspension. The dirt particles may slowly settle to the bottom.
-
-Orange juice with pulp can behave like a suspension.
-
-Paint is often a carefully designed suspension of tiny particles in liquid.
-
-Suspensions may need shaking or stirring to stay mixed.
-
-## Immiscible Liquids
-
-Some liquids do not mix evenly.
-
-Liquids that do not mix are called **immiscible**.
-
-Oil and water are familiar examples.
-
-When oil and water are shaken together, they may form droplets for a short time, but they usually separate again into layers.
-
-The oil floats because it is less dense than water.
-
-Immiscible liquids are important in cooking, cleaning, pollution control, chemistry, and industry.
-
-## Liquid Crystals
-
-Some materials behave partly like liquids and partly like solids.
-
-**Liquid crystals** can flow like liquids but have some orderly arrangement like crystals.
-
-Liquid crystals are used in many displays, including calculators, watches, monitors, and screens.
-
-LCD stands for liquid crystal display.
-
-Your phone, tablet, and many game screens depend on liquid crystal technology.
-
-This shows that states of matter can be more interesting than the simple words solid, liquid, and gas suggest.
-
-For this chapter, remember the main idea: ordinary liquids flow, keep volume, and take the shape of their containers.
-
-## Liquids in Living Things
-
-Living things depend on liquids.
-
-Blood carries oxygen, nutrients, wastes, and heat through the body.
-
-Sap carries materials through plants.
-
-Cells contain watery fluids where many chemical reactions happen.
-
-Tears protect the eyes. Saliva helps with chewing and digestion. Sweat helps cool the body during exercise.
-
-Life is not only built from solid structures. It depends on moving liquids.
-
-## Liquids in Weather
-
-Liquids are central to weather.
-
-Rain is liquid water falling from clouds.
-
-Cloud droplets are tiny liquid drops or ice crystals suspended in air.
-
-Fog is made of tiny water droplets near the ground.
-
-Puddles evaporate after rain.
-
-Water vapor condenses to form clouds and dew.
-
-The water cycle depends on evaporation, condensation, freezing, melting, and precipitation.
-
-## Liquids in Technology
-
-Technology uses liquids in many ways.
-
-Liquids cool engines, carry heat in heating systems, clean surfaces, dissolve chemicals, move force in hydraulic machines, lubricate moving parts, carry medicine into the body, and transport fuel.
-
-Engine oil reduces friction in cars, trucks, and bikes.
-
-Brake fluid transmits pressure.
-
-Ink carries color.
-
-Liquid fuels store chemical energy.
-
-Coolants help machines avoid overheating.
-
-The properties of a liquid matter for the job it must do. A mechanic does not put water in an engine where oil belongs.
+Technology uses liquids everywhere. Engine oil reduces friction. Brake fluid transmits pressure. Coolants carry heat away from machines. Liquid fuels store chemical energy. Ink carries color. A mechanic does not put water in an engine where oil belongs — the properties of the liquid must match the job.
 
 ## Common Misconceptions
 
@@ -492,7 +362,7 @@ Liquids are useful because they flow. That same ability means they can spill, sp
 
 A liquid is a state of matter with definite volume but no definite shape.
 
-Liquid particles are close together but can slide past one another, allowing liquids to flow and take the shape of their containers. Liquids have properties such as viscosity, surface tension, density, boiling point, freezing point, and ability to dissolve substances. They can evaporate, boil, condense, freeze, mix, separate, transmit pressure, and support life.
+Liquid particles are close together but can slide past one another, allowing liquids to flow and take the shape of their containers. Liquids have properties such as viscosity, surface tension, density, and the ability to dissolve substances. They can evaporate, boil, condense, freeze, transmit pressure, and support life.
 
 If you remember only one sentence, remember this:
 
@@ -512,22 +382,13 @@ If you remember only one sentence, remember this:
 10. Which has higher viscosity: honey or water?
 11. What is surface tension?
 12. How does soap affect water's surface tension?
-13. What is cohesion?
-14. What is adhesion?
-15. What is capillary action?
-16. What is a meniscus?
-17. What units are often used to measure liquid volume?
-18. What is density?
-19. Why does oil often float on water?
-20. What is liquid pressure?
-21. What is hydraulics?
-22. Why are liquids useful in hydraulic systems?
-23. What is evaporation?
-24. What is boiling?
-25. How is boiling different from evaporation?
-26. What is condensation?
-27. What is freezing?
-28. What is a solution?
-29. What is the difference between a solute and a solvent?
-30. What are three safety rules for studying or handling liquids?
-31. In your own words, explain why a bike or car needs the right liquid for brakes or an engine, not just any liquid that pours.
+13. What is cohesion? What is adhesion?
+14. What is capillary action?
+15. What is a meniscus?
+16. What is density? Why does oil often float on water?
+17. What is hydraulics? Why are liquids useful in hydraulic systems?
+18. How is evaporation different from boiling?
+19. What is a solution? What is the difference between a solute and a solvent?
+20. Why is ice floating on water important for lakes and ponds?
+21. What are three safety rules for studying or handling liquids?
+22. In your own words, explain why a bike or car needs the right liquid for brakes or an engine, not just any liquid that pours.

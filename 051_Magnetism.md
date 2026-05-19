@@ -2,13 +2,13 @@
 
 ![Magnetism](051_Magnetism_01.png)
 
-Hold a refrigerator magnet near a paper clip. The paper clip jumps up before the magnet even touches it. Bring two bar magnets together one way, and they snap toward each other. Turn one around, and they push apart as if an invisible cushion is between them.
+Hold a refrigerator magnet near a paper clip. The clip jumps up before the magnet even touches it. Bring two bar magnets together one way, and they snap toward each other. Turn one around, and they push apart as if an invisible cushion is between them.
 
 That invisible push or pull is magnetism.
 
 **Magnetism is a force caused by magnetic fields that can attract or repel certain materials and other magnets.**
 
-Magnetism is at work in compasses, electric motors, speakers, credit cards, headphones, generators, door latches, MRI machines, and even the planet Earth. It is one of the most important forces in science and technology.
+Magnetism is not just for sticking notes on a fridge. It spins the motor in an RC car, drives the speaker in your headphones, locks a cabinet door with a click, stores data on a card stripe, points a compass north, and even helps doctors see inside the body with an MRI machine. Earth itself acts like a giant magnet.
 
 To understand magnetism, we must begin with magnets.
 
@@ -18,13 +18,13 @@ A **magnet** is an object that produces a magnetic field.
 
 A magnetic field is invisible, but its effects can be seen. A magnet can pull on iron, steel, nickel, cobalt, and some other materials. A magnet can also push or pull on another magnet.
 
-Many everyday magnets are made of special iron-containing materials. Some are strong enough to hold tools on a workshop wall. Others are weak enough to hold a note on a refrigerator.
+Many everyday magnets are made of special iron-containing materials. Some are strong enough to hold tools on a workshop wall. Others are weak enough to hold a note on a refrigerator. A powerful neodymium magnet smaller than your thumb can lift more than you might expect.
 
 The important point is this:
 
 **A magnet affects certain objects around it without needing to touch them.**
 
-That means magnetism is a non-contact force, just like gravity and electric forces.
+That means magnetism is a **non-contact force**, just like gravity and electric forces.
 
 ## Magnetic Materials
 
@@ -40,6 +40,8 @@ Magnets strongly attract materials called **ferromagnetic materials**. The most 
 Paper, wood, glass, plastic, rubber, copper, aluminum, and cloth are usually not strongly attracted to ordinary magnets.
 
 This explains why a magnet sticks to a steel locker but not to a wooden desk. The magnet is not "looking for metal" in general. It is mainly attracted to certain kinds of metal.
+
+![What magnets attract](051_Magnetism_03.png)
 
 ## Magnetic Poles
 
@@ -66,6 +68,18 @@ A north pole and a south pole attract.
 
 This rule is similar in shape to the rule for electric charges, but the things involved are different. Electric charge has positive and negative charge. Magnets have north and south poles.
 
+![Like poles repel, opposite poles attract](051_Magnetism_02.png)
+
+## A Quick Test: Attraction vs Repulsion
+
+Attraction happens when opposite poles face each other.
+
+Repulsion happens when like poles face each other.
+
+Repulsion is especially good evidence that an object is a magnet. A piece of iron can be attracted to either pole of a magnet, but it does not repel either pole by itself. Another magnet can repel if the same poles face each other.
+
+So if an object pushes away from a known magnet, it is probably magnetic itself.
+
 ## Magnets Always Have Two Poles
 
 If you cut a bar magnet in half, you might think you would get one north piece and one south piece.
@@ -82,6 +96,8 @@ This is one of the strange and important facts about magnets:
 
 **A magnet is always a dipole, meaning it has two poles.**
 
+![Cut a magnet — still two poles](051_Magnetism_04.png)
+
 ## Magnetic Fields
 
 A magnet affects the space around it. This region is called a magnetic field.
@@ -96,6 +112,8 @@ The field is strongest near the poles. That is why many magnets pick up more pap
 
 Magnetic fields can pass through many materials. A magnet can often attract a paper clip through paper, cardboard, or a thin plastic ruler.
 
+![Magnetic field lines](051_Magnetism_05.png)
+
 ## Magnetic Field Lines
 
 Scientists often draw magnetic fields using **field lines**.
@@ -109,18 +127,6 @@ Where the lines are close together, the magnetic field is stronger.
 Where the lines are farther apart, the magnetic field is weaker.
 
 Field lines are not real strings or wires. They are a map. Like lines on a weather map, they help us understand something invisible.
-
-## Attraction and Repulsion
-
-Magnets can attract or repel.
-
-Attraction happens when opposite poles face each other. A north pole and a south pole pull together.
-
-Repulsion happens when like poles face each other. A north pole repels another north pole. A south pole repels another south pole.
-
-Repulsion is especially good evidence that an object is a magnet. A piece of iron can be attracted to either pole of a magnet, but it does not repel either pole by itself. Another magnet can repel if the same poles face each other.
-
-So if an object pushes away from a known magnet, it is probably magnetic itself.
 
 ## Temporary and Permanent Magnets
 
@@ -152,6 +158,8 @@ This is why stroking a needle with a magnet can sometimes magnetize the needle. 
 
 It is also why heating, hammering, or dropping a magnet can weaken it. Jostling the material can knock domains out of alignment.
 
+![Magnetic domains](051_Magnetism_06.png)
+
 ## Earth as a Magnet
 
 Earth acts as if it has a giant magnet inside it.
@@ -163,6 +171,8 @@ Earth's magnetic field is useful because it helps guide compasses. It also helps
 Earth's magnetic field is not exactly lined up with the geographic North Pole and South Pole. The magnetic poles are near, but not exactly at, the geographic poles.
 
 This difference matters in navigation.
+
+![Earth as a giant magnet](051_Magnetism_07.png)
 
 ## Compasses
 
@@ -226,6 +236,8 @@ Electromagnets are used in scrapyard cranes, doorbells, relays, electric locks, 
 
 Only build simple electromagnets with adult supervision. Batteries and wires can become hot if connected carelessly.
 
+![Simple electromagnet](051_Magnetism_08.png)
+
 ## Electric Motors
 
 An **electric motor** changes electrical energy into motion.
@@ -237,12 +249,12 @@ Inside a motor, coils of wire become electromagnets. These electromagnets push a
 Electric motors are everywhere:
 
 - Fans
-- Toy cars
+- RC cars and toy vehicles
 - Electric toothbrushes
 - Washing machines
 - Power tools
 - Computer drives
-- Robots
+- Drones and robots
 
 Whenever electrical energy makes something spin, vibrate, or move, magnetism is probably involved.
 
@@ -262,17 +274,19 @@ In a generator, motion helps make electricity.
 
 Both depend on the deep connection between magnetism and electricity.
 
+![Motor vs generator](051_Magnetism_09.png)
+
 ## Speakers and Headphones
 
 Speakers and headphones use magnetism to make sound.
 
-Inside a speaker is a permanent magnet and a coil of wire. Electric current through the coil changes rapidly as music, speech, or sound effects are played.
+Inside a speaker is a permanent magnet and a coil of wire. Electric current through the coil changes rapidly as music, speech, or game sounds are played.
 
 The changing current makes the coil act like a changing electromagnet. It is pushed and pulled by the permanent magnet.
 
 This motion moves a cone or diaphragm back and forth. The motion vibrates the air and creates sound waves.
 
-So when you hear music from a speaker, you are hearing air moved by magnetism and electricity working together.
+So when you hear bass from a speaker or dialogue in a headset, you are hearing air moved by magnetism and electricity working together.
 
 ## Magnetic Storage and Cards
 

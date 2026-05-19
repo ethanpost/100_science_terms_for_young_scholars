@@ -2,13 +2,15 @@
 
 ![Battery](053_Battery_01.png)
 
-Pick up a flashlight, a game controller, a phone, or a remote-control car. Each one can work without being plugged into the wall because it carries a small store of energy inside it.
+You are camping at night when your flashlight clicks off. You swap in a fresh battery, click it on, and light floods the tent again. Your game controller dies in the middle of a match. You plug it in, wait while it charges, and jump back into the game. A drone sits on the ground because its battery is empty. You slide in a charged pack, and the rotors spin up.
 
-That store of energy is usually a battery.
+None of these devices were plugged into a wall outlet. Each one carried its own small store of energy inside.
+
+That store is usually a **battery**.
 
 **A battery is a device that stores chemical energy and changes it into electrical energy for a circuit.**
 
-Batteries make portable electricity possible. They let people carry light, sound, motion, information, and communication in their pockets, backpacks, cars, tools, and emergency kits.
+Batteries make portable electricity possible. They let people carry light, sound, motion, information, and communication in pockets, backpacks, cars, tools, and emergency kits.
 
 To understand a battery, we must understand what it does in a circuit.
 
@@ -16,13 +18,15 @@ To understand a battery, we must understand what it does in a circuit.
 
 A battery does not create energy from nothing.
 
-Instead, it changes stored chemical energy into electrical energy.
+Instead, it changes stored **chemical energy** into **electrical energy**.
 
-Inside a battery are materials that can react chemically. These chemical reactions separate electric charge and create a difference in electric potential between two terminals.
+Inside a battery are materials that can react chemically. These reactions separate electric charge and create a difference in electric potential between two terminals.
 
 When the battery is connected to a complete circuit, the battery gives energy to charges in the circuit. The charges move, and electric current flows.
 
 The battery is like a pump for electric charge. It does not make the water in the pipes, but it gives the push that keeps the flow moving.
+
+![Battery as an energy pump](053_Battery_02.png)
 
 ## Terminals
 
@@ -38,6 +42,10 @@ On many batteries, the positive terminal is marked with a plus sign: **+**.
 The negative terminal is marked with a minus sign: **-**.
 
 For a battery to power a device, both terminals must usually be connected into a circuit. If only one terminal is connected, there is no complete path for current.
+
+That is why a flashlight with one battery inserted backward, or a loose contact in a toy, may not work even when the battery still has energy inside.
+
+![Positive and negative terminals](053_Battery_03.png)
 
 ## Electric Potential Difference
 
@@ -64,6 +72,8 @@ In metal wires, the moving charges are usually electrons. The battery supplies e
 A battery does not fill empty wires with electricity. The wires already contain electrons. The battery creates conditions that make charges move in an organized way.
 
 If the circuit is open, current stops. The battery may still have stored chemical energy, but the charge has no complete path.
+
+![Battery, wires, and current](053_Battery_04.png)
 
 ## Cells and Batteries
 
@@ -92,6 +102,8 @@ The **electrolyte** is a material that allows charged particles called ions to m
 The two electrodes are made of different materials or are treated differently. Chemical reactions at the electrodes cause electrons to build up at one terminal and be taken away at the other.
 
 This separation of charge creates voltage.
+
+![Inside a simple cell](053_Battery_05.png)
 
 ## Chemical Reactions
 
@@ -144,11 +156,14 @@ Rechargeable batteries are used in:
 - Cordless tools
 - Cameras
 - Electric cars
+- Drones and RC vehicles
 - Some emergency lights
 
 Rechargeable batteries do not last forever. After many charge and discharge cycles, they usually hold less energy than when they were new.
 
-This is why an old phone may run out of power faster than it did when it was new.
+That is why an old phone may run out of power faster than it did when it was new.
+
+![Primary vs rechargeable batteries](053_Battery_06.png)
 
 ## Common Battery Types
 
@@ -202,6 +217,8 @@ For example, a small AAA battery and a larger D battery may both have about 1.5 
 
 This is why voltage alone does not tell you how long a battery will last.
 
+![Same voltage, different capacity](053_Battery_07.png)
+
 ## Internal Resistance
 
 Real batteries are not perfect.
@@ -239,6 +256,8 @@ The voltage stays about the same as one battery, but the group can often supply 
 Parallel battery connections must be designed carefully. Mismatched batteries can push current into each other, overheat, leak, or become damaged.
 
 Students should not build battery packs unless a teacher or knowledgeable adult has designed the activity safely.
+
+![Series vs parallel](053_Battery_08.png)
 
 ## Battery Life
 
@@ -323,6 +342,8 @@ A short-circuited battery can become hot, leak, burst, or start a fire.
 Loose batteries should not be stored where their terminals can touch metal objects such as coins, keys, paper clips, foil, or tools.
 
 This is especially important for powerful rechargeable batteries and 9-volt batteries, whose terminals are close together.
+
+![Battery safety](053_Battery_09.png)
 
 ## Batteries and Modern Life
 

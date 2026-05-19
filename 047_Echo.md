@@ -38,6 +38,8 @@ Light reflects from mirrors and shiny surfaces. Sound reflects from hard surface
 
 The reflected sound wave can travel back to your ear. If it arrives late enough and clearly enough, you hear an echo.
 
+![Sound reflects from surfaces](047_Echo_02.png)
+
 ## Echo and Delay
 
 For you to hear a separate echo, the reflected sound must return after a short delay.
@@ -49,6 +51,8 @@ If the surface is far enough away, your ear and brain can separate the original 
 A canyon wall, large building, or distant cliff can produce a clear echo because the sound has time to travel out and back.
 
 Echoes are delayed reflections.
+
+![Close wall vs far cliff](047_Echo_03.png)
 
 ## Round Trip Distance
 
@@ -63,6 +67,8 @@ This is important for echo calculations.
 If an echo returns after 2 seconds, the sound did not travel only from you to the wall. It traveled to the wall and back.
 
 To find the distance to the wall, you use half the round-trip distance.
+
+![Round trip distance](047_Echo_04.png)
 
 ## A Simple Echo Calculation
 
@@ -85,6 +91,8 @@ So the cliff is half that distance away:
 **686 m ÷ 2 = 343 m**
 
 The cliff is about 343 meters away.
+
+![Echo distance calculation](047_Echo_05.png)
 
 ## Hard Surfaces and Soft Surfaces
 
@@ -113,6 +121,8 @@ Examples include:
 
 This is why an empty room may echo, while a furnished room sounds quieter and clearer.
 
+![Hard surfaces vs soft materials](047_Echo_06.png)
+
 ## Absorption
 
 **Absorption** happens when sound energy is taken into a material rather than reflected strongly.
@@ -136,6 +146,8 @@ Reverberation is not exactly the same as a single echo. An echo is a distinct re
 A cathedral may have long reverberation, making music sound grand but speech less clear.
 
 A recording studio has much shorter reverberation so sounds can be recorded cleanly.
+
+![Single echo vs reverberation](047_Echo_07.png)
 
 ## Echoes Indoors
 
@@ -175,6 +187,8 @@ Ships use sonar to map the ocean floor, find fish, detect obstacles, and navigat
 
 Sound travels well in water, which makes sonar very useful in oceans.
 
+![Sonar uses underwater echoes](047_Echo_08.png)
+
 ## Echolocation
 
 **Echolocation** is using echoes to locate objects.
@@ -212,6 +226,8 @@ Ultrasound can show a developing baby, muscles, organs, blood flow, and other st
 Unlike X-rays, ultrasound does not use ionizing radiation.
 
 It is a medical use of echoes.
+
+![Echolocation and ultrasound echoes](047_Echo_09.png)
 
 ## Echoes and Animals
 
