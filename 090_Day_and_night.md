@@ -38,6 +38,8 @@ The Sun is not really circling Earth each day. **Earth is turning.** The Sun's d
 
 This is like watching scenery seem to slide backward when you ride in a train or bus. The trees are not rushing backward. Your point of view is moving. Same idea with the sky.
 
+![Apparent motion — the bus moves, not the trees](090_Day_and_night_02.png)
+
 **Memory trick:** The planet spins **eastward**, so the sky seems to slide **westward** — the opposite direction.
 
 ## Your Daily Ride Toward and Away from the Sun
@@ -53,6 +55,8 @@ Solar noon is not always exactly 12:00 on a clock. Clocks use **time zones**, da
 After solar noon, your part of Earth begins turning away from the Sun. The Sun appears lower. At **sunset**, your location rotates out of direct sunlight and the Sun sinks toward the western horizon.
 
 **Midnight** is roughly when your side of Earth faces most directly away from the Sun — the opposite of solar noon. Clock midnight may not match the exact astronomical middle of the night, but it still reminds you of the main idea: day and night are not the Sun turning on and off. They are Earth turning.
+
+![Your town rides Earth from sunrise to midnight](090_Day_and_night_03.png)
 
 | Event | What is happening | What you often notice |
 |-------|-------------------|------------------------|
@@ -71,11 +75,15 @@ Far from city lights, the night sky can be much darker and richer — which is w
 
 If you have read the chapter on **stars**, you know each point of light is a distant sun. Day hides them. Night reveals them.
 
+![Night is Earth's shadow — stars were there all along](090_Day_and_night_04.png)
+
 ## Why the Daytime Sky Looks Blue
 
 During the day, sunlight enters Earth's atmosphere. Gases and tiny particles **scatter** sunlight. Blue light is scattered more strongly than red light, so blue light bounces around the sky in all directions. That is why the daytime sky often looks blue.
 
 This is also why stars are hard to see during the day. The stars are still shining, but the bright blue sky hides them. If Earth had no atmosphere, the sky would look black even in daytime — except right where the Sun was shining. The atmosphere turns sunlight into a bright sky.
+
+![Blue light scatters — that's why the sky looks blue](090_Day_and_night_05.png)
 
 ## Why Sunrises and Sunsets Can Look Epic
 
@@ -96,6 +104,8 @@ On a sunny day at school or practice:
 | Afternoon | Low in the west | Long shadows pointing generally east |
 
 Stick a pencil or tent pole upright and mark its shadow every hour. The ground seems still, but the moving shadow tells you the planet is turning. Ancient people used the same idea with sundials. You do not need to feel the spin to see its effects.
+
+![Morning, noon, afternoon — shadows prove Earth is turning](090_Day_and_night_06.png)
 
 ## The Moon Can Show Up During the Day
 
@@ -137,6 +147,8 @@ Keep the causes separate:
 **Tilt and revolution** change how long daylight lasts during different seasons. In summer, your hemisphere is tilted toward the Sun and the Sun takes a longer path across the sky. In winter, your hemisphere is tilted away and the path is shorter.
 
 **Memory trick:** **Rotation** = **R**ight now (today's light switch). **Revolution** = the **year**-long trip around the Sun.
+
+![Rotation gives day and night; revolution and tilt give seasons](090_Day_and_night_07.png)
 
 ## Different Places, Different Daylight
 

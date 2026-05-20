@@ -60,6 +60,8 @@ An **annular solar eclipse** happens when the Moon is aligned with the Sun but a
 | Total | Sun fully covered; corona may show | Rare for any one town |
 | Annular | Bright ring around the Moon | Uncommon; depends on orbit distance |
 
+![Partial, total, and annular solar eclipses](092_Eclipse_02.png)
+
 ### The Path of Totality
 
 During a **total** solar eclipse, the Moon's dark inner shadow — the **umbra** — traces a narrow ribbon across Earth's surface. Only people inside that moving path see totality.
@@ -67,6 +69,8 @@ During a **total** solar eclipse, the Moon's dark inner shadow — the **umbra**
 Outside the path, you might see a partial eclipse if the geometry is close. That is why your cousin three states away might get a decent partial view while you get totality — or nothing impressive at all.
 
 Earth is huge. The Moon's shadow on the ground is small — often only about 100 to 200 kilometers wide during totality. A total solar eclipse for your hometown might not happen again for centuries. That is why people book hotels years ahead and drive across state lines: they are chasing a moving ribbon of darkness that lasts only a few minutes.
+
+![The path of totality — a narrow moving ribbon](092_Eclipse_03.png)
 
 ### The Safety Rule That Matters
 
@@ -103,9 +107,13 @@ Shadows are not all-or-nothing. A big light source like the Sun makes shadows wi
 
 Think of standing near a goalpost on a sunny field. Close behind the post, your shadow is sharp and dark — like the umbra. Farther out, the shadow fades and blends — like the penumbra.
 
+![Umbra and penumbra — sharp shadow vs fading edge](092_Eclipse_04.png)
+
 ### Total, Partial, and Penumbral Lunar Eclipses
 
 A **total lunar eclipse** occurs when the entire Moon enters Earth's umbra. The Moon does not disappear. Some sunlight **bends** through Earth's atmosphere and still reaches the Moon. Earth's air scatters shorter wavelengths (blues) more than longer ones (reds). The light that gets through can paint the Moon **copper, orange, or rust-red**. People sometimes call this a "blood moon" in popular language. Scientists still say **lunar eclipse** — the red color is physics, not horror.
+
+![Why a total lunar eclipse can look red](092_Eclipse_05.png)
 
 A **partial lunar eclipse** happens when only part of the Moon enters the umbra. You see a dark bite on one side of the disk while the rest stays bright.
 
@@ -137,12 +145,17 @@ Eclipses occur when the lineup is good enough near special crossing points in th
 
 That is why eclipses are rare treats, not nightly news. Several can happen in one year; then none for a while. Astronomers publish eclipse maps years in advance because the motions are that predictable — the same careful orbit math behind **revolution of the Earth** and the yearly calendar.
 
+![Tilted orbit and nodes — why eclipses skip most months](092_Eclipse_06.png)
+
 ## What Totality Feels Like
 
 People who have stood in the path of totality often describe the same things:
 
 - Temperature drop, like evening arriving in minutes
 - Odd shadows — crescent-shaped under trees as leaves act like thousands of pinholes
+
+![Crescent pinhole shadows under a tree](092_Eclipse_07.png)
+
 - Confused birds or insects
 - A thin band of sunset colors on the horizon while the sky overhead goes dark
 - The corona appearing when the bright disk vanishes — delicate, bright, unlike anything in a textbook drawing

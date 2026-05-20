@@ -44,6 +44,8 @@ For now, remember this line:
 
 **Weather is what you wear today. Climate is what your closet is built for over years.**
 
+![Weather vs climate — today vs your closet](100_Weather_02.png)
+
 ## The Main Ingredients
 
 Think of weather as a recipe. The Sun, spinning Earth, oceans, and land all stir the pot.
@@ -79,6 +81,8 @@ Wind blows because air moves from areas of **higher** pressure toward areas of *
 
 Earth's **rotation** curves moving air in large systems. That twist is part of why storm tracks and wind directions can seem to turn on a map.
 
+![High pressure vs low pressure — sinking clear air vs rising stormy air](100_Weather_03.png)
+
 ## Wind: Air on the Move
 
 **Wind** is air moving from higher pressure toward lower pressure, shaped by Earth's spin, mountains, lakes, cities, and the temperature of land and water.
@@ -92,6 +96,8 @@ Local winds have names you might hear:
 - **Mountain breeze** and **valley breeze** — daily patterns tied to slopes heating and cooling.
 
 On a bigger scale, the **jet stream** is a fast river of air high in the sky. It steers large masses of cold and warm air, like a conveyor belt for storm systems.
+
+![Wind flows from high pressure toward low pressure](100_Weather_04.png)
 
 ## Water in the Air: Humidity, Clouds, Rain
 
@@ -114,6 +120,8 @@ When droplets or crystals grow heavy enough, they fall as **precipitation**:
 
 **Sinking** air warms and can **evaporate** clouds, clearing the sky. Sunny high-pressure days often work this way.
 
+![Rising air cools and forms clouds; sinking air clears the sky](100_Weather_05.png)
+
 ## Cloud Families You Can Actually Name
 
 You do not need to memorize every cloud type on Earth. Start with three families:
@@ -125,6 +133,8 @@ You do not need to memorize every cloud type on Earth. Start with three families
 Storm clouds such as **cumulonimbus** can tower like mountains and produce lightning, heavy rain, and hail.
 
 Clouds are not "light" because they float. A thick cloud can weigh **millions of pounds**. Droplets stay aloft because they are tiny, spread out, and supported by **updrafts** — rising air inside the cloud.
+
+![Cumulus, stratus, and cirrus — three cloud families to start with](100_Weather_06.png)
 
 ## Why Weather Changes
 
@@ -167,6 +177,8 @@ Fronts are not the whole atmosphere, but they are a powerful story for why Tuesd
 
 Picture a cold front like a **snowplow blade** of dense air shoving under warm, moist air and forcing it upward fast — boom, tall clouds and storms.
 
+![A cold front wedges under warm air like a snowplow](100_Weather_07.png)
+
 ## How Forecasters Do Their Job
 
 **Meteorologists** study weather using **observations** and **models**.
@@ -186,6 +198,8 @@ Forecasts are usually **excellent for a day or two**, **good for several days**,
 That is not failure. It is honest science about a spinning planet wrapped in a fluid ocean of air.
 
 When your app says "40% chance of rain," it usually means that in similar situations, rain happened on 4 out of 10 days — not that 40% of your town gets wet. Read the fine print on your favorite app.
+
+![Observations and models — how forecasters predict the atmosphere](100_Weather_08.png)
 
 ## Severe Weather and Safety
 

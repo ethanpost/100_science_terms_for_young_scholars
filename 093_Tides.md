@@ -36,6 +36,8 @@ If you mix those up, you might blame "the tide" for a windy afternoon splash whe
 | **Wind wave** | Seconds | Wind on the surface |
 | **Storm surge** | Hours during a storm | Low pressure and powerful winds |
 
+![Tide vs wind wave vs storm surge](093_Tides_02.png)
+
 ## Gravity: The Invisible Rope
 
 **Gravity** is the attractive force between any two masses.
@@ -45,6 +47,8 @@ Earth pulls on you. You pull on Earth (a tiny amount). The Moon pulls on Earth. 
 For tides, the important idea is not just "gravity exists." It is that **gravity is slightly stronger on the side of Earth closer to the Moon and slightly weaker on the side farther away.**
 
 Picture Earth as a ball of putty with the Moon off to one side. The near side gets tugged a bit harder. The far side gets tugged a bit less hard than the center. Over vast oceans, that difference helps create a pattern of bulging water — often described as two main bulges in a simplified model, one toward the Moon and one on the opposite side.
+
+![Two bulges — stronger pull near the Moon, weaker on the far side](093_Tides_03.png)
 
 You do not need every equation at age twelve.
 
@@ -68,6 +72,8 @@ Tidal effects depend strongly on distance. The Sun still matters — a lot — b
 | Sun | Huge | ~150 million km (far) | Important **modifier** |
 
 When the Sun and Moon work together, tides can swing higher and lower. When they partly cancel, tides calm down. That monthly pattern is one of the coolest "hidden calendars" on the planet — and it lines up with **moon phases** you may have studied already.
+
+![Moon close, Sun far — closeness wins for everyday tides](093_Tides_04.png)
 
 ## High Tide, Low Tide, and Tidal Range
 
@@ -108,6 +114,8 @@ Surfers and sailors often learn the lunar calendar without thinking about it: ce
 
 **Memory trick:** **Spring** tides at **full** and **new** — think "full swing" of the water. **Neap** tides at **quarter** moons — think "nearer to average," smaller swings.
 
+![Spring tides vs neap tides — aligned vs at an angle](093_Tides_05.png)
+
 ## Why Many Places Get Two High Tides a Day
 
 Earth **rotates** once about every 24 hours — the same spin that drives **day and night**.
@@ -132,6 +140,8 @@ That is why two beaches an hour apart can have high tide at different clock time
 | **Diurnal** | 1 | 1 | Parts of Gulf of Mexico |
 | **Mixed** | 2 (unequal) | 2 (unequal) | Parts of U.S. Pacific coast |
 
+![Earth's spin and two bulges — about two highs a day](093_Tides_06.png)
+
 ## Tides Versus Wind Waves and Storm Surge
 
 **Wind waves** are what you see on a breezy afternoon: energy moving through the water, crests forming and breaking, often gone in seconds.
@@ -149,6 +159,8 @@ Think of it in layers:
 1. **Tide** — slow up-and-down baseline (Moon, Sun, spin, coast).
 2. **Wind waves** — fast ripples on top of that baseline.
 3. **Storm surge** — extra mound from weather, stacked on whatever the tide is doing.
+
+![Three layers — tide baseline, wind waves, storm surge](093_Tides_07.png)
 
 ## Tides in Action: Who Cares?
 

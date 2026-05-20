@@ -1,6 +1,6 @@
 ﻿# Climate
 
-![Climate](101_Climate_01.png)
+![Weather is what you get today; climate is what your closet is built for](101_Climate_01.png)
 
 Your travel team flies to a regional tournament in a city you have never visited. The coach texts: *Pack light — it is summer.* You show up in shorts. Day one is brutal: humid, 95°F, practice feels like running through a wet towel.
 
@@ -41,6 +41,8 @@ A useful line to keep:
 
 **Weather is what you wear today. Climate is what your closet is built for over years.**
 
+![Weather is the play-by-play; climate is the season stats](101_Climate_02.png)
+
 One snowy week in Michigan does not erase the fact that Michigan winters are usually cold. One heat wave in Seattle does not turn Seattle into Phoenix. Single events are **weather**. Long patterns are **climate**.
 
 ## Climate, Seasons, and "Sports Season"
@@ -57,6 +59,8 @@ Three words sound alike. Keep them separate.
 
 A warm January afternoon is still winter. A rainy July week is still summer. Climate describes what a place is **generally like** across many years, not one weird week.
 
+![Weather, season, sports season, and climate — keep them separate](101_Climate_03.png)
+
 ## Why Scientists Use Long Time Spans
 
 The atmosphere is noisy. El Niño years feel different from La Niña years. Some winters dump extra snow; some summers stay mild.
@@ -70,6 +74,8 @@ Climate scientists often compare data to a **climate normal** — usually a 30-y
 The big idea:
 
 **Short records hear noise. Long records reveal pattern.**
+
+![Short records hear noise; long records reveal pattern](101_Climate_04.png)
 
 ## Averages Tell Part of the Story — Variability Tells the Rest
 
@@ -89,6 +95,8 @@ For an athlete or coach, variability matters as much as the average:
 - A game designer building an open-world map needs believable **biomes** — deserts, tundra, and rainforests in places that make geographic sense, not scattered at random.
 
 **Climate is not only "the average." It is the average plus the spread — and how that spread is changing.**
+
+![Same yearly average — totally different year-round feel](101_Climate_05.png)
 
 ## What Shapes a Region's Climate
 
@@ -110,6 +118,8 @@ No serious scientist says climate is "only latitude." It is a woven belt of caus
 **Monsoons** are seasonal wind and rain reversals — famous in South Asia, but the idea (wet season / dry season) appears in other regions too.
 
 No single factor wins every battle. Climate is **teamwork** among Sun angle, geography, ocean, ice, wind, and life on land. The chapter on **latitude** is one piece of that puzzle; oceans, mountains, and winds fill in the rest.
+
+![Climate is teamwork among Sun, ocean, land, and wind](101_Climate_06.png)
 
 ## Climate Zones — Training Wheels, Not the Whole Map
 
@@ -150,6 +160,8 @@ For times **before** thermometers and satellites, scientists use **proxies** —
 
 No proxy is perfect alone. Together they build a picture far more reliable than **grandpa's memory** of "snowier winters when I was a kid." Human memory is short, selective, and great at remembering the wildest year — not the average one.
 
+![Proxies are nature's archives before thermometers](101_Climate_07.png)
+
 ## Climate Changes — It Always Has
 
 Earth's climate has **never** been frozen in one setting forever.
@@ -181,6 +193,8 @@ This chapter is not a full earth-science course. It gives honest framing:
 Understanding the science does not mean every solution is easy. It does mean decisions about energy, forests, cities, and farms can be grounded in evidence instead of slogans.
 
 **Warming does not mean "never cold again."** It means long-term averages and many indicators shifting — while weather still swings hot and cold day to day. Good climate literacy holds **trend** and **variability** in your head at the same time.
+
+![Warming is a long-term trend — weather still swings hot and cold](101_Climate_08.png)
 
 ## Thinking Like a Climate Scientist
 

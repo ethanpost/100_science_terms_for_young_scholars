@@ -16,6 +16,8 @@ Because Earth rotates, the equator is also the place where Earth's surface moves
 
 You do not feel that speed as wind in your face because you, the air, and the ground share the motion, like passengers in an airplane cabin.
 
+![Shared motion is hard to feel](098_Equator_02.png)
+
 ## A Great Circle
 
 The equator is a **great circle**, meaning its plane passes through Earth's center.
@@ -23,6 +25,8 @@ The equator is a **great circle**, meaning its plane passes through Earth's cent
 That makes the equator the longest possible east-west circle you can draw on Earth's surface.
 
 Other latitude parallels shrink as you move toward the poles.
+
+![Great circle through Earth's center; smaller parallels toward the poles](098_Equator_03.png)
 
 ## Climate Near the Equator
 
@@ -36,6 +40,8 @@ Rainfall patterns still vary dramatically with geography, mountains, and ocean w
 
 It means "special geometry of sunlight and day length."
 
+![Near the equator, day length stays near twelve hours year-round](098_Equator_04.png)
+
 ## A Belt of Many Worlds
 
 The equator crosses land and sea in several regions of the world.
@@ -48,6 +54,8 @@ That variety is a useful warning against stereotypes.
 
 Rainfall and temperature still depend on mountains, ocean winds, elevation, and local geography.
 
+![Same equatorial belt — rainforest, desert, volcano, and port city](098_Equator_05.png)
+
 ## The Celestial Equator
 
 Astronomers also talk about the **celestial equator**, which is Earth's equator projected outward onto the sky.
@@ -56,6 +64,8 @@ It is the line in the sky that Earth's rotation seems to make stars follow.
 
 Learning both uses of the word helps later astronomy lessons.
 
+![The celestial equator — Earth's equator projected onto the sky](098_Equator_06.png)
+
 ## Equator and Navigation
 
 The equator is a natural reference for latitude.
@@ -63,6 +73,8 @@ The equator is a natural reference for latitude.
 Sailors crossing the equator celebrate traditions, silly and old-fashioned, but the navigation idea is serious:
 
 **zero north-south distance from the dividing line of hemispheres.**
+
+![Crossing the equator — a natural reference for latitude](098_Equator_07.png)
 
 ## Common Mistakes About the Equator
 
@@ -79,6 +91,8 @@ A third mistake is confusing the equator with the prime meridian.
 Equator is latitude zero.
 
 Prime meridian is longitude zero.
+
+![Common equator myths — hottest every moment, drain spirals, vs prime meridian](098_Equator_08.png)
 
 ## How to Think Like an Earth Scientist
 

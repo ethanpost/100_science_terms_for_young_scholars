@@ -4,7 +4,11 @@
 
 Your coach texts a meet-up spot for summer camp: **"Same latitude as home — just fly south."** You land in São Paulo. The airport is warm, palm trees line the road, and kids are in shorts in July while your cousins back home are in hoodies. Same **latitude band** on the globe — totally different country, language, and longitude.
 
+![Same latitude band, different worlds](096_Latitude_02.png)
+
 Or you drop a pin in a survival game: **42.3° N**. The map loads mountains and pine trees. Your friend types **42.3° S** and spawns on a windy coast with penguins. One number flipped from **N** to **S** — opposite side of the planet.
+
+![42.3° N vs 42.3° S — opposite sides of Earth](096_Latitude_03.png)
 
 "Meet me on Earth" is useless. You need coordinates — a global address made of numbered lines.
 
@@ -60,6 +64,8 @@ That is why driving due east along a highway can take you through three states w
 
 The equator is the longest parallel. As you move toward the poles, the circles shrink. Near the North Pole, a "circle of latitude" is tiny — you could walk around it in minutes. At the pole itself, you are standing on a single point: 90° north, no east or west left.
 
+![Parallels shrink toward the poles; driving east keeps latitude](096_Latitude_04.png)
+
 | Parallel | Rough latitude | What it is like |
 |----------|----------------|-----------------|
 | Equator | **0°** | Longest ring; fastest spin from Earth's rotation |
@@ -78,6 +84,8 @@ That means 40 degrees, 42 minutes, 46 seconds **north** of the equator.
 Think of it like slicing a circle into smaller pieces. A **degree** is a big step. **Minutes** and **seconds** are smaller steps on the same angle — not clock minutes, but angle minutes.
 
 Digital maps and phones often use **decimal degrees** instead, such as **40.7128° N** (New York City area). Same idea, different format. Both describe an angle measured at Earth's center between the equator's plane and a line drawn to your spot on the surface.
+
+![Degrees, minutes, and seconds — angle slices, not clock time](096_Latitude_05.png)
 
 If you have ever used coordinates in a strategy game, flight simulator, or mapping app, you have already seen numbers like these — even if nobody called them latitude.
 
@@ -100,6 +108,8 @@ That is why latitude connects to broad climate patterns, even though mountains, 
 | **Polar regions** | High latitudes, inside Arctic/Antarctic circles | Extreme daylight swings; cold on average |
 
 Latitude is not destiny — a coastal city at 45° north can feel different from an inland city at the same latitude — but it is one of the biggest clues on the map.
+
+![Sun angle and seasons shift with latitude](096_Latitude_06.png)
 
 ## Special Parallels: Tropics and Polar Circles
 
@@ -125,6 +135,8 @@ Notice the math:
 
 The tropics and polar circles are geometry labels for a tilted planet, not magic walls. Birds, storms, and people cross them freely. But on a map they are excellent signposts for how sunlight behaves.
 
+![Tropics at 23.5° and polar circles at 66.5°](096_Latitude_07.png)
+
 ## Northern Hemisphere and Southern Hemisphere
 
 The equator splits Earth into two **hemispheres** by latitude.
@@ -138,6 +150,8 @@ Hemisphere tells you north-or-south side of the equator, not your east-west posi
 Australia and Argentina are both in the Southern Hemisphere, but they sit on opposite sides of the planet in longitude — like two kids on opposite ends of the same bench row.
 
 When the Northern Hemisphere has summer, the Southern Hemisphere has winter, because tilt aims more sunlight at one half of Earth at a time.
+
+![Northern summer is Southern winter — same tilt, opposite seasons](096_Latitude_08.png)
 
 ## Latitude in the Real World
 

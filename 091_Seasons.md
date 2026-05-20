@@ -44,6 +44,8 @@ They overlap, but they are not the same thing. A warm January day does not magic
 
 This chapter is about **astronomical seasons** — the science behind the year's rhythm.
 
+![Two kinds of season](091_Seasons_02.png)
+
 ## What a Season Really Is
 
 In many places people name four seasons:
@@ -84,6 +86,8 @@ Both happen at once. You are spinning with Earth every day while Earth carries y
 
 If Earth were **not** tilted, days would still exist, but seasons would be much weaker. **Revolution alone** does not create our familiar spring, summer, fall, and winter. **Tilt plus revolution** does.
 
+![Rotation vs revolution](091_Seasons_03.png)
+
 ## Earth's Axis Is Tilted
 
 Picture a globe on a desk.
@@ -96,6 +100,8 @@ It is tilted by about **23.5 degrees**.
 
 That tilt stays pointed toward roughly the same direction in space — near **Polaris**, the North Star — as Earth goes around the Sun. The axis does not wobble like a spinning top losing balance.
 
+![The tilt stays put](091_Seasons_04.png)
+
 So sometimes the **Northern Hemisphere** leans toward the Sun.
 
 Sometimes it leans away.
@@ -105,6 +111,8 @@ Sometimes Earth is in an in-between position.
 The **Southern Hemisphere** leans the opposite way at the same time.
 
 That is why Australia can have winter while the United States has summer. Opposite seasons at the same moment are strong proof that **tilt**, not distance, drives the pattern.
+
+![Opposite hemispheres, same day](091_Seasons_05.png)
 
 ## Why Tilt Changes the Strength of Sunlight
 
@@ -154,6 +162,8 @@ Evening practice in June still has usable light. The same time slot in December 
 
 Birds migrate. Trees leaf out or drop leaves. Frost appears on grass. Your gear changes — shorts, hoodie, heavy coat. These living-world and locker-room signs ride on the same astronomical rhythm.
 
+![Same field, same clock — different shadow](091_Seasons_08.png)
+
 | What to watch | Summer tendency | Winter tendency |
 |---------------|-----------------|-----------------|
 | Noon shadow | Shorter | Longer |
@@ -181,6 +191,8 @@ Distance has a small effect. Earth's **tilted axis** and **revolution** do the h
 
 **Memory trick:** **Peri**helion sounds like **peri**od — think "close period" in January. **Ap**helion — **ap**art, farther in July. But neither one decides your hemisphere's season. **Tilt** does.
 
+![Distance myth busted](091_Seasons_06.png)
+
 ## Solstices and Equinoxes
 
 Astronomers mark the year with special turning points tied to tilt and orbit.
@@ -200,6 +212,8 @@ At an equinox, neither hemisphere is tilted strongly toward the Sun.
 - **September equinox** (around September 22–23): begins astronomical autumn there.
 
 Names can vary by culture and local climate, but the astronomy is the same: **tilt plus revolution** creates repeating sunlight patterns.
+
+![Solstice vs equinox](091_Seasons_07.png)
 
 ## Tropics, Polar Circles, and the Geometry of Seasons
 

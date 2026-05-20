@@ -22,6 +22,8 @@ One slice was chosen long ago as the starting line: the **prime meridian** at **
 
 Walk east around the globe and your longitude number climbs toward **180° east**. Walk west and you climb toward **180° west**. East and west meet on the far side of Earth at the **180° meridian** — the rough home of the **International Date Line**.
 
+![Meridians are pole-to-pole slices of Earth](097_Longitude_02.png)
+
 Longitude answers one clean question:
 
 **How far east or west am I around Earth?**
@@ -34,6 +36,8 @@ It does not tell you how far north or south you are. That is **latitude**. Toget
 | **Longitude** | East–west from the prime meridian | Run **north–south** (meridians) | **Long**itude = **L**ong lines from pole to pole |
 
 **Memory trick:** **LONG**itude lines are **LONG** — they run from pole to pole. They measure how far you have walked **around** the ring of the planet, not how far up or down the ladder you are.
+
+![Latitude vs longitude: ladder vs long lines](097_Longitude_03.png)
 
 ## Meridians: Pole-to-Pole Slices
 
@@ -63,6 +67,8 @@ Digital maps often use **decimal degrees**, such as **−77.0367°** (negative o
 
 If you have dropped pins in a flight simulator, geocaching app, or open-world game, you have already seen these numbers — even if nobody called them longitude.
 
+![Degrees, minutes, seconds — and decimal form](097_Longitude_04.png)
+
 ## East and West of Greenwich
 
 The prime meridian splits Earth into longitude halves the way the equator splits north and south.
@@ -79,6 +85,8 @@ For centuries, sailors could estimate **latitude** fairly well by measuring how 
 
 **Longitude at sea was much harder.** It was not mainly a geometry puzzle on a chart. It was a **time** problem.
 
+![Longitude at sea was a clock problem](097_Longitude_05.png)
+
 Earth rotates about **360° in about 24 hours**.
 
 So **15° of longitude** matches about **1 hour** of Earth's rotation.
@@ -88,6 +96,8 @@ So **15° of longitude** matches about **1 hour** of Earth's rotation.
 | **360°** in ~**24 hours** | One full spin of Earth |
 | **15°** per **1 hour** | Each hour of spin = 15° of longitude |
 | **1°** in ~**4 minutes** | Fine-grained east–west position from time |
+
+![Fifteen degrees of longitude per hour of Earth's spin](097_Longitude_06.png)
 
 If you know the exact time at Greenwich (or any agreed zero meridian) **and** you know your local solar time, you can figure out how many hours you are ahead or behind — and convert that to degrees east or west.
 
@@ -135,6 +145,8 @@ If a rocket launch is at **14:30 UTC**, engineers in Florida, Paris, and Tokyo c
 
 **Memory trick:** Pilots sometimes call UTC **"Zulu time"** — the **Z** on aviation charts. It is not whatever o'clock is on your classroom wall.
 
+![UTC — one shared clock for the whole planet](097_Longitude_08.png)
+
 ## The International Date Line
 
 On the opposite side of Earth from Greenwich lies the **180° meridian**. Near it runs the **International Date Line**.
@@ -142,6 +154,8 @@ On the opposite side of Earth from Greenwich lies the **180° meridian**. Near i
 Crossing it eastward or westward often changes the **calendar date** — you might "lose" or "gain" a day on a long flight or ship voyage.
 
 The date line does not follow the 180° meridian exactly. It **zigzags** so island nations and regions can stay on the same weekday as their neighbors. Politics and convenience shape the line; geometry only suggests where it might go.
+
+![The International Date Line can jump your calendar day](097_Longitude_07.png)
 
 | Idea | Simple meaning |
 |------|----------------|

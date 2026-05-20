@@ -29,6 +29,8 @@ The **poles** are where that axis sticks out of the surface.
 
 At each pole, all the **meridians** (longitude lines) meet like the spokes of a wheel. That is why direction behaves oddly there.
 
+![At the pole, every horizontal step is south](099_Poles_02.png)
+
 At the **geographic North Pole**, every horizontal direction on the ice is **south** — you are already as far north as Earth allows.
 
 At the **geographic South Pole**, every horizontal direction is **north**.
@@ -42,6 +44,8 @@ Here is a puzzle that surprises many people.
 Near the **equator**, the ground under your feet races east at roughly **1,670 km/h** during one rotation — faster than a jet. Near the **poles**, you still rotate once per day, but you travel in a tiny circle. You move much more slowly across Earth's surface.
 
 So the poles are not "still." Earth is always spinning. But the poles are the places where that spin barely carries you sideways at all.
+
+![Equator races sideways; poles spin in a tiny circle](099_Poles_03.png)
 
 ## Geographic Poles vs Magnetic Poles
 
@@ -73,6 +77,8 @@ You know **seasons** from **tilt plus revolution** around the Sun.
 
 The poles are where those lessons go to the extreme. A winter at the South Pole can feel like one long night. A summer there can keep the Sun circling the sky without setting.
 
+![Polar day and polar night near the poles](099_Poles_04.png)
+
 ## Arctic vs Antarctica — Not the Same Cold
 
 Both polar regions are cold. Both have ice. Both feel remote. But they are different worlds.
@@ -97,6 +103,8 @@ Polar regions are generally cold for reasons you can actually picture.
 
 **Ice and snow reflect light.** Bright surfaces bounce sunlight back to space instead of absorbing it. That property is called **albedo**. High albedo can help keep polar regions cool — a feedback loop scientists watch closely.
 
+![Ice and snow reflect sunlight — high albedo](099_Poles_05.png)
+
 Mountains, oceans, and wind still change local weather, but latitude and polar geometry set the stage.
 
 ## Why the Poles Matter Far From the Poles
@@ -104,6 +112,8 @@ Mountains, oceans, and wind still change local weather, but latitude and polar g
 The poles can feel like the ends of nowhere. They are not disconnected from your life.
 
 **Sea level.** Much of Antarctica's ice sits on land. If large amounts of land ice melted, extra water could raise sea levels worldwide — affecting coasts, ports, and cities far from either pole.
+
+![Land ice vs sea ice — different sea-level stories](099_Poles_06.png)
 
 **Ocean currents.** Cold, salty water forming near polar regions helps drive global ocean circulation, which moves heat around the planet like a giant conveyor belt.
 
@@ -119,6 +129,8 @@ The poles are busy laboratories, not empty white deserts.
 
 **Ice cores** are long cylinders drilled from ice sheets in Greenland and Antarctica. Each layer is like a page in a history book — trapped bubbles, dust, and chemistry reveal how temperature and atmosphere changed over thousands of years.
 
+![Ice cores — layers of climate history](099_Poles_07.png)
+
 **Research stations** study ice, ocean water, weather, wildlife, and even **space weather** (auroras and solar storms are spectacular near the poles).
 
 **Satellites** pass over the poles on nearly every orbit, so polar regions get scanned constantly — ice extent, ocean color, temperatures, and more.
@@ -130,6 +142,8 @@ Explorers once raced to be first at the poles with dogsleds and ships. Today sci
 **Mistake 1: Thinking you can "fall off" the bottom of Earth.**
 
 Earth is a sphere. There is no edge. "Down" means toward Earth's center, not off a cliff at the South Pole. Maps that put north at the top are a **drawing convention**, not a law of gravity.
+
+![No edge to fall off — down means toward Earth's center](099_Poles_08.png)
 
 **Mistake 2: Believing the North Pole and magnetic north are the same spot.**
 

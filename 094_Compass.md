@@ -46,6 +46,8 @@ That sounds backward. It is not magic — it is magnet rules. **Opposite poles a
 
 The full story — including why that is not exactly the same as map north — is in the next section and in the chapter on **magnetic north.**
 
+![Why the needle's N end points toward the Arctic](094_Compass_03.png)
+
 ## Directions on Earth
 
 Navigators name four main **cardinal directions:**
@@ -66,6 +68,8 @@ They go **clockwise** around a circle. Halfway between them are **intercardinal*
 | Northwest | 315° |
 
 **Memory trick:** Clockwise from north spells **N-E-S-W** — the same order as on most compass dials if you start at the top.
+
+![Cardinal directions go clockwise from north](094_Compass_02.png)
 
 A compass helps you hold a steady **heading** — the direction you are traveling — while walking, paddling, skiing, biking, or riding. That matters most when landmarks disappear: fog, thick woods, open desert, snow, or night.
 
@@ -91,6 +95,8 @@ The angle between true north and magnetic north at a given place is called **mag
 If you ignore declination on a long hike, you can walk confidently in the wrong direction. A trail that should meet a river in two kilometers might miss it by hundreds of meters. Maps for serious navigation often include declination notes so you can correct your compass readings.
 
 **Rule of thumb:** Maps think in **true north.** Your needle thinks in **magnetic north.** Serious navigators learn to translate between them.
+
+![True north vs magnetic north — the declination gap](094_Compass_04.png)
 
 ## Bearings and the Compass Rose
 
@@ -143,6 +149,8 @@ A basic field routine looks like this:
 
 That sounds like a lot of steps at first. Scouts and orienteering teams practice until it feels natural. The reward is freedom: you can navigate country you have never seen before — without waiting for a signal bar.
 
+![Map plus compass — where vs which way](094_Compass_05.png)
+
 ## Try This: Build Your Navigation Skills
 
 You do not need a wilderness expedition to practice.
@@ -167,6 +175,8 @@ Nearby **iron or steel** — fence posts, vehicles, backpacks with metal frames,
 
 **Holding it wrong** matters too. If the compass is tilted, the needle may not swing freely. If you move before it settles, you read a false direction.
 
+![Metal nearby pulls the needle off true north](094_Compass_06.png)
+
 **Assuming GPS is always right** is another modern trap. GPS is excellent when it works, but batteries die, screens crack, and signals fail under heavy tree cover or in deep canyons. A compass in your pocket costs little and weighs almost nothing.
 
 | Situation | Compass | Phone GPS |
@@ -181,6 +191,8 @@ Nearby **iron or steel** — fence posts, vehicles, backpacks with metal frames,
 You meet compasses in more places than a hiking store.
 
 **Orienteering** is a sport where runners navigate between control points in woods or parks using only map and compass. It is part race, part puzzle — and it is huge in scouting programs worldwide.
+
+![Orienteering — map, compass, and control flags](094_Compass_08.png)
 
 **Search and rescue** teams use compass bearings to sweep areas in organized patterns.
 
@@ -205,6 +217,8 @@ A third mistake is treating a compass as proof you cannot get lost. Navigation i
 Some people think digital navigation has made compasses useless. In reality, compasses remain standard backup gear for hikers, pilots, and sailors because they are simple, durable, and independent of networks.
 
 A fifth mistake is confusing **heading** with **position.** "I am walking north" does not mean "I know where I am on the map." Direction and location are partners — not the same thing.
+
+![Heading tells direction — not where you are on the map](094_Compass_07.png)
 
 ## How to Think Like a Navigator
 
